@@ -3,7 +3,7 @@ article_id: CUT-10-02
 title: "Cara Mengukur Part Cutting dengan Jangka Sorong dan Alat Sederhana"
 slug: "mengukur-part-hasil-cutting"
 description: "Memeriksa ukuran, tepi, permukaan, kelengkapan, dan konsistensi sebelum hasil diterima."
-status: outline
+status: draft
 publication_date: "2026-02-17"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,229 +13,92 @@ reader_community: "Bengkel-las.co.id"
 reader_address: "Teman Bengkel-las.co.id"
 final_route: "/artikel/mengukur-part-hasil-cutting.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
   - "https://www.iso.org/standard/85705.html"
   - "https://www.iso.org/standard/75614.html"
   - "https://www.iso.org/standard/83335.html"
-  - "https://www.iso.org/standard/77795.html"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200"
   - "https://pesta.bsn.go.id/produk/detail/12882-sni17292020"
-  - "https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252"
-  - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015"
-  - "https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021"
-  - "https://www.iso.org/standard/80209.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Cara Mengukur Part Cutting dengan Jangka Sorong dan Alat Sederhana
 
-## Assignment lock
+Halo, Teman Bengkel-las.co.id! Ukur part cutting dengan urutan yang tetap: cocokkan gambar kerja dan datum, bersihkan permukaan, verifikasi alat, lalu ukur dimensi kritis beberapa kali dari arah yang sama. Jangka sorong membantu membaca ukuran luar, dalam, dan kedalaman; penggaris, siku, alas rata, atau alat bantu sederhana melengkapi pemeriksaan bentuk. Hasil ukur baru bermakna setelah dibandingkan dengan toleransi dan dasar penerimaan tertulis. Jika toleransi belum diterbitkan, jangan mengubah angka menjadi keputusan “diterima”. **[NEEDS BASIS TOLERANSI DAN KRITERIA PENERIMAAN PROYEK]**
 
-- **Writer task:** Expand this file into one complete article answering: “Cara Mengukur Part Cutting dengan Jangka Sorong dan Alat Sederhana”
-- **Reader and situation:** Memeriksa ukuran, tepi, permukaan, kelengkapan, dan konsistensi sebelum hasil diterima.
-- **Reader outcome:** Memeriksa ukuran, tepi, permukaan, kelengkapan, dan konsistensi sebelum hasil diterima.
-- **Primary intent:** Memilih cara ukur hasil potong
-- **Reader community:** `Bengkel-las.co.id`
-- **Primary friendly address:** `Teman Bengkel-las.co.id`
-- **Natural variants:** `Sobat Bengkel-las.co.id` and `Kawan Bengkel-las.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Fokus metode ukur dasar; penetapan toleransi dimiliki CUT-08.
-- **Final public route:** `/artikel/mengukur-part-hasil-cutting.html`
-- **Appointed CMS date:** `2026-02-17` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+![Ilustrasi bengkel las](/wp-content/uploads/2019/10/bengkel-las.png)
 
-## Opening instructions
+Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
 
-- Open with the exact short salutation: **“Halo, Teman Bengkel-las.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Cara Mengukur Part Cutting dengan Jangka Sorong dan Alat Sederhana**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Bengkel-las.co.id`, `Sobat Bengkel-las.co.id`, or `Kawan Bengkel-las.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-005`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi bengkel las](/wp-content/uploads/2019/10/bengkel-las.png)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `bengkel las` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-005]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cutting.bengkel-las.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The frozen catalog has 20 parent topics and 120 briefs. Intended readers include homeowners, facility and maintenance teams, small manufacturers, procurement staff, project supervisors, and workshop operators. Repository plans are editorial inputs, not proof of a real workshop, staff, equipment, qualifications, prices, locations, or services.
-- **Limits:** Re-read both frozen files if the project role, catalog, URL ownership, or conversion path changes. Do not infer an automotive specialty or add unsupported neighboring trades.
-
-### KR-04
-
-- **Original sources:** [ISO 17635:2025 — official ISO abstract](https://www.iso.org/standard/85705.html), [ISO 9712:2021 — official ISO abstract](https://www.iso.org/standard/75614.html).
-- **Purpose for this article:** Prevent visual symptoms or an isolated measurement from being presented as a complete diagnosis or acceptance decision.
-- **Safe grounded facts:** Inspection method, coverage, technique, personnel, equipment, surface condition, calibration/verification status, reporting, and acceptance basis are separate evidence items. ISO 17635 also warns that NDT acceptance levels are not a direct one-to-one translation of ISO 5817 quality levels.
-- **Limits:** The abstracts do not supply technique parameters, acceptance values, required extent, calibration intervals, or project fitness. Obtain the governing code, full standards, written procedure, and asset-specific inspection plan.
-
-### KR-07
-
-- **Original sources:** [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html), [ISO 12944-5:2019 — official ISO abstract](https://www.iso.org/standard/77795.html), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Make material and consumable records usable for fabrication, compatibility, safety, inspection, maintenance, and later failure investigation.
-- **Safe grounded facts:** Useful traceability can include material designation, dimensions/heat or batch where required, certificate/report linkage, filler/consumable classification and batch, storage/conditioning, coating product and batch, mixing/application records, replacement-part identity, and approved substitution. The US hazard-communication rule illustrates label and safety-data-sheet concepts but is not Indonesian law.
-- **Limits:** Do not infer composition, compatibility, shelf life, storage, mixing ratio, coverage, cure, welding parameter, exposure limit, or disposal route from generic labels. Verify exact product, batch, substrate, environment, and current Indonesian rules.
-
-### KR-08
-
-- **Original sources:** [SNI 1729:2020 — official BSN catalog](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html).
-- **Purpose for this article:** Ground fabrication planning in defined requirements rather than verbal descriptions, copied details, or unverified workshop habit.
-- **Safe grounded facts:** A controlled fabrication package can need governing documents and revision, function, dimensions/datums, material and joint identity, loads/interfaces, tolerances, fabrication sequence, weld/fastener/coating requirements, inspection and hold points, acceptance basis, handling, installation, and approved deviations.
-- **Limits:** The BSN page does not reveal clauses, tolerances, combinations, connection design, execution rules, or acceptance values. Obtain the licensed governing standards and issued-for-work project documents.
-
-### KR-14
-
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.252 — welding, cutting, and brazing](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Help readers compare controlled shop fabrication with field work where the environment, interfaces, access, occupants, combustibles, weather, and permits can change the method and risk.
-- **Safe grounded facts:** Moving work on site can change fit-up control, position, access, lifting, weather, electrical supply, fume dispersion, fire exposure, nearby operations, traffic/public interface, coating conditions, inspection access, and restoration. A field weld is not justified merely because transport is inconvenient.
-- **Limits:** Do not import US distances, permits, or prescriptions. The responsible Indonesian site/K3 authority must approve the current task-specific controls.
-
-### KR-16
-
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 12 Tahun 2015 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Provide a systems view of workshop K3 instead of reducing safety to personal protective equipment.
-- **Safe grounded facts:** A controlled task starts with elimination/substitution and engineering/administrative controls, then suitable PPE; product identity and current safety data matter for chemicals. Emergency planning must reflect the actual energy, fire, exposure, first-aid, evacuation, communication, and rescue scenario.
-- **Limits:** This file supplies no exposure limit, PPE selection, ventilation rate, electrical protection setting, cylinder separation, fire-watch duration, or emergency procedure. Resolve them from current Indonesian rules, site conditions, exact products, and competent K3 review.
-
-### KR-20
-
-- **Original sources:** [PP No. 22 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Connect source reduction, controlled use, segregation, reuse/recycling, worker exposure, and legal waste disposition without assuming every metal offcut is harmless or recyclable.
-- **Safe grounded facts:** Waste identity, contamination, generator/site context, storage, labeling, transport, receiver authorization, records, and current local rules determine the route. Reuse and repair may avoid new material but do not automatically reduce total environmental or safety impact.
-- **Limits:** Do not classify a waste, recommend mixing, state a storage limit, name a legal carrier/receiver, or claim a quantified environmental benefit without current Indonesian/local requirements, characterization, mass/energy data, and authorized-party evidence.
-
-### KR-15
-
-- **Original sources:** [ISO 5817:2023 — official ISO abstract](https://www.iso.org/standard/80209.html), [ISO 17635:2025 — official ISO abstract](https://www.iso.org/standard/85705.html), [ISO 9712:2021 — official ISO abstract](https://www.iso.org/standard/75614.html).
-- **Purpose for this article:** Keep QA articles from confusing workmanship levels, NDT technique, indication evaluation, personnel certification, equipment status, and engineering acceptance.
-- **Safe grounded facts:** A quality plan needs the governing acceptance basis, joint and examination identification, method/technique and extent, written procedure where required, personnel scope, equipment identity and current calibration/verification, surface/test conditions, report traceability, result, nonconformance, disposition authority, repair cycle, and closeout.
-- **Limits:** Do not publish imperfection limits, acceptance tables, technique settings, calibration intervals, or certification equivalence from abstracts. Obtain full current standards and project procedures.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-- **GATE-09:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
-- **GATE-11:** Resolve the gate from current project evidence and competent review.
-- **GATE-12:** Resolve the gate from current project evidence and competent review.
-- **GATE-13:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — fallback home route; use only when it is genuinely useful.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUT-10-01` → `/artikel/checklist-pemeriksaan-sampel-cutting.html` — Checklist Pemeriksaan Sampel Hasil CNC Cutting
-- `CUT-10-03` → `/artikel/menilai-kualitas-tepi-cutting.html` — Menilai Kualitas Tepi Laser Cutting, Router, dan Milling
-- `CUT-10-04` → `/artikel/first-article-inspection-komponen-custom.html` — First Article Inspection untuk Pesanan Komponen Custom
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-005
+Source type: local
+Placement: after opening answer, before first detailed H2
+Exact Markdown: ![Ilustrasi bengkel las](/wp-content/uploads/2019/10/bengkel-las.png)
+**Exact Markdown to insert:** `![Ilustrasi bengkel las](/wp-content/uploads/2019/10/bengkel-las.png)`
+Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+Selection basis: filename/source metadata identifies bengkel las as relevant content media; no pixels were inspected.
+Hard boundary: do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+END MANAGED IMAGE PLAN -->
 
 ## Hasil akhir dan prasyarat
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Cara Mengukur Part Cutting dengan Jangka Sorong dan Alat Sederhana”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Tujuan pemeriksaan adalah membuat catatan yang bisa ditelusuri: part mana yang diukur, ukuran aktualnya, alat yang dipakai, kondisi permukaan, dan siapa yang memutuskan tindak lanjut. Siapkan gambar kerja atau model dengan nomor revisi, daftar dimensi dan datum, identitas material bila diwajibkan, serta lembar pencatatan. Paket fabrikasi yang terkendali dapat memuat dimensi, datum, material, urutan kerja, inspeksi, dan dasar penerimaan; katalog resmi [SNI 1729:2020](https://pesta.bsn.go.id/produk/detail/12882-sni17292020) hanya mengonfirmasi identitas standar, bukan memberi toleransi untuk part Anda.
 
-## Langkah 1 — tetapkan scope
+Alat utama dapat berupa jangka sorong yang rahangnya bersih, penggaris baja untuk ukuran kasar, siku atau blok untuk mengecek tegak, alas rata untuk melihat goyangan, dan feeler gauge bila celah perlu dibandingkan. Gunakan alat yang ketelitiannya sesuai kebutuhan gambar kerja; jangan menuliskan ketelitian atau interval kalibrasi yang tidak tercantum pada sertifikat alat. Periksa nol, gerak rahang, kondisi skala atau layar, dan tanda identitas alat sebelum mulai. Bila alat jatuh, macet, atau tidak kembali ke nol, pisahkan dan minta verifikasi.
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Cara Mengukur Part Cutting dengan Jangka Sorong dan Alat Sederhana”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Langkah 1 — tetapkan batas ukur
+
+Tentukan apakah yang diperiksa adalah satu sampel, seluruh lot, atau hanya dimensi yang ditandai kritis. Tandai datum A, B, dan C pada gambar lalu cari padanannya pada part. Bedakan ukuran luar, ukuran dalam, kedalaman, jarak antarlubang, ketegaklurusan, dan kondisi tepi. Jangka sorong dapat membaca beberapa jenis ukuran, tetapi tidak otomatis memeriksa kerataan bidang besar, profil lengkung, atau posisi fitur terhadap datum.
+
+Catat juga batas pekerjaan: pemeriksaan ini tidak menetapkan toleransi desain, tidak menggantikan uji material atau NDT, dan tidak membuktikan part aman dipasang. [ISO 17635:2025](https://www.iso.org/standard/85705.html) menjelaskan bahwa metode inspeksi, cakupan, teknik, kondisi permukaan, status alat, pelaporan, dan dasar penerimaan adalah bukti yang terpisah; abstraknya tidak menyediakan nilai penerimaan untuk proyek tertentu. Karena itu, Sobat Bengkel-las.co.id perlu memastikan lembar ukur menyebut revisi gambar dan dasar keputusan, bukan sekadar angka.
 
 ## Langkah 2 — kumpulkan dan cocokkan bukti
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Cara Mengukur Part Cutting dengan Jangka Sorong dan Alat Sederhana”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sebelum menyentuhkan rahang, cocokkan label part, nomor pesanan, jumlah, dan orientasinya dengan dokumen. Bila ada sertifikat material, catat kaitannya tanpa menyimpulkan komposisi dari tampilan. Untuk jejak fabrikasi, [ISO 3834-6:2024](https://www.iso.org/standard/83335.html) menempatkan identitas material, dokumen pemasok, consumable, dan catatan proses sebagai informasi yang dapat dibutuhkan sesuai kasus; gunakan hanya catatan yang benar-benar tersedia.
+
+Buat lembar sederhana dengan kolom berikut:
+
+| Kolom | Isi yang dicatat |
+|---|---|
+| Identitas | Part, lot, revisi gambar, tanggal, pemeriksa |
+| Lokasi ukur | Datum dan fitur, misalnya sisi luar atau dasar lubang |
+| Alat | Jenis, nomor identitas, status verifikasi |
+| Kondisi | Permukaan dibersihkan, burr masih ada atau sudah dihilangkan |
+| Hasil | Bacaan aktual, arah ukur, pengulangan, komentar |
+| Keputusan | Bandingkan dengan toleransi tertulis atau tandai untuk review |
+
+Kotoran, burr, serpihan, atau panas sisa dapat mengubah titik sentuh. Bersihkan tanpa mengikis geometri. Jangan mengukur ketika part masih berubah bentuk karena panas; tunggu kondisi yang dipersyaratkan prosedur proyek. Jika datum tidak jelas atau nomor revisi berbeda, hentikan dan minta klarifikasi sebelum mengambil banyak bacaan.
 
 ## Langkah 3 — jalankan urutan kerja
 
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Cara Mengukur Part Cutting dengan Jangka Sorong dan Alat Sederhana”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+1. Letakkan part stabil di alas yang tidak menggeser atau menekan fitur. Orientasikan sesuai datum pada gambar.
+2. Tutup rahang jangka sorong perlahan untuk memeriksa nol. Buka sedikit, sentuhkan kedua rahang sejajar dengan bidang luar, lalu baca tanpa memiringkan alat. Untuk ukuran dalam, gunakan rahang atas dan pastikan keduanya menyentuh sisi berlawanan, bukan sudut burr. Untuk kedalaman, gunakan batang kedalaman tegak terhadap dasar; catat bila dasar tidak rata.
+3. Ukur fitur yang sama dari arah yang ditentukan. Jangan memaksa rahang sampai part melenting. Ulangi bacaan sesuai rencana untuk melihat konsistensi; bila selisih berubah karena posisi, kemungkinan yang terlihat adalah bentuk atau metode, bukan “rata-rata” yang boleh dipilih sesuka hati.
+4. Untuk panjang yang melebihi jangkauan alat, gunakan penggaris hanya sebagai pemeriksaan kasar atau pakai alat ukur yang ditentukan prosedur. Jangan menyambung dua bacaan lalu melaporkannya sebagai ukuran presisi tanpa metode yang disetujui.
+5. Periksa tepi dan permukaan secara terpisah: catat burr, takik, dross, goresan, atau perubahan bentuk hanya sebagai kondisi yang terlihat. Foto atau sketsa membantu lokasi, tetapi bukan pengganti kriteria penerimaan.
+6. Periksa kelengkapan dengan mencocokkan jumlah lubang, slot, chamfer, dan penandaan terhadap gambar. Gunakan siku atau alas rata untuk menemukan goyangan; hasil ini adalah indikasi awal dan perlu metode khusus bila kerataan atau posisi menjadi persyaratan.
 
-## Hold point dan kondisi berhenti
+Untuk lot berulang, pakai urutan dan titik ukur yang sama pada setiap part. Catat angka asli, bukan hanya “OK”. [ISO 9712:2021](https://www.iso.org/standard/75614.html) dan ISO 17635 menekankan bahwa kompetensi personel, teknik, peralatan, kondisi permukaan, dan pelaporan perlu dipisahkan dari kesimpulan penerimaan. Pengukuran jangka sorong adalah bagian dari bukti, bukan seluruh diagnosis.
 
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Cara Mengukur Part Cutting dengan Jangka Sorong dan Alat Sederhana”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Titik tahan dan kondisi berhenti
 
-## Verifikasi hasil dan handover
+Berhenti bila alat tidak nol, rahang rusak, part bergerak, permukaan belum dapat dibersihkan, atau datum tidak bisa diidentifikasi. Berhenti juga bila bacaan berada dekat batas tetapi toleransi, satuan, atau revisi gambar tidak jelas. Jangan “membulatkan agar masuk” dan jangan menggerinda tepi supaya angka berubah tanpa otorisasi perbaikan.
 
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Cara Mengukur Part Cutting dengan Jangka Sorong dan Alat Sederhana”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jika terlihat retak, deformasi, tepi terpotong berlebihan, atau ketidakseragaman antarsampel, karantina identitas part dan minta pemeriksaan lanjutan. ISO 17635 mengingatkan bahwa indikasi visual atau hasil satu metode tidak langsung diterjemahkan menjadi tingkat mutu atau kelayakan; pengujian tambahan, prosedur tertulis, dan pihak berwenang mungkin diperlukan. **[NEEDS REVIEW: METODE LANJUTAN DAN OTORITAS DISPOSISI NONKONFORMITAS]**
 
-## Objection or shortcut to address
+## Verifikasi hasil dan serah-terima
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Sebelum menyerahkan hasil, pastikan semua dimensi kritis memiliki lokasi, datum, satuan, dan bacaan aktual; nomor alat dan status verifikasinya tertulis; bacaan yang diulang tidak dihapus; kondisi tepi, permukaan, lubang, slot, dan kelengkapan dicatat terpisah; serta part yang belum jelas statusnya diberi tanda tahan. Lembar ukur juga perlu menyebut gambar, revisi, prosedur, dan dasar penerimaan yang digunakan.
 
-## Required conclusion
+Serahkan lembar itu kepada penanggung jawab mutu atau engineer yang berwenang menetapkan disposition. Bila dasar penerimaan berasal dari standar atau spesifikasi pelanggan, gunakan dokumen terkini dan versi yang disetujui; abstrak standar tidak boleh dipakai untuk menyalin angka toleransi. Kawan Bengkel-las.co.id, kualitas handover terlihat dari kemampuan orang lain mengulang logika pengukuran, bukan dari banyaknya angka di tabel.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Jalan pintas yang sering gagal
 
-## Draft completion checklist
+Jalan pintas paling umum adalah mengukur satu sisi dengan penggaris, melihat hasilnya “kira-kira sama”, lalu menerima seluruh lot. Cara ini gagal ketika datum bergeser, burr menambah ukuran, atau lubang benar ukurannya tetapi salah posisi. Alternatif yang lebih aman adalah memilih dimensi kritis, menetapkan titik dan arah ukur, mengulang pada sampel sesuai rencana, lalu meminta keputusan saat toleransi atau geometri tidak tersedia. Penggaris tetap berguna untuk sortir awal, bukan untuk menggantikan alat dan dasar penerimaan.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Bengkel-las.co.id!` and uses friendly `Bengkel-las.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Kesimpulan
+
+Cara mengukur part cutting dengan jangka sorong dan alat sederhana adalah mencocokkan dokumen, menyiapkan datum dan permukaan, memverifikasi alat, mengukur fitur dari arah yang benar, mengulang secara konsisten, lalu merekam ukuran bersama kondisi tepi, permukaan, dan kelengkapan. Hasil itu harus dibandingkan dengan toleransi proyek yang tertulis—bukan toleransi yang ditebak dari kebiasaan bengkel.
+
+Langkah berikutnya: ambil satu gambar kerja berstatus berlaku, tandai tiga dimensi paling kritis, dan minta penanggung jawab mengonfirmasi toleransi serta metode penerimaannya sebelum lot dinyatakan lulus. Jika perlu menyamakan istilah atau format pencatatan, gunakan [beranda Bengkel-las.co.id](/) sebagai titik kontak umum, lalu simpan salinan lembar ukur bersama dokumen proyek. Referensi aset yang dipakai tersedia sebagai [berkas ilustrasi lokal](/wp-content/uploads/2019/10/bengkel-las.png). Aturan operasionalnya: bila alat, datum, atau dasar penerimaan tidak jelas, tahan keputusan dan lakukan review kompeten.

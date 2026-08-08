@@ -3,7 +3,8 @@ article_id: CUT-04-01
 title: "Laser Cutting Akrilik: Memilih Cast atau Extruded"
 slug: "laser-cutting-akrilik-cast-vs-extruded"
 description: "Memilih teknik laser yang tepat untuk akrilik, kayu, tekstil, kertas, dan bahan nonlogam lain."
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-10-01"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,229 +15,90 @@ reader_address: "Kawan Bengkel-las.co.id"
 final_route: "/artikel/laser-cutting-akrilik-cast-vs-extruded.html"
 technical_review: required
 sources:
-  - "https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252"
-  - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
-  - "https://www.iso.org/standard/83335.html"
-  - "https://www.iso.org/standard/77795.html"
   - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200"
-  - "https://pesta.bsn.go.id/produk/detail/12882-sni17292020"
-  - "https://www.iso.org/standard/51792.html"
-  - "https://www.iso.org/standard/54936.html"
-  - "https://www.iso.org/standard/80209.html"
-  - "https://www.iso.org/standard/85705.html"
-  - "https://www.iso.org/standard/75614.html"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015"
-  - "https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021"
+  - "https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Laser Cutting Akrilik: Memilih Cast atau Extruded
 
-## Assignment lock
+Halo, Kawan Bengkel-las.co.id! Jika target Anda adalah tepi potongan akrilik yang rapi, keputusan pertama bukan menaikkan daya laser, melainkan memastikan jenis lembarannya. Cast dan extruded sama-sama disebut akrilik, tetapi responsnya pada panas, detail kecil, dan hasil akhir tidak boleh diasumsikan identik.
 
-- **Writer task:** Expand this file into one complete article answering: “Laser Cutting Akrilik: Memilih Cast atau Extruded”
-- **Reader and situation:** Memilih teknik laser yang tepat untuk akrilik, kayu, tekstil, kertas, dan bahan nonlogam lain.
-- **Reader outcome:** Memilih teknik laser yang tepat untuk akrilik, kayu, tekstil, kertas, dan bahan nonlogam lain.
-- **Primary intent:** Memilih jenis akrilik untuk laser
-- **Reader community:** `Bengkel-las.co.id`
-- **Primary friendly address:** `Kawan Bengkel-las.co.id`
-- **Natural variants:** `Sobat Bengkel-las.co.id` and `Teman Bengkel-las.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Khusus akrilik dan kualitas tepinya; router akrilik dimiliki CUT-05.
-- **Final public route:** `/artikel/laser-cutting-akrilik-cast-vs-extruded.html`
-- **Appointed CMS date:** `2025-10-01` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: pilih berdasarkan prioritas hasil, ketebalan, detail gambar, dan datasheet material yang benar-benar tersedia. Untuk pekerjaan yang menuntut tepi sangat bening atau bentuk detail, minta sampel dari kedua jenis bila spesifikasinya belum jelas. Untuk pekerjaan berulang, tetapkan satu pemasok dan lakukan uji potong pada batch yang akan dipakai. Hasil uji itulah yang lebih dapat diandalkan daripada label “cast” atau “extruded” saja. Jika Anda masih menyusun kebutuhan bengkel, mulai dari [beranda Bengkel-las.co.id](/) untuk konteks umum sebelum mengunci pesanan.
 
-## Opening instructions
+Kesimpulan itu dapat berubah bila pemasok memakai formulasi, lapisan permukaan, atau toleransi ketebalan berbeda. Karena datasheet dan hasil uji potong proyek Anda belum tersedia, keputusan final perlu ditahan sampai dokumen tersebut diperiksa: **[NEEDS DATASHEET MATERIAL, KETEBALAN AKTUAL, DAN HASIL UJI POTONG UNTUK GATE-01]**.
 
-- Open with the exact short salutation: **“Halo, Kawan Bengkel-las.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Laser Cutting Akrilik: Memilih Cast atau Extruded**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Bengkel-las.co.id`, `Sobat Bengkel-las.co.id`, or `Teman Bengkel-las.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-004`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-004
+Placement: after opening answer, before first detailed H2
 - **Exact Markdown to insert:** `![Ilustrasi memilih jasa bengkel las](/wp-content/uploads/2020/02/memilih-jasa-bengkel-las.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `memilih jasa bengkel las` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-004]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+Selection basis: filename/source metadata only; pixels not inspected.
+Hard boundary: do not infer visual details, project ownership, location, people, brands, condition, performance, or outcome.
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi memilih jasa bengkel las](/wp-content/uploads/2020/02/memilih-jasa-bengkel-las.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cutting.bengkel-las.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The frozen catalog has 20 parent topics and 120 briefs. Intended readers include homeowners, facility and maintenance teams, small manufacturers, procurement staff, project supervisors, and workshop operators. Repository plans are editorial inputs, not proof of a real workshop, staff, equipment, qualifications, prices, locations, or services.
-- **Limits:** Re-read both frozen files if the project role, catalog, URL ownership, or conversion path changes. Do not infer an automotive specialty or add unsupported neighboring trades.
-
-### KR-14
-
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.252 — welding, cutting, and brazing](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Help readers compare controlled shop fabrication with field work where the environment, interfaces, access, occupants, combustibles, weather, and permits can change the method and risk.
-- **Safe grounded facts:** Moving work on site can change fit-up control, position, access, lifting, weather, electrical supply, fume dispersion, fire exposure, nearby operations, traffic/public interface, coating conditions, inspection access, and restoration. A field weld is not justified merely because transport is inconvenient.
-- **Limits:** Do not import US distances, permits, or prescriptions. The responsible Indonesian site/K3 authority must approve the current task-specific controls.
-
-### KR-07
-
-- **Original sources:** [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html), [ISO 12944-5:2019 — official ISO abstract](https://www.iso.org/standard/77795.html), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Make material and consumable records usable for fabrication, compatibility, safety, inspection, maintenance, and later failure investigation.
-- **Safe grounded facts:** Useful traceability can include material designation, dimensions/heat or batch where required, certificate/report linkage, filler/consumable classification and batch, storage/conditioning, coating product and batch, mixing/application records, replacement-part identity, and approved substitution. The US hazard-communication rule illustrates label and safety-data-sheet concepts but is not Indonesian law.
-- **Limits:** Do not infer composition, compatibility, shelf life, storage, mixing ratio, coverage, cure, welding parameter, exposure limit, or disposal route from generic labels. Verify exact product, batch, substrate, environment, and current Indonesian rules.
-
-### KR-08
-
-- **Original sources:** [SNI 1729:2020 — official BSN catalog](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html).
-- **Purpose for this article:** Ground fabrication planning in defined requirements rather than verbal descriptions, copied details, or unverified workshop habit.
-- **Safe grounded facts:** A controlled fabrication package can need governing documents and revision, function, dimensions/datums, material and joint identity, loads/interfaces, tolerances, fabrication sequence, weld/fastener/coating requirements, inspection and hold points, acceptance basis, handling, installation, and approved deviations.
-- **Limits:** The BSN page does not reveal clauses, tolerances, combinations, connection design, execution rules, or acceptance values. Obtain the licensed governing standards and issued-for-work project documents.
-
-### KR-09
-
-- **Original sources:** [ISO 15614-1:2017 — official ISO abstract](https://www.iso.org/standard/51792.html), [ISO 9606-1:2012 — official ISO abstract](https://www.iso.org/standard/54936.html), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html).
-- **Purpose for this article:** Prevent an article from treating a welder card, a WPS, a procedure test, workmanship, and the finished joint's acceptance as interchangeable.
-- **Safe grounded facts:** Procedure qualification, production WPS, welder/operator qualification, material/process/position/thickness/diameter range, continuity/validity, equipment condition, consumable control, preheat/interpass control, inspection, and final acceptance are distinct records.
-- **Limits:** Both welding-qualification standards are current at verification but under revision. The public abstracts do not provide qualification ranges or test requirements; recheck editions and use licensed text plus the project specification.
-
-### KR-15
-
-- **Original sources:** [ISO 5817:2023 — official ISO abstract](https://www.iso.org/standard/80209.html), [ISO 17635:2025 — official ISO abstract](https://www.iso.org/standard/85705.html), [ISO 9712:2021 — official ISO abstract](https://www.iso.org/standard/75614.html).
-- **Purpose for this article:** Keep QA articles from confusing workmanship levels, NDT technique, indication evaluation, personnel certification, equipment status, and engineering acceptance.
-- **Safe grounded facts:** A quality plan needs the governing acceptance basis, joint and examination identification, method/technique and extent, written procedure where required, personnel scope, equipment identity and current calibration/verification, surface/test conditions, report traceability, result, nonconformance, disposition authority, repair cycle, and closeout.
-- **Limits:** Do not publish imperfection limits, acceptance tables, technique settings, calibration intervals, or certification equivalence from abstracts. Obtain full current standards and project procedures.
-
-### KR-16
-
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 12 Tahun 2015 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Provide a systems view of workshop K3 instead of reducing safety to personal protective equipment.
-- **Safe grounded facts:** A controlled task starts with elimination/substitution and engineering/administrative controls, then suitable PPE; product identity and current safety data matter for chemicals. Emergency planning must reflect the actual energy, fire, exposure, first-aid, evacuation, communication, and rescue scenario.
-- **Limits:** This file supplies no exposure limit, PPE selection, ventilation rate, electrical protection setting, cylinder separation, fire-watch duration, or emergency procedure. Resolve them from current Indonesian rules, site conditions, exact products, and competent K3 review.
-
-### KR-20
-
-- **Original sources:** [PP No. 22 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Connect source reduction, controlled use, segregation, reuse/recycling, worker exposure, and legal waste disposition without assuming every metal offcut is harmless or recyclable.
-- **Safe grounded facts:** Waste identity, contamination, generator/site context, storage, labeling, transport, receiver authorization, records, and current local rules determine the route. Reuse and repair may avoid new material but do not automatically reduce total environmental or safety impact.
-- **Limits:** Do not classify a waste, recommend mixing, state a storage limit, name a legal carrier/receiver, or claim a quantified environmental benefit without current Indonesian/local requirements, characterization, mass/energy data, and authorized-party evidence.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-- **GATE-09:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
-- **GATE-11:** Resolve the gate from current project evidence and competent review.
-- **GATE-12:** Resolve the gate from current project evidence and competent review.
-- **GATE-13:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — fallback home route; use only when it is genuinely useful.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUT-04-02` → `/artikel/laser-cutting-kayu-dan-plywood.html` — Laser Cutting Kayu dan Plywood: Gosong, Asap, dan Kualitas Tepi
-- `CUT-04-03` → `/artikel/bahan-tidak-cocok-untuk-laser-cutting.html` — Bahan yang Tidak Aman atau Tidak Cocok untuk Laser Cutting
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Laser Cutting Akrilik: Memilih Cast atau Extruded”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Laser Cutting Akrilik: Memilih Cast atau Extruded”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Dalam artikel ini, “cast” dan “extruded” adalah penamaan proses pembuatan lembaran akrilik yang diberikan pemasok. Istilah tersebut membantu menyusun pertanyaan pembelian, tetapi bukan sertifikat bahwa satu jenis pasti menghasilkan tepi lebih baik pada semua mesin dan semua desain. Yang dibahas di sini adalah pemilihan lembaran dan kualitas tepi setelah laser cutting. Router akrilik, pemilihan kayu, tekstil, kertas, dan bahan nonlogam lain berada di luar batas halaman ini.
+
+Sebelum memesan, minta nama produk, ketebalan nominal dan toleransinya, kode batch, rekomendasi pemrosesan dari pabrikan, serta apakah ada film pelindung atau lapisan tambahan. Simpan dokumen itu bersama gambar kerja. Jika informasi hanya berupa percakapan singkat, anggap spesifikasi belum terkunci dan jangan menjanjikan tampilan akhir kepada pemesan.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Laser Cutting Akrilik: Memilih Cast atau Extruded”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Laser memusatkan energi pada jalur gambar. Material menyerap panas, lalu bagian di jalur tersebut terpisah. Pada tahap ini, jenis lembaran, ketebalan aktual, fokus, kebersihan optik, kecepatan gerak, daya, bantuan udara, dan cara menahan lembaran saling memengaruhi. Karena itu, resep dari satu pemasok tidak otomatis berlaku untuk pemasok lain.
+
+Urutan kerja yang lebih aman adalah: verifikasi identitas material; ukur ketebalan di beberapa titik; potong kupon kecil dari batch yang sama; amati tepi dan sudut; baru jalankan lembaran produksi. Catat parameter, tanggal, operator, nomor batch, dan keputusan terima atau ulang. Catatan ini membuat masalah dapat ditelusuri, bukan ditebak setelah seluruh lembaran terlanjur dipotong.
+
+Untuk bahan kimia pembersih, perekat, atau pelapis yang ikut dipakai, baca label dan lembar data keselamatan (SDS) produk yang tepat. Prinsip komunikasi bahaya dan identitas produk dijelaskan oleh [OSHA 29 CFR 1910.1200](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200), tetapi rujukan itu bukan pengganti aturan K3 Indonesia. Pengendalian kerja tetap perlu ditinjau sesuai tempat dan produk yang digunakan.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Laser Cutting Akrilik: Memilih Cast atau Extruded”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dari fungsi tepi. Apakah tepi akan terlihat dari dekat, dilem ke bagian lain, dipoles, atau hanya menjadi garis potong tersembunyi? Tanyakan juga apakah desain memiliki lubang kecil, sudut dalam rapat, tulisan tipis, atau banyak detail. Semakin sensitif fungsi tersebut, semakin penting sampel aktual dari cast dan extruded yang akan dibeli.
+
+Periksa kondisi mesin dan proses: lensa bersih, fokus konsisten, meja rata, ventilasi berfungsi, dan lembaran tidak bergeser. Jangan menganggap perubahan hasil selalu berasal dari jenis akrilik. Film pelindung, goresan, sisa perekat, dan variasi ketebalan dapat mengubah tampilan tepi.
+
+Lingkungan kerja juga memengaruhi keputusan. Identifikasi material dan bahan pendukung, sediakan SDS yang berlaku, dan tetapkan pengendalian kebakaran, listrik, asap, serta keadaan darurat berdasarkan kondisi nyata. [UU No. 1 Tahun 1970](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970) menjadi salah satu rujukan kerangka keselamatan kerja di Indonesia; rincian pengendalian untuk mesin, ruangan, dan produk harus ditetapkan melalui peninjauan K3 yang kompeten. Jangan mengisi kekosongan itu dengan angka ventilasi, jarak, atau jenis APD yang belum diverifikasi.
+
+Kawan Bengkel-las.co.id, bedakan fakta, pengamatan, dan janji. “Tepi kupon A tampak lebih sesuai untuk huruf kecil” adalah hasil pengamatan pada sampel tertentu. “Cast selalu lebih bening” adalah klaim umum yang belum tentu cocok dengan merek, ketebalan, dan kondisi mesin Anda.
+
+Sobat Bengkel-las.co.id, gunakan catatan kupon itu sebagai dasar percakapan dengan pemasok, bukan sebagai klaim universal untuk pekerjaan lain.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Laser Cutting Akrilik: Memilih Cast atau Extruded”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan tabel berikut sebagai cara bertanya, bukan sebagai vonis material:
+
+| Kondisi pesanan | Langkah yang masuk akal | Bukti sebelum produksi |
+|---|---|---|
+| Detail kecil dan tepi terlihat | Minta kupon cast dan extruded dengan gambar yang sama | Foto/inspeksi tepi, ukuran fitur, dan persetujuan pemesan |
+| Potongan sederhana dan tepi akan ditutup | Bandingkan ketersediaan, toleransi, dan hasil kupon | Datasheet, nomor batch, dan catatan parameter |
+| Produksi berulang | Kunci satu spesifikasi dan prosedur uji penerimaan | Sampel awal, log mesin, serta aturan penolakan |
+| Material atau lapisan tidak jelas | Hentikan pemotongan dan minta konfirmasi pemasok | SDS/datasheet dan persetujuan teknis tertulis |
+
+Misalkan Anda memerlukan panel dengan sudut dalam dan tulisan kecil. Jangan langsung memilih cast hanya karena rekomendasi forum. Potong kupon dari batch yang sama, ukur fitur terkecil yang masih terbaca, periksa perubahan warna atau bekas panas sesuai kriteria yang disepakati, lalu minta persetujuan atas sampel. Bila pemasok tidak dapat menyebutkan identitas material atau batch, tandai keputusan sebagai belum siap produksi: **[NEEDS KONFIRMASI PEMASOK DAN REVIEW TEKNIS — GATE-02]**.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Laser Cutting Akrilik: Memilih Cast atau Extruded”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menyamakan nama material dengan parameter mesin. Periksa kembali label lembaran, ketebalan aktual, dan catatan kupon sebelum mengubah daya atau kecepatan.
 
-## Objection or shortcut to address
+Kesalahan kedua adalah menguji satu lembar lalu memproduksi batch berbeda. Cocokkan nomor batch dan ulangi kupon jika pemasok, ketebalan, atau film pelindung berubah.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan ketiga adalah menilai tepi dari foto saja. Gunakan kriteria yang bisa dilihat langsung: keseragaman garis, sudut, ukuran fitur, dan kecocokan dengan fungsi. Simpan sampel fisik atau dokumentasi yang disetujui pemesan.
 
-## Required conclusion
+Kesalahan keempat adalah mengabaikan bahan pendukung. Perekat, pembersih, dan pelapis dapat membawa risiko dan persyaratan penanganan sendiri. Pastikan identitas dan SDS-nya tersedia; jangan mencampur atau mengganti produk tanpa persetujuan.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Terakhir, jangan menyebut hasil sebagai “pasti aman” hanya karena mesin pernah memotong akrilik sebelumnya. Jika ventilasi, kelistrikan, film, atau kondisi ruangan berubah, lakukan penilaian ulang dan minta review K3 yang sesuai.
 
-## Draft completion checklist
+## Jangan mengejar harga termurah tanpa uji
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Bengkel-las.co.id!` and uses friendly `Bengkel-las.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Shortcut yang sering dipilih adalah membeli lembaran termurah lalu menyesuaikan parameter sampai potongan terlihat berhasil. Cara ini dapat gagal ketika ketebalan, batch, atau lapisan permukaan berubah; kerugian baru terlihat setelah pekerjaan berulang atau saat tepi harus memenuhi fungsi tertentu.
+
+Alternatif yang lebih dapat dipertanggungjawabkan adalah menetapkan spesifikasi pembelian, menguji kupon dari batch aktual, menyimpan log parameter, dan mendapatkan persetujuan sampel. Jika keputusan menyangkut fungsi keselamatan, sambungan, atau lingkungan kerja yang tidak biasa, hentikan produksi dan serahkan penilaian kepada pihak teknis/K3 yang berwenang. **[NEEDS REVIEW KOMPETEN UNTUK GATE-03]**
+
+## Kesimpulan
+
+Untuk laser cutting akrilik, cast atau extruded bukan jawaban tunggal. Pilih yang dapat dibuktikan paling sesuai dengan fungsi tepi, detail desain, ketebalan, dan konsistensi batch melalui datasheet serta uji kupon yang disetujui.
+
+Langkah berikutnya: kirim ke pemasok gambar fitur paling kritis, minta identitas dan batch material, lalu lakukan uji cast-versus-extruded pada parameter mesin yang dicatat. Simpan hasil dan persetujuan itu sebagai acuan produksi. Untuk mengenali media pendukung yang dipakai pada halaman ini, Anda dapat membuka [aset ilustrasi lokal](/wp-content/uploads/2020/02/memilih-jasa-bengkel-las.jpg); jangan menganggapnya sebagai pengganti spesifikasi proyek. Tanpa data tersebut, jangan mengubah dugaan menjadi jaminan kualitas; keputusan final tetap memerlukan review teknis yang kompeten. Teman Bengkel-las.co.id, aturan operasionalnya sederhana: tidak ada produksi berulang sebelum material, kupon, dan kriteria tepi disetujui.

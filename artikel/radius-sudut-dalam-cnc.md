@@ -3,7 +3,8 @@ article_id: CUT-08-05
 title: "Radius Sudut Dalam pada CNC Router dan CNC Milling"
 slug: "radius-sudut-dalam-cnc"
 description: "Menulis target dimensi dan toleransi yang realistis serta mengantisipasi kerf dan kompensasi."
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-01-14"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,229 +14,103 @@ reader_community: "Bengkel-las.co.id"
 reader_address: "Kawan Bengkel-las.co.id"
 final_route: "/artikel/radius-sudut-dalam-cnc.html"
 technical_review: required
-sources:
-  - "https://www.iso.org/standard/85705.html"
-  - "https://www.iso.org/standard/75614.html"
-  - "https://www.iso.org/standard/83335.html"
-  - "https://www.iso.org/standard/77795.html"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200"
-  - "https://pesta.bsn.go.id/produk/detail/12882-sni17292020"
-  - "https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252"
-  - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015"
-  - "https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021"
-  - "https://www.iso.org/standard/80209.html"
+sources: []
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-003
+Placement: setelah pembuka, sebelum H2 pertama
+**Exact Markdown to insert:** `![Ilustrasi CNC Milling 4](/wp-content/uploads/2019/11/CNC-Milling-4.jpg)`
+Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+END MANAGED IMAGE PLAN -->
 
 # Radius Sudut Dalam pada CNC Router dan CNC Milling
 
-## Assignment lock
+Halo, Kawan Bengkel-las.co.id! Sudut dalam yang tampak siku pada gambar CAD tidak otomatis dapat dibuat siku oleh CNC router atau CNC milling. Kedua mesin menggunakan tool dengan badan dan ujung yang berbentuk bulat. Saat tool mengikuti dua sisi yang bertemu, bagian paling dalam dari sudut menyisakan lengkung dengan radius tertentu. Akibatnya, target radius nol biasanya tidak realistis tanpa proses tambahan.
 
-- **Writer task:** Expand this file into one complete article answering: “Radius Sudut Dalam pada CNC Router dan CNC Milling”
-- **Reader and situation:** Menulis target dimensi dan toleransi yang realistis serta mengantisipasi kerf dan kompensasi.
-- **Reader outcome:** Menulis target dimensi dan toleransi yang realistis serta mengantisipasi kerf dan kompensasi.
-- **Primary intent:** Mendesain sudut yang dapat dikerjakan tool
-- **Reader community:** `Bengkel-las.co.id`
-- **Primary friendly address:** `Kawan Bengkel-las.co.id`
-- **Natural variants:** `Sobat Bengkel-las.co.id` and `Teman Bengkel-las.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Khusus keterbatasan tool bulat; sudut laser tidak menjadi intent utama.
-- **Final public route:** `/artikel/radius-sudut-dalam-cnc.html`
-- **Appointed CMS date:** `2026-01-14` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: rancang radius sudut dalam sekurang-kurangnya sebesar radius efektif tool yang benar-benar dipakai, lalu konfirmasikan dengan bengkel berdasarkan diameter, panjang potong, material, kedalaman, dan strategi pemesinan. Jika gambar meminta sudut lebih tajam daripada kemampuan tool, pilih radius yang lebih besar, ubah desain dengan relief, atau siapkan operasi akhir yang terpisah. Nilai toleransi dan kompensasi bukan angka universal; keduanya harus disepakati dari gambar, material, mesin, serta hasil pengukuran benda kerja.
 
-## Opening instructions
+![Ilustrasi CNC Milling 4](/wp-content/uploads/2019/11/CNC-Milling-4.jpg)
 
-- Open with the exact short salutation: **“Halo, Kawan Bengkel-las.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Radius Sudut Dalam pada CNC Router dan CNC Milling**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Bengkel-las.co.id`, `Sobat Bengkel-las.co.id`, or `Teman Bengkel-las.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-003`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi CNC Milling 4](/wp-content/uploads/2019/11/CNC-Milling-4.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `CNC Milling 4` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-003]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cutting.bengkel-las.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The frozen catalog has 20 parent topics and 120 briefs. Intended readers include homeowners, facility and maintenance teams, small manufacturers, procurement staff, project supervisors, and workshop operators. Repository plans are editorial inputs, not proof of a real workshop, staff, equipment, qualifications, prices, locations, or services.
-- **Limits:** Re-read both frozen files if the project role, catalog, URL ownership, or conversion path changes. Do not infer an automotive specialty or add unsupported neighboring trades.
-
-### KR-04
-
-- **Original sources:** [ISO 17635:2025 — official ISO abstract](https://www.iso.org/standard/85705.html), [ISO 9712:2021 — official ISO abstract](https://www.iso.org/standard/75614.html).
-- **Purpose for this article:** Prevent visual symptoms or an isolated measurement from being presented as a complete diagnosis or acceptance decision.
-- **Safe grounded facts:** Inspection method, coverage, technique, personnel, equipment, surface condition, calibration/verification status, reporting, and acceptance basis are separate evidence items. ISO 17635 also warns that NDT acceptance levels are not a direct one-to-one translation of ISO 5817 quality levels.
-- **Limits:** The abstracts do not supply technique parameters, acceptance values, required extent, calibration intervals, or project fitness. Obtain the governing code, full standards, written procedure, and asset-specific inspection plan.
-
-### KR-07
-
-- **Original sources:** [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html), [ISO 12944-5:2019 — official ISO abstract](https://www.iso.org/standard/77795.html), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Make material and consumable records usable for fabrication, compatibility, safety, inspection, maintenance, and later failure investigation.
-- **Safe grounded facts:** Useful traceability can include material designation, dimensions/heat or batch where required, certificate/report linkage, filler/consumable classification and batch, storage/conditioning, coating product and batch, mixing/application records, replacement-part identity, and approved substitution. The US hazard-communication rule illustrates label and safety-data-sheet concepts but is not Indonesian law.
-- **Limits:** Do not infer composition, compatibility, shelf life, storage, mixing ratio, coverage, cure, welding parameter, exposure limit, or disposal route from generic labels. Verify exact product, batch, substrate, environment, and current Indonesian rules.
-
-### KR-08
-
-- **Original sources:** [SNI 1729:2020 — official BSN catalog](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html).
-- **Purpose for this article:** Ground fabrication planning in defined requirements rather than verbal descriptions, copied details, or unverified workshop habit.
-- **Safe grounded facts:** A controlled fabrication package can need governing documents and revision, function, dimensions/datums, material and joint identity, loads/interfaces, tolerances, fabrication sequence, weld/fastener/coating requirements, inspection and hold points, acceptance basis, handling, installation, and approved deviations.
-- **Limits:** The BSN page does not reveal clauses, tolerances, combinations, connection design, execution rules, or acceptance values. Obtain the licensed governing standards and issued-for-work project documents.
-
-### KR-14
-
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.252 — welding, cutting, and brazing](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Help readers compare controlled shop fabrication with field work where the environment, interfaces, access, occupants, combustibles, weather, and permits can change the method and risk.
-- **Safe grounded facts:** Moving work on site can change fit-up control, position, access, lifting, weather, electrical supply, fume dispersion, fire exposure, nearby operations, traffic/public interface, coating conditions, inspection access, and restoration. A field weld is not justified merely because transport is inconvenient.
-- **Limits:** Do not import US distances, permits, or prescriptions. The responsible Indonesian site/K3 authority must approve the current task-specific controls.
-
-### KR-16
-
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 12 Tahun 2015 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Provide a systems view of workshop K3 instead of reducing safety to personal protective equipment.
-- **Safe grounded facts:** A controlled task starts with elimination/substitution and engineering/administrative controls, then suitable PPE; product identity and current safety data matter for chemicals. Emergency planning must reflect the actual energy, fire, exposure, first-aid, evacuation, communication, and rescue scenario.
-- **Limits:** This file supplies no exposure limit, PPE selection, ventilation rate, electrical protection setting, cylinder separation, fire-watch duration, or emergency procedure. Resolve them from current Indonesian rules, site conditions, exact products, and competent K3 review.
-
-### KR-20
-
-- **Original sources:** [PP No. 22 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Connect source reduction, controlled use, segregation, reuse/recycling, worker exposure, and legal waste disposition without assuming every metal offcut is harmless or recyclable.
-- **Safe grounded facts:** Waste identity, contamination, generator/site context, storage, labeling, transport, receiver authorization, records, and current local rules determine the route. Reuse and repair may avoid new material but do not automatically reduce total environmental or safety impact.
-- **Limits:** Do not classify a waste, recommend mixing, state a storage limit, name a legal carrier/receiver, or claim a quantified environmental benefit without current Indonesian/local requirements, characterization, mass/energy data, and authorized-party evidence.
-
-### KR-15
-
-- **Original sources:** [ISO 5817:2023 — official ISO abstract](https://www.iso.org/standard/80209.html), [ISO 17635:2025 — official ISO abstract](https://www.iso.org/standard/85705.html), [ISO 9712:2021 — official ISO abstract](https://www.iso.org/standard/75614.html).
-- **Purpose for this article:** Keep QA articles from confusing workmanship levels, NDT technique, indication evaluation, personnel certification, equipment status, and engineering acceptance.
-- **Safe grounded facts:** A quality plan needs the governing acceptance basis, joint and examination identification, method/technique and extent, written procedure where required, personnel scope, equipment identity and current calibration/verification, surface/test conditions, report traceability, result, nonconformance, disposition authority, repair cycle, and closeout.
-- **Limits:** Do not publish imperfection limits, acceptance tables, technique settings, calibration intervals, or certification equivalence from abstracts. Obtain full current standards and project procedures.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-- **GATE-09:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
-- **GATE-11:** Resolve the gate from current project evidence and competent review.
-- **GATE-12:** Resolve the gate from current project evidence and competent review.
-- **GATE-13:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — fallback home route; use only when it is genuinely useful.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUT-08-03` → `/artikel/menentukan-toleransi-cnc-cutting.html` — Menentukan Toleransi Realistis untuk Jasa CNC Cutting
-- `CUT-08-04` → `/artikel/dimensi-kritis-dan-nonkritis.html` — Dimensi Kritis dan Nonkritis: Cara Memberi Prioritas pada Gambar
-- `CUT-08-06` → `/artikel/batas-fitur-minimum-cnc-cutting.html` — Lebar Slot, Diameter Lubang, dan Jarak Minimum Antarfitur
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Radius Sudut Dalam pada CNC Router dan CNC Milling”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Radius Sudut Dalam pada CNC Router dan CNC Milling”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Radius sudut dalam adalah jarak dari titik pertemuan teoretis dua bidang ke lengkung aktual pada pojok bagian dalam. Pada gambar, sudut 90 derajat dengan radius dalam 3 mm berarti dua dinding bertemu melalui busur 3 mm, bukan melalui titik tajam. Istilah *corner radius* sering dipakai pada gambar berbahasa Inggris. Bedakan dengan radius luar: radius luar adalah lengkung pada sisi cembung, sedangkan pembahasan ini khusus sisi cekung yang dibatasi tool.
+
+Artikel ini membahas desain fitur untuk CNC router dan CNC milling dengan tool berpenampang bulat. “Kerf” pada pemotongan adalah lebar material yang hilang akibat lebar tool; pada milling, persoalan yang sama muncul sebagai jejak tool dan kompensasi lintasan. Laser tidak menjadi intent utama di sini, karena mekanisme pembentukan sudutnya berbeda. Jangan memindahkan aturan radius CNC ke laser atau sebaliknya tanpa meninjau prosesnya. Bila Anda sedang menyusun paket pemotongan yang lebih luas, mulai dari [beranda Bengkel-las.co.id](/) untuk menempatkan kebutuhan ini dalam konteks pekerjaan Anda.
+
+Gambar kerja sebaiknya memisahkan radius yang memang menjadi fungsi dari radius yang sekadar hasil proses. Radius fungsional perlu ditulis sebagai ukuran dan toleransi. Radius nonkritis dapat diberi catatan umum yang tetap disetujui pembuat dan pemeriksa. Jika dokumen hanya menulis “siku tajam” tanpa angka, bengkel tidak memiliki dasar yang sama untuk memilih tool, memprogram lintasan, atau menerima hasil.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Radius Sudut Dalam pada CNC Router dan CNC Milling”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Diameter tool menentukan batas geometris paling awal. Secara sederhana, radius ujung yang tersisa pada sudut dalam tidak dapat lebih kecil daripada setengah diameter tool pada bidang yang sedang dipotong. Tool diameter 10 mm, misalnya, memiliki radius 5 mm; tool itu tidak akan menghapus material sampai ke pojok dengan radius 2 mm dalam satu lintasan biasa. Contoh ini adalah hubungan geometri, bukan janji bahwa radius aktual pasti tepat 5 mm.
+
+Program CAM mengubah geometri menjadi lintasan pusat tool. Pada *inside profile*, pusat tool harus berjarak dari dinding sebesar radius tool ditambah kompensasi yang diperlukan. Kompensasi dapat berasal dari geometri tool, keausan, defleksi, runout, penyelesaian permukaan, dan koreksi hasil ukur. Jika kompensasi dimasukkan dua kali—di gambar sekaligus di offset kontrol—ukuran dapat bergeser.
+
+Urutan kerjanya biasanya seperti ini:
+
+1. Anda menetapkan radius, kedalaman, datum, dan toleransi pada gambar.
+2. Programmer memilih tool yang dapat masuk ke fitur tersebut dan menyusun lintasan CAM.
+3. Operator mengatur tool offset, benda kerja, kecepatan pemakanan, serta strategi roughing dan finishing sesuai prosedur mesin.
+4. Pemeriksa mengukur radius dan dimensi terkait dengan alat ukur yang sesuai terhadap datum yang benar.
+
+Router sering dipilih untuk panel atau material nonlogam dan dapat memakai bit berujung datar, sedangkan milling menangani konfigurasi tool dan material yang lebih beragam. Namun nama mesin saja tidak cukup untuk menentukan radius minimum. Panjang potong, kekakuan penjepitan, akses ke sudut, dan kondisi tool dapat memaksa penggunaan diameter yang lebih besar. Minta bengkel menyatakan tool aktual dan operasi yang direncanakan, bukan hanya jenis mesinnya.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Radius Sudut Dalam pada CNC Router dan CNC Milling”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Beberapa faktor berikut perlu masuk ke percakapan desain sebelum ukuran dikunci.
+
+- **Diameter dan bentuk tool.** Ball nose, bull nose, dan flat end mill meninggalkan profil berbeda. Radius nominal tool juga bukan satu-satunya pengaruh; profil ujung dan bagian tool yang benar-benar menyentuh material ikut menentukan.
+- **Kedalaman dan panjang menjulur.** Tool yang menjulur jauh lebih mudah mengalami defleksi. Pada sudut dalam yang dalam, bengkel mungkin memilih tool kecil bertahap atau operasi tambahan, dengan konsekuensi waktu dan risiko berbeda.
+- **Material dan kondisi benda kerja.** Kekerasan, serat, panas, serta kecenderungan burr memengaruhi hasil tepi. Jangan menyamakan kemampuan pada aluminium, baja, plastik, dan kayu hanya karena ukuran toolnya sama.
+- **Penjepitan dan datum.** Gerak benda kerja atau datum yang tidak konsisten dapat tampak seperti radius salah. Titik nol dan permukaan acuan harus tertulis dan dapat diakses untuk pemeriksaan.
+- **Roughing, finishing, dan keausan.** Lintasan pengasaran dapat menyisakan stok untuk finishing. Tool aus dapat mengubah ukuran dan kualitas permukaan; penggantian tool harus mengikuti prosedur dan dicatat.
+- **Toleransi yang diminta.** Toleransi radius, lebar fitur, kedalaman, dan posisi saling berhubungan. Toleransi sempit tanpa metode ukur dan bukti kapabilitas hanya memindahkan ketidakpastian ke tahap inspeksi.
+
+Kawan Bengkel-las.co.id, tanyakan juga apakah radius itu benar-benar bekerja sebagai clearance untuk komponen pasangan. Bila jawabannya ya, tentukan celah minimum dan kondisi terburuk dari kedua komponen. Bila radius hanya mencegah pojok tajam, radius lebih besar dengan toleransi yang wajar sering memberi ruang proses lebih aman—tetapi keputusan itu tetap harus disetujui pemilik desain.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Radius Sudut Dalam pada CNC Router dan CNC Milling”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan tabel berikut sebagai cara membingkai keputusan, bukan sebagai katalog batas mesin.
+
+| Situasi pada gambar | Pilihan desain awal | Yang harus dikonfirmasi |
+| --- | --- | --- |
+| Sudut dalam tidak menerima komponen lain | Beri radius yang selaras dengan tool standar bengkel | Diameter tool, kualitas tepi, dan toleransi radius |
+| Ada pin atau sudut pasangan yang harus masuk | Tentukan radius dan clearance dari geometri kedua komponen | Toleransi rakitan, datum, dan metode pemeriksaan |
+| Radius yang diminta lebih kecil dari tool yang tersedia | Tambahkan relief, pecah operasi, atau ubah radius | Tool alternatif, akses, biaya/waktu proses, dan persetujuan desain |
+| Dinding tipis berada dekat sudut | Perbesar radius atau beri jarak dari tepi | Kekakuan benda kerja dan risiko getaran/defleksi |
+| Radius tidak kritis tetapi gambar meminta siku tajam | Tulis radius minimum atau catatan proses yang jelas | Definisi penerimaan dan siapa yang menyetujui penyimpangan |
+
+Contoh bersyarat: bila CAD menunjukkan sudut 2 mm tetapi bengkel hanya dapat menjangkau dengan tool radius 4 mm, jangan meminta operator “mengakali” offset. Minta tiga opsi tertulis: mengubah radius menjadi 4 mm atau lebih, menambahkan *dog-bone relief* pada area yang tidak terlihat, atau memindahkan fitur ke proses finishing lain. Pilih berdasarkan fungsi, akses inspeksi, dan persetujuan revisi gambar.
+
+Saat membuat permintaan penawaran, sertakan file dengan unit, material, ketebalan, datum, radius minimum, toleransi dimensi, dan fitur yang kritis. Lampirkan pertanyaan: “Tool diameter dan strategi finishing apa yang akan dipakai untuk sudut ini?” Jawaban tersebut lebih berguna daripada janji umum bahwa semua detail CAD dapat dipotong.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Radius Sudut Dalam pada CNC Router dan CNC Milling”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menganggap ukuran yang tampak di layar CAD sama dengan bentuk aktual. Periksa penampang sudut dan tampilkan radius sebagai dimensi, bukan hanya zoom visual. Kesalahan kedua adalah menyalin toleransi dari proyek lain. Toleransi perlu dikaitkan dengan fungsi, material, mesin, dan alat ukur pada pekerjaan sekarang.
 
-## Objection or shortcut to address
+Kesalahan ketiga adalah melupakan kompensasi. Tetapkan siapa yang mengendalikan *tool radius compensation*: geometri CAM, offset kontrol, atau kombinasi yang didokumentasikan. Lakukan satu pemeriksaan silang pada simulasi dan lembar setup agar koreksi tidak diterapkan ganda.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan keempat adalah memeriksa radius dengan alat yang tidak cocok atau dari datum yang salah. Sebelum produksi, sepakati metode ukur—misalnya templat, pin ukur, CMM, atau alat lain yang memang mampu membaca fitur tersebut—serta lokasi titik ukur. Hasil ukur tanpa identitas datum dan kondisi benda kerja sulit dipakai untuk keputusan penerimaan.
 
-## Required conclusion
+Checklist singkat sebelum rilis gambar:
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+- Apakah setiap sudut dalam memiliki radius angka atau catatan minimum yang jelas?
+- Apakah radius tersebut lebih besar atau sama dengan radius efektif tool yang disepakati?
+- Apakah diameter tool, kedalaman potong, dan akses sudah dikonfirmasi bengkel?
+- Apakah toleransi radius dan dimensi pasangannya memiliki fungsi yang jelas?
+- Apakah datum, metode ukur, dan pihak yang menyetujui penyimpangan tertulis?
+- Apakah revisi desain diperlukan bila relief atau operasi tambahan dipilih?
 
-## Draft completion checklist
+## Jalan pintas yang tampak praktis tetapi berisiko
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Bengkel-las.co.id!` and uses friendly `Bengkel-las.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Shortcut yang sering muncul adalah meminta bengkel memakai tool sekecil mungkin agar semua sudut terlihat “tajam”, tanpa memeriksa panjang menjulur dan kekakuannya. Tool kecil memang dapat mengurangi radius geometris, tetapi belum tentu aman atau stabil untuk kedalaman dan material yang diminta. Hasilnya dapat berupa waktu proses lebih panjang, permukaan tidak konsisten, atau dimensi yang perlu dikoreksi—tanpa ada dasar penerimaan yang jelas.
+
+Alternatif yang lebih dapat dipertanggungjawabkan adalah mengunci fungsi dahulu, lalu meminta bengkel mengusulkan tool dan urutan operasi. Jika fungsi tidak memerlukan radius kecil, izinkan radius yang lebih besar. Jika fungsi sangat bergantung pada sudut, tandai fitur sebagai kritis, tetapkan toleransi dan metode ukur, dan minta persetujuan teknis atas kemampuan mesin aktual. Sobat Bengkel-las.co.id, berhenti sebelum pemotongan bila gambar, CAM, dan setup menyebut radius atau datum yang berbeda.
+
+## Kesimpulan dan langkah berikutnya
+
+Radius sudut dalam pada CNC router dan CNC milling pada dasarnya dibatasi oleh radius efektif tool bulat, kemudian dipengaruhi kedalaman, material, penjepitan, strategi CAM, keausan, dan kompensasi. Karena itu, jangan menulis sudut siku tanpa radius dan jangan menjanjikan toleransi sebelum tool serta metode ukur disepakati.
+
+Langkah Anda berikutnya: tandai semua sudut dalam pada gambar, tulis radius dan toleransinya, lalu kirimkan pertanyaan tool-dan-proses kepada bengkel. Minta konfirmasi tertulis atas tool aktual, datum setup, strategi finishing, dan metode inspeksi. Jika ada konflik antara fungsi dan kemampuan tool, revisi geometri atau dapatkan tinjauan teknis yang berwenang sebelum pekerjaan dimulai. Untuk meninjau kembali ilustrasi yang ditugaskan, buka [aset CNC Milling 4](/wp-content/uploads/2019/11/CNC-Milling-4.jpg). Aturan operasinya sederhana: radius yang terlihat di CAD harus dapat diterjemahkan menjadi tool, lintasan, dan bukti ukur yang nyata.

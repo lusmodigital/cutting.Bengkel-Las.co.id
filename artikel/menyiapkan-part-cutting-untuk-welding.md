@@ -3,7 +3,8 @@ article_id: CUT-13-03
 title: "Menyiapkan Part Hasil Cutting untuk Welding dan Perakitan"
 slug: "menyiapkan-part-cutting-untuk-welding"
 description: "Merencanakan deburring, bending, welding, coating, perakitan, dan urutan kerja setelah cutting."
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-05-01"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -19,7 +20,6 @@ sources:
   - "https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970"
   - "https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018"
   - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252"
-  - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
   - "https://www.iso.org/standard/77795.html"
   - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200"
   - "https://www.iso.org/standard/51792.html"
@@ -27,218 +27,95 @@ sources:
   - "https://www.iso.org/standard/80209.html"
   - "https://www.iso.org/standard/85705.html"
   - "https://www.iso.org/standard/75614.html"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015"
   - "https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-005
+Source type: local
+Placement: after the opening has answered the main question, before the first detailed H2
+- **Exact Markdown to insert:** `![Ilustrasi bengkel las](/wp-content/uploads/2019/10/bengkel-las.png)`
+Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+Selection basis: filename/source metadata identifies bengkel las as relevant content media; no pixels were inspected.
+Hard boundary: do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+Substitution rule: do not replace this image. If unavailable or provenance is incomplete, insert [NEEDS IMAGE REVIEW: LOCAL-005] and continue drafting the prose.
+END MANAGED IMAGE PLAN -->
 
 # Menyiapkan Part Hasil Cutting untuk Welding dan Perakitan
 
-## Assignment lock
+Halo, Teman Bengkel-las.co.id! Jangan langsung membawa part hasil cutting ke meja welding hanya karena bentuknya sudah sesuai gambar. Handoff yang aman dimulai dari memastikan identitas part, tepi yang siap disentuh, datum (acuan ukur), lubang, arah bending, dan pasangan sambungannya. Setelah itu barulah ditetapkan apakah part perlu deburring, bending, tack/fit-up, coating, atau dirakit lebih dulu.
 
-- **Writer task:** Expand this file into one complete article answering: “Menyiapkan Part Hasil Cutting untuk Welding dan Perakitan”
-- **Reader and situation:** Merencanakan deburring, bending, welding, coating, perakitan, dan urutan kerja setelah cutting.
-- **Reader outcome:** Merencanakan deburring, bending, welding, coating, perakitan, dan urutan kerja setelah cutting.
-- **Primary intent:** Menyiapkan tepi dan fit-up pascapotong
-- **Reader community:** `Bengkel-las.co.id`
-- **Primary friendly address:** `Teman Bengkel-las.co.id`
-- **Natural variants:** `Sobat Bengkel-las.co.id` and `Kawan Bengkel-las.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Fokus handoff part; teknik pengelasan umum bukan cakupan domain.
-- **Final public route:** `/artikel/menyiapkan-part-cutting-untuk-welding.html`
-- **Appointed CMS date:** `2026-05-01` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: buat lembar handoff per part, lakukan pemeriksaan visual dan ukur terhadap drawing revisi yang berlaku, bersihkan atau rapikan tepi sesuai kebutuhan, lalu susun urutan kerja yang menjaga akses inspeksi dan mencegah coating mengganggu sambungan. Dokumen proyek dapat mengubah urutan tersebut; tanpa material, toleransi, jenis sambungan, dan acceptance basis yang jelas, part harus ditahan untuk review, bukan dipaksakan masuk welding.
 
-## Opening instructions
+![Ilustrasi bengkel las](/wp-content/uploads/2019/10/bengkel-las.png)
 
-- Open with the exact short salutation: **“Halo, Teman Bengkel-las.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Menyiapkan Part Hasil Cutting untuk Welding dan Perakitan**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Bengkel-las.co.id`, `Sobat Bengkel-las.co.id`, or `Kawan Bengkel-las.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-005`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi bengkel las](/wp-content/uploads/2019/10/bengkel-las.png)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `bengkel las` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-005]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cutting.bengkel-las.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The frozen catalog has 20 parent topics and 120 briefs. Intended readers include homeowners, facility and maintenance teams, small manufacturers, procurement staff, project supervisors, and workshop operators. Repository plans are editorial inputs, not proof of a real workshop, staff, equipment, qualifications, prices, locations, or services.
-- **Limits:** Re-read both frozen files if the project role, catalog, URL ownership, or conversion path changes. Do not infer an automotive specialty or add unsupported neighboring trades.
-
-### KR-08
-
-- **Original sources:** [SNI 1729:2020 — official BSN catalog](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html).
-- **Purpose for this article:** Ground fabrication planning in defined requirements rather than verbal descriptions, copied details, or unverified workshop habit.
-- **Safe grounded facts:** A controlled fabrication package can need governing documents and revision, function, dimensions/datums, material and joint identity, loads/interfaces, tolerances, fabrication sequence, weld/fastener/coating requirements, inspection and hold points, acceptance basis, handling, installation, and approved deviations.
-- **Limits:** The BSN page does not reveal clauses, tolerances, combinations, connection design, execution rules, or acceptance values. Obtain the licensed governing standards and issued-for-work project documents.
-
-### KR-14
-
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.252 — welding, cutting, and brazing](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Help readers compare controlled shop fabrication with field work where the environment, interfaces, access, occupants, combustibles, weather, and permits can change the method and risk.
-- **Safe grounded facts:** Moving work on site can change fit-up control, position, access, lifting, weather, electrical supply, fume dispersion, fire exposure, nearby operations, traffic/public interface, coating conditions, inspection access, and restoration. A field weld is not justified merely because transport is inconvenient.
-- **Limits:** Do not import US distances, permits, or prescriptions. The responsible Indonesian site/K3 authority must approve the current task-specific controls.
-
-### KR-07
-
-- **Original sources:** [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html), [ISO 12944-5:2019 — official ISO abstract](https://www.iso.org/standard/77795.html), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Make material and consumable records usable for fabrication, compatibility, safety, inspection, maintenance, and later failure investigation.
-- **Safe grounded facts:** Useful traceability can include material designation, dimensions/heat or batch where required, certificate/report linkage, filler/consumable classification and batch, storage/conditioning, coating product and batch, mixing/application records, replacement-part identity, and approved substitution. The US hazard-communication rule illustrates label and safety-data-sheet concepts but is not Indonesian law.
-- **Limits:** Do not infer composition, compatibility, shelf life, storage, mixing ratio, coverage, cure, welding parameter, exposure limit, or disposal route from generic labels. Verify exact product, batch, substrate, environment, and current Indonesian rules.
-
-### KR-09
-
-- **Original sources:** [ISO 15614-1:2017 — official ISO abstract](https://www.iso.org/standard/51792.html), [ISO 9606-1:2012 — official ISO abstract](https://www.iso.org/standard/54936.html), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html).
-- **Purpose for this article:** Prevent an article from treating a welder card, a WPS, a procedure test, workmanship, and the finished joint's acceptance as interchangeable.
-- **Safe grounded facts:** Procedure qualification, production WPS, welder/operator qualification, material/process/position/thickness/diameter range, continuity/validity, equipment condition, consumable control, preheat/interpass control, inspection, and final acceptance are distinct records.
-- **Limits:** Both welding-qualification standards are current at verification but under revision. The public abstracts do not provide qualification ranges or test requirements; recheck editions and use licensed text plus the project specification.
-
-### KR-15
-
-- **Original sources:** [ISO 5817:2023 — official ISO abstract](https://www.iso.org/standard/80209.html), [ISO 17635:2025 — official ISO abstract](https://www.iso.org/standard/85705.html), [ISO 9712:2021 — official ISO abstract](https://www.iso.org/standard/75614.html).
-- **Purpose for this article:** Keep QA articles from confusing workmanship levels, NDT technique, indication evaluation, personnel certification, equipment status, and engineering acceptance.
-- **Safe grounded facts:** A quality plan needs the governing acceptance basis, joint and examination identification, method/technique and extent, written procedure where required, personnel scope, equipment identity and current calibration/verification, surface/test conditions, report traceability, result, nonconformance, disposition authority, repair cycle, and closeout.
-- **Limits:** Do not publish imperfection limits, acceptance tables, technique settings, calibration intervals, or certification equivalence from abstracts. Obtain full current standards and project procedures.
-
-### KR-16
-
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 12 Tahun 2015 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Provide a systems view of workshop K3 instead of reducing safety to personal protective equipment.
-- **Safe grounded facts:** A controlled task starts with elimination/substitution and engineering/administrative controls, then suitable PPE; product identity and current safety data matter for chemicals. Emergency planning must reflect the actual energy, fire, exposure, first-aid, evacuation, communication, and rescue scenario.
-- **Limits:** This file supplies no exposure limit, PPE selection, ventilation rate, electrical protection setting, cylinder separation, fire-watch duration, or emergency procedure. Resolve them from current Indonesian rules, site conditions, exact products, and competent K3 review.
-
-### KR-20
-
-- **Original sources:** [PP No. 22 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Connect source reduction, controlled use, segregation, reuse/recycling, worker exposure, and legal waste disposition without assuming every metal offcut is harmless or recyclable.
-- **Safe grounded facts:** Waste identity, contamination, generator/site context, storage, labeling, transport, receiver authorization, records, and current local rules determine the route. Reuse and repair may avoid new material but do not automatically reduce total environmental or safety impact.
-- **Limits:** Do not classify a waste, recommend mixing, state a storage limit, name a legal carrier/receiver, or claim a quantified environmental benefit without current Indonesian/local requirements, characterization, mass/energy data, and authorized-party evidence.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-- **GATE-09:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
-- **GATE-11:** Resolve the gate from current project evidence and competent review.
-- **GATE-12:** Resolve the gate from current project evidence and competent review.
-- **GATE-13:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — fallback home route; use only when it is genuinely useful.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUT-13-01` → `/artikel/deburring-setelah-cutting.html` — Deburring setelah Cutting: Kapan Diperlukan dan Hasil yang Diharapkan
-- `CUT-13-02` → `/artikel/urutan-cutting-dan-bending.html` — Urutan Cutting dan Bending agar Dimensi Komponen Tetap Terkendali
-- `CUT-13-04` → `/artikel/powder-coating-setelah-cutting.html` — Powder Coating setelah Cutting: Lubang, Gantungan, dan Allowance
-- `CUT-13-05` → `/artikel/finishing-tepi-akrilik.html` — Finishing Tepi Akrilik setelah Laser atau CNC Router
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu. [Buka aset media](/wp-content/uploads/2019/10/bengkel-las.png) bila perlu memeriksa berkas yang dirujuk.
 
 ## Hasil akhir dan prasyarat
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Menyiapkan Part Hasil Cutting untuk Welding dan Perakitan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hasil yang dicari bukan sekadar “sudah dipotong”, melainkan part yang dapat dikenali, diposisikan, disambungkan, diperiksa, dan dilacak. Sediakan drawing atau model yang menyebut revisi, daftar part, material dan tebal, datum, toleransi, arah tekuk, detail sambungan, persyaratan coating, urutan fabrikasi, titik inspeksi, serta cara penanganan. Paket fabrikasi yang terkendali memang dapat memerlukan fungsi, antarmuka, toleransi, inspeksi, dan penyimpangan yang disetujui; katalog resmi [SNI 1729:2020](https://pesta.bsn.go.id/produk/detail/12882-sni17292020) dan abstrak [ISO 3834-6:2024](https://www.iso.org/standard/83335.html) hanya mengonfirmasi identitas dan ruang lingkup dokumen, bukan nilai toleransi atau acceptance proyek Anda.
 
-## Langkah 1 — tetapkan scope
+Untuk memastikan dokumen yang dipakai memang versi yang berlaku, simpan salinan terkontrol dan gunakan [beranda Bengkel-las.co.id](/) hanya sebagai titik kembali, bukan sebagai pengganti drawing atau spesifikasi proyek.
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Menyiapkan Part Hasil Cutting untuk Welding dan Perakitan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Tetapkan siapa yang berwenang melepas part ke proses berikutnya: operator cutting, pemeriksa, supervisor, atau pihak proyek sesuai sistem yang berlaku. Pastikan alat ukur berstatus layak, area kerja cukup aman, dan label part tidak hilang saat deburring atau pencucian. Jika drawing, material, atau revisi tidak cocok, tandai sebagai [NEEDS PROJECT DOCUMENT REVIEW] sebelum pekerjaan lanjutan.
+
+## Langkah 1 — tetapkan ruang lingkup
+
+Pisahkan pekerjaan pascapotong menjadi lima keputusan: kondisi tepi, kebutuhan bending, kesiapan fit-up, perlindungan permukaan, dan kebutuhan perakitan. Deburring berarti menghilangkan burr atau tepi tajam yang dapat mengganggu pasang, melukai pekerja, atau membuat celah tidak terkendali. Jangan menganggap semua tepi harus digerinda sampai halus; bentuk akhir harus mengikuti fungsi sambungan dan detail gambar.
+
+Tentukan juga apa yang tidak termasuk. Artikel ini membahas handoff part, bukan parameter arus, elektroda, preheat, atau teknik pengelasan umum. Bila part akan dilas di lapangan, evaluasi ulang akses, lifting, cuaca, sumber listrik, fume, potensi kebakaran, aktivitas sekitar, dan akses inspeksi. [UU No. 1 Tahun 1970](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 5 Tahun 2018](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), serta panduan bahaya hot work [OSHA 29 CFR 1910.252](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252) dapat menjadi rujukan perbandingan; ketentuan Amerika tidak boleh diperlakukan sebagai hukum Indonesia.
+
+Teman Bengkel-las.co.id, tanyakan sebelum memindahkan part: “Apakah perubahan bentuk atau pembersihan ini mengubah datum, allowance, atau area yang harus dilas?” Jika jawabannya belum diketahui, berhenti di titik itu.
 
 ## Langkah 2 — kumpulkan dan cocokkan bukti
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Menyiapkan Part Hasil Cutting untuk Welding dan Perakitan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Buat satu catatan ringkas untuk setiap part atau kelompok part sejenis. Cocokkan hal berikut:
+
+- nomor part, jumlah, revisi drawing, material, tebal, dan arah muka;
+- ukuran kritis dari datum ke tepi, lubang, slot, dan garis tekuk;
+- kondisi burr, slag, oksida, distorsi, retak terlihat, atau kerusakan tepi;
+- identitas filler atau consumable yang direncanakan, bila sudah ditetapkan proyek;
+- status bending, tack, jig, dan pasangan part;
+- area yang harus tetap bersih untuk welding, inspeksi, atau grounding;
+- produk coating, batch, instruksi aplikasi, dan status curing jika coating dilakukan sebelum perakitan.
+
+Catatan material dan consumable sebaiknya dapat ditelusuri ke sertifikat atau laporan yang dipersyaratkan, termasuk batch dan substitusi yang disetujui. Untuk bahan kimia, gunakan label dan lembar data keselamatan produk yang benar; [OSHA 29 CFR 1910.1200](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200) hanya contoh konsep komunikasi bahaya, bukan dasar legal lokal. Jangan menebak kompatibilitas coating, rasio campur, masa simpan, atau waktu cure dari label generik. [NEEDS PRODUCT-SPECIFIC COATING REVIEW] bila data produk dan substrat belum tersedia.
 
 ## Langkah 3 — jalankan urutan kerja
 
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Menyiapkan Part Hasil Cutting untuk Welding dan Perakitan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Urutan konseptual yang umum adalah: identifikasi dan ukur; rapikan tepi seperlunya; lakukan bending yang disetujui; bersihkan area sambungan; lakukan dry fit dan ukur ulang; dokumentasikan hasil; baru lanjut ke tack atau welding sesuai prosedur proyek. Bending sebelum welding sering menjaga akses, tetapi bisa salah bila drawing menetapkan sambungan atau datum lain. Karena itu, ikuti sequence pada paket kerja, bukan kebiasaan bengkel.
 
-## Hold point dan kondisi berhenti
+Saat fit-up, gunakan datum yang sama untuk kedua part. Periksa orientasi, gap yang disyaratkan dokumen, posisi lubang, akses alat, dan kemungkinan distorsi. Jangan menutup sambungan dengan coating jika area itu harus dilas atau diperiksa. Sistem coating [ISO 12944-5:2019](https://www.iso.org/standard/77795.html) dapat membantu mengatur pemilihan sistem, namun abstraknya tidak memberi coverage, cure, atau interval yang boleh Anda salin.
 
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Menyiapkan Part Hasil Cutting untuk Welding dan Perakitan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Dokumen welding juga harus dibedakan: kualifikasi prosedur, WPS produksi, kualifikasi welder/operator, dan acceptance hasil las bukan hal yang sama. Abstrak [ISO 15614-1:2017](https://www.iso.org/standard/51792.html) dan [ISO 9606-1:2012](https://www.iso.org/standard/54936.html) tidak memuat rentang kualifikasi atau persyaratan uji lengkap. [NEEDS WELDING-PACKAGE REVIEW] bila WPS, status welder, atau rentang material/proses belum disahkan.
 
-## Verifikasi hasil dan handover
+## Titik tahan dan kondisi berhenti
 
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Menyiapkan Part Hasil Cutting untuk Welding dan Perakitan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Tahan part dan minta review ketika nomor atau revisi tidak terbaca, material berbeda dari dokumen, ukuran kritis keluar toleransi, tepi retak atau tergerus, bending memindahkan datum, pasangan tidak dapat duduk tanpa gaya paksa, area sambungan sudah terkontaminasi coating, atau pekerjaan harus dipindah ke lapangan tanpa rencana K3 spesifik. Jangan “menyesuaikan” dengan menambah las atau menggerinda lebih banyak tanpa persetujuan perubahan.
 
-## Objection or shortcut to address
+Untuk pemeriksaan, tetapkan acceptance basis, identitas sambungan, metode dan cakupan pemeriksaan, personel, alat, kondisi permukaan, laporan, dan otoritas disposisi ketidaksesuaian. [ISO 5817:2023](https://www.iso.org/standard/80209.html), [ISO 17635:2025](https://www.iso.org/standard/85705.html), dan [ISO 9712:2021](https://www.iso.org/standard/75614.html) menunjukkan bahwa level kualitas, teknik NDT, evaluasi indikasi, dan kompetensi personel adalah komponen berbeda. Nilai batas dan tekniknya harus berasal dari standar lengkap serta spesifikasi proyek; [NEEDS ACCEPTANCE-BASIS REVIEW] jika belum ada.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kawan Bengkel-las.co.id, kondisi berhenti bukan tanda pekerjaan gagal. Itu cara mencegah satu part yang ambigu menjadi masalah berulang saat perakitan atau inspeksi.
 
-## Required conclusion
+## Verifikasi hasil dan serah-terima
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Sebelum melepas part, pemeriksa dapat membubuhkan status pada checklist berikut:
 
-## Draft completion checklist
+1. Identitas part, jumlah, material, revisi, dan orientasi cocok.
+2. Datum serta ukuran kritis tercatat; alat ukur dan metode pengukuran dapat ditelusuri.
+3. Burr, tepi tajam, oksida, dan kerusakan sudah ditangani sesuai instruksi.
+4. Bending, lubang, slot, dan pasangan part telah diverifikasi tanpa gaya paksa.
+5. Area weld bersih; coating dan masking mengikuti instruksi produk/proyek.
+6. WPS, kualifikasi, consumable, dan titik inspeksi tersedia bila handoff menuju welding.
+7. Foto atau sketsa identifikasi, laporan ketidaksesuaian, dan keputusan disposisi terlampir.
+8. Label, cara angkat, dan perlindungan tepi memadai untuk transport atau perakitan.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Bengkel-las.co.id!` and uses friendly `Bengkel-las.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Serahkan bersama drawing revisi, catatan ukur, status deburring/bending, batch material atau coating bila diwajibkan, serta daftar item yang masih terbuka. Jika part disimpan atau menjadi sisa material, jangan mengklasifikasikan limbah atau mencampurnya tanpa melihat identitas, kontaminasi, lokasi penghasil, dan aturan yang berlaku; [PP No. 22 Tahun 2021](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021) memberi konteks bahwa rute limbah bergantung pada karakteristik dan pengelolaan yang sah.
+
+## Jalan pintas yang sering menggoda
+
+Shortcut paling umum adalah menganggap “kalau bisa dirakit, berarti ukurannya benar”, lalu memaksa part dengan clamp atau menutup ketidaksesuaian lewat weld. Cara ini dapat menyamarkan masalah datum, menambah distorsi, menghilangkan akses inspeksi, dan membuat rekaman asal-usul keputusan hilang. Alternatif yang lebih andal adalah dry fit tanpa gaya berlebih, catat ukuran dan gap sesuai dokumen, lalu minta keputusan tertulis bila perlu deviasi. Jangan mengubah detail sambungan hanya agar part cepat keluar dari meja.
+
+## Kesimpulan
+
+Menyiapkan part hasil cutting untuk welding dan perakitan berarti memastikan identitas, tepi, bentuk, datum, kebersihan, coating, dan bukti pengukuran sebelum proses berikutnya. Susun handoff per part, jalankan urutan yang disetujui, dan tahan pekerjaan saat dokumen atau kondisi fisik tidak cocok. Langkah berikutnya adalah meminta pemeriksa atau penanggung jawab teknis menandatangani checklist bersama drawing revisi dan acceptance basis yang berlaku. Sobat Bengkel-las.co.id, bila salah satu dokumen itu belum ada, aturan operasinya sederhana: jangan menebak—tandai [NEEDS TECHNICAL REVIEW] dan selesaikan review sebelum welding atau perakitan diteruskan.

@@ -3,7 +3,8 @@ article_id: CUT-06-02
 title: "Face Milling, Pocketing, Slotting, dan Contouring: Apa Bedanya?"
 slug: "jenis-operasi-cnc-milling"
 description: "Memilih operasi milling untuk komponen berdimensi, pocket, slot, kontur, dan permukaan presisi."
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-11-18"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,218 +15,84 @@ reader_address: "Teman Bengkel-las.co.id"
 final_route: "/artikel/jenis-operasi-cnc-milling.html"
 technical_review: required
 sources:
-  - "https://www.iso.org/standard/83335.html"
-  - "https://www.iso.org/standard/77795.html"
   - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200"
-  - "https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970"
-  - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
-  - "https://pesta.bsn.go.id/produk/detail/12882-sni17292020"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015"
-  - "https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Face Milling, Pocketing, Slotting, dan Contouring: Apa Bedanya?
 
-## Assignment lock
+Halo, Teman Bengkel-las.co.id! Perbedaan keempat operasi ini terutama terletak pada **permukaan atau fitur yang hendak dibuat**, bukan pada nama program CNC-nya. Face milling meratakan bidang terbuka, pocketing mengosongkan area di dalam batas tertutup, slotting membuat alur, sedangkan contouring mengikuti garis luar atau profil.
 
-- **Writer task:** Expand this file into one complete article answering: “Face Milling, Pocketing, Slotting, dan Contouring: Apa Bedanya?”
-- **Reader and situation:** Memilih operasi milling untuk komponen berdimensi, pocket, slot, kontur, dan permukaan presisi.
-- **Reader outcome:** Memilih operasi milling untuk komponen berdimensi, pocket, slot, kontur, dan permukaan presisi.
-- **Primary intent:** Memilih operasi milling
-- **Reader community:** `Bengkel-las.co.id`
-- **Primary friendly address:** `Teman Bengkel-las.co.id`
-- **Natural variants:** `Sobat Bengkel-las.co.id` and `Kawan Bengkel-las.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Mengelompokkan operasi; pemilihan end mill dimiliki CUT-06-03.
-- **Final public route:** `/artikel/jenis-operasi-cnc-milling.html`
-- **Appointed CMS date:** `2025-11-18` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Urutan memilihnya sederhana: tandai fitur pada gambar kerja, tentukan apakah area yang dipotong terbuka atau tertutup, lalu cek akses pahat dan toleransinya. Satu komponen dapat memakai beberapa operasi sekaligus. Kecepatan, pemakanan, kedalaman potong, jenis pahat, dan strategi lintasan tetap harus ditetapkan dari material, mesin, pahat, serta instruksi kerja yang disetujui—bukan ditebak dari istilah operasi. Jika Anda baru memetakan proses, gunakan [beranda Bengkel-las.co.id](/) untuk kembali ke konteks layanan dan istilah dasar sebelum menyusun work order.
 
-## Opening instructions
+![Ilustrasi CNC Milling 1](/wp-content/uploads/2019/11/CNC-Milling-1.jpg)
 
-- Open with the exact short salutation: **“Halo, Teman Bengkel-las.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Face Milling, Pocketing, Slotting, dan Contouring: Apa Bedanya?**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Bengkel-las.co.id`, `Sobat Bengkel-las.co.id`, or `Kawan Bengkel-las.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-015`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi CNC Milling 1](/wp-content/uploads/2019/11/CNC-Milling-1.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `CNC Milling 1` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-015]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cutting.bengkel-las.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The frozen catalog has 20 parent topics and 120 briefs. Intended readers include homeowners, facility and maintenance teams, small manufacturers, procurement staff, project supervisors, and workshop operators. Repository plans are editorial inputs, not proof of a real workshop, staff, equipment, qualifications, prices, locations, or services.
-- **Limits:** Re-read both frozen files if the project role, catalog, URL ownership, or conversion path changes. Do not infer an automotive specialty or add unsupported neighboring trades.
-
-### KR-07
-
-- **Original sources:** [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html), [ISO 12944-5:2019 — official ISO abstract](https://www.iso.org/standard/77795.html), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Make material and consumable records usable for fabrication, compatibility, safety, inspection, maintenance, and later failure investigation.
-- **Safe grounded facts:** Useful traceability can include material designation, dimensions/heat or batch where required, certificate/report linkage, filler/consumable classification and batch, storage/conditioning, coating product and batch, mixing/application records, replacement-part identity, and approved substitution. The US hazard-communication rule illustrates label and safety-data-sheet concepts but is not Indonesian law.
-- **Limits:** Do not infer composition, compatibility, shelf life, storage, mixing ratio, coverage, cure, welding parameter, exposure limit, or disposal route from generic labels. Verify exact product, batch, substrate, environment, and current Indonesian rules.
-
-### KR-02
-
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Anchor workshop-safety content in current Indonesian law and prevent reliance on pre-July-2026 copies of sector K3 regulations.
-- **Safe grounded facts:** The 2026 record identifies partial revocations affecting, among others, workplace environment, electrical work, pressure vessels and tanks, powered/production machinery, lifting equipment, work at height, and confined spaces. A legacy regulation may still be in force while some provisions no longer are.
-- **Limits:** This register does not perform legal consolidation or interpret amended clauses. Recheck BPK and official Kemnaker text at outline approval and obtain competent Indonesian legal/K3 review for prescriptive claims.
-
-### KR-08
-
-- **Original sources:** [SNI 1729:2020 — official BSN catalog](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html).
-- **Purpose for this article:** Ground fabrication planning in defined requirements rather than verbal descriptions, copied details, or unverified workshop habit.
-- **Safe grounded facts:** A controlled fabrication package can need governing documents and revision, function, dimensions/datums, material and joint identity, loads/interfaces, tolerances, fabrication sequence, weld/fastener/coating requirements, inspection and hold points, acceptance basis, handling, installation, and approved deviations.
-- **Limits:** The BSN page does not reveal clauses, tolerances, combinations, connection design, execution rules, or acceptance values. Obtain the licensed governing standards and issued-for-work project documents.
-
-### KR-14
-
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.252 — welding, cutting, and brazing](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Help readers compare controlled shop fabrication with field work where the environment, interfaces, access, occupants, combustibles, weather, and permits can change the method and risk.
-- **Safe grounded facts:** Moving work on site can change fit-up control, position, access, lifting, weather, electrical supply, fume dispersion, fire exposure, nearby operations, traffic/public interface, coating conditions, inspection access, and restoration. A field weld is not justified merely because transport is inconvenient.
-- **Limits:** Do not import US distances, permits, or prescriptions. The responsible Indonesian site/K3 authority must approve the current task-specific controls.
-
-### KR-16
-
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 12 Tahun 2015 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Provide a systems view of workshop K3 instead of reducing safety to personal protective equipment.
-- **Safe grounded facts:** A controlled task starts with elimination/substitution and engineering/administrative controls, then suitable PPE; product identity and current safety data matter for chemicals. Emergency planning must reflect the actual energy, fire, exposure, first-aid, evacuation, communication, and rescue scenario.
-- **Limits:** This file supplies no exposure limit, PPE selection, ventilation rate, electrical protection setting, cylinder separation, fire-watch duration, or emergency procedure. Resolve them from current Indonesian rules, site conditions, exact products, and competent K3 review.
-
-### KR-20
-
-- **Original sources:** [PP No. 22 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Connect source reduction, controlled use, segregation, reuse/recycling, worker exposure, and legal waste disposition without assuming every metal offcut is harmless or recyclable.
-- **Safe grounded facts:** Waste identity, contamination, generator/site context, storage, labeling, transport, receiver authorization, records, and current local rules determine the route. Reuse and repair may avoid new material but do not automatically reduce total environmental or safety impact.
-- **Limits:** Do not classify a waste, recommend mixing, state a storage limit, name a legal carrier/receiver, or claim a quantified environmental benefit without current Indonesian/local requirements, characterization, mass/energy data, and authorized-party evidence.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-- **GATE-09:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
-- **GATE-11:** Resolve the gate from current project evidence and competent review.
-- **GATE-12:** Resolve the gate from current project evidence and competent review.
-- **GATE-13:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — fallback home route; use only when it is genuinely useful.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUT-06-01` → `/artikel/cara-kerja-cnc-milling.html` — Cara Kerja CNC Milling untuk Komponen Presisi
-- `CUT-06-03` → `/artikel/memilih-end-mill.html` — Memilih End Mill Berdasarkan Material dan Bentuk Fitur
-- `CUT-06-04` → `/artikel/cnc-3-axis-vs-4-axis-vs-5-axis.html` — CNC 3 Axis vs 4 Axis vs 5 Axis untuk Kebutuhan Komponen
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Face Milling, Pocketing, Slotting, dan Contouring: Apa Bedanya?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu. Anda dapat membuka [aset lokal ilustrasi](/wp-content/uploads/2019/11/CNC-Milling-1.jpg) bila perlu memeriksa berkas medianya.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Face Milling, Pocketing, Slotting, dan Contouring: Apa Bedanya?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Dalam artikel ini, “operasi” berarti cara menggerakkan pahat relatif terhadap benda kerja untuk menghasilkan fitur tertentu. Face milling biasanya memakai sisi dan bagian bawah pahat untuk menyapu bidang atas atau bidang referensi. Hasil yang dicari adalah kerataan, ukuran keseluruhan, atau datum yang dapat dipakai pada operasi berikutnya.
+
+Pocketing berarti material di dalam kontur tertutup dihilangkan bertahap. Area itu bisa berupa cekungan, rumah komponen, atau rongga yang memiliki dasar. Slotting adalah kasus yang lebih spesifik: alur memanjang dengan lebar tertentu, sering kali menembus atau berhenti pada kedalaman tertentu. Contouring mengikuti kurva atau garis luar sehingga profil samping benda kerja terbentuk.
+
+Batasnya penting. Artikel ini tidak memilih merek, diameter, geometri, atau grade end mill; tidak menghitung parameter potong; dan tidak memutuskan apakah mesin 3-axis, 4-axis, atau 5-axis yang wajib dipakai. Semua keputusan itu bergantung pada gambar kerja, material aktual, kapasitas mesin, dan evaluasi teknis. Jika dokumen belum menetapkan datum, toleransi, atau kondisi permukaan, hentikan pemrograman dan minta klarifikasi—[NEEDS TECHNICAL REVIEW: datum, toleransi, dan material benda kerja].
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Face Milling, Pocketing, Slotting, dan Contouring: Apa Bedanya?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dari gambar kerja, bukan dari menu CAM. Lingkari bidang yang harus rata, area yang harus kosong, alur, dan profil luar. Setelah itu tetapkan sistem koordinat serta permukaan referensi. Face milling sering ditempatkan lebih awal untuk membuat bidang acuan; pocketing dan slotting kemudian mengerjakan fitur internal; contouring dapat menjadi pemotongan profil akhir atau semi-finishing, bergantung pada allowance yang disepakati.
+
+Pada setiap operasi, programmer menentukan titik masuk, arah lintasan, jumlah tingkat kedalaman, dan cara keluar dari material. Simulasi memeriksa tabrakan pahat, ragum, fixture, serta sisa material. Operator lalu melakukan setup, mengukur offset sesuai prosedur bengkel, dan menjalankan percobaan yang disetujui. Pemeriksaan hasil membandingkan ukuran dan kondisi permukaan dengan gambar kerja; jangan menganggap simulasi sebagai bukti bahwa komponen sudah memenuhi spesifikasi.
+
+Untuk bahan kimia seperti coolant atau cairan pembersih, identitas produk dan lembar data keselamatan (SDS) harus tersedia dari pemasok. OSHA 29 CFR 1910.1200 dapat menjadi contoh konsep komunikasi bahaya melalui label dan SDS, tetapi aturan AS itu bukan hukum Indonesia; gunakan ketentuan K3 Indonesia dan instruksi produk yang berlaku di lokasi kerja ([rujukan OSHA](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200)).
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Face Milling, Pocketing, Slotting, dan Contouring: Apa Bedanya?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Bentuk fitur.** Bidang terbuka mengarah ke face milling. Batas tertutup dengan dasar mengarah ke pocketing. Alur sempit atau memanjang mengarah ke slotting. Garis luar kompleks, radius, atau permukaan samping mengarah ke contouring. Bila satu fitur memiliki sudut dalam kecil, operasi dasarnya mungkin tetap pocketing, tetapi radius sudut yang dapat dicapai harus diperiksa.
+
+**Toleransi dan permukaan.** Toleransi ukuran, kerataan, paralelisme, dan kekasaran dapat mengubah urutan roughing, semi-finishing, dan finishing. Jangan menjanjikan “presisi” hanya karena mesin CNC digunakan. Nilai toleransi dan metode inspeksi harus berasal dari gambar kerja atau spesifikasi proyek yang disahkan.
+
+**Akses dan penjepitan.** Pahat harus mencapai area tanpa menyentuh fixture. Dinding tipis dapat bergetar; benda kerja yang menonjol jauh dari penjepit dapat berubah posisi. Jika profil memerlukan orientasi lain, kebutuhan setup tambahan atau sumbu berputar perlu ditinjau oleh programmer dan penanggung jawab proses.
+
+**Material dan kondisi mesin.** Kekerasan, kondisi permukaan awal, kekakuan spindle, runout, coolant, serta kemampuan kontrol menentukan batas aman. Parameter potong tidak boleh disalin lintas material atau mesin. Catat revisi program dan hasil pengukuran agar perubahan dapat ditelusuri.
+
+**Keselamatan dan lingkungan kerja.** Pelindung mesin, penguncian benda kerja, pengelolaan serpihan, kabut coolant, dan prosedur darurat harus dinilai terhadap mesin serta lokasi yang sebenarnya. Artikel ini tidak memberikan setelan ventilasi, PPE, atau batas paparan; minta tinjauan K3 kompeten bila risiko belum teridentifikasi.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Face Milling, Pocketing, Slotting, dan Contouring: Apa Bedanya?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan tabel berikut sebagai pemetaan awal, bukan pengganti gambar kerja atau review program.
+
+| Fitur pada gambar | Operasi utama | Pertanyaan pemeriksaan |
+|---|---|---|
+| Bidang atas luas yang menjadi datum | Face milling | Apakah bidang itu harus rata terhadap datum lain, dan apakah ada allowance? |
+| Cekungan dengan batas tertutup dan dasar | Pocketing | Apakah pahat dapat mencapai seluruh sudut dan bagaimana sisa material di dasar diperiksa? |
+| Alur lurus dengan lebar tertentu | Slotting | Apakah alur tembus, buntu, atau memiliki radius ujung yang ditentukan? |
+| Profil luar mengikuti kurva atau garis | Contouring | Apakah ukuran profil diukur pada titik kontrol yang benar dan apakah diperlukan finishing pass? |
+
+Bayangkan gambar kerja memiliki bidang referensi, satu rongga persegi, satu alur tembus, dan profil luar melengkung. Rencana awalnya dapat berupa face milling pada bidang referensi, pocketing pada rongga, slotting pada alur, lalu contouring untuk profil. Urutan aktual dapat berubah jika penjepitan, deformasi, atau akses pahat membuat langkah tersebut tidak aman atau tidak dapat diukur. Sobat Bengkel-las.co.id, tuliskan alasan perubahan itu pada lembar setup agar operator berikutnya tidak menebak.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Face Milling, Pocketing, Slotting, dan Contouring: Apa Bedanya?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menyebut semua pemakanan sebagai “contouring”. Periksa apakah pahat benar-benar mengikuti batas luar atau hanya menyapu area. Kesalahan kedua adalah menganggap pocketing sama dengan slotting karena keduanya menghilangkan material di dalam batas. Tanyakan: apakah lebar alur merupakan ukuran fitur yang dikendalikan, atau area luas dengan dasar yang harus diratakan?
 
-## Objection or shortcut to address
+Kesalahan ketiga adalah memilih operasi dari bentuk tampak atas tanpa memeriksa kedalaman dan akses. Buka simulasi, tampilkan fixture, dan pastikan tidak ada dinding yang terlewat. Kesalahan keempat adalah memakai parameter program lama tanpa mencocokkan material, pahat, coolant, dan kondisi mesin. Bandingkan kartu proses dengan work order dan lakukan pengukuran awal.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan terakhir adalah menganggap hasil visual cukup. Tetapkan alat ukur, titik ukur, frekuensi pemeriksaan, serta kriteria penerimaan sebelum produksi. Jika toleransi atau material belum jelas, simpan marker [NEEDS INSPECTION BASIS] dan minta persetujuan teknis.
 
-## Required conclusion
+## Jalan pintas yang tampak menghemat waktu
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Shortcut yang sering menggoda adalah memakai satu operasi “serba bisa” untuk seluruh fitur, misalnya memaksa pocketing mengerjakan alur dan profil sekaligus. Ini dapat menambah lintasan tidak perlu, menyulitkan kontrol ukuran, dan membuat pemeriksaan fitur menjadi kabur. Alternatif yang lebih dapat ditelusuri adalah memisahkan operasi berdasarkan fungsi fitur, memberi nama toolpath yang jelas, lalu memverifikasi simulasi dan ukuran pada setiap tahap. Penggabungan hanya layak dipilih bila programmer dapat menunjukkan bahwa akses, beban pahat, toleransi, dan inspeksinya tetap terkendali.
 
-## Draft completion checklist
+## Kesimpulan dan langkah berikutnya
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Bengkel-las.co.id!` and uses friendly `Bengkel-las.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Face milling meratakan bidang, pocketing mengosongkan area tertutup, slotting membuat alur, dan contouring membentuk profil luar. Satu komponen boleh memakai keempatnya; gambar kerja, akses, penjepitan, material, toleransi, serta kemampuan mesinlah yang menentukan urutan dan parameter.
+
+Sebelum membuat program, minta gambar kerja berisi datum, toleransi, material, dan persyaratan permukaan. Tandai setiap fitur dengan operasi kandidat, lalu minta programmer serta penanggung jawab K3 meninjau setup, simulasi, dan rencana inspeksi. Kawan Bengkel-las.co.id, jadikan aturan kerja ini sebagai batas: bila bukti teknis atau kondisi lapangan belum lengkap, jangan mengisi celah dengan asumsi—tunda pemotongan sampai review kompeten selesai.
+
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-015
+Source type: local
+Placement: after the opening, before the first detailed H2
+**Exact Markdown to insert:** `![Ilustrasi CNC Milling 1](/wp-content/uploads/2019/11/CNC-Milling-1.jpg)`
+Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+Selection basis: filename/source metadata identifies CNC Milling 1 as relevant content media; no pixels were inspected.
+Hard boundary: do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+END MANAGED IMAGE PLAN -->

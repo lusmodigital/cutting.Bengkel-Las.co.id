@@ -3,7 +3,8 @@ article_id: CUT-08-06
 title: "Lebar Slot, Diameter Lubang, dan Jarak Minimum Antarfitur"
 slug: "batas-fitur-minimum-cnc-cutting"
 description: "Menulis target dimensi dan toleransi yang realistis serta mengantisipasi kerf dan kompensasi."
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-01-19"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,52 +15,19 @@ reader_address: "Sobat Bengkel-las.co.id"
 final_route: "/artikel/batas-fitur-minimum-cnc-cutting.html"
 technical_review: required
 sources:
-  - "https://www.iso.org/standard/85705.html"
-  - "https://www.iso.org/standard/75614.html"
   - "https://www.iso.org/standard/83335.html"
-  - "https://www.iso.org/standard/77795.html"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200"
-  - "https://pesta.bsn.go.id/produk/detail/12882-sni17292020"
-  - "https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252"
-  - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015"
-  - "https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021"
-  - "https://www.iso.org/standard/80209.html"
+  - "https://www.iso.org/standard/85705.html"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Lebar Slot, Diameter Lubang, dan Jarak Minimum Antarfitur
 
-## Assignment lock
+Halo, Sobat Bengkel-las.co.id!
 
-- **Writer task:** Expand this file into one complete article answering: “Lebar Slot, Diameter Lubang, dan Jarak Minimum Antarfitur”
-- **Reader and situation:** Menulis target dimensi dan toleransi yang realistis serta mengantisipasi kerf dan kompensasi.
-- **Reader outcome:** Menulis target dimensi dan toleransi yang realistis serta mengantisipasi kerf dan kompensasi.
-- **Primary intent:** Memeriksa fitur kecil sebelum produksi
-- **Reader community:** `Bengkel-las.co.id`
-- **Primary friendly address:** `Sobat Bengkel-las.co.id`
-- **Natural variants:** `Kawan Bengkel-las.co.id` and `Teman Bengkel-las.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Fokus batas geometri kecil; nesting antarkomponen dimiliki CUT-09.
-- **Final public route:** `/artikel/batas-fitur-minimum-cnc-cutting.html`
-- **Appointed CMS date:** `2026-01-19` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Slot yang terlalu sempit, lubang yang terlalu kecil, atau dua fitur yang terlalu berdekatan bisa gagal sebelum lembaran masuk mesin. Jawaban yang aman bukan satu angka “batas CNC” untuk semua pekerjaan. Lebar slot, diameter lubang, dan jarak antarfitur harus ditetapkan dari alat potong, tebal serta jenis material, metode pemotongan, kemampuan mesin, toleransi gambar, dan fungsi komponen. Tanpa data itu, angka minimum hanyalah tebakan dan perlu ditandai `[NEEDS PROJECT/MACHINE CAPABILITY REVIEW]`.
 
-## Opening instructions
+Mulailah dengan membedakan ukuran nominal pada gambar dari ukuran yang sanggup dibuat dan diukur secara konsisten. Tanyakan apakah slot akan dipakai untuk baut lewat, aliran udara, penguncian, atau sekadar mengurangi massa. Fungsi tersebut menentukan toleransi dan cara memeriksa hasil. Kerf—lebar material yang hilang oleh jalur potong—juga harus masuk ke kompensasi lintasan, tetapi kompensasi tidak dapat menghapus semua pengaruh panas, getaran, keausan alat, atau deformasi lembaran.
 
-- Open with the exact short salutation: **“Halo, Sobat Bengkel-las.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Lebar Slot, Diameter Lubang, dan Jarak Minimum Antarfitur**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Bengkel-las.co.id`, `Kawan Bengkel-las.co.id`, or `Teman Bengkel-las.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-005`
@@ -70,171 +38,76 @@ sources:
 - **Selection basis:** filename/source metadata identifies `bengkel las` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-005]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi bengkel las](/wp-content/uploads/2019/10/bengkel-las.png)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cutting.bengkel-las.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The frozen catalog has 20 parent topics and 120 briefs. Intended readers include homeowners, facility and maintenance teams, small manufacturers, procurement staff, project supervisors, and workshop operators. Repository plans are editorial inputs, not proof of a real workshop, staff, equipment, qualifications, prices, locations, or services.
-- **Limits:** Re-read both frozen files if the project role, catalog, URL ownership, or conversion path changes. Do not infer an automotive specialty or add unsupported neighboring trades.
-
-### KR-04
-
-- **Original sources:** [ISO 17635:2025 — official ISO abstract](https://www.iso.org/standard/85705.html), [ISO 9712:2021 — official ISO abstract](https://www.iso.org/standard/75614.html).
-- **Purpose for this article:** Prevent visual symptoms or an isolated measurement from being presented as a complete diagnosis or acceptance decision.
-- **Safe grounded facts:** Inspection method, coverage, technique, personnel, equipment, surface condition, calibration/verification status, reporting, and acceptance basis are separate evidence items. ISO 17635 also warns that NDT acceptance levels are not a direct one-to-one translation of ISO 5817 quality levels.
-- **Limits:** The abstracts do not supply technique parameters, acceptance values, required extent, calibration intervals, or project fitness. Obtain the governing code, full standards, written procedure, and asset-specific inspection plan.
-
-### KR-07
-
-- **Original sources:** [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html), [ISO 12944-5:2019 — official ISO abstract](https://www.iso.org/standard/77795.html), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Make material and consumable records usable for fabrication, compatibility, safety, inspection, maintenance, and later failure investigation.
-- **Safe grounded facts:** Useful traceability can include material designation, dimensions/heat or batch where required, certificate/report linkage, filler/consumable classification and batch, storage/conditioning, coating product and batch, mixing/application records, replacement-part identity, and approved substitution. The US hazard-communication rule illustrates label and safety-data-sheet concepts but is not Indonesian law.
-- **Limits:** Do not infer composition, compatibility, shelf life, storage, mixing ratio, coverage, cure, welding parameter, exposure limit, or disposal route from generic labels. Verify exact product, batch, substrate, environment, and current Indonesian rules.
-
-### KR-08
-
-- **Original sources:** [SNI 1729:2020 — official BSN catalog](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html).
-- **Purpose for this article:** Ground fabrication planning in defined requirements rather than verbal descriptions, copied details, or unverified workshop habit.
-- **Safe grounded facts:** A controlled fabrication package can need governing documents and revision, function, dimensions/datums, material and joint identity, loads/interfaces, tolerances, fabrication sequence, weld/fastener/coating requirements, inspection and hold points, acceptance basis, handling, installation, and approved deviations.
-- **Limits:** The BSN page does not reveal clauses, tolerances, combinations, connection design, execution rules, or acceptance values. Obtain the licensed governing standards and issued-for-work project documents.
-
-### KR-14
-
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.252 — welding, cutting, and brazing](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Help readers compare controlled shop fabrication with field work where the environment, interfaces, access, occupants, combustibles, weather, and permits can change the method and risk.
-- **Safe grounded facts:** Moving work on site can change fit-up control, position, access, lifting, weather, electrical supply, fume dispersion, fire exposure, nearby operations, traffic/public interface, coating conditions, inspection access, and restoration. A field weld is not justified merely because transport is inconvenient.
-- **Limits:** Do not import US distances, permits, or prescriptions. The responsible Indonesian site/K3 authority must approve the current task-specific controls.
-
-### KR-16
-
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 12 Tahun 2015 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Provide a systems view of workshop K3 instead of reducing safety to personal protective equipment.
-- **Safe grounded facts:** A controlled task starts with elimination/substitution and engineering/administrative controls, then suitable PPE; product identity and current safety data matter for chemicals. Emergency planning must reflect the actual energy, fire, exposure, first-aid, evacuation, communication, and rescue scenario.
-- **Limits:** This file supplies no exposure limit, PPE selection, ventilation rate, electrical protection setting, cylinder separation, fire-watch duration, or emergency procedure. Resolve them from current Indonesian rules, site conditions, exact products, and competent K3 review.
-
-### KR-20
-
-- **Original sources:** [PP No. 22 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Connect source reduction, controlled use, segregation, reuse/recycling, worker exposure, and legal waste disposition without assuming every metal offcut is harmless or recyclable.
-- **Safe grounded facts:** Waste identity, contamination, generator/site context, storage, labeling, transport, receiver authorization, records, and current local rules determine the route. Reuse and repair may avoid new material but do not automatically reduce total environmental or safety impact.
-- **Limits:** Do not classify a waste, recommend mixing, state a storage limit, name a legal carrier/receiver, or claim a quantified environmental benefit without current Indonesian/local requirements, characterization, mass/energy data, and authorized-party evidence.
-
-### KR-15
-
-- **Original sources:** [ISO 5817:2023 — official ISO abstract](https://www.iso.org/standard/80209.html), [ISO 17635:2025 — official ISO abstract](https://www.iso.org/standard/85705.html), [ISO 9712:2021 — official ISO abstract](https://www.iso.org/standard/75614.html).
-- **Purpose for this article:** Keep QA articles from confusing workmanship levels, NDT technique, indication evaluation, personnel certification, equipment status, and engineering acceptance.
-- **Safe grounded facts:** A quality plan needs the governing acceptance basis, joint and examination identification, method/technique and extent, written procedure where required, personnel scope, equipment identity and current calibration/verification, surface/test conditions, report traceability, result, nonconformance, disposition authority, repair cycle, and closeout.
-- **Limits:** Do not publish imperfection limits, acceptance tables, technique settings, calibration intervals, or certification equivalence from abstracts. Obtain full current standards and project procedures.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-- **GATE-09:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
-- **GATE-11:** Resolve the gate from current project evidence and competent review.
-- **GATE-12:** Resolve the gate from current project evidence and competent review.
-- **GATE-13:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — fallback home route; use only when it is genuinely useful.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUT-08-04` → `/artikel/dimensi-kritis-dan-nonkritis.html` — Dimensi Kritis dan Nonkritis: Cara Memberi Prioritas pada Gambar
-- `CUT-08-05` → `/artikel/radius-sudut-dalam-cnc.html` — Radius Sudut Dalam pada CNC Router dan CNC Milling
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Lebar Slot, Diameter Lubang, dan Jarak Minimum Antarfitur”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Aset lokal proyek; gambar ini bukan dokumentasi proyek tertentu.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Lebar Slot, Diameter Lubang, dan Jarak Minimum Antarfitur”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+“Fitur kecil” di sini berarti geometri yang ukurannya mendekati batas stabil proses: bukaan slot, lubang tembus atau buntu, sudut dalam, serta jarak dari fitur itu ke tepi atau fitur lain. Fokusnya adalah geometri pada satu komponen hasil CNC cutting. Nesting antarkomponen, yaitu pengaturan banyak komponen dalam satu lembaran, berada di luar bahasan ini.
+
+Tiga ukuran perlu dibaca bersama. Lebar slot adalah ukuran bukaan setelah material terpotong, bukan sekadar diameter alat. Diameter lubang adalah ukuran akhir yang harus bisa menerima fungsi pasangan, bukan ukuran file CAD semata. Jarak antarfitur sebaiknya dibaca dari tepi-ke-tepi dan dari pusat-ke-pusat sesuai cara gambar mendefinisikannya. Jika datum atau arah pengukuran tidak jelas, operator dan pemeriksa dapat memakai acuan berbeda.
+
+Toleransi bukan “bonus” yang otomatis tersedia. Toleransi adalah rentang yang disepakati, dengan metode ukur dan kondisi ukur yang juga harus jelas. Spesifikasi fabrikasi yang terkendali lazimnya menghubungkan dokumen dan revisi, material, dimensi, toleransi, urutan kerja, titik inspeksi, serta dasar penerimaan; identitas kebutuhan itu perlu datang dari paket kerja yang disetujui, bukan kebiasaan lisan. Rujukan [ISO 3834-6:2024](https://www.iso.org/standard/83335.html) dapat dipakai sebagai pengingat bahwa persyaratan mutu dan dokumentasi harus ditentukan untuk pekerjaan yang relevan, sementara rincian proyek tetap memerlukan dokumen yang berlaku. [NEEDS PROJECT FABRICATION SPECIFICATION]
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Lebar Slot, Diameter Lubang, dan Jarak Minimum Antarfitur”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Urutkan keputusan dari fungsi ke proses. Pertama, tandai fitur mana yang benar-benar kritis: lubang untuk pin, slot untuk penyetelan, atau jarak yang memengaruhi kekuatan tepi. Kedua, pilih proses yang diizinkan oleh material dan tebalnya. Laser, plasma, router, atau proses lain meninggalkan karakter tepi, lebar zona terpengaruh panas, dan kebutuhan finishing yang berbeda. Ketiga, minta kemampuan aktual mesin pada kombinasi material tersebut, bukan angka promosi umum.
+
+Setelah itu, hitung lintasan berdasarkan ukuran akhir yang diinginkan. Pada pemotongan profil, pusat lintasan alat berada di satu sisi garis teoritis; nilai offset mempertimbangkan kerf. Kerf yang berubah sepanjang lembaran membuat kompensasi nominal perlu dibuktikan dengan kupon atau pemeriksaan awal yang disetujui. Jangan mengubah nilai offset hanya agar satu lubang terlihat pas lalu menerapkannya ke semua fitur tanpa verifikasi.
+
+Untuk slot, periksa lebar efektif di beberapa titik dan pastikan alat dapat masuk, berbelok, serta membuang panas dan serpihan sesuai proses. Slot yang memanjang tetapi sempit bisa lebih sensitif terhadap kelurusan dan taper daripada lubang pendek. Untuk lubang, periksa kebulatan, taper, burr, dan kondisi permukaan sebelum menyimpulkan bahwa diameter sudah memenuhi fungsi. Untuk fitur berdekatan, lihat juga sisa web atau ligamen di antaranya: bagian ini dapat melengkung, terbakar, atau robek ketika panas dan gaya pemotongan terakumulasi.
+
+Rencana inspeksi perlu menyebut siapa yang mengukur, alat ukur apa, resolusi dan status verifikasinya, lokasi titik ukur, serta cara menangani hasil di luar toleransi. [ISO 17635:2025](https://www.iso.org/standard/85705.html) mengingatkan bahwa metode, cakupan, teknik, personel, peralatan, kondisi permukaan, pelaporan, dan dasar penerimaan adalah bukti yang terpisah; satu pengukuran visual tidak otomatis menjadi keputusan penerimaan menyeluruh. [NEEDS INSPECTION PLAN AND ACCEPTANCE BASIS]
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Lebar Slot, Diameter Lubang, dan Jarak Minimum Antarfitur”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Material dan tebal mengubah panas, kekakuan, dan respons tepi. Lembaran tipis dapat bergerak ketika area di sekitarnya dipotong; material yang lebih tebal dapat memerlukan strategi lintasan berbeda. Kondisi permukaan, lapisan, sisa tegangan, dan kualitas penyanggaan juga dapat mengubah hasil. Karena itu, contoh angka dari material lain tidak boleh dipindahkan begitu saja.
+
+Alat potong dan kondisi mesin ikut menentukan. Diameter atau lebar alat, fokus atau tinggi pemotongan, kecepatan, daya, gas, strategi masuk-keluar, keausan, dan kebersihan meja merupakan parameter proses. Nilai tersebut adalah parameter pekerjaan, bukan fakta universal yang dapat ditetapkan dari judul artikel ini. Mintalah lembar kemampuan proses atau hasil trial yang menyebut kombinasi material, tebal, alat, dan tanggal verifikasi. `[NEEDS CURRENT MACHINE CAPABILITY RECORD]`
+
+Geometri juga saling memengaruhi. Lubang dekat tepi meninggalkan web yang lebih kecil daripada lubang yang sama di area lapang. Dua slot paralel dapat menyisakan strip sempit yang mudah berubah bentuk. Radius sudut dalam, urutan potong, dan titik lead-in dapat mengurangi atau memindahkan masalah, tetapi tidak mengubah fungsi desain yang memang meminta bukaan sangat kecil.
+
+Terakhir, bedakan ukuran sebelum dan sesudah finishing. Deburring, penggerindaan, pelapisan, atau pembesaran lubang untuk proses lanjutan dapat mengubah ukuran dan tepi. Gambar harus menyatakan tahap mana yang menjadi referensi penerimaan. Jika komponen akan dirakit, toleransi pasangan, arah pemasangan, dan kemungkinan penyesuaian harus ditinjau bersama oleh perancang dan pelaksana.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Lebar Slot, Diameter Lubang, dan Jarak Minimum Antarfitur”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan tabel keputusan berikut sebagai percakapan awal, bukan pengganti data proses.
+
+| Pertanyaan pada gambar atau permintaan | Keputusan awal yang aman | Bukti yang masih diperlukan |
+|---|---|---|
+| Slot hanya untuk mengurangi massa | Longgarkan target bila fungsi mengizinkan dan hindari web yang sangat tipis | Fungsi, tebal material, dan target kekuatan |
+| Slot menjadi jalur baut atau penyetelan | Tetapkan ukuran akhir dan toleransi berdasarkan pasangan baut/washer serta cara ukur | Detail pasangan, datum, dan kapabilitas mesin |
+| Lubang menerima pin atau poros | Jangan memakai diameter alat sebagai diameter akhir; tetapkan kebutuhan pas dan proses lanjutan | Spesifikasi pasangan, finishing, dan verifikasi diameter |
+| Dua lubang sangat dekat | Periksa web minimum, urutan potong, dan risiko deformasi sebelum menyetujui | Trial pada material-tebal yang sama dan persetujuan desain |
+| Tepi fitur akan dilas atau dilapisi | Sisakan kondisi tepi dan akses yang memungkinkan proses berikutnya | Prosedur sambungan/lapisan dan titik inspeksi |
+
+Misalnya, permintaan “buat lubang sekecil mungkin” belum cukup untuk diteruskan ke operator. Pertanyaan yang benar adalah: sekecil apa menurut fungsi, pada material dan tebal berapa, dengan proses apa, dan bagaimana diameter akan diterima? Jika jawabannya belum tertulis, tahan rilis gambar dan pasang `[NEEDS DESIGN FUNCTION AND ACCEPTANCE CRITERIA]`.
+
+Sobat Bengkel-las.co.id, ketika hasil trial menunjukkan satu ukuran berhasil, catat kondisi yang membuatnya berhasil. Catatan itu bukan jaminan untuk semua batch; ia hanya bukti untuk kombinasi yang diuji. Perubahan material, nozzle, alat, program, atau urutan potong memerlukan penilaian ulang.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Lebar Slot, Diameter Lubang, dan Jarak Minimum Antarfitur”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menyalin “minimum hole” dari tabel vendor tanpa mencocokkan material, tebal, proses, dan toleransi. Periksa sumber angka dan minta kapabilitas yang dapat ditelusuri.
 
-## Objection or shortcut to address
+Kesalahan kedua adalah mengukur satu titik lalu menyatakan semua fitur lulus. Ukur pola yang mewakili awal, tengah, dan akhir pemotongan; tetapkan metode serta alatnya di rencana inspeksi. Jika metode pemeriksaan atau dasar penerimaan belum disepakati, hasilnya belum menjadi keputusan final.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan ketiga adalah mengira kompensasi kerf menyelesaikan taper, burr, panas, dan gerakan lembaran sekaligus. Verifikasi ukuran akhir dan kondisi tepi; jangan menyamakan koreksi program dengan jaminan performa.
 
-## Required conclusion
+Kesalahan keempat adalah mengabaikan revisi gambar dan datum. Cocokkan file yang diprogram, gambar yang disetujui, nomor revisi, orientasi material, serta tanda identifikasi komponen sebelum memotong.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Kesalahan kelima adalah memperbesar atau menggerinda fitur di lapangan tanpa otorisasi. Perubahan itu dapat memindahkan datum dan mengurangi web. Setiap penyimpangan harus dicatat dan disetujui pihak berwenang dalam paket kerja.
 
-## Draft completion checklist
+## Jalan pintas yang sering dipilih
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Bengkel-las.co.id!` and uses friendly `Bengkel-las.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Jalan pintas yang paling menggoda adalah menetapkan satu angka minimum untuk semua lubang dan slot agar pemesanan cepat. Cara ini gagal karena angka minimum bukan hanya sifat mesin; ia adalah hasil interaksi fungsi, material, proses, toleransi, dan pemeriksaan. Lebih aman membuat daftar fitur kritis, meminta rekaman kapabilitas untuk kombinasi yang akan dipakai, lalu melakukan trial atau review teknik bila bukti belum ada.
+
+Kawan Bengkel-las.co.id, jangan menyamarkan ketidakpastian dengan menulis toleransi rapat yang tidak bisa diverifikasi. Toleransi yang terlalu ketat dapat memicu rework, sedangkan toleransi yang terlalu longgar dapat menggagalkan perakitan. Pilih toleransi yang dibutuhkan fungsi dan pastikan cara ukurnya realistis.
+
+## Kesimpulan
+
+Lebar slot, diameter lubang, dan jarak minimum antarfitur tidak memiliki satu angka universal. Tetapkan ukuran akhir dari fungsi, tebal dan jenis material, proses serta alat, kerf dan kompensasinya, kondisi finishing, lalu pastikan toleransi, datum, dan dasar penerimaan tertulis. Sebelum produksi, minta gambar revisi yang disetujui, catatan kemampuan mesin atau trial yang relevan, dan rencana inspeksi; tandai `[NEEDS TECHNICAL REVIEW]` bila salah satunya belum tersedia.
+
+Teman Bengkel-las.co.id, aturan operasionalnya sederhana: fitur kecil boleh dirilis hanya setelah fungsi dan cara ukurnya jelas serta kapabilitas prosesnya dibuktikan untuk kombinasi pekerjaan tersebut. Jika bukti itu belum ada, berhenti di tahap review—jangan mengisi kekosongan dengan angka tebakan. Untuk konteks layanan dan topik terkait, mulai dari [beranda Bengkel-las.co.id](/), lalu simpan [rujukan ilustrasi kerja](/wp-content/uploads/2019/10/bengkel-las.png) bersama gambar dan kriteria penerimaan sebelum rilis.

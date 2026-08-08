@@ -1,9 +1,10 @@
 ---
 article_id: CUT-04-04
+writing_contract_version: "native-id-v2"
 title: "Laser Cutting Kertas dan Karton untuk Mockup dan Kemasan"
 slug: "laser-cutting-kertas-dan-karton"
 description: "Memilih teknik laser yang tepat untuk akrilik, kayu, tekstil, kertas, dan bahan nonlogam lain."
-status: outline
+status: draft
 publication_date: "2025-10-12"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,229 +17,84 @@ technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970"
   - "https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252"
-  - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
-  - "https://www.iso.org/standard/83335.html"
-  - "https://www.iso.org/standard/77795.html"
   - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200"
-  - "https://pesta.bsn.go.id/produk/detail/12882-sni17292020"
-  - "https://www.iso.org/standard/51792.html"
-  - "https://www.iso.org/standard/54936.html"
-  - "https://www.iso.org/standard/80209.html"
-  - "https://www.iso.org/standard/85705.html"
-  - "https://www.iso.org/standard/75614.html"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015"
   - "https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Laser Cutting Kertas dan Karton untuk Mockup dan Kemasan
 
-## Assignment lock
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-004. Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+**Exact Markdown to insert:** `![Ilustrasi memilih jasa bengkel las](/wp-content/uploads/2020/02/memilih-jasa-bengkel-las.jpg)`
+END MANAGED IMAGE PLAN -->
 
-- **Writer task:** Expand this file into one complete article answering: “Laser Cutting Kertas dan Karton untuk Mockup dan Kemasan”
-- **Reader and situation:** Memilih teknik laser yang tepat untuk akrilik, kayu, tekstil, kertas, dan bahan nonlogam lain.
-- **Reader outcome:** Memilih teknik laser yang tepat untuk akrilik, kayu, tekstil, kertas, dan bahan nonlogam lain.
-- **Primary intent:** Memilih laser untuk prototipe kemasan
-- **Reader community:** `Bengkel-las.co.id`
-- **Primary friendly address:** `Sobat Bengkel-las.co.id`
-- **Natural variants:** `Kawan Bengkel-las.co.id` and `Teman Bengkel-las.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Khusus bahan berbasis kertas; produksi panel dimiliki CUT-05.
-- **Final public route:** `/artikel/laser-cutting-kertas-dan-karton.html`
-- **Appointed CMS date:** `2025-10-12` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Halo, Sobat Bengkel-las.co.id! Untuk mockup dan kemasan dari kertas atau karton, laser cutting layak dipilih ketika Anda membutuhkan pola berulang yang presisi, lipatan, lubang, atau detail kecil tanpa membuat pisau potong khusus. Namun laser bukan tombol “siap produksi”. Jenis kertas, lapisan cetak, perekat, ukuran lembar, dan kebutuhan tepi bersih harus diuji bersama-sama.
 
-## Opening instructions
+Jawaban singkatnya: mulai dari sampel bahan yang benar-benar akan dipakai, lakukan uji potong dan uji lipat, lalu tetapkan parameter kerja berdasarkan hasil sampel itu. Jangan menyalin parameter dari bahan lain. Perubahan kecil pada gramatur, kelembapan, coating, atau tinta dapat mengubah tepi, asap, dan risiko api. Kesimpulan ini berubah bila bahan memiliki lapisan atau aditif yang tidak dapat diidentifikasi; tahan pekerjaan dan minta review bahan terlebih dahulu. [NEEDS MATERIAL SAFETY REVIEW]
 
-- Open with the exact short salutation: **“Halo, Sobat Bengkel-las.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Laser Cutting Kertas dan Karton untuk Mockup dan Kemasan**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Bengkel-las.co.id`, `Kawan Bengkel-las.co.id`, or `Teman Bengkel-las.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+![Ilustrasi memilih jasa bengkel las](/wp-content/uploads/2020/02/memilih-jasa-bengkel-las.jpg)
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-004`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi memilih jasa bengkel las](/wp-content/uploads/2020/02/memilih-jasa-bengkel-las.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `memilih jasa bengkel las` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-004]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cutting.bengkel-las.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The frozen catalog has 20 parent topics and 120 briefs. Intended readers include homeowners, facility and maintenance teams, small manufacturers, procurement staff, project supervisors, and workshop operators. Repository plans are editorial inputs, not proof of a real workshop, staff, equipment, qualifications, prices, locations, or services.
-- **Limits:** Re-read both frozen files if the project role, catalog, URL ownership, or conversion path changes. Do not infer an automotive specialty or add unsupported neighboring trades.
-
-### KR-14
-
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.252 — welding, cutting, and brazing](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Help readers compare controlled shop fabrication with field work where the environment, interfaces, access, occupants, combustibles, weather, and permits can change the method and risk.
-- **Safe grounded facts:** Moving work on site can change fit-up control, position, access, lifting, weather, electrical supply, fume dispersion, fire exposure, nearby operations, traffic/public interface, coating conditions, inspection access, and restoration. A field weld is not justified merely because transport is inconvenient.
-- **Limits:** Do not import US distances, permits, or prescriptions. The responsible Indonesian site/K3 authority must approve the current task-specific controls.
-
-### KR-07
-
-- **Original sources:** [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html), [ISO 12944-5:2019 — official ISO abstract](https://www.iso.org/standard/77795.html), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Make material and consumable records usable for fabrication, compatibility, safety, inspection, maintenance, and later failure investigation.
-- **Safe grounded facts:** Useful traceability can include material designation, dimensions/heat or batch where required, certificate/report linkage, filler/consumable classification and batch, storage/conditioning, coating product and batch, mixing/application records, replacement-part identity, and approved substitution. The US hazard-communication rule illustrates label and safety-data-sheet concepts but is not Indonesian law.
-- **Limits:** Do not infer composition, compatibility, shelf life, storage, mixing ratio, coverage, cure, welding parameter, exposure limit, or disposal route from generic labels. Verify exact product, batch, substrate, environment, and current Indonesian rules.
-
-### KR-08
-
-- **Original sources:** [SNI 1729:2020 — official BSN catalog](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html).
-- **Purpose for this article:** Ground fabrication planning in defined requirements rather than verbal descriptions, copied details, or unverified workshop habit.
-- **Safe grounded facts:** A controlled fabrication package can need governing documents and revision, function, dimensions/datums, material and joint identity, loads/interfaces, tolerances, fabrication sequence, weld/fastener/coating requirements, inspection and hold points, acceptance basis, handling, installation, and approved deviations.
-- **Limits:** The BSN page does not reveal clauses, tolerances, combinations, connection design, execution rules, or acceptance values. Obtain the licensed governing standards and issued-for-work project documents.
-
-### KR-09
-
-- **Original sources:** [ISO 15614-1:2017 — official ISO abstract](https://www.iso.org/standard/51792.html), [ISO 9606-1:2012 — official ISO abstract](https://www.iso.org/standard/54936.html), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html).
-- **Purpose for this article:** Prevent an article from treating a welder card, a WPS, a procedure test, workmanship, and the finished joint's acceptance as interchangeable.
-- **Safe grounded facts:** Procedure qualification, production WPS, welder/operator qualification, material/process/position/thickness/diameter range, continuity/validity, equipment condition, consumable control, preheat/interpass control, inspection, and final acceptance are distinct records.
-- **Limits:** Both welding-qualification standards are current at verification but under revision. The public abstracts do not provide qualification ranges or test requirements; recheck editions and use licensed text plus the project specification.
-
-### KR-15
-
-- **Original sources:** [ISO 5817:2023 — official ISO abstract](https://www.iso.org/standard/80209.html), [ISO 17635:2025 — official ISO abstract](https://www.iso.org/standard/85705.html), [ISO 9712:2021 — official ISO abstract](https://www.iso.org/standard/75614.html).
-- **Purpose for this article:** Keep QA articles from confusing workmanship levels, NDT technique, indication evaluation, personnel certification, equipment status, and engineering acceptance.
-- **Safe grounded facts:** A quality plan needs the governing acceptance basis, joint and examination identification, method/technique and extent, written procedure where required, personnel scope, equipment identity and current calibration/verification, surface/test conditions, report traceability, result, nonconformance, disposition authority, repair cycle, and closeout.
-- **Limits:** Do not publish imperfection limits, acceptance tables, technique settings, calibration intervals, or certification equivalence from abstracts. Obtain full current standards and project procedures.
-
-### KR-16
-
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 12 Tahun 2015 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Provide a systems view of workshop K3 instead of reducing safety to personal protective equipment.
-- **Safe grounded facts:** A controlled task starts with elimination/substitution and engineering/administrative controls, then suitable PPE; product identity and current safety data matter for chemicals. Emergency planning must reflect the actual energy, fire, exposure, first-aid, evacuation, communication, and rescue scenario.
-- **Limits:** This file supplies no exposure limit, PPE selection, ventilation rate, electrical protection setting, cylinder separation, fire-watch duration, or emergency procedure. Resolve them from current Indonesian rules, site conditions, exact products, and competent K3 review.
-
-### KR-20
-
-- **Original sources:** [PP No. 22 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Connect source reduction, controlled use, segregation, reuse/recycling, worker exposure, and legal waste disposition without assuming every metal offcut is harmless or recyclable.
-- **Safe grounded facts:** Waste identity, contamination, generator/site context, storage, labeling, transport, receiver authorization, records, and current local rules determine the route. Reuse and repair may avoid new material but do not automatically reduce total environmental or safety impact.
-- **Limits:** Do not classify a waste, recommend mixing, state a storage limit, name a legal carrier/receiver, or claim a quantified environmental benefit without current Indonesian/local requirements, characterization, mass/energy data, and authorized-party evidence.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-- **GATE-09:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
-- **GATE-11:** Resolve the gate from current project evidence and competent review.
-- **GATE-12:** Resolve the gate from current project evidence and competent review.
-- **GATE-13:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — fallback home route; use only when it is genuinely useful.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUT-04-02` → `/artikel/laser-cutting-kayu-dan-plywood.html` — Laser Cutting Kayu dan Plywood: Gosong, Asap, dan Kualitas Tepi
-- `CUT-04-03` → `/artikel/bahan-tidak-cocok-untuk-laser-cutting.html` — Bahan yang Tidak Aman atau Tidak Cocok untuk Laser Cutting
-- `CUT-04-05` → `/artikel/laser-cutting-kain-dan-tekstil.html` — Laser Cutting Kain dan Tekstil: Tepi, Pola, dan Pengujian
-- `CUT-04-06` → `/artikel/laser-engraving-vs-laser-cutting.html` — Laser Engraving vs Laser Cutting pada Bahan Nonlogam
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Laser Cutting Kertas dan Karton untuk Mockup dan Kemasan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Laser memindahkan energi ke jalur gambar untuk memisahkan serat kertas atau karton. Hasil yang baik bukan sekadar garis yang putus, melainkan potongan yang sesuai dimensi, dapat dilipat, tidak mengganggu area cetak, dan aman ditangani. Mockup satuan biasanya mengejar kecepatan iterasi; kemasan yang akan diproduksi membutuhkan konsistensi, penandaan, dan pemeriksaan lebih ketat.
+
+Salah paham paling umum adalah menganggap semua karton “sama”. Karton tanpa lapisan, karton berlapis, kertas berperekat, dan lembar yang sudah dicetak dapat menghasilkan residu serta tepi berbeda. Label pemasok dan lembar data keselamatan (safety data sheet/SDS) membantu mengidentifikasi produk, tetapi tidak menggantikan uji pada substrat aktual. Konsep komunikasi bahaya dan SDS dijelaskan dalam [OSHA 29 CFR 1910.1200](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200); rujukan ini bukan hukum Indonesia.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Laser Cutting Kertas dan Karton untuk Mockup dan Kemasan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Artikel ini membahas pemotongan berbasis laser pada kertas dan karton untuk mockup, pola, dan prototipe kemasan. Termasuk pemilihan bahan, persiapan berkas, uji sampel, pemeriksaan tepi, serta pengelolaan sisa potongan. Pembahasan tidak mencakup produksi panel logam, pemilihan laser untuk kayu atau tekstil, atau persetujuan desain kemasan massal.
+
+Batas ini penting karena kertas merupakan bahan mudah terbakar dan bentuk kemasan sering memiliki garis potong serta garis lipat yang berdekatan. Bila desain membutuhkan komponen akrilik, kayu, atau tekstil, pisahkan keputusan material dan lakukan penilaian masing-masing. Jangan memperlakukan keberhasilan pada satu bahan sebagai bukti bahwa bahan lain aman.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Laser Cutting Kertas dan Karton untuk Mockup dan Kemasan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Urutan kerja yang dapat diaudit dimulai dari berkas vektor: garis potong, garis skor atau tanda lipat, dan area yang tidak boleh terkena sinar. Operator lalu memeriksa skala, arah serat bila relevan, jarak antarfitur, serta apakah garis berulang benar-benar tertutup. Simpan versi berkas dan identitas lembar bahan agar sampel dapat ditelusuri.
+
+Lakukan uji kecil di bagian bahan yang sama dengan produk akhir. Amati apakah potongan menembus penuh, apakah tepi menghitam atau berbulu, dan apakah kertas melengkung setelah proses. Uji juga rangkaian lipat dan perakitan; garis yang tampak rapi dapat tetap retak saat ditekuk. Setelah satu kondisi lulus, buat sampel kedua untuk memastikan hasil tidak kebetulan. [NEEDS PROCESS-QUALIFICATION EVIDENCE]
+
+Selama proses, operator harus siap menghentikan pekerjaan bila terlihat nyala, asap berlebih, atau perubahan suara dan bau yang tidak biasa. Area kerja perlu bebas dari bahan mudah terbakar yang tidak diperlukan, dan jalur pembuangan asap harus dinilai oleh penanggung jawab K3. Kewajiban keselamatan kerja perlu mengikuti kondisi tempat kerja dan aturan Indonesia yang berlaku, termasuk kerangka [UU No. 1 Tahun 1970](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970) dan ketentuan K3 lingkungan kerja pada [Permenaker No. 5 Tahun 2018](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018). Jangan menganggap penutup mesin atau kacamata saja sudah cukup.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Laser Cutting Kertas dan Karton untuk Mockup dan Kemasan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pertama, identitas bahan: jenis serat, ketebalan, gramatur, kelembapan, coating, tinta, laminasi, dan perekat. Minta lembar spesifikasi serta SDS jika ada bahan tambahan. Bila pemasok tidak dapat menjelaskan lapisan atau komposisi, tandai bahan untuk pemeriksaan sebelum diproses.
+
+Kedua, geometri. Sudut tajam, lubang kecil, garis berdekatan, dan sudut dalam menumpuk panas lebih mudah daripada garis panjang yang terpisah. Sisakan jarak sesuai hasil uji, bukan angka yang diambil dari internet. Pisahkan garis potong dan garis lipat dengan warna atau layer yang jelas agar operator tidak salah menjalankan fungsi.
+
+Ketiga, tujuan penggunaan. Mockup presentasi dapat menerima variasi kosmetik tertentu, sedangkan prototipe yang akan diuji pengisian, penutupan, atau pengiriman perlu pemeriksaan dimensi dan kekuatan lipatan. Tetapkan kriteria lulus sebelum memotong banyak lembar: ukuran, kebersihan tepi, kecocokan rakitan, dan keterbacaan cetak.
+
+Keempat, lingkungan kerja dan penanganan. Penumpukan sisa potongan, debu, ventilasi yang tidak memadai, atau kabel yang menghalangi akses dapat memperbesar konsekuensi insiden. [NEEDS SITE-SPECIFIC K3 REVIEW] Sobat Bengkel-las.co.id, minta penanggung jawab menjelaskan cara isolasi energi, penghentian darurat, penanganan api, dan pembersihan residu untuk mesin yang dipakai; jangan mengisi detail yang belum diverifikasi.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Laser Cutting Kertas dan Karton untuk Mockup dan Kemasan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan tabel sederhana berikut sebagai penyaring awal, bukan pengganti uji:
+
+| Kondisi | Pilihan kerja awal | Bukti sebelum lanjut |
+|---|---|---|
+| Mockup satu atau dua lembar, bahan polos dan teridentifikasi | Uji potong kecil lalu rakit | Tepi tidak mengganggu fungsi dan ukuran sesuai berkas |
+| Karton berlapis atau sudah dicetak | Minta spesifikasi lapisan, uji area cetak dan area kosong | Tidak ada perubahan yang merusak tampilan atau fungsi |
+| Banyak garis rapat dan lipatan | Pecah desain menjadi sampel bertahap | Sudut, lubang, dan lipatan tetap utuh setelah dirakit |
+| Bahan berperekat atau komposisi tidak jelas | Tahan pekerjaan | SDS/spesifikasi dan persetujuan K3 tersedia |
+
+Contoh keputusan: jika mockup hanya untuk memeriksa proporsi, potong satu lembar dari stok yang sama dan dokumentasikan hasilnya. Jika mockup akan menjadi dasar pesanan produksi, tambahkan uji perakitan berulang dan pemeriksaan dimensi. Jangan menyebutnya “siap produksi” sebelum kriteria dan bukti disetujui. [NEEDS PRODUCTION-READINESS REVIEW]
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Laser Cutting Kertas dan Karton untuk Mockup dan Kemasan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menyalin setelan dari kertas lain. Periksa identitas bahan, ketebalan aktual, dan tanggal uji sebelum menggunakan berkas parameter. Kesalahan kedua adalah mengabaikan garis lipat. Pastikan fungsi tiap layer disepakati dan contoh rakitan diperiksa oleh orang kedua.
 
-## Objection or shortcut to address
+Kesalahan ketiga adalah menilai kualitas hanya dari sisi atas. Balik sampel, periksa residu, serat terangkat, dan perubahan warna, lalu lakukan lipatan sesuai penggunaan. Kesalahan keempat adalah mencampur sisa potongan tanpa identifikasi. Pisahkan sisa bersih dari sisa berlapis, berperekat, atau terkontaminasi; rute penyimpanan dan pembuangan harus mengikuti karakterisasi serta aturan setempat. [PP No. 22 Tahun 2021](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021) dapat menjadi rujukan kerangka lingkungan, tetapi tidak otomatis menentukan klasifikasi sisa Anda.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Sebelum menyetujui pekerjaan, tanyakan: bahan apa yang diuji, siapa yang menyetujui kriteria lulus, bagaimana sampel ditelusuri ke berkas, apa kondisi penghentian, dan ke mana sisa proses dikirim. Simpan catatan revisi dan keputusan atas penyimpangan. Untuk langkah lanjutan dengan tim bengkel, gunakan [beranda Bengkel-las.co.id](/) dan halaman [kontak layanan](/kontak.html) bila rute tersebut tersedia di situs Anda.
 
-## Required conclusion
+## Jalan pintas yang tampak murah
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Jalan pintas yang sering dipilih adalah langsung memotong seluruh batch setelah satu garis terlihat berhasil. Ini dapat gagal karena panas terakumulasi pada pola berbeda, lembar berikutnya memiliki kelembapan lain, atau lapisan cetak bereaksi tidak sama. Alternatif yang lebih andal adalah membuat sampel representatif, menetapkan kriteria lulus, lalu melakukan pemeriksaan berkala ketika bahan, berkas, atau kondisi mesin berubah.
 
-## Draft completion checklist
+Kawan Bengkel-las.co.id, biaya sampel kecil biasanya lebih mudah dikendalikan daripada membongkar kemasan yang sudah telanjur dicetak dan dipotong. Namun saya tidak dapat menetapkan jumlah sampel, parameter daya, atau kapasitas produksi tanpa data mesin, bahan, dan prosedur Anda. [NEEDS MACHINE-AND-MATERIAL TRIAL]
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Bengkel-las.co.id!` and uses friendly `Bengkel-las.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Kesimpulan dan langkah berikutnya
+
+Laser cutting kertas dan karton cocok untuk mockup serta prototipe kemasan bila bahan teridentifikasi, pola diuji pada substrat aktual, dan hasil potong-lipat diperiksa terhadap tujuan desain. Pilihan teknik tidak boleh diputuskan dari nama bahan saja.
+
+Langkah berikutnya: siapkan berkas vektor berlapis, spesifikasi dan SDS bahan, satu lembar sampel, serta kriteria lulus tertulis. Minta operator dan penanggung jawab K3 meninjau uji tersebut sebelum pekerjaan berulang. Jika salah satu dokumen atau kondisi keselamatan belum jelas, berhenti pada tahap sampel dan pasang penanda **[NEEDS COMPETENT REVIEW BEFORE PRODUCTION]**. Aturan operasionalnya sederhana: bahan baru, lapisan baru, atau desain baru berarti uji baru.

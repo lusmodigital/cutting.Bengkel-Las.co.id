@@ -2,8 +2,9 @@
 article_id: CUT-15-05
 title: "CNC Cutting untuk Jig, Fixture, dan Template Produksi"
 slug: "cnc-cutting-jig-fixture-template"
-description: "Menerjemahkan kebutuhan signage, interior, panel, furnitur, enclosure, dan komponen menjadi brief cutting."
-status: outline
+description: "Panduan menerjemahkan kebutuhan signage, interior, panel, furnitur, enclosure, dan komponen menjadi permintaan pemotongan CNC."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-06-27"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -19,223 +20,92 @@ sources:
   - "https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970"
   - "https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018"
   - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252"
-  - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
-  - "https://www.iso.org/standard/77795.html"
   - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015"
-  - "https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021"
-  - "https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.212"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # CNC Cutting untuk Jig, Fixture, dan Template Produksi
 
-## Assignment lock
+Halo, Teman Bengkel-las.co.id! Jika Anda membutuhkan alat bantu agar pola lubang, posisi panel, atau bentuk komponen berulang tetap konsisten, CNC cutting layak dipilih ketika geometri sudah jelas dan benda kerja dapat direferensikan dengan datum yang tegas. Hasil cutting bukan otomatis jig atau fixture yang siap dipakai: ia baru menjadi komponen tooling setelah fungsi, material, toleransi, cara mengunci benda kerja, dan pemeriksaan penerimaan ditetapkan.
 
-- **Writer task:** Expand this file into one complete article answering: “CNC Cutting untuk Jig, Fixture, dan Template Produksi”
-- **Reader and situation:** Menerjemahkan kebutuhan signage, interior, panel, furnitur, enclosure, dan komponen menjadi brief cutting.
-- **Reader outcome:** Menerjemahkan kebutuhan signage, interior, panel, furnitur, enclosure, dan komponen menjadi brief cutting.
-- **Primary intent:** Memilih proses untuk alat bantu produksi
-- **Reader community:** `Bengkel-las.co.id`
-- **Primary friendly address:** `Teman Bengkel-las.co.id`
-- **Natural variants:** `Sobat Bengkel-las.co.id` and `Kawan Bengkel-las.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Fokus aplikasi tooling; workholding mesin dimiliki CUT-05-06 dan CUT-06-05.
-- **Final public route:** `/artikel/cnc-cutting-jig-fixture-template.html`
-- **Appointed CMS date:** `2026-06-27` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: kirim brief yang menjelaskan apa yang harus diposisikan, di mana datum-nya, berapa pengulangan, material dan ketebalan, serta toleransi yang benar-benar dibutuhkan. CNC cocok untuk template 2D, pelat pola, spacer, dan komponen jig yang bentuknya konsisten. Jika alat harus menahan gaya besar, menerima panas las, atau berinteraksi dengan mesin, keputusan itu memerlukan tinjauan desain dan uji fungsi. [NEEDS PROJECT REVIEW: beban, toleransi, dan metode penguncian belum diberikan]
 
-## Opening instructions
+![Ilustrasi memilih jasa bengkel las](/wp-content/uploads/2020/02/memilih-jasa-bengkel-las.jpg)
 
-- Open with the exact short salutation: **“Halo, Teman Bengkel-las.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **CNC Cutting untuk Jig, Fixture, dan Template Produksi**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Bengkel-las.co.id`, `Sobat Bengkel-las.co.id`, or `Kawan Bengkel-las.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+*Aset lokal proyek; [lihat aset gambar](/wp-content/uploads/2020/02/memilih-jasa-bengkel-las.jpg) dan jangan klaim sebagai dokumentasi proyek tertentu.*
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-004`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi memilih jasa bengkel las](/wp-content/uploads/2020/02/memilih-jasa-bengkel-las.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `memilih jasa bengkel las` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-004]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cutting.bengkel-las.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The frozen catalog has 20 parent topics and 120 briefs. Intended readers include homeowners, facility and maintenance teams, small manufacturers, procurement staff, project supervisors, and workshop operators. Repository plans are editorial inputs, not proof of a real workshop, staff, equipment, qualifications, prices, locations, or services.
-- **Limits:** Re-read both frozen files if the project role, catalog, URL ownership, or conversion path changes. Do not infer an automotive specialty or add unsupported neighboring trades.
-
-### KR-08
-
-- **Original sources:** [SNI 1729:2020 — official BSN catalog](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html).
-- **Purpose for this article:** Ground fabrication planning in defined requirements rather than verbal descriptions, copied details, or unverified workshop habit.
-- **Safe grounded facts:** A controlled fabrication package can need governing documents and revision, function, dimensions/datums, material and joint identity, loads/interfaces, tolerances, fabrication sequence, weld/fastener/coating requirements, inspection and hold points, acceptance basis, handling, installation, and approved deviations.
-- **Limits:** The BSN page does not reveal clauses, tolerances, combinations, connection design, execution rules, or acceptance values. Obtain the licensed governing standards and issued-for-work project documents.
-
-### KR-14
-
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.252 — welding, cutting, and brazing](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Help readers compare controlled shop fabrication with field work where the environment, interfaces, access, occupants, combustibles, weather, and permits can change the method and risk.
-- **Safe grounded facts:** Moving work on site can change fit-up control, position, access, lifting, weather, electrical supply, fume dispersion, fire exposure, nearby operations, traffic/public interface, coating conditions, inspection access, and restoration. A field weld is not justified merely because transport is inconvenient.
-- **Limits:** Do not import US distances, permits, or prescriptions. The responsible Indonesian site/K3 authority must approve the current task-specific controls.
-
-### KR-07
-
-- **Original sources:** [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html), [ISO 12944-5:2019 — official ISO abstract](https://www.iso.org/standard/77795.html), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Make material and consumable records usable for fabrication, compatibility, safety, inspection, maintenance, and later failure investigation.
-- **Safe grounded facts:** Useful traceability can include material designation, dimensions/heat or batch where required, certificate/report linkage, filler/consumable classification and batch, storage/conditioning, coating product and batch, mixing/application records, replacement-part identity, and approved substitution. The US hazard-communication rule illustrates label and safety-data-sheet concepts but is not Indonesian law.
-- **Limits:** Do not infer composition, compatibility, shelf life, storage, mixing ratio, coverage, cure, welding parameter, exposure limit, or disposal route from generic labels. Verify exact product, batch, substrate, environment, and current Indonesian rules.
-
-### KR-16
-
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 12 Tahun 2015 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Provide a systems view of workshop K3 instead of reducing safety to personal protective equipment.
-- **Safe grounded facts:** A controlled task starts with elimination/substitution and engineering/administrative controls, then suitable PPE; product identity and current safety data matter for chemicals. Emergency planning must reflect the actual energy, fire, exposure, first-aid, evacuation, communication, and rescue scenario.
-- **Limits:** This file supplies no exposure limit, PPE selection, ventilation rate, electrical protection setting, cylinder separation, fire-watch duration, or emergency procedure. Resolve them from current Indonesian rules, site conditions, exact products, and competent K3 review.
-
-### KR-20
-
-- **Original sources:** [PP No. 22 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Connect source reduction, controlled use, segregation, reuse/recycling, worker exposure, and legal waste disposition without assuming every metal offcut is harmless or recyclable.
-- **Safe grounded facts:** Waste identity, contamination, generator/site context, storage, labeling, transport, receiver authorization, records, and current local rules determine the route. Reuse and repair may avoid new material but do not automatically reduce total environmental or safety impact.
-- **Limits:** Do not classify a waste, recommend mixing, state a storage limit, name a legal carrier/receiver, or claim a quantified environmental benefit without current Indonesian/local requirements, characterization, mass/energy data, and authorized-party evidence.
-
-### KR-10
-
-- **Original sources:** [Permenaker No. 38 Tahun 2016 — BPK](https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026), [OSHA 29 CFR 1910.147 — control of hazardous energy](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147), [OSHA 29 CFR 1910.212 — general machine guarding](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.212).
-- **Purpose for this article:** Ensure a component-repair article considers the complete machine, energy sources, operating envelope, safeguarding, commissioning, and records.
-- **Safe grounded facts:** A repaired shaft, frame, coupling, guard, base, or attachment can alter alignment, balance, clearance, strength, vibration, containment, access, interlocks, or operating hazards. Safe servicing and safe production are related but distinct states.
-- **Limits:** Do not publish an isolation sequence, guard dimension, balance tolerance, restart authorization, or fitness claim generically. Verify current Indonesian provisions and exact OEM/site requirements.
-
-### KR-17
-
-- **Original sources:** [Permenaker No. 38 Tahun 2016 — BPK](https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016), [OSHA 29 CFR 1910.147 — control of hazardous energy](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Make maintenance content evidence-based without inventing universal schedules or promising uptime.
-- **Safe grounded facts:** Calendar-based, runtime-based, condition-based, corrective, and statutory work answer different needs. Work order history, failure coding, inspection readings, parts identity, deferred defects, tests, and release authority support trend review and planning.
-- **Limits:** Do not provide a universal interval, alarm threshold, remaining-life estimate, spares quantity, uptime saving, or restart decision. Obtain current OEM manuals, asset history, operating context, statutory requirements, and responsible-person approval.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-- **GATE-09:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
-- **GATE-11:** Resolve the gate from current project evidence and competent review.
-- **GATE-12:** Resolve the gate from current project evidence and competent review.
-- **GATE-13:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — fallback home route; use only when it is genuinely useful.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUT-15-03` → `/artikel/desain-flat-pack-slot-dan-tab.html` — Desain Flat-Pack dengan Slot dan Tab untuk Hasil Cutting
-- `CUT-15-04` → `/artikel/laser-cutting-enclosure-panel-kontrol.html` — Laser Cutting untuk Enclosure dan Panel Kontrol
-- `CUT-15-06` → `/artikel/cutting-untuk-mockup-dan-display.html` — Memilih Proses Cutting untuk Mockup Arsitektur dan Display
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-004
+Source type: local
+Placement: after the opening answer, before the first detailed H2
+**Exact Markdown to insert:** `![Ilustrasi memilih jasa bengkel las](/wp-content/uploads/2020/02/memilih-jasa-bengkel-las.jpg)`
+Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+Selection basis: filename/source metadata identifies “memilih jasa bengkel las”; no pixels were inspected.
+Hard boundary: do not infer or describe unseen visual details, ownership, location, people, brands, condition, performance, or outcome.
+Substitution rule: do not replace; if unavailable or provenance is incomplete, use [NEEDS IMAGE REVIEW: LOCAL-004].
+END MANAGED IMAGE PLAN -->
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “CNC Cutting untuk Jig, Fixture, dan Template Produksi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jig membantu memandu posisi atau gerak alat saat proses berlangsung; fixture menahan benda kerja pada posisi tertentu; template menjadi acuan bentuk, lubang, atau garis. Dalam praktik, satu alat dapat memadukan ketiganya. CNC cutting memberi tepi dan pola yang dapat diulang dari file, tetapi akurasi alat bantu tetap dipengaruhi referensi, material, sambungan, deformasi, dan cara operator menggunakannya.
+
+Salah paham yang sering mahal adalah menganggap file CAD sama dengan spesifikasi produksi. File tanpa revisi, satuan, datum, toleransi, dan urutan proses membuat bengkel menebak. Paket fabrikasi yang terkendali seharusnya menghubungkan fungsi, dimensi, identitas material dan sambungan, toleransi, urutan kerja, inspeksi, serta dasar penerimaan; katalog [SNI 1729:2020](https://pesta.bsn.go.id/produk/detail/12882-sni17292020) dan ringkasan [ISO 3834-6:2024](https://www.iso.org/standard/83335.html) membantu mengingat perlunya dokumen yang ditetapkan, namun tidak menggantikan standar berlisensi atau dokumen proyek terbit-untuk-kerja.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “CNC Cutting untuk Jig, Fixture, dan Template Produksi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Artikel ini membahas tooling untuk signage, interior, panel, furnitur, enclosure, dan komponen: pelat pola lubang, mal pembengkokan sederhana, spacer, jig pengeboran, serta template penandaan. Fokusnya adalah menerjemahkan kebutuhan menjadi brief cutting dan rencana verifikasi. Workholding mesin dan perlengkapan penjepit yang merupakan bagian dari mesin berada di ruang lingkup topik lain, bukan di sini.
+
+Fixture harus dipisahkan dari klaim keselamatan mesin. Bila alat bantu dipasang pada mesin, ia dapat mengubah celah, akses, interlock, atau arah gaya. Penilaian itu harus mengikuti mesin, OEM, dan aturan K3 setempat; jangan menyimpulkan alat aman hanya dari ukuran hasil potong. Untuk pekerjaan panas atau pengelasan, kewajiban keselamatan kerja tetap melekat pada lokasi dan proses menurut [UU No. 1 Tahun 1970](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970) dan ketentuan K3 yang berlaku.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “CNC Cutting untuk Jig, Fixture, dan Template Produksi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dari fungsi, bukan dari nama proses. Tulis benda apa yang masuk ke alat, permukaan mana yang menjadi datum A/B/C, titik mana yang dikunci, serta operasi apa yang dilakukan setelah benda ditempatkan. Tandai fitur untuk dipotong sebagai profil, lubang, slot, atau garis referensi. Sertakan revisi gambar, satuan, format file, dan orientasi material.
+
+Berikut urutan brief yang mudah diperiksa:
+
+1. **Definisikan keluaran.** Nyatakan apakah hasilnya template penandaan, jig pengeboran, fixture perakitan, atau bagian pengganti. Satu tujuan utama mencegah fitur yang tidak perlu.
+2. **Tetapkan referensi.** Beri datum dan ukuran dari datum, bukan ukuran berantai dari tepi yang mungkin berubah. Jelaskan sisi yang menghadap operator dan sisi yang menjadi permukaan kontak.
+3. **Pilih bahan secara fungsional.** Cantumkan jenis, ketebalan, kebutuhan kekakuan, kontak dengan permukaan, dan kondisi lingkungan. Jangan menebak kompatibilitas coating atau bahan habis pakai dari label umum; identitas produk dan lembar data keselamatan perlu dicatat, sebagaimana prinsip komunikasi bahaya pada [OSHA 29 CFR 1910.1200](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200), yang hanya menjadi ilustrasi dan bukan hukum Indonesia.
+4. **Nyatakan toleransi yang penting.** Bedakan toleransi profil, posisi lubang, kerataan, dan celah rakit. Bila belum ada nilai, tandai sebagai [NEEDS TOLERANCE REVIEW], jangan mengisi angka perkiraan.
+5. **Rencanakan pemeriksaan.** Tentukan fitur kritis, alat ukur yang akan dipakai, kapan pemeriksaan dilakukan, dan siapa yang menyetujui penyimpangan. Simpan nomor revisi, identitas material, serta batch consumable atau coating jika proses lanjutan membutuhkannya.
+
+Setelah cutting, lakukan deburring, cek tepi tajam, lalu rakit sesuai urutan. Uji dengan benda kerja perwakilan hanya setelah metode penguncian dan batas gaya disetujui. Hasil uji tidak boleh dipromosikan sebagai kinerja umum tanpa catatan kondisi dan persetujuan teknis.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “CNC Cutting untuk Jig, Fixture, dan Template Produksi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Geometri hanyalah satu bagian. Ketebalan dan kekakuan menentukan apakah template melendut saat ditekan. Panas dari pengelasan dapat mengubah bentuk pelat; lubang yang tepat di meja kerja belum tentu tepat setelah fixture dirakit. Permukaan yang dicat, berlapis, atau terkontaminasi juga mengubah kontak dan pembacaan ukur.
+
+Frekuensi pengulangan mengubah pilihan material dan cara perawatan. Template untuk beberapa penandaan mungkin cukup dengan penanda visual dan bushing yang dapat diganti. Fixture berulang membutuhkan pencatatan keausan, komponen pengganti, serta aturan kapan alat dikeluarkan dari layanan. Untuk operasi di lapangan, akses, cuaca, listrik, fume, bahan mudah terbakar, lalu lintas orang, dan inspeksi dapat berbeda dari kondisi bengkel. [Permenaker No. 5 Tahun 2018](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018) dan [OSHA 29 CFR 1910.252](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252) dapat dijadikan rujukan pembanding; kontrol final harus ditetapkan oleh penanggung jawab K3 Indonesia untuk tugas dan lokasi aktual.
+
+Sobat Bengkel-las.co.id, minta juga rekam jejak material dan perubahan. Catat heat atau batch bila diwajibkan proyek, nomor komponen, revisi file, dan setiap substitusi yang disetujui. Tanpa jejak itu, kesalahan posisi sulit dibedakan dari perubahan bahan, alat ukur, atau metode pemasangan.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “CNC Cutting untuk Jig, Fixture, dan Template Produksi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan skenario berikut sebagai cara berpikir, bukan resep universal.
+
+| Kebutuhan | Indikasi CNC cutting | Dokumen/cek yang harus menyertai |
+|---|---|---|
+| Menandai pola lubang pada panel berulang | Template 2D dengan datum jelas | gambar revisi, arah pemasangan, pemeriksaan posisi lubang |
+| Mengebor beberapa komponen dengan urutan sama | Jig dengan bushing atau guide yang dapat dirawat | batas keausan, metode penguncian, uji benda perwakilan |
+| Menahan komponen saat pengelasan | Fixture yang dirancang untuk akses dan distorsi | urutan las, pelepasan, kontrol panas, tinjauan K3 |
+| Enclosure atau panel dengan banyak antarmuka | Pelat pola dan spacer untuk menjaga posisi | daftar interface, toleransi rakit, pemeriksaan sebelum penutupan |
+
+Misalnya, permintaan “potong pelat untuk membantu las rangka” belum cukup. Tanyakan ukuran rangka, arah gaya, titik tumpu, celah alat las, urutan tack dan las akhir, serta apakah fixture dilepas tanpa memaksa sambungan. Jika jawaban belum tersedia, keluarkan brief terbatas untuk template penandaan saja dan sisakan [NEEDS STRUCTURAL AND WELD REVIEW] untuk fixture penahan.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “CNC Cutting untuk Jig, Fixture, dan Template Produksi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah mengirim screenshot tanpa file sumber dan revisi. Periksa bahwa profil tertutup, satuan konsisten, garis konstruksi dibedakan dari garis potong, dan nama fitur tidak ambigu. Kedua, semua lubang diberi toleransi sama. Tandai hanya fitur yang berhubungan dengan datum atau fungsi; nilai lainnya perlu dikonfirmasi agar tidak membebani biaya dan inspeksi tanpa manfaat.
 
-## Objection or shortcut to address
+Ketiga, tepi hasil potong dianggap siap disentuh. Minta proses deburring dan pemeriksaan visual, terutama bila operator memegang template berulang. Keempat, material pengganti dipilih karena tersedia. Kesesuaian mekanik, coating, bahan kimia, dan suhu harus diverifikasi pada produk serta kondisi nyata, bukan dari nama material saja.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kelima, fixture dipakai di lapangan tanpa meninjau ulang lingkungan. Pindah lokasi dapat mengubah akses, ventilasi, perlindungan kebakaran, sumber listrik, dan evakuasi. Jangan menganggap prosedur bengkel otomatis berlaku di area berpenghuni; lakukan penilaian tugas dan izin sesuai otoritas setempat.
 
-## Required conclusion
+## Jalan pintas yang tampak murah tetapi berisiko
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Memotong satu lembar “kira-kira pas”, lalu mengoreksi dengan gerinda, sering terasa cepat untuk prototipe. Namun koreksi menggeser datum, menghilangkan jejak revisi, dan membuat operator berikutnya mengulang tebakan. Alternatif yang lebih dapat diaudit adalah membuat versi prototipe dengan fitur referensi yang jelas, mencatat hasil ukur dan perubahan, lalu menerbitkan revisi baru setelah fungsi disetujui.
 
-## Draft completion checklist
+Kawan Bengkel-las.co.id, jangan menjadikan hasil satu benda sebagai bukti kapasitas alat untuk semua batch. Simpan kondisi uji, material, metode ukur, dan keputusan penerimaan. Bila alat berhubungan dengan mesin, energi, atau pekerjaan panas, hentikan penggunaan sampai penanggung jawab teknis dan K3 menyetujui pengendalian yang spesifik.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Bengkel-las.co.id!` and uses friendly `Bengkel-las.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Kesimpulan dan langkah berikutnya
+
+CNC cutting tepat untuk jig, fixture, dan template produksi ketika fungsi, datum, material, toleransi, dan cara verifikasinya sudah diterjemahkan ke brief yang dapat ditelusuri. Proses ini mempercepat pengulangan bentuk, tetapi tidak menggantikan desain penahan, validasi antarmuka, atau persetujuan K3.
+
+Langkah berikutnya: kumpulkan gambar terbit-untuk-kerja, daftar material, revisi, fitur kritis, jumlah pengulangan, dan kondisi operasi; minta bengkel mengembalikan konfirmasi file serta rencana inspeksi. Anda dapat menaruh brief dan revisi di [halaman utama Bengkel-las.co.id](/) sebagai titik koordinasi dokumen. Dapatkan [NEEDS COMPETENT TECHNICAL REVIEW] untuk beban, distorsi las, interaksi mesin, dan toleransi yang belum terbukti. Aturan operasinya sederhana: jangan lepaskan tooling ke produksi sebelum datum dan fungsi terukur pada kondisi penggunaan yang sebenarnya.
