@@ -3,7 +3,8 @@ article_id: CUT-01-03
 title: "CNC Router vs CNC Milling: Kapan Tiap Proses Lebih Tepat?"
 slug: "cnc-router-vs-cnc-milling"
 description: "Memilih proses yang sesuai berdasarkan bentuk, bahan, toleransi, volume, dan hasil tepi."
-status: outline
+writing_contract_version: "native-id-v2"
+status: draft
 publication_date: "2025-07-27"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,53 +17,13 @@ technical_review: required
 sources:
   - "https://pesta.bsn.go.id/produk/detail/12882-sni17292020"
   - "https://www.iso.org/standard/83335.html"
-  - "https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252"
-  - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
-  - "https://www.iso.org/standard/77795.html"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200"
   - "https://www.iso.org/standard/85705.html"
   - "https://www.iso.org/standard/75614.html"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015"
-  - "https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021"
-  - "https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.212"
-  - "https://www.iso.org/standard/80209.html"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # CNC Router vs CNC Milling: Kapan Tiap Proses Lebih Tepat?
 
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “CNC Router vs CNC Milling: Kapan Tiap Proses Lebih Tepat?”
-- **Reader and situation:** Memilih proses yang sesuai berdasarkan bentuk, bahan, toleransi, volume, dan hasil tepi.
-- **Reader outcome:** Memilih proses yang sesuai berdasarkan bentuk, bahan, toleransi, volume, dan hasil tepi.
-- **Primary intent:** Membedakan router dan milling
-- **Reader community:** `Bengkel-las.co.id`
-- **Primary friendly address:** `Sobat Bengkel-las.co.id`
-- **Natural variants:** `Kawan Bengkel-las.co.id` and `Teman Bengkel-las.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Fokus pada dua proses spindle; tidak membahas laser atau vendor tertentu.
-- **Final public route:** `/artikel/cnc-router-vs-cnc-milling.html`
-- **Appointed CMS date:** `2025-07-27` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Bengkel-las.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **CNC Router vs CNC Milling: Kapan Tiap Proses Lebih Tepat?**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Bengkel-las.co.id`, `Kawan Bengkel-las.co.id`, or `Teman Bengkel-las.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-003`
@@ -73,187 +34,86 @@ sources:
 - **Selection basis:** filename/source metadata identifies `CNC Milling 4` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-003]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+Halo, Sobat Bengkel-las.co.id! Jika Anda harus memilih CNC router atau CNC milling, jangan mulai dari nama mesinnya. Mulailah dari bentuk benda kerja, jenis bahan, toleransi, volume, dan mutu tepi yang benar-benar diminta. Router biasanya masuk akal untuk pemotongan lembaran atau benda kerja yang relatif luas ketika detail dan gaya potong masih dalam kemampuan sistemnya. Milling lebih tepat ketika pencekaman kaku, pengendalian geometri, dan hasil tiga dimensi yang konsisten menjadi prioritas.
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Tidak ada pemenang universal. Bahan yang sama dapat memerlukan proses berbeda jika datum, kedalaman, toleransi, atau jumlah produksinya berubah. Jawaban akhir harus mengikuti gambar kerja dan spesifikasi yang disetujui; bila toleransi, material, atau kondisi mesin belum jelas, keputusan itu masih memerlukan [NEEDS DATA PROYEK DAN REVIEW TEKNIS].
 
-### KR-01
+![Ilustrasi CNC Milling 4](/wp-content/uploads/2019/11/CNC-Milling-4.jpg)
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cutting.bengkel-las.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The frozen catalog has 20 parent topics and 120 briefs. Intended readers include homeowners, facility and maintenance teams, small manufacturers, procurement staff, project supervisors, and workshop operators. Repository plans are editorial inputs, not proof of a real workshop, staff, equipment, qualifications, prices, locations, or services.
-- **Limits:** Re-read both frozen files if the project role, catalog, URL ownership, or conversion path changes. Do not infer an automotive specialty or add unsupported neighboring trades.
-
-### KR-08
-
-- **Original sources:** [SNI 1729:2020 — official BSN catalog](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html).
-- **Purpose for this article:** Ground fabrication planning in defined requirements rather than verbal descriptions, copied details, or unverified workshop habit.
-- **Safe grounded facts:** A controlled fabrication package can need governing documents and revision, function, dimensions/datums, material and joint identity, loads/interfaces, tolerances, fabrication sequence, weld/fastener/coating requirements, inspection and hold points, acceptance basis, handling, installation, and approved deviations.
-- **Limits:** The BSN page does not reveal clauses, tolerances, combinations, connection design, execution rules, or acceptance values. Obtain the licensed governing standards and issued-for-work project documents.
-
-### KR-14
-
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.252 — welding, cutting, and brazing](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Help readers compare controlled shop fabrication with field work where the environment, interfaces, access, occupants, combustibles, weather, and permits can change the method and risk.
-- **Safe grounded facts:** Moving work on site can change fit-up control, position, access, lifting, weather, electrical supply, fume dispersion, fire exposure, nearby operations, traffic/public interface, coating conditions, inspection access, and restoration. A field weld is not justified merely because transport is inconvenient.
-- **Limits:** Do not import US distances, permits, or prescriptions. The responsible Indonesian site/K3 authority must approve the current task-specific controls.
-
-### KR-07
-
-- **Original sources:** [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html), [ISO 12944-5:2019 — official ISO abstract](https://www.iso.org/standard/77795.html), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Make material and consumable records usable for fabrication, compatibility, safety, inspection, maintenance, and later failure investigation.
-- **Safe grounded facts:** Useful traceability can include material designation, dimensions/heat or batch where required, certificate/report linkage, filler/consumable classification and batch, storage/conditioning, coating product and batch, mixing/application records, replacement-part identity, and approved substitution. The US hazard-communication rule illustrates label and safety-data-sheet concepts but is not Indonesian law.
-- **Limits:** Do not infer composition, compatibility, shelf life, storage, mixing ratio, coverage, cure, welding parameter, exposure limit, or disposal route from generic labels. Verify exact product, batch, substrate, environment, and current Indonesian rules.
-
-### KR-04
-
-- **Original sources:** [ISO 17635:2025 — official ISO abstract](https://www.iso.org/standard/85705.html), [ISO 9712:2021 — official ISO abstract](https://www.iso.org/standard/75614.html).
-- **Purpose for this article:** Prevent visual symptoms or an isolated measurement from being presented as a complete diagnosis or acceptance decision.
-- **Safe grounded facts:** Inspection method, coverage, technique, personnel, equipment, surface condition, calibration/verification status, reporting, and acceptance basis are separate evidence items. ISO 17635 also warns that NDT acceptance levels are not a direct one-to-one translation of ISO 5817 quality levels.
-- **Limits:** The abstracts do not supply technique parameters, acceptance values, required extent, calibration intervals, or project fitness. Obtain the governing code, full standards, written procedure, and asset-specific inspection plan.
-
-### KR-16
-
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 12 Tahun 2015 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Provide a systems view of workshop K3 instead of reducing safety to personal protective equipment.
-- **Safe grounded facts:** A controlled task starts with elimination/substitution and engineering/administrative controls, then suitable PPE; product identity and current safety data matter for chemicals. Emergency planning must reflect the actual energy, fire, exposure, first-aid, evacuation, communication, and rescue scenario.
-- **Limits:** This file supplies no exposure limit, PPE selection, ventilation rate, electrical protection setting, cylinder separation, fire-watch duration, or emergency procedure. Resolve them from current Indonesian rules, site conditions, exact products, and competent K3 review.
-
-### KR-20
-
-- **Original sources:** [PP No. 22 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Connect source reduction, controlled use, segregation, reuse/recycling, worker exposure, and legal waste disposition without assuming every metal offcut is harmless or recyclable.
-- **Safe grounded facts:** Waste identity, contamination, generator/site context, storage, labeling, transport, receiver authorization, records, and current local rules determine the route. Reuse and repair may avoid new material but do not automatically reduce total environmental or safety impact.
-- **Limits:** Do not classify a waste, recommend mixing, state a storage limit, name a legal carrier/receiver, or claim a quantified environmental benefit without current Indonesian/local requirements, characterization, mass/energy data, and authorized-party evidence.
-
-### KR-10
-
-- **Original sources:** [Permenaker No. 38 Tahun 2016 — BPK](https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026), [OSHA 29 CFR 1910.147 — control of hazardous energy](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147), [OSHA 29 CFR 1910.212 — general machine guarding](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.212).
-- **Purpose for this article:** Ensure a component-repair article considers the complete machine, energy sources, operating envelope, safeguarding, commissioning, and records.
-- **Safe grounded facts:** A repaired shaft, frame, coupling, guard, base, or attachment can alter alignment, balance, clearance, strength, vibration, containment, access, interlocks, or operating hazards. Safe servicing and safe production are related but distinct states.
-- **Limits:** Do not publish an isolation sequence, guard dimension, balance tolerance, restart authorization, or fitness claim generically. Verify current Indonesian provisions and exact OEM/site requirements.
-
-### KR-17
-
-- **Original sources:** [Permenaker No. 38 Tahun 2016 — BPK](https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016), [OSHA 29 CFR 1910.147 — control of hazardous energy](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Make maintenance content evidence-based without inventing universal schedules or promising uptime.
-- **Safe grounded facts:** Calendar-based, runtime-based, condition-based, corrective, and statutory work answer different needs. Work order history, failure coding, inspection readings, parts identity, deferred defects, tests, and release authority support trend review and planning.
-- **Limits:** Do not provide a universal interval, alarm threshold, remaining-life estimate, spares quantity, uptime saving, or restart decision. Obtain current OEM manuals, asset history, operating context, statutory requirements, and responsible-person approval.
-
-### KR-15
-
-- **Original sources:** [ISO 5817:2023 — official ISO abstract](https://www.iso.org/standard/80209.html), [ISO 17635:2025 — official ISO abstract](https://www.iso.org/standard/85705.html), [ISO 9712:2021 — official ISO abstract](https://www.iso.org/standard/75614.html).
-- **Purpose for this article:** Keep QA articles from confusing workmanship levels, NDT technique, indication evaluation, personnel certification, equipment status, and engineering acceptance.
-- **Safe grounded facts:** A quality plan needs the governing acceptance basis, joint and examination identification, method/technique and extent, written procedure where required, personnel scope, equipment identity and current calibration/verification, surface/test conditions, report traceability, result, nonconformance, disposition authority, repair cycle, and closeout.
-- **Limits:** Do not publish imperfection limits, acceptance tables, technique settings, calibration intervals, or certification equivalence from abstracts. Obtain full current standards and project procedures.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-- **GATE-09:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
-- **GATE-11:** Resolve the gate from current project evidence and competent review.
-- **GATE-12:** Resolve the gate from current project evidence and competent review.
-- **GATE-13:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — fallback home route; use only when it is genuinely useful.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUT-01-01` → `/artikel/memilih-laser-cutting-cnc-router-atau-cnc-milling.html` — Cara Memilih Laser Cutting, CNC Router, atau CNC Milling
-- `CUT-01-02` → `/artikel/laser-cutting-vs-cnc-router.html` — Laser Cutting vs CNC Router: Perbedaan Hasil, Bahan, dan Biaya
-- `CUT-01-04` → `/artikel/memilih-proses-cutting-berdasarkan-material.html` — Panduan Memilih Proses Cutting Berdasarkan Jenis Material
-- `CUT-01-05` → `/artikel/memilih-proses-cutting-berdasarkan-volume.html` — Memilih Proses Cutting untuk Prototipe, Batch Kecil, dan Produksi
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Gambar ini adalah aset lokal dan bukan dokumentasi proyek tertentu.
 
 ## Masalah keputusan yang sebenarnya
 
-- **Purpose:** Jelaskan konteks pemilihan dan mengapa dua opsi ini sering dianggap dapat saling menggantikan.
-- **Tie back to this article:** Keep the explanation specific to “CNC Router vs CNC Milling: Kapan Tiap Proses Lebih Tepat?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Router dan milling sama-sama memakai spindle serta gerak terprogram, sehingga keduanya sering dianggap bisa saling menggantikan. Padahal, yang dibandingkan bukan sekadar kecepatan pemotongan. Anda sedang memilih cara menahan benda kerja, menjaga titik referensi, mengeluarkan geram, mengendalikan getaran, dan memeriksa hasil.
+
+Pertanyaan praktisnya: apakah pekerjaan hanya membutuhkan profil, lubang, atau pocket pada panel; atau memerlukan beberapa bidang dan kontur yang harus bertemu dalam satu sistem koordinat? Apakah benda kerja dapat ditopang stabil sepanjang pemotongan? Apakah tepi yang terlihat perlu operasi finishing tambahan? Jawaban atas pertanyaan itu sering lebih menentukan daripada label “router” atau “milling”.
+
+Untuk pekerjaan yang menjadi bagian dari paket fabrikasi, dokumen pengendali sebaiknya memuat dimensi, datum, material, toleransi, urutan pengerjaan, titik inspeksi, dan dasar penerimaan. Katalog resmi BSN untuk SNI 1729:2020 dan abstrak ISO 3834-6:2024 dapat menjadi titik rujuk identitas dokumen, tetapi bukan pengganti standar berlisensi maupun gambar kerja proyek ([BSN](https://pesta.bsn.go.id/produk/detail/12882-sni17292020); [ISO 3834-6:2024](https://www.iso.org/standard/83335.html)). Untuk konteks umum pekerjaan bengkel, Anda dapat melihat [beranda Bengkel-las.co.id](/) sebelum menyiapkan permintaan proses.
 
 ## Bedakan objek sebelum membandingkan
 
-- **Purpose:** Definisikan setiap opsi, fungsi, batas sistem, dan bukti identitasnya.
-- **Tie back to this article:** Keep the explanation specific to “CNC Router vs CNC Milling: Kapan Tiap Proses Lebih Tepat?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Secara operasional, CNC router lazim dipilih untuk pemotongan berbasis jalur pada lembaran atau benda kerja besar yang membutuhkan akses area luas. Gantry dan meja kerja menjadi bagian penting dari kestabilan. Istilah “router” sendiri tidak menjamin kemampuan memotong material tertentu; kekakuan rangka, spindle, alat potong, pencekaman, dan program harus diverifikasi pada mesin yang tersedia.
+
+CNC milling umumnya dirancang untuk benda kerja yang dicekam lebih kaku dan diproses dari satu atau beberapa orientasi. Konfigurasi meja, travel, dan sistem pencekaman membantu menjaga hubungan antarbidang. Namun, milling juga bukan jaminan otomatis atas toleransi atau kualitas permukaan. Kondisi alat, runout, penjajaran, strategi lintasan, dan inspeksi tetap menentukan.
+
+Bedakan juga objek yang sedang dinilai. “Mesin” adalah asetnya; “proses” adalah urutan operasi dan parameter yang disetujui; “hasil” adalah benda yang diukur terhadap gambar kerja. Jangan menyimpulkan hasil hanya dari foto mesin atau dari nama material. Sobat Bengkel-las.co.id, minta bukti kemampuan aktual pada kombinasi bahan, alat, dan geometri yang sama bila keputusan berisiko.
 
 ## Kriteria perbandingan yang relevan
 
-- **Purpose:** Susun kriteria berdasarkan penggunaan, kondisi, antarmuka, risiko, pelaksanaan, perawatan, dan bukti.
-- **Tie back to this article:** Keep the explanation specific to “CNC Router vs CNC Milling: Kapan Tiap Proses Lebih Tepat?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan tabel berikut sebagai penyaring awal, bukan sebagai spesifikasi penerimaan.
+
+| Kriteria | Router lebih mungkin sesuai | Milling lebih mungkin sesuai |
+|---|---|---|
+| Bentuk | Profil 2D, pocket dangkal, atau kontur pada panel yang dapat ditopang merata | Bidang bertingkat, kontur 3D, lubang dan datum yang harus selaras |
+| Bahan | Lembaran atau material yang dapat dipotong tanpa gaya berlebih pada gantry | Benda kerja yang membutuhkan pencekaman dan kekakuan tinggi |
+| Toleransi | Toleransi umum yang masih dapat dicapai setelah verifikasi sampel | Toleransi ketat atau hubungan fitur yang memerlukan kontrol geometri lebih kuat |
+| Volume | Panel besar, prototipe, atau batch yang menguntungkan dari area meja | Batch berulang yang membutuhkan setup dan inspeksi terkontrol |
+| Hasil tepi | Tepi dapat dirapikan melalui operasi lanjutan | Finishing dan konsistensi antarbidang menjadi bagian utama spesifikasi |
+| Risiko setup | Benda kerja mudah didatarkan dan diakses | Pencekaman, datum, dan orientasi perlu didokumentasikan rinci |
+
+Istilah “toleransi ketat” tidak boleh diisi dengan angka tebakan. Nilainya harus berasal dari gambar kerja dan kemampuan terverifikasi mesin. Untuk inspeksi, metode, cakupan, teknik, personel, kondisi permukaan, status verifikasi alat, laporan, dan dasar penerimaan adalah bukti yang terpisah; abstrak ISO 17635:2025 dan ISO 9712:2021 menekankan perlunya membedakan unsur-unsur tersebut ([ISO 17635:2025](https://www.iso.org/standard/85705.html); [ISO 9712:2021](https://www.iso.org/standard/75614.html)).
+
+Pertimbangkan pula antarmuka. Jika part harus dipasang ke komponen lain, datum pemasangan, allowance, dan urutan inspeksi lebih penting daripada waktu siklus yang diperkirakan. Jika pekerjaan dilakukan di luar bengkel, akses, daya listrik, cuaca, dan perlindungan area dapat mengubah metode; jangan menganggap pemindahan pekerjaan lapangan sekadar versi lebih murah dari setup terkontrol.
 
 ## Kapan masing-masing pilihan masuk akal
 
-- **Purpose:** Berikan skenario bersyarat; jangan menyebut satu pemenang universal.
-- **Tie back to this article:** Keep the explanation specific to “CNC Router vs CNC Milling: Kapan Tiap Proses Lebih Tepat?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Router masuk akal ketika geometri terutama berupa kontur atau lubang pada lembaran, area kerja lebar, dan benda dapat dijepit tanpa melendut. Ia juga dapat menjadi pilihan awal untuk prototipe ketika Anda perlu menguji bentuk sebelum membuat fixture yang lebih rumit. Tetapkan titik uji dan ukur hasil pertama; jangan langsung menggeneralisasi satu sampel ke seluruh batch.
+
+Milling masuk akal ketika benda kerja kecil atau padat, gaya potong perlu ditahan dekat area pemotongan, dan beberapa fitur harus berbagi datum yang sama. Ia lebih logis untuk pocket bertingkat, permukaan referensi, atau kontur yang menuntut pengulangan setup secara disiplin. Tetap minta konfirmasi kemampuan mesin, alat, dan fixture untuk material aktual.
+
+Kawan Bengkel-las.co.id, ada kasus di mana keduanya dapat dipakai: panel tebal mungkin diprofilkan dengan router lalu diselesaikan pada milling, atau sebaliknya, tergantung allowance dan cara inspeksi. Keputusan kombinasi itu harus ditulis dalam rencana proses, termasuk siapa yang menyetujui perubahan dan bagaimana permukaan hasil operasi pertama dilindungi.
 
 ## Kesalahan perbandingan yang sering terjadi
 
-- **Purpose:** Bongkar sedikitnya tiga shortcut atau asumsi yang membuat keputusan keliru.
-- **Tie back to this article:** Keep the explanation specific to “CNC Router vs CNC Milling: Kapan Tiap Proses Lebih Tepat?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pertama, memilih berdasarkan luas meja saja. Meja besar tidak menghapus lendutan, getaran, atau masalah pencekaman. Mintalah bukti uji pada area kerja dan material yang relevan.
+
+Kedua, menganggap spindle lebih cepat selalu berarti lebih produktif. Waktu pemotongan hanyalah bagian dari siklus; setup, pergantian alat, pembersihan geram, inspeksi, dan pengerjaan ulang dapat mengubah hasil total. Bandingkan alur lengkap dengan definisi “selesai” yang sama.
+
+Ketiga, mengira permukaan mengilap berarti lolos. Penampilan visual tidak menggantikan pengukuran fitur, pemeriksaan datum, atau dasar penerimaan tertulis. Jika geometri kritis, tentukan metode ukur dan pihak yang berwenang menyatakan diterima sebelum produksi.
+
+Keempat, mengubah bahan atau alat tanpa memperbarui program dan catatan. Identitas material, batch, alat potong, dan revisi gambar perlu ditautkan ke benda kerja agar penyimpangan dapat ditelusuri. ISO 3834-6:2024 berguna sebagai pengingat bahwa paket fabrikasi memerlukan dokumen dan rekaman yang terkendali, bukan instruksi lisan semata ([ISO 3834-6:2024](https://www.iso.org/standard/83335.html)).
 
 ## Bukti yang perlu diminta sebelum memilih
 
-- **Purpose:** Buat checklist dokumen, data proyek, sampel/tes, persetujuan, dan pihak penanggung jawab.
-- **Tie back to this article:** Keep the explanation specific to “CNC Router vs CNC Milling: Kapan Tiap Proses Lebih Tepat?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sebelum memberi pekerjaan ke router atau milling, kumpulkan setidaknya:
 
-## Objection or shortcut to address
+1. Gambar kerja dengan revisi, material dan ketebalan, datum, toleransi, serta permukaan yang harus dilindungi.
+2. Batas kemampuan mesin yang benar-benar tersedia: travel, pencekaman, alat potong, pengukuran, dan kondisi perawatannya.
+3. Rencana proses yang menjelaskan urutan setup, titik nol, allowance, strategi finishing, dan penanganan geram.
+4. Sampel atau uji awal pada geometri dan material yang sama, dengan hasil ukur yang dapat ditelusuri ke nomor benda kerja.
+5. Dasar penerimaan dan siapa yang berwenang menyetujui nonkonformitas, perubahan program, atau operasi tambahan.
+6. Catatan keselamatan kerja yang sesuai energi mesin dan bahan aktual; jangan menyalin prosedur dari mesin lain tanpa penilaian tugas.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Jika salah satu bukti utama belum ada, tahan keputusan produksi dan tandai [NEEDS REVIEW: KEMAMPUAN MESIN, FIXTURE, DAN KRITERIA PENERIMAAN]. Untuk pekerjaan yang menyentuh komponen penahan beban atau antarmuka kritis, review teknis tetap wajib meskipun sampel terlihat baik.
 
-## Required conclusion
+## Jalan pintas yang perlu diuji
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Shortcut yang sering muncul adalah “pakai router saja karena lebih cepat, nanti tepinya dirapikan”. Cara ini dapat gagal ketika tepi tersebut menjadi datum, ketika allowance finishing tidak cukup, atau ketika benda bergerak saat operasi pertama. Alternatif yang lebih dapat dipertanggungjawabkan adalah menetapkan fungsi tepi pada gambar kerja, menguji pencekaman, lalu memilih proses yang mampu menjaga datum sepanjang seluruh urutan. Jika bukti itu belum tersedia, jangan menjanjikan toleransi atau hasil akhir.
 
-## Draft completion checklist
+## Kesimpulan: pilih proses dari bukti, bukan label
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Bengkel-las.co.id!` and uses friendly `Bengkel-las.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Router lebih tepat untuk geometri dan dukungan benda kerja yang sesuai dengan area meja serta gaya potongnya. Milling lebih tepat ketika kekakuan pencekaman, hubungan antarfitur, dan kontrol geometri menjadi penentu. Untuk kasus di tengah, rencanakan kombinasi operasi hanya setelah datum, allowance, dan inspeksinya jelas.
+
+Teman Bengkel-las.co.id, langkah berikutnya sederhana: tandai fitur paling kritis pada gambar, minta rencana setup dari operator, dan sepakati uji awal beserta dasar penerimaannya. Jangan mengubah pilihan proses hanya karena mesin tampak lebih besar atau waktu potong tampak lebih singkat. Tanpa data proyek dan review teknis yang kompeten, pilihan router versus milling tetap merupakan hipotesis, bukan persetujuan produksi. Untuk mengirim pertanyaan umum sebelum penjadwalan, gunakan [kanal kontak bengkel](/kontak/).

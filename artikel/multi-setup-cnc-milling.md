@@ -3,7 +3,7 @@ article_id: CUT-06-06
 title: "Kapan Komponen Memerlukan Beberapa Setup CNC Milling?"
 slug: "multi-setup-cnc-milling"
 description: "Memilih operasi milling untuk komponen berdimensi, pocket, slot, kontur, dan permukaan presisi."
-status: outline
+status: draft
 publication_date: "2025-12-01"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,218 +13,100 @@ reader_community: "Bengkel-las.co.id"
 reader_address: "Teman Bengkel-las.co.id"
 final_route: "/artikel/multi-setup-cnc-milling.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
   - "https://www.iso.org/standard/83335.html"
-  - "https://www.iso.org/standard/77795.html"
   - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200"
-  - "https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970"
-  - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
-  - "https://pesta.bsn.go.id/produk/detail/12882-sni17292020"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015"
-  - "https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-016
+Source type: local
+Placement: after opening, before first detailed section
+**Exact Markdown to insert:** `![Ilustrasi CNC Milling 6](/wp-content/uploads/2019/11/CNC-Milling-6.jpg)`
+Caption/credit: Aset lokal proyek; bukan dokumentasi proyek tertentu.
+Selection basis: filename/source metadata only; no pixels inspected.
+Hard boundary: do not infer unseen visual details or project ownership, location, people, brands, condition, performance, or outcome.
+Substitution rule: do not replace; use [NEEDS IMAGE REVIEW: LOCAL-016] if unavailable.
+END MANAGED IMAGE PLAN -->
 
 # Kapan Komponen Memerlukan Beberapa Setup CNC Milling?
 
-## Assignment lock
+Halo, Teman Bengkel-las.co.id! Komponen memerlukan beberapa setup CNC milling ketika satu penjepitan tidak dapat memberi akses aman dan terukur ke semua fitur yang harus dikerjakan. Tanda paling jelasnya adalah ada pocket, slot, lubang, kontur, atau bidang presisi yang menghadap sisi berbeda, sementara posisi itu tidak dapat dicapai tanpa memutar benda kerja atau mengganti cara penyangga.
 
-- **Writer task:** Expand this file into one complete article answering: “Kapan Komponen Memerlukan Beberapa Setup CNC Milling?”
-- **Reader and situation:** Memilih operasi milling untuk komponen berdimensi, pocket, slot, kontur, dan permukaan presisi.
-- **Reader outcome:** Memilih operasi milling untuk komponen berdimensi, pocket, slot, kontur, dan permukaan presisi.
-- **Primary intent:** Merencanakan akses fitur dari beberapa sisi
-- **Reader community:** `Bengkel-las.co.id`
-- **Primary friendly address:** `Teman Bengkel-las.co.id`
-- **Natural variants:** `Sobat Bengkel-las.co.id` and `Kawan Bengkel-las.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Fokus strategi setup; volume dan sampling dimiliki CUT-14.
-- **Final public route:** `/artikel/multi-setup-cnc-milling.html`
-- **Appointed CMS date:** `2025-12-01` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jangan menentukan jumlah setup dari bentuk luar saja. Satu setup masih masuk akal bila seluruh fitur dapat dijangkau pahat, benda kerja cukup kaku, dan datum utama bisa dipertahankan. Setup kedua atau berikutnya dibutuhkan bila akses pahat, jangkauan mesin, risiko tabrakan, deformasi saat dijepit, atau urutan inspeksi membuat satu penjepitan tidak lagi dapat menjaga hubungan antarfitur. Keputusan final berubah jika gambar kerja, toleransi, material, ukuran mesin, dan metode workholding yang sebenarnya berbeda. Karena data itu belum diberikan di sini, keputusan komponen tertentu tetap bertanda [NEEDS REVIEW: gambar kerja, toleransi, material, dan kemampuan mesin].
 
-## Opening instructions
+![Ilustrasi CNC Milling 6](/wp-content/uploads/2019/11/CNC-Milling-6.jpg)
 
-- Open with the exact short salutation: **“Halo, Teman Bengkel-las.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Kapan Komponen Memerlukan Beberapa Setup CNC Milling?**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Bengkel-las.co.id`, `Sobat Bengkel-las.co.id`, or `Kawan Bengkel-las.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-016`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi CNC Milling 6](/wp-content/uploads/2019/11/CNC-Milling-6.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `CNC Milling 6` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-016]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cutting.bengkel-las.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The frozen catalog has 20 parent topics and 120 briefs. Intended readers include homeowners, facility and maintenance teams, small manufacturers, procurement staff, project supervisors, and workshop operators. Repository plans are editorial inputs, not proof of a real workshop, staff, equipment, qualifications, prices, locations, or services.
-- **Limits:** Re-read both frozen files if the project role, catalog, URL ownership, or conversion path changes. Do not infer an automotive specialty or add unsupported neighboring trades.
-
-### KR-07
-
-- **Original sources:** [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html), [ISO 12944-5:2019 — official ISO abstract](https://www.iso.org/standard/77795.html), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Make material and consumable records usable for fabrication, compatibility, safety, inspection, maintenance, and later failure investigation.
-- **Safe grounded facts:** Useful traceability can include material designation, dimensions/heat or batch where required, certificate/report linkage, filler/consumable classification and batch, storage/conditioning, coating product and batch, mixing/application records, replacement-part identity, and approved substitution. The US hazard-communication rule illustrates label and safety-data-sheet concepts but is not Indonesian law.
-- **Limits:** Do not infer composition, compatibility, shelf life, storage, mixing ratio, coverage, cure, welding parameter, exposure limit, or disposal route from generic labels. Verify exact product, batch, substrate, environment, and current Indonesian rules.
-
-### KR-02
-
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Anchor workshop-safety content in current Indonesian law and prevent reliance on pre-July-2026 copies of sector K3 regulations.
-- **Safe grounded facts:** The 2026 record identifies partial revocations affecting, among others, workplace environment, electrical work, pressure vessels and tanks, powered/production machinery, lifting equipment, work at height, and confined spaces. A legacy regulation may still be in force while some provisions no longer are.
-- **Limits:** This register does not perform legal consolidation or interpret amended clauses. Recheck BPK and official Kemnaker text at outline approval and obtain competent Indonesian legal/K3 review for prescriptive claims.
-
-### KR-08
-
-- **Original sources:** [SNI 1729:2020 — official BSN catalog](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html).
-- **Purpose for this article:** Ground fabrication planning in defined requirements rather than verbal descriptions, copied details, or unverified workshop habit.
-- **Safe grounded facts:** A controlled fabrication package can need governing documents and revision, function, dimensions/datums, material and joint identity, loads/interfaces, tolerances, fabrication sequence, weld/fastener/coating requirements, inspection and hold points, acceptance basis, handling, installation, and approved deviations.
-- **Limits:** The BSN page does not reveal clauses, tolerances, combinations, connection design, execution rules, or acceptance values. Obtain the licensed governing standards and issued-for-work project documents.
-
-### KR-14
-
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.252 — welding, cutting, and brazing](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Help readers compare controlled shop fabrication with field work where the environment, interfaces, access, occupants, combustibles, weather, and permits can change the method and risk.
-- **Safe grounded facts:** Moving work on site can change fit-up control, position, access, lifting, weather, electrical supply, fume dispersion, fire exposure, nearby operations, traffic/public interface, coating conditions, inspection access, and restoration. A field weld is not justified merely because transport is inconvenient.
-- **Limits:** Do not import US distances, permits, or prescriptions. The responsible Indonesian site/K3 authority must approve the current task-specific controls.
-
-### KR-16
-
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 12 Tahun 2015 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Provide a systems view of workshop K3 instead of reducing safety to personal protective equipment.
-- **Safe grounded facts:** A controlled task starts with elimination/substitution and engineering/administrative controls, then suitable PPE; product identity and current safety data matter for chemicals. Emergency planning must reflect the actual energy, fire, exposure, first-aid, evacuation, communication, and rescue scenario.
-- **Limits:** This file supplies no exposure limit, PPE selection, ventilation rate, electrical protection setting, cylinder separation, fire-watch duration, or emergency procedure. Resolve them from current Indonesian rules, site conditions, exact products, and competent K3 review.
-
-### KR-20
-
-- **Original sources:** [PP No. 22 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Connect source reduction, controlled use, segregation, reuse/recycling, worker exposure, and legal waste disposition without assuming every metal offcut is harmless or recyclable.
-- **Safe grounded facts:** Waste identity, contamination, generator/site context, storage, labeling, transport, receiver authorization, records, and current local rules determine the route. Reuse and repair may avoid new material but do not automatically reduce total environmental or safety impact.
-- **Limits:** Do not classify a waste, recommend mixing, state a storage limit, name a legal carrier/receiver, or claim a quantified environmental benefit without current Indonesian/local requirements, characterization, mass/energy data, and authorized-party evidence.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-- **GATE-09:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
-- **GATE-11:** Resolve the gate from current project evidence and competent review.
-- **GATE-12:** Resolve the gate from current project evidence and competent review.
-- **GATE-13:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — fallback home route; use only when it is genuinely useful.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUT-06-04` → `/artikel/cnc-3-axis-vs-4-axis-vs-5-axis.html` — CNC 3 Axis vs 4 Axis vs 5 Axis untuk Kebutuhan Komponen
-- `CUT-06-05` → `/artikel/workholding-cnc-milling.html` — Workholding CNC Milling: Vice, Fixture, dan Soft Jaw
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Aset lokal proyek; bukan dokumentasi proyek tertentu.*
 
 ## Hasil akhir dan prasyarat
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Kapan Komponen Memerlukan Beberapa Setup CNC Milling?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hasil yang dicari bukan sekadar “bisa dipotong”, melainkan semua fitur selesai dengan hubungan datum yang dapat dibuktikan. Sebelum menyebut dua atau tiga setup, siapkan gambar kerja dengan revisi yang jelas, daftar fitur, material, toleransi, permukaan yang menjadi datum, serta batas ukuran dan berat yang dapat ditangani mesin. Sertakan model atau sketsa yang menunjukkan sisi mana yang harus terbuka pada setiap penjepitan.
 
-## Langkah 1 — tetapkan scope
+Penanggung jawab proses perlu menyepakati tiga hal: fitur mana yang kritis, bagaimana benda ditahan, dan kapan hasil diukur. Untuk pekerjaan yang terkontrol, dokumen dengan identitas dan revisi membantu mencegah operator memakai detail lama. Prinsip pengendalian dokumen dan rekaman dalam sistem mutu fabrikasi dijelaskan pada [ISO 3834-6:2024](https://www.iso.org/standard/83335.html); rujukan itu bukan bukti bahwa komponen tertentu akan memenuhi toleransi.
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Kapan Komponen Memerlukan Beberapa Setup CNC Milling?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Prasyarat praktisnya adalah datum yang dapat diulang, permukaan penjepit yang tidak mengganggu fitur, alat ukur yang sesuai, dan ruang aman untuk pahat serta chip. Jika salah satunya belum jelas, jangan mengunci jumlah setup di penawaran atau program. Sobat Bengkel-las.co.id, pertanyaan sederhana “fitur ini diukur terhadap datum yang mana?” sering membongkar rencana yang tampak singkat tetapi sulit diulang.
+
+## Langkah 1 — tetapkan lingkup
+
+Pisahkan pekerjaan menjadi fitur berdasarkan arah akses, bukan berdasarkan urutan menggambar. Kelompok pertama biasanya bidang referensi dan fitur yang menentukan orientasi. Kelompok berikutnya adalah fitur pada sisi berlawanan, lubang silang, pocket dalam, atau kontur yang tertutup oleh rahang. Catat juga antarmuka dengan komponen lain: permukaan dudukan, lubang baut, sumbu, dan area yang tidak boleh tergores.
+
+Kemudian tandai batas pekerjaan. Artikel ini membahas strategi setup dan perpindahan datum; ia tidak menetapkan volume produksi, sampling, atau kemampuan operator. Jangan pula menganggap mesin 3-sumbu dapat meniru akses multi-sumbu hanya dengan memiringkan benda kerja. Jika gerak, panjang pahat, atau ruang putar tidak tersedia, [NEEDS REVIEW: simulasi jangkauan dan tabrakan] harus diselesaikan sebelum memilih fixture.
+
+Buat peta sederhana seperti berikut:
+
+| Kelompok fitur | Arah akses | Risiko bila dipaksa satu setup | Pertanyaan keputusan |
+|---|---|---|---|
+| Bidang datum dan pocket atas | Atas | datum berubah saat dibalik | dapatkah datum pertama dijadikan referensi ulang? |
+| Lubang atau slot samping | Samping | pahat menyentuh rahang atau dinding | apakah perlu setup kedua atau orientasi lain? |
+| Kontur luar dan bidang akhir | Berlawanan | benda tipis melentur | apakah penyangga cukup tanpa menutup fitur? |
 
 ## Langkah 2 — kumpulkan dan cocokkan bukti
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Kapan Komponen Memerlukan Beberapa Setup CNC Milling?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Cocokkan setiap fitur dengan empat bukti: arah normal permukaan, toleransi dan datum, alat/pahat yang tersedia, serta cara benda ditahan. Model 3D membantu melihat akses, tetapi model tidak otomatis menetapkan datum manufaktur. Gambar kerja dan instruksi revisi tetap menjadi acuan; bila keduanya bertentangan, tahan pekerjaan dan minta klarifikasi.
+
+Periksa apakah pembalikan benda kerja mempertahankan referensi. Pin lokasi, stop, atau permukaan hasil machining dapat menjadi referensi kedua, tetapi efektivitasnya bergantung pada kebersihan, kekakuan, dan toleransi aktual. Jangan mengarang nilai repeatability. Tulis [NEEDS REVIEW: skema datum dan toleransi perpindahan] pada lembar proses sampai perancang atau penanggung jawab kualitas menyetujuinya.
+
+Bukti lain adalah kondisi alat bantu: ukuran rahang, tinggi fixture, akses pengukuran, dan jalur evakuasi chip. Jika memakai coolant atau pembersih, identitas produk dan lembar data keselamatan harus cocok dengan produk yang benar-benar dipakai; konsep label dan safety data sheet dapat dilihat di [OSHA 29 CFR 1910.1200](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200), tetapi aturan itu bukan hukum Indonesia. Untuk penerapan lokal, ikuti peninjauan K3 yang berwenang.
 
 ## Langkah 3 — jalankan urutan kerja
 
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Kapan Komponen Memerlukan Beberapa Setup CNC Milling?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dari setup yang membangun datum paling stabil dan mengerjakan fitur yang paling sulit dijangkau. Sisakan material secukupnya untuk finishing bila strategi itu memang disetujui pada gambar kerja; jangan menetapkan angka allowance tanpa data. Setelah fitur acuan selesai, hentikan mesin, bersihkan permukaan, lalu verifikasi kondisi penjepitan sebelum membalik benda.
 
-## Hold point dan kondisi berhenti
+Pada setup berikutnya, gunakan prosedur locating yang tertulis: permukaan referensi mana yang menyentuh stop, titik mana yang menahan gaya, dan fitur mana yang dibiarkan bebas. Kencangkan secara bertahap sesuai prosedur fixture yang telah disetujui. Hindari menekan area tipis atau permukaan jadi hanya karena posisinya mudah dijangkau. Bila tekanan penjepit berpotensi mengubah bentuk, [NEEDS REVIEW: analisis deformasi dan penyangga] menjadi syarat berhenti.
 
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Kapan Komponen Memerlukan Beberapa Setup CNC Milling?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sesudah roughing, periksa bahwa sisa material dan bentuk nyata masih sesuai rencana. Jangan melanjutkan setup kedua berdasarkan asumsi bahwa setup pertama pasti benar. Untuk kontur atau pocket dalam, pastikan pahat, holder, dan fixture memiliki jarak aman melalui simulasi atau metode verifikasi yang berlaku di bengkel. Detail parameter potong, kecepatan, dan beban harus berasal dari tool, material, mesin, dan persetujuan proses yang spesifik; bagian itu berada di luar keputusan jumlah setup.
 
-## Verifikasi hasil dan handover
+## Titik tahan dan kondisi berhenti
 
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Kapan Komponen Memerlukan Beberapa Setup CNC Milling?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hentikan proses jika datum pada benda nyata tidak dapat diidentifikasi, permukaan penjepit rusak, fixture bergeser, atau hasil ukur awal berada di luar batas yang ditetapkan. Hentikan juga bila pahat harus masuk dengan orientasi yang menimbulkan risiko tabrakan atau operator tidak dapat mengakses area inspeksi dengan aman. Teman Bengkel-las.co.id, “sekalian dikerjakan” bukan alasan untuk melewati titik tahan; satu kesalahan datum dapat memindahkan kesalahan ke semua fitur pada setup berikutnya.
 
-## Objection or shortcut to address
+Minta review kompeten ketika gambar tidak menetapkan datum sekunder, toleransi posisi antar-sisi, atau urutan pengerjaan. [NEEDS REVIEW: persetujuan datum sekunder, simulasi tabrakan, dan rencana inspeksi] harus terisi sebelum program dirilis. Jika terjadi perubahan material, fixture, pahat, atau mesin, perlakukan sebagai perubahan proses, bukan detail kecil yang boleh disisipkan tanpa catatan.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Verifikasi hasil dan serah terima
 
-## Required conclusion
+Serah terima yang baik meninggalkan jejak: revisi gambar, lembar setup, identitas fixture, urutan datum, alat ukur, hasil pemeriksaan fitur kritis, dan catatan penyimpangan. Checklist ringkasnya:
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+- semua fitur pada daftar telah dipetakan ke setup tertentu;
+- datum dan arah pembalikan ditulis dengan sketsa atau foto proses yang disetujui;
+- fixture dan locating point diperiksa sebelum pemotongan;
+- fitur kritis diukur terhadap datum yang benar, bukan sekadar terhadap tepi terdekat;
+- perubahan atau deviasi memiliki persetujuan dan nomor rekaman;
+- bagian yang belum dapat dibuktikan diberi status tahan, bukan dinyatakan lulus.
 
-## Draft completion checklist
+Bandingkan hasil ukur dengan gambar kerja dan rencana inspeksi yang berlaku. Artikel ini tidak menetapkan metode sampling atau jumlah unit; itu termasuk ruang lingkup CUT-14. Jika rekaman belum lengkap, serah terima belum selesai walaupun permukaan tampak rapi. Untuk pertanyaan umum tentang alur layanan, Anda dapat kembali ke [beranda Bengkel-las.co.id](/), tetapi persetujuan teknis tetap harus datang dari dokumen proyek dan penanggung jawabnya.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Bengkel-las.co.id!` and uses friendly `Bengkel-las.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Perbandingan kemampuan 3, 4, dan 5 sumbu akan lebih tepat dibaca pada [artikel sumbu CNC yang direncanakan](/artikel/cnc-3-axis-vs-4-axis-vs-5-axis.html) setelah rute tersebut benar-benar diterbitkan; untuk saat ini, jangan menjadikannya dasar keputusan.
+
+## Jalan pintas yang sering gagal
+
+Jalan pintas yang umum adalah menahan komponen sekali, lalu “menjangkau” fitur samping dengan pahat panjang atau memutar koordinat tanpa rencana datum. Cara ini memang mengurangi waktu bongkar-pasang, tetapi dapat menambah lendutan pahat, getaran, risiko tabrakan, dan ketidakpastian hubungan antarpermukaan. Pahat panjang juga tidak otomatis memberi akses yang kaku.
+
+Alternatif yang lebih dapat dipertanggungjawabkan adalah membandingkan dua rencana setup secara tertulis: akses fitur, kekakuan, risiko deformasi, titik ukur, dan waktu inspeksi. Pilih jumlah setup paling sedikit yang masih menjaga datum, keselamatan, dan bukti penerimaan. Jika setup tambahan diperlukan untuk mengurangi risiko, catat alasannya; jika satu setup cukup, buktikan dengan simulasi akses dan rencana pengukuran, bukan dengan kebiasaan.
+
+## Kesimpulan
+
+Komponen memerlukan beberapa setup CNC milling ketika satu penjepitan tidak bisa mengakses semua fitur atau tidak mampu mempertahankan datum, kekakuan, keselamatan, dan pemeriksaan yang dibutuhkan. Mulailah dari gambar kerja dan peta fitur, tetapkan datum serta fixture, verifikasi setiap pembalikan, lalu tahan proses saat bukti penting belum ada.
+
+Langkah Anda berikutnya adalah meminta [NEEDS REVIEW: paket gambar kerja dan rencana inspeksi yang disetujui] sebelum membuat program final. Aturan operasinya sederhana: pilih setup paling sedikit yang dapat dibuktikan aman dan konsisten; jumlah pastinya tidak boleh diputuskan tanpa data komponen dan review teknis.

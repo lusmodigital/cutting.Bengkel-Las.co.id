@@ -3,7 +3,8 @@ article_id: CUT-10-06
 title: "Membuat Kriteria Accept, Rework, dan Reject untuk Part Cutting"
 slug: "kriteria-accept-rework-reject"
 description: "Memeriksa ukuran, tepi, permukaan, kelengkapan, dan konsistensi sebelum hasil diterima."
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-03-06"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -17,224 +18,84 @@ sources:
   - "https://www.iso.org/standard/85705.html"
   - "https://www.iso.org/standard/75614.html"
   - "https://www.iso.org/standard/83335.html"
-  - "https://www.iso.org/standard/77795.html"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200"
   - "https://pesta.bsn.go.id/produk/detail/12882-sni17292020"
-  - "https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252"
-  - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015"
-  - "https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021"
-  - "https://www.iso.org/standard/80209.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+Halo, Kawan Bengkel-las.co.id! Part cutting tidak cukup dinyatakan *accept* hanya karena bentuknya terlihat rapi. Keputusan yang dapat dipertanggungjawabkan memerlukan kriteria tertulis: ukuran dan datum cocok dengan dokumen kerja, tepi aman untuk proses berikutnya, permukaan serta fitur tidak mengganggu fungsi, semua item dan identitasnya lengkap, lalu hasil pemeriksaan tercatat. Jika satu syarat kritis belum bisa dibuktikan, statusnya bukan accept.
+
+Gunakan tiga status yang tegas. **Accept** berarti bukti pemeriksaan memenuhi persyaratan yang sudah disetujui. **Rework** berarti ada penyimpangan yang masih boleh dikoreksi dengan metode dan otoritas yang disetujui, kemudian diperiksa ulang. **Reject** berarti part tidak boleh dipakai atau dikoreksi dengan cara biasa karena tidak ada disposisi yang sah, batas koreksi terlampaui, atau identitas dan bukti pemeriksaannya hilang. Nilai toleransi, jenis material, dan batas cacat tetap harus diambil dari gambar, spesifikasi, atau rencana inspeksi proyek—bukan dari perkiraan bengkel. **[NEEDS PROJECT ACCEPTANCE BASIS: toleransi, fungsi kritis, dan kewenangan disposisi harus ditetapkan oleh dokumen proyek dan peninjau kompeten.]**
+
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-004
+Placement: after opening, before first detailed H2
+**Exact Markdown to insert:** `![Ilustrasi memilih jasa bengkel las](/wp-content/uploads/2020/02/memilih-jasa-bengkel-las.jpg)`
+Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+Selection basis: filename/source metadata identifies memilih jasa bengkel las as relevant content media; no pixels were inspected.
+Hard boundary: do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+END MANAGED IMAGE PLAN -->
+
+![Ilustrasi memilih jasa bengkel las](/wp-content/uploads/2020/02/memilih-jasa-bengkel-las.jpg)
+
+Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
 
 # Membuat Kriteria Accept, Rework, dan Reject untuk Part Cutting
 
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Membuat Kriteria Accept, Rework, dan Reject untuk Part Cutting”
-- **Reader and situation:** Memeriksa ukuran, tepi, permukaan, kelengkapan, dan konsistensi sebelum hasil diterima.
-- **Reader outcome:** Memeriksa ukuran, tepi, permukaan, kelengkapan, dan konsistensi sebelum hasil diterima.
-- **Primary intent:** Menetapkan keputusan penerimaan hasil
-- **Reader community:** `Bengkel-las.co.id`
-- **Primary friendly address:** `Kawan Bengkel-las.co.id`
-- **Natural variants:** `Sobat Bengkel-las.co.id` and `Teman Bengkel-las.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Fokus kategori keputusan; cara memperbaiki cacat dimiliki CUT-11.
-- **Final public route:** `/artikel/kriteria-accept-rework-reject.html`
-- **Appointed CMS date:** `2026-03-06` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Bengkel-las.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Membuat Kriteria Accept, Rework, dan Reject untuk Part Cutting**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Bengkel-las.co.id`, `Sobat Bengkel-las.co.id`, or `Teman Bengkel-las.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-004`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi memilih jasa bengkel las](/wp-content/uploads/2020/02/memilih-jasa-bengkel-las.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `memilih jasa bengkel las` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-004]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cutting.bengkel-las.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The frozen catalog has 20 parent topics and 120 briefs. Intended readers include homeowners, facility and maintenance teams, small manufacturers, procurement staff, project supervisors, and workshop operators. Repository plans are editorial inputs, not proof of a real workshop, staff, equipment, qualifications, prices, locations, or services.
-- **Limits:** Re-read both frozen files if the project role, catalog, URL ownership, or conversion path changes. Do not infer an automotive specialty or add unsupported neighboring trades.
-
-### KR-04
-
-- **Original sources:** [ISO 17635:2025 — official ISO abstract](https://www.iso.org/standard/85705.html), [ISO 9712:2021 — official ISO abstract](https://www.iso.org/standard/75614.html).
-- **Purpose for this article:** Prevent visual symptoms or an isolated measurement from being presented as a complete diagnosis or acceptance decision.
-- **Safe grounded facts:** Inspection method, coverage, technique, personnel, equipment, surface condition, calibration/verification status, reporting, and acceptance basis are separate evidence items. ISO 17635 also warns that NDT acceptance levels are not a direct one-to-one translation of ISO 5817 quality levels.
-- **Limits:** The abstracts do not supply technique parameters, acceptance values, required extent, calibration intervals, or project fitness. Obtain the governing code, full standards, written procedure, and asset-specific inspection plan.
-
-### KR-07
-
-- **Original sources:** [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html), [ISO 12944-5:2019 — official ISO abstract](https://www.iso.org/standard/77795.html), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Make material and consumable records usable for fabrication, compatibility, safety, inspection, maintenance, and later failure investigation.
-- **Safe grounded facts:** Useful traceability can include material designation, dimensions/heat or batch where required, certificate/report linkage, filler/consumable classification and batch, storage/conditioning, coating product and batch, mixing/application records, replacement-part identity, and approved substitution. The US hazard-communication rule illustrates label and safety-data-sheet concepts but is not Indonesian law.
-- **Limits:** Do not infer composition, compatibility, shelf life, storage, mixing ratio, coverage, cure, welding parameter, exposure limit, or disposal route from generic labels. Verify exact product, batch, substrate, environment, and current Indonesian rules.
-
-### KR-08
-
-- **Original sources:** [SNI 1729:2020 — official BSN catalog](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html).
-- **Purpose for this article:** Ground fabrication planning in defined requirements rather than verbal descriptions, copied details, or unverified workshop habit.
-- **Safe grounded facts:** A controlled fabrication package can need governing documents and revision, function, dimensions/datums, material and joint identity, loads/interfaces, tolerances, fabrication sequence, weld/fastener/coating requirements, inspection and hold points, acceptance basis, handling, installation, and approved deviations.
-- **Limits:** The BSN page does not reveal clauses, tolerances, combinations, connection design, execution rules, or acceptance values. Obtain the licensed governing standards and issued-for-work project documents.
-
-### KR-14
-
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.252 — welding, cutting, and brazing](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Help readers compare controlled shop fabrication with field work where the environment, interfaces, access, occupants, combustibles, weather, and permits can change the method and risk.
-- **Safe grounded facts:** Moving work on site can change fit-up control, position, access, lifting, weather, electrical supply, fume dispersion, fire exposure, nearby operations, traffic/public interface, coating conditions, inspection access, and restoration. A field weld is not justified merely because transport is inconvenient.
-- **Limits:** Do not import US distances, permits, or prescriptions. The responsible Indonesian site/K3 authority must approve the current task-specific controls.
-
-### KR-16
-
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 12 Tahun 2015 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Provide a systems view of workshop K3 instead of reducing safety to personal protective equipment.
-- **Safe grounded facts:** A controlled task starts with elimination/substitution and engineering/administrative controls, then suitable PPE; product identity and current safety data matter for chemicals. Emergency planning must reflect the actual energy, fire, exposure, first-aid, evacuation, communication, and rescue scenario.
-- **Limits:** This file supplies no exposure limit, PPE selection, ventilation rate, electrical protection setting, cylinder separation, fire-watch duration, or emergency procedure. Resolve them from current Indonesian rules, site conditions, exact products, and competent K3 review.
-
-### KR-20
-
-- **Original sources:** [PP No. 22 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Connect source reduction, controlled use, segregation, reuse/recycling, worker exposure, and legal waste disposition without assuming every metal offcut is harmless or recyclable.
-- **Safe grounded facts:** Waste identity, contamination, generator/site context, storage, labeling, transport, receiver authorization, records, and current local rules determine the route. Reuse and repair may avoid new material but do not automatically reduce total environmental or safety impact.
-- **Limits:** Do not classify a waste, recommend mixing, state a storage limit, name a legal carrier/receiver, or claim a quantified environmental benefit without current Indonesian/local requirements, characterization, mass/energy data, and authorized-party evidence.
-
-### KR-15
-
-- **Original sources:** [ISO 5817:2023 — official ISO abstract](https://www.iso.org/standard/80209.html), [ISO 17635:2025 — official ISO abstract](https://www.iso.org/standard/85705.html), [ISO 9712:2021 — official ISO abstract](https://www.iso.org/standard/75614.html).
-- **Purpose for this article:** Keep QA articles from confusing workmanship levels, NDT technique, indication evaluation, personnel certification, equipment status, and engineering acceptance.
-- **Safe grounded facts:** A quality plan needs the governing acceptance basis, joint and examination identification, method/technique and extent, written procedure where required, personnel scope, equipment identity and current calibration/verification, surface/test conditions, report traceability, result, nonconformance, disposition authority, repair cycle, and closeout.
-- **Limits:** Do not publish imperfection limits, acceptance tables, technique settings, calibration intervals, or certification equivalence from abstracts. Obtain full current standards and project procedures.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-- **GATE-09:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
-- **GATE-11:** Resolve the gate from current project evidence and competent review.
-- **GATE-12:** Resolve the gate from current project evidence and competent review.
-- **GATE-13:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — fallback home route; use only when it is genuinely useful.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUT-10-04` → `/artikel/first-article-inspection-komponen-custom.html` — First Article Inspection untuk Pesanan Komponen Custom
-- `CUT-10-05` → `/artikel/sampling-inspection-pesanan-cutting.html` — Sampling Inspection untuk Pesanan Cutting dalam Jumlah Banyak
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Membuat Kriteria Accept, Rework, dan Reject untuk Part Cutting”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Membuat Kriteria Accept, Rework, dan Reject untuk Part Cutting”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Objek artikel ini adalah keputusan mutu untuk part hasil pemotongan—misalnya potongan pelat, profil, atau komponen custom—sebelum masuk ke proses berikutnya. Yang dinilai adalah kesesuaian terhadap persyaratan yang telah diterbitkan, bukan selera visual operator. Pekerjaan pengelasan, penggerindaan, atau metode memperbaiki cacat merupakan lingkup lain; di sini kita hanya menentukan apakah part diterima, dikembalikan untuk koreksi, atau ditahan dan ditolak. Untuk konteks alur kerja umum bengkel, pembaca dapat melihat [halaman utama Bengkel-las.co.id](/) sebagai titik kembali; halaman itu tidak menggantikan gambar kerja atau persetujuan proyek.
+
+Mulailah dengan “paket identitas” setiap part: nomor gambar dan revisinya, nomor item atau nest, material dan tebal, kuantitas, serta penanda lot atau batch bila diwajibkan. Paket fabrikasi terkendali umumnya perlu memuat datum, toleransi, material, urutan kerja, titik tahan inspeksi, dan dasar penerimaan; katalog SNI 1729:2020 hanya mengonfirmasi keberadaan dan status standar, bukan memberi toleransi atau nilai penerimaan siap pakai ([BSN](https://pesta.bsn.go.id/produk/detail/12882-sni17292020)). Karena itu, jangan menyalin angka dari contoh internet ke lembar inspeksi Anda.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Membuat Kriteria Accept, Rework, dan Reject untuk Part Cutting”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Susun pemeriksaan berurutan agar keputusan dapat diulang oleh pemeriksa lain.
+
+1. **Kunci referensi.** Cocokkan gambar, revisi, arah potong, datum, dan fungsi antarmuka. Jika revisi tidak jelas, tahan part dan minta klarifikasi; jangan memilih gambar yang “paling mirip”.
+2. **Periksa ukuran dan geometri.** Ukur dimensi yang mengendalikan perakitan lebih dulu, kemudian lubang, jarak tepi, sudut, kerataan, atau fitur lain yang disebut dokumen kerja. Catat alat, identitasnya, dan kondisi verifikasi/kalibrasinya. Satu angka yang cocok tidak membuktikan seluruh geometri.
+3. **Periksa tepi dan permukaan.** Pastikan burr, slag, oksida, takik, distorsi, dan kerusakan permukaan dinilai terhadap fungsi dan persyaratan tertulis. Foto boleh menjadi petunjuk, tetapi bukan pengganti pengukuran atau pemeriksaan yang ditetapkan.
+4. **Periksa kelengkapan dan ketertelusuran.** Hitung kuantitas, label, material, dokumen sertifikat atau laporan yang dipersyaratkan, serta status pemisahan part tidak sesuai. Rekaman material, consumable, dan produk membantu pemeriksaan serta penyelidikan kegagalan; ISO 3834-6 menempatkan informasi tersebut sebagai bagian dari sistem mutu, bukan jaminan bahwa part tertentu otomatis lulus ([ISO 3834-6:2024](https://www.iso.org/standard/83335.html)).
+5. **Tentukan status dan otoritas.** Pemeriksa mengisi hasil, tetapi perubahan desain, penggunaan *as-is*, atau pengurangan persyaratan hanya boleh diputuskan oleh pihak yang diberi wewenang dalam prosedur proyek. Status sementara “hold” berguna ketika bukti belum lengkap; jangan menyamarkannya sebagai rework.
+6. **Tutup siklus.** Part berstatus rework mendapat instruksi koreksi yang dapat dilacak, lalu mengulang pemeriksaan yang terdampak. Metode, cakupan, kondisi permukaan, personel, peralatan, laporan, dan dasar penerimaan adalah bukti terpisah; ISO 17635 memperingatkan bahwa tingkat penerimaan pemeriksaan tidak dapat diterjemahkan satu-banding-satu dari tingkat mutu pengelasan, sedangkan ISO 9712 membahas kompetensi personel pemeriksaan ([ISO 17635:2025](https://www.iso.org/standard/85705.html); [ISO 9712:2021](https://www.iso.org/standard/75614.html)).
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Membuat Kriteria Accept, Rework, dan Reject untuk Part Cutting”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Fungsi dan antarmuka.** Cacat kecil pada sisi yang tidak berpasangan dapat berbeda konsekuensinya dari cacat pada datum atau lubang baut. Tanyakan: apakah penyimpangan mengubah posisi, jarak, aliran, kekedapan, atau ruang untuk proses berikutnya? Tanpa jawaban fungsi dari dokumen proyek, gunakan status hold dan minta keputusan teknis.
+
+**Jenis material dan kondisi tepi.** Material, tebal, arah serat, lapisan pelindung, dan proses potong dapat mengubah pemeriksaan yang diperlukan. Jangan menyimpulkan kompatibilitas atau performa terpasang dari label material saja. Catat identitas dan batch bila dokumen mensyaratkannya; detail penyimpanan, penggantian, atau perlakuan permukaan perlu diverifikasi terhadap produk dan prosedur aktual.
+
+**Lingkungan pengukuran.** Suhu, kotoran, akses, pencahayaan, dan alat yang tidak sesuai dapat membuat hasil tidak dapat dibandingkan. Pada pemeriksaan non-destruktif, metode, teknik, cakupan, kondisi permukaan, status alat, dan personel harus ditentukan oleh prosedur yang berlaku, bukan oleh tampilan indikasi semata ([ISO 17635:2025](https://www.iso.org/standard/85705.html)).
+
+**Kuantitas dan konsistensi.** Untuk pesanan banyak, kriteria harus menjelaskan apakah semua part diperiksa atau ada rencana sampling yang disetujui. Beberapa part yang baik tidak membuktikan seluruh lot konsisten. **[NEEDS SAMPLING PLAN: ukuran lot, tingkat pemeriksaan, dan aturan eskalasi harus berasal dari rencana inspeksi proyek.]**
+
+**Perubahan lapangan.** Pemotongan ulang atau pengerjaan di lokasi dapat mengubah akses, fit-up, cuaca, keselamatan, dan kesempatan inspeksi. Jika kondisi berubah, hentikan keputusan otomatis dan minta tinjauan pihak yang berwenang. “Bisa diperbaiki nanti” bukan kriteria penerimaan.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Membuat Kriteria Accept, Rework, dan Reject untuk Part Cutting”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan tabel berikut sebagai kerangka, lalu isi kolom batas dengan dokumen proyek yang berlaku.
+
+| Temuan saat inspeksi | Status awal | Tindakan keputusan |
+|---|---|---|
+| Dimensi pengendali, datum, material, tepi, dan dokumen semuanya sesuai | Accept | Rilis part dengan nomor laporan dan identitas lot. |
+| Burr atau geometri menyimpang, tetapi prosedur proyek menyatakan koreksi aman dan masih dalam batas | Rework | Pisahkan, terbitkan instruksi koreksi, tetapkan pemeriksaan ulang, dan minta otorisasi. |
+| Dimensi kritis di luar batas dan koreksi akan mengurangi fungsi atau ketertelusuran hilang | Reject atau hold sampai disposisi | Jangan kirim ke proses berikutnya; minta keputusan tertulis apakah scrap, penggantian, atau penggunaan khusus. |
+| Hasil ukur tampak baik tetapi gambar/revisi atau alat ukur tidak dapat dibuktikan | Hold | Lengkapi referensi dan verifikasi alat sebelum menentukan accept. |
+
+Contoh ini tidak menetapkan angka toleransi atau menjamin kelayakan pemakaian. **Kawan Bengkel-las.co.id**, mintalah pemeriksa menandai bukti yang benar-benar ada: hasil ukur, identitas alat, pemeriksaan visual, material, dan otorisasi. Jika salah satunya kosong, status yang jujur adalah hold, bukan accept.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Membuat Kriteria Accept, Rework, dan Reject untuk Part Cutting”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah memakai “kelihatan bagus” sebagai standar. Ganti dengan pertanyaan objektif: fitur mana yang diukur, terhadap datum apa, dengan alat apa, dan di mana hasilnya dicatat?
 
-## Objection or shortcut to address
+Kesalahan kedua adalah menganggap rework selalu aman. Tanyakan apakah prosedur mengizinkan koreksi, siapa yang menyetujui, apa yang terdampak, dan pemeriksaan apa yang diulang. Memperbaiki tepi dapat mengubah dimensi; memotong ulang dapat menghapus penanda material.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan ketiga adalah mencampur lot. Beri label fisik untuk accept, rework, reject, dan hold; cocokkan dengan rekaman. Tanpa pemisahan, part yang ditolak dapat kembali ke aliran produksi tanpa sengaja.
 
-## Required conclusion
+Kesalahan keempat adalah memperluas klaim dari inspeksi. Hasil visual atau satu pengukuran tidak membuktikan kekuatan, umur, atau kesesuaian sistem. Bila fungsi kritis memerlukan pemeriksaan khusus, ikuti metode, personel, peralatan, dan laporan yang ditentukan dalam rencana inspeksi ([ISO 9712:2021](https://www.iso.org/standard/75614.html)).
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Shortcut yang sering dipilih ialah memberi label accept agar pengiriman tidak tertunda, lalu menyusulkan dokumen. Shortcut ini gagal ketika revisi, lot, atau alat ukur ternyata salah; jejak keputusan sudah telanjur hilang. Alternatifnya adalah status hold dengan alasan singkat, pemilik tindakan, dan tenggat tinjauan. **[NEEDS DISPOSITION AUTHORITY: nama jabatan/pihak yang boleh mengubah hold, rework, atau reject harus ditetapkan dalam prosedur proyek.]**
 
-## Draft completion checklist
+## Kesimpulan dan langkah berikutnya
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Bengkel-las.co.id!` and uses friendly `Bengkel-las.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Kriteria accept, rework, dan reject untuk part cutting harus menghubungkan persyaratan tertulis dengan bukti pemeriksaan. Accept hanya setelah ukuran, tepi, permukaan, kelengkapan, konsistensi, identitas, dan rekaman memenuhi dasar penerimaan. Rework memerlukan koreksi yang diizinkan serta pemeriksaan ulang. Reject atau hold melindungi proses ketika batas atau bukti tidak terpenuhi.
+
+Langkah berikutnya: ambil gambar dan revisi yang diterbitkan, buat lembar inspeksi berisi datum, fitur, metode, alat, hasil, status, dan otoritas disposisi, lalu minta peninjauan kompeten untuk mengisi toleransi, sampling, dan batas koreksi yang masih kosong. Simpan lembar yang telah disahkan bersama identitas lot agar pemeriksa berikutnya dapat menelusuri alasan keputusan; jangan mengandalkan ingatan operator atau pesan singkat yang mudah terlepas dari nomor part. Simpan juga salinan [aset ilustrasi lokal](/wp-content/uploads/2020/02/memilih-jasa-bengkel-las.jpg) hanya sebagai media pendukung, bukan bukti mutu. Teman Bengkel-las.co.id, jangan rilis part hanya karena jadwal mendesak—rilis berdasarkan bukti yang dapat dilacak, dan hentikan keputusan ketika bukti atau kewenangannya belum ada.

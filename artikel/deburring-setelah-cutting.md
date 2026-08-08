@@ -1,9 +1,10 @@
 ---
 article_id: CUT-13-01
+writing_contract_version: "native-id-v2"
 title: "Deburring setelah Cutting: Kapan Diperlukan dan Hasil yang Diharapkan"
 slug: "deburring-setelah-cutting"
 description: "Merencanakan deburring, bending, welding, coating, perakitan, dan urutan kerja setelah cutting."
-status: outline
+status: draft
 publication_date: "2026-04-24"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,227 +17,93 @@ technical_review: required
 sources:
   - "https://pesta.bsn.go.id/produk/detail/12882-sni17292020"
   - "https://www.iso.org/standard/83335.html"
-  - "https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252"
-  - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
-  - "https://www.iso.org/standard/77795.html"
   - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200"
-  - "https://www.iso.org/standard/51792.html"
-  - "https://www.iso.org/standard/54936.html"
-  - "https://www.iso.org/standard/80209.html"
-  - "https://www.iso.org/standard/85705.html"
-  - "https://www.iso.org/standard/75614.html"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015"
-  - "https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021"
+  - "https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Deburring setelah Cutting: Kapan Diperlukan dan Hasil yang Diharapkan
 
-## Assignment lock
+Halo, Teman Bengkel-las.co.id! Deburring diperlukan ketika sisa tajam hasil cutting dapat mengganggu keselamatan, ukuran, proses berikutnya, atau fungsi komponen. Jadi, bukan setiap tepi harus dibuat mengilap dan tumpul. Keputusannya mengikuti fungsi tepi, cara part akan dipegang atau disambung, jenis coating, dan kriteria penerimaan pada gambar kerja.
 
-- **Writer task:** Expand this file into one complete article answering: “Deburring setelah Cutting: Kapan Diperlukan dan Hasil yang Diharapkan”
-- **Reader and situation:** Merencanakan deburring, bending, welding, coating, perakitan, dan urutan kerja setelah cutting.
-- **Reader outcome:** Merencanakan deburring, bending, welding, coating, perakitan, dan urutan kerja setelah cutting.
-- **Primary intent:** Menentukan kebutuhan menghilangkan burr
-- **Reader community:** `Bengkel-las.co.id`
-- **Primary friendly address:** `Teman Bengkel-las.co.id`
-- **Natural variants:** `Sobat Bengkel-las.co.id` and `Kawan Bengkel-las.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Fokus proses deburring; penyebab burr dimiliki CUT-11-01.
-- **Final public route:** `/artikel/deburring-setelah-cutting.html`
-- **Appointed CMS date:** `2026-04-24` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Shortcut “langsung bending atau welding saja” berisiko memindahkan masalah ke proses berikutnya. Burr dapat mengganjal saat fit-up, merusak sarung tangan atau lapisan pelindung, menahan kotoran di bawah coating, atau membuat hasil inspeksi sulit ditelusuri. Sebaliknya, menggerinda berlebihan dapat mengubah dimensi dan geometri tepi. Jika gambar, spesifikasi, atau kondisi lapangan belum menyebut batas tepi yang diterima, tahan keputusan final dan minta [NEEDS PROJECT REVIEW: kriteria burr/edge break dan metode verifikasi] dari penanggung jawab teknis.
 
-## Opening instructions
+![Ilustrasi memilih jasa bengkel las](/wp-content/uploads/2020/02/memilih-jasa-bengkel-las.jpg)
 
-- Open with the exact short salutation: **“Halo, Teman Bengkel-las.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Deburring setelah Cutting: Kapan Diperlukan dan Hasil yang Diharapkan**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Bengkel-las.co.id`, `Sobat Bengkel-las.co.id`, or `Kawan Bengkel-las.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-004`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi memilih jasa bengkel las](/wp-content/uploads/2020/02/memilih-jasa-bengkel-las.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `memilih jasa bengkel las` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-004]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cutting.bengkel-las.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The frozen catalog has 20 parent topics and 120 briefs. Intended readers include homeowners, facility and maintenance teams, small manufacturers, procurement staff, project supervisors, and workshop operators. Repository plans are editorial inputs, not proof of a real workshop, staff, equipment, qualifications, prices, locations, or services.
-- **Limits:** Re-read both frozen files if the project role, catalog, URL ownership, or conversion path changes. Do not infer an automotive specialty or add unsupported neighboring trades.
-
-### KR-08
-
-- **Original sources:** [SNI 1729:2020 — official BSN catalog](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html).
-- **Purpose for this article:** Ground fabrication planning in defined requirements rather than verbal descriptions, copied details, or unverified workshop habit.
-- **Safe grounded facts:** A controlled fabrication package can need governing documents and revision, function, dimensions/datums, material and joint identity, loads/interfaces, tolerances, fabrication sequence, weld/fastener/coating requirements, inspection and hold points, acceptance basis, handling, installation, and approved deviations.
-- **Limits:** The BSN page does not reveal clauses, tolerances, combinations, connection design, execution rules, or acceptance values. Obtain the licensed governing standards and issued-for-work project documents.
-
-### KR-14
-
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.252 — welding, cutting, and brazing](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Help readers compare controlled shop fabrication with field work where the environment, interfaces, access, occupants, combustibles, weather, and permits can change the method and risk.
-- **Safe grounded facts:** Moving work on site can change fit-up control, position, access, lifting, weather, electrical supply, fume dispersion, fire exposure, nearby operations, traffic/public interface, coating conditions, inspection access, and restoration. A field weld is not justified merely because transport is inconvenient.
-- **Limits:** Do not import US distances, permits, or prescriptions. The responsible Indonesian site/K3 authority must approve the current task-specific controls.
-
-### KR-07
-
-- **Original sources:** [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html), [ISO 12944-5:2019 — official ISO abstract](https://www.iso.org/standard/77795.html), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Make material and consumable records usable for fabrication, compatibility, safety, inspection, maintenance, and later failure investigation.
-- **Safe grounded facts:** Useful traceability can include material designation, dimensions/heat or batch where required, certificate/report linkage, filler/consumable classification and batch, storage/conditioning, coating product and batch, mixing/application records, replacement-part identity, and approved substitution. The US hazard-communication rule illustrates label and safety-data-sheet concepts but is not Indonesian law.
-- **Limits:** Do not infer composition, compatibility, shelf life, storage, mixing ratio, coverage, cure, welding parameter, exposure limit, or disposal route from generic labels. Verify exact product, batch, substrate, environment, and current Indonesian rules.
-
-### KR-09
-
-- **Original sources:** [ISO 15614-1:2017 — official ISO abstract](https://www.iso.org/standard/51792.html), [ISO 9606-1:2012 — official ISO abstract](https://www.iso.org/standard/54936.html), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html).
-- **Purpose for this article:** Prevent an article from treating a welder card, a WPS, a procedure test, workmanship, and the finished joint's acceptance as interchangeable.
-- **Safe grounded facts:** Procedure qualification, production WPS, welder/operator qualification, material/process/position/thickness/diameter range, continuity/validity, equipment condition, consumable control, preheat/interpass control, inspection, and final acceptance are distinct records.
-- **Limits:** Both welding-qualification standards are current at verification but under revision. The public abstracts do not provide qualification ranges or test requirements; recheck editions and use licensed text plus the project specification.
-
-### KR-15
-
-- **Original sources:** [ISO 5817:2023 — official ISO abstract](https://www.iso.org/standard/80209.html), [ISO 17635:2025 — official ISO abstract](https://www.iso.org/standard/85705.html), [ISO 9712:2021 — official ISO abstract](https://www.iso.org/standard/75614.html).
-- **Purpose for this article:** Keep QA articles from confusing workmanship levels, NDT technique, indication evaluation, personnel certification, equipment status, and engineering acceptance.
-- **Safe grounded facts:** A quality plan needs the governing acceptance basis, joint and examination identification, method/technique and extent, written procedure where required, personnel scope, equipment identity and current calibration/verification, surface/test conditions, report traceability, result, nonconformance, disposition authority, repair cycle, and closeout.
-- **Limits:** Do not publish imperfection limits, acceptance tables, technique settings, calibration intervals, or certification equivalence from abstracts. Obtain full current standards and project procedures.
-
-### KR-16
-
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 12 Tahun 2015 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Provide a systems view of workshop K3 instead of reducing safety to personal protective equipment.
-- **Safe grounded facts:** A controlled task starts with elimination/substitution and engineering/administrative controls, then suitable PPE; product identity and current safety data matter for chemicals. Emergency planning must reflect the actual energy, fire, exposure, first-aid, evacuation, communication, and rescue scenario.
-- **Limits:** This file supplies no exposure limit, PPE selection, ventilation rate, electrical protection setting, cylinder separation, fire-watch duration, or emergency procedure. Resolve them from current Indonesian rules, site conditions, exact products, and competent K3 review.
-
-### KR-20
-
-- **Original sources:** [PP No. 22 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Connect source reduction, controlled use, segregation, reuse/recycling, worker exposure, and legal waste disposition without assuming every metal offcut is harmless or recyclable.
-- **Safe grounded facts:** Waste identity, contamination, generator/site context, storage, labeling, transport, receiver authorization, records, and current local rules determine the route. Reuse and repair may avoid new material but do not automatically reduce total environmental or safety impact.
-- **Limits:** Do not classify a waste, recommend mixing, state a storage limit, name a legal carrier/receiver, or claim a quantified environmental benefit without current Indonesian/local requirements, characterization, mass/energy data, and authorized-party evidence.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-- **GATE-09:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
-- **GATE-11:** Resolve the gate from current project evidence and competent review.
-- **GATE-12:** Resolve the gate from current project evidence and competent review.
-- **GATE-13:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — fallback home route; use only when it is genuinely useful.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUT-13-02` → `/artikel/urutan-cutting-dan-bending.html` — Urutan Cutting dan Bending agar Dimensi Komponen Tetap Terkendali
-- `CUT-13-03` → `/artikel/menyiapkan-part-cutting-untuk-welding.html` — Menyiapkan Part Hasil Cutting untuk Welding dan Perakitan
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Deburring setelah Cutting: Kapan Diperlukan dan Hasil yang Diharapkan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Deburring setelah Cutting: Kapan Diperlukan dan Hasil yang Diharapkan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Burr adalah sisa material atau tonjolan pada tepi setelah pemotongan. Deburring adalah rangkaian tindakan untuk menghilangkan atau mengendalikan sisa tersebut—misalnya dengan kikir, amplas, gerinda, sikat, atau proses mekanis lain yang sesuai. Artikel ini membahas keputusan dan urutan setelah cutting sampai part siap masuk ke bending, welding, coating, atau perakitan. Penyebab burr dari parameter dan kondisi mesin cutting bukan fokus di sini.
+
+Targetnya bukan satu bentuk tepi yang berlaku untuk semua pekerjaan. “Bebas burr” perlu diterjemahkan menjadi kondisi yang dapat diperiksa: tidak ada tonjolan yang mengganggu pemasangan, tidak ada serpihan lepas, tepi aman disentuh sesuai prosedur, dan dimensi penting tetap berada dalam toleransi gambar. Untuk tepi yang menjadi permukaan sambungan atau harus mempertahankan radius tertentu, bentuk setelah deburring harus disetujui pada dokumen kerja, bukan ditentukan dari kebiasaan operator.
+
+Paket fabrikasi yang terkendali semestinya menghubungkan material, dimensi, toleransi, urutan fabrikasi, persyaratan sambungan atau coating, titik inspeksi, dan dasar penerimaan. Kebutuhan dokumentasi semacam itu dibahas pada katalog resmi [SNI 1729:2020](https://pesta.bsn.go.id/produk/detail/12882-sni17292020) dan abstrak [ISO 3834-6:2024](https://www.iso.org/standard/83335.html). Halaman katalog tidak menggantikan teks standar berlisensi atau spesifikasi proyek. Untuk meninjau konteks layanan dan istilah dasar, Anda dapat mulai dari [beranda Bengkel-las.co.id](/) atau [indeks informasi bengkel](/index.html).
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Deburring setelah Cutting: Kapan Diperlukan dan Hasil yang Diharapkan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dari membaca gambar dan mengelompokkan tepi. Tandai tepi yang akan menjadi bidang kontak, alur las, lubang baut, area tekuk, permukaan yang dicat, dan tepi yang hanya berfungsi sebagai batas luar. Catatan ini menentukan apakah deburring dilakukan sebelum inspeksi dimensi, sebelum fit-up, atau setelah operasi yang berpotensi menghasilkan sisa baru.
+
+Urutan praktisnya sebagai berikut.
+
+1. **Identifikasi dan pisahkan part.** Cocokkan nomor part, material, ketebalan, dan orientasi. Pisahkan part yang memerlukan perlakuan tepi berbeda agar operator tidak menerapkan satu setting ke seluruh batch.
+2. **Tentukan metode dan intensitas.** Pilih alat yang dapat mengendalikan pengambilan material. Kikir atau abrasive ringan mungkin cukup untuk burr kecil; gerinda agresif hanya dipakai bila diizinkan dan operator dapat menjaga geometri. Jangan menetapkan ukuran chamfer atau radius tanpa gambar atau persetujuan teknis.
+3. **Kerjakan dengan arah dan akses terkendali.** Jaga tangan, kabel, benda kerja, dan percikan. Untuk alat berputar, periksa kondisi alat dan pelindungnya. Debu, serpihan, dan kebisingan menjadi bagian dari penilaian risiko, bukan urusan PPE semata. Kerangka keselamatan kerja Indonesia dapat dirujuk pada [UU No. 1 Tahun 1970](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970); pengendalian aktual tetap perlu ditetapkan oleh personel K3 yang berwenang.
+4. **Bersihkan dan periksa.** Singkirkan serpihan lepas, lalu lakukan pemeriksaan visual dan sentuh terkontrol sesuai prosedur. Ukur kembali dimensi atau posisi lubang yang kritis. Bila tepi menjadi bagian sambungan, cocokkan dengan persyaratan fit-up dan WPS yang berlaku; kartu welder, WPS, dan penerimaan sambungan adalah rekaman yang berbeda.
+5. **Tandai status.** Catat siapa yang mengerjakan, part atau batch, metode, hasil pemeriksaan, dan penyimpangan yang disetujui. Dengan begitu, part yang sudah siap tidak tercampur dengan part yang menunggu keputusan.
+
+Setelah deburring, urutan proses mengikuti fungsi part. Bending sebaiknya menerima tepi yang tidak mengganjal dies, tetapi jangan menghilangkan material yang dibutuhkan untuk menjaga dimensi tekuk. Untuk welding, bersihkan area sambungan sesuai WPS; deburring umum tidak otomatis berarti permukaan las telah siap. Coating memerlukan permukaan dan kebersihan yang ditentukan produk serta spesifikasi, bukan sekadar “sudah digerinda”.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Deburring setelah Cutting: Kapan Diperlukan dan Hasil yang Diharapkan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Fungsi tepi.** Tepi yang sering dipegang, dimasukkan ke slot, atau berdekatan dengan kabel membutuhkan pengendalian tajam yang lebih ketat daripada tepi yang tertutup di dalam rakitan. Untuk permukaan sealing atau sambungan geser, perubahan kecil pada geometri dapat memengaruhi kontak.
+
+**Material dan ketebalan.** Material lunak dapat terangkat atau tergores; material tipis mudah kehilangan ukuran saat digerinda. Abrasive yang sama tidak otomatis cocok untuk semua material. Catat material designation dan ukuran part agar pemilihan alat dapat ditinjau.
+
+**Proses lanjutan.** Tekukan, pengelasan, dan coating memiliki antarmuka berbeda. Deburring sebelum bending dapat mencegah goresan pada alat, tetapi pengerjaan ulang mungkin diperlukan setelah pemotongan sudut atau deformasi. Sebelum welding, serpihan abrasif atau kontaminan harus ditangani sesuai prosedur sambungan. Sebelum coating, identitas produk, batch, kondisi substrat, dan catatan aplikasi perlu tersedia; jangan menyimpulkan kompatibilitas atau masa simpan dari label generik. Konsep identitas produk dan lembar data keselamatan dapat dipelajari dari [OSHA 1910.1200](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200), tetapi aturan tersebut bukan hukum Indonesia.
+
+**Akses dan lokasi kerja.** Deburring di workshop memberi kontrol lebih baik atas posisi, pencahayaan, penahanan benda kerja, dan kebersihan. Memindahkannya ke lapangan mengubah akses, cuaca, ventilasi, lalu lintas orang, serta potensi kebakaran. Jangan memilih pekerjaan lapangan hanya karena transportasi terasa merepotkan; penanggung jawab lokasi harus menyetujui pengendalian tugas spesifik.
+
+**Bukti penerimaan.** “Terasa halus” adalah observasi, bukan selalu kriteria penerimaan. Mintalah gambar, checklist inspeksi, atau sampel pembanding yang menyatakan area kritis, alat ukur, dan siapa yang berwenang menerima penyimpangan. [NEEDS PROJECT REVIEW: metode ukur, ukuran sampel, dan batas penerimaan untuk part ini].
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Deburring setelah Cutting: Kapan Diperlukan dan Hasil yang Diharapkan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan tabel berikut sebagai kerangka diskusi, bukan spesifikasi baru.
+
+| Kondisi setelah cutting | Keputusan awal | Pemeriksaan sebelum lanjut |
+| --- | --- | --- |
+| Burr kecil pada tepi luar, tidak menjadi bidang kontak | Deburring ringan dan pembersihan | Pastikan tidak ada serpihan lepas dan ukuran tetap sesuai gambar |
+| Tepi masuk ke slot atau bertemu part lain | Deburring wajib sebelum fit-up | Coba rakit dengan fixture atau ukur celah sesuai dokumen |
+| Tepi berada di area las | Kendalikan burr dan kontaminan sesuai WPS | Verifikasi joint preparation; jangan menganggap kualifikasi welder sebagai penerimaan hasil |
+| Part akan dicat atau dilapisi | Bersihkan sesuai spesifikasi coating | Konfirmasi substrat, produk, batch, dan kondisi aplikasi |
+| Tepi kritis belum memiliki batas tertulis | Hentikan pelebaran pekerjaan | Minta keputusan teknis tertulis; tandai [NEEDS PROJECT REVIEW] |
+
+Contoh bersyarat: bila lubang baut harus sejajar, deburring hanya boleh menghilangkan tonjolan tanpa memperbesar lubang. Bila tepi akan ditekuk, periksa apakah penghilangan material mengubah garis tekuk. Bila pekerjaan berpindah ke area berpenghuni, tinjau ulang izin, isolasi energi, percikan, dan rencana darurat setempat sebelum membawa alat.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Deburring setelah Cutting: Kapan Diperlukan dan Hasil yang Diharapkan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menjadikan “semua tepi digerinda sampai mengilap” sebagai target. Periksa dimensi setelah deburring dan bandingkan dengan toleransi yang diterbitkan. Kesalahan kedua, menghapus burr tetapi meninggalkan serpihan di dalam lubang atau celah. Gunakan langkah pembersihan dan inspeksi yang tercatat.
 
-## Objection or shortcut to address
+Kesalahan ketiga adalah mencampur part selesai dengan part menunggu pemeriksaan. Beri status yang terlihat pada wadah atau traveler. Kesalahan keempat, memakai abrasive, bahan kimia, atau coating tanpa identitas dan lembar data yang tepat. Tahan penggunaan sampai produk, batch, substrat, dan kondisi kerja diverifikasi.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan kelima, menganggap pekerjaan di lapangan sama dengan di workshop. Sobat Bengkel-las.co.id, perubahan akses dan lingkungan dapat mengubah pengendalian risiko serta mutu; lakukan penilaian tugas ulang dan minta persetujuan K3 lokasi. Jangan mengimpor angka jarak, durasi fire watch, atau persyaratan luar negeri ke pekerjaan Indonesia tanpa otoritas yang berwenang.
 
-## Required conclusion
+## Jalan pintas yang tampak hemat
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Jalan pintas yang sering dipilih adalah melewati deburring lalu “merapikan” setelah welding atau coating. Ini dapat menyembunyikan burr di bawah lapisan, mengganggu fit-up, dan membuat sumber cacat sulit ditelusuri. Alternatif yang lebih dapat diandalkan adalah menetapkan titik berhenti: setelah cutting, setelah deburring, sebelum proses lanjutan, dan saat closeout. Setiap titik memiliki pemeriksaan dan penanggung jawab; penyimpangan diberi disposisi tertulis.
 
-## Draft completion checklist
+## Kesimpulan dan langkah berikutnya
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Bengkel-las.co.id!` and uses friendly `Bengkel-las.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Deburring setelah cutting diperlukan bila sisa tepi memengaruhi keselamatan, fit-up, dimensi, sambungan, coating, atau fungsi part. Hasil yang diharapkan adalah tepi terkendali dan dapat diperiksa—bukan pengikisan maksimum. Kawan Bengkel-las.co.id, sebelum mengeluarkan part dari area hold, kumpulkan gambar revisi, kriteria tepi, metode inspeksi, serta catatan material dan alat yang dipakai. Minta tinjauan teknis untuk [NEEDS PROJECT REVIEW: batas burr, perubahan geometri, dan penerimaan akhir] bila dokumen belum menyatakannya.
+
+Aturan operasinya sederhana: jangan lanjut ke bending, welding, coating, atau perakitan hanya karena tepi terlihat halus; lanjutkan setelah fungsi, bukti pemeriksaan, dan pengendalian K3 untuk kondisi nyata disetujui.
+
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-004
+Source type: local
+Placement: after the opening has answered the main question, before the first detailed H2
+- **Exact Markdown to insert:** `![Ilustrasi memilih jasa bengkel las](/wp-content/uploads/2020/02/memilih-jasa-bengkel-las.jpg)`
+Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+Selection basis: filename/source metadata identifies `memilih jasa bengkel las` as relevant content media; no pixels were inspected.
+Hard boundary: do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+Substitution rule: do not replace this image. If unavailable or provenance is incomplete, insert [NEEDS IMAGE REVIEW: LOCAL-004] and continue drafting the prose.
+END MANAGED IMAGE PLAN -->

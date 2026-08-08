@@ -1,9 +1,10 @@
 ---
 article_id: CUT-10-03
+writing_contract_version: "native-id-v2"
 title: "Menilai Kualitas Tepi Laser Cutting, Router, dan Milling"
 slug: "menilai-kualitas-tepi-cutting"
 description: "Memeriksa ukuran, tepi, permukaan, kelengkapan, dan konsistensi sebelum hasil diterima."
-status: outline
+status: draft
 publication_date: "2026-02-22"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -17,226 +18,82 @@ sources:
   - "https://www.iso.org/standard/85705.html"
   - "https://www.iso.org/standard/75614.html"
   - "https://www.iso.org/standard/83335.html"
-  - "https://www.iso.org/standard/77795.html"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200"
-  - "https://pesta.bsn.go.id/produk/detail/12882-sni17292020"
-  - "https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252"
-  - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015"
-  - "https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021"
   - "https://www.iso.org/standard/80209.html"
----
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+---
 
 # Menilai Kualitas Tepi Laser Cutting, Router, dan Milling
 
-## Assignment lock
+Halo, Teman Bengkel-las.co.id! Tepi hasil laser cutting, router, dan milling tidak dinilai dari kilap atau rasa halus saja. Keputusan terima sebaiknya dibuat setelah ukuran, bentuk, kondisi tepi, permukaan, kelengkapan, dan konsistensi dibandingkan dengan gambar kerja serta fungsi part. Tepi yang tampak rapi bisa tetap salah ukuran; tepi yang sedikit berubah warna belum tentu gagal.
 
-- **Writer task:** Expand this file into one complete article answering: “Menilai Kualitas Tepi Laser Cutting, Router, dan Milling”
-- **Reader and situation:** Memeriksa ukuran, tepi, permukaan, kelengkapan, dan konsistensi sebelum hasil diterima.
-- **Reader outcome:** Memeriksa ukuran, tepi, permukaan, kelengkapan, dan konsistensi sebelum hasil diterima.
-- **Primary intent:** Membandingkan indikator kualitas tepi
-- **Reader community:** `Bengkel-las.co.id`
-- **Primary friendly address:** `Teman Bengkel-las.co.id`
-- **Natural variants:** `Sobat Bengkel-las.co.id` and `Kawan Bengkel-las.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Fokus inspeksi visual/fungsional; diagnosis cacat dimiliki CUT-11.
-- **Final public route:** `/artikel/menilai-kualitas-tepi-cutting.html`
-- **Appointed CMS date:** `2026-02-22` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Urutannya sederhana: cocokkan datum dan ukuran penting, amati seluruh kontur, cek burr atau serpihan yang mengganggu perakitan, lalu bandingkan beberapa sampel dengan kriteria yang sama. Metode inspeksi, cakupan, kondisi permukaan, alat, personel, dan dasar penerimaan adalah bukti terpisah—bukan kesimpulan yang boleh ditebak dari satu pengukuran. Prinsip pemisahan ini sejalan dengan ringkasan ISO 17635 dan ISO 9712 tentang metode, teknik, personel, peralatan, pelaporan, serta acceptance basis (dasar penerimaan): [ISO 17635:2025](https://www.iso.org/standard/85705.html) dan [ISO 9712:2021](https://www.iso.org/standard/75614.html).
 
-## Opening instructions
+![Ilustrasi memilih jasa bengkel las](/wp-content/uploads/2020/02/memilih-jasa-bengkel-las.jpg)
 
-- Open with the exact short salutation: **“Halo, Teman Bengkel-las.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Menilai Kualitas Tepi Laser Cutting, Router, dan Milling**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Bengkel-las.co.id`, `Sobat Bengkel-las.co.id`, or `Kawan Bengkel-las.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu. [Sumber media lokal](/wp-content/uploads/2020/02/memilih-jasa-bengkel-las.jpg).
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-004`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi memilih jasa bengkel las](/wp-content/uploads/2020/02/memilih-jasa-bengkel-las.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `memilih jasa bengkel las` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-004]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cutting.bengkel-las.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The frozen catalog has 20 parent topics and 120 briefs. Intended readers include homeowners, facility and maintenance teams, small manufacturers, procurement staff, project supervisors, and workshop operators. Repository plans are editorial inputs, not proof of a real workshop, staff, equipment, qualifications, prices, locations, or services.
-- **Limits:** Re-read both frozen files if the project role, catalog, URL ownership, or conversion path changes. Do not infer an automotive specialty or add unsupported neighboring trades.
-
-### KR-04
-
-- **Original sources:** [ISO 17635:2025 — official ISO abstract](https://www.iso.org/standard/85705.html), [ISO 9712:2021 — official ISO abstract](https://www.iso.org/standard/75614.html).
-- **Purpose for this article:** Prevent visual symptoms or an isolated measurement from being presented as a complete diagnosis or acceptance decision.
-- **Safe grounded facts:** Inspection method, coverage, technique, personnel, equipment, surface condition, calibration/verification status, reporting, and acceptance basis are separate evidence items. ISO 17635 also warns that NDT acceptance levels are not a direct one-to-one translation of ISO 5817 quality levels.
-- **Limits:** The abstracts do not supply technique parameters, acceptance values, required extent, calibration intervals, or project fitness. Obtain the governing code, full standards, written procedure, and asset-specific inspection plan.
-
-### KR-07
-
-- **Original sources:** [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html), [ISO 12944-5:2019 — official ISO abstract](https://www.iso.org/standard/77795.html), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Make material and consumable records usable for fabrication, compatibility, safety, inspection, maintenance, and later failure investigation.
-- **Safe grounded facts:** Useful traceability can include material designation, dimensions/heat or batch where required, certificate/report linkage, filler/consumable classification and batch, storage/conditioning, coating product and batch, mixing/application records, replacement-part identity, and approved substitution. The US hazard-communication rule illustrates label and safety-data-sheet concepts but is not Indonesian law.
-- **Limits:** Do not infer composition, compatibility, shelf life, storage, mixing ratio, coverage, cure, welding parameter, exposure limit, or disposal route from generic labels. Verify exact product, batch, substrate, environment, and current Indonesian rules.
-
-### KR-08
-
-- **Original sources:** [SNI 1729:2020 — official BSN catalog](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html).
-- **Purpose for this article:** Ground fabrication planning in defined requirements rather than verbal descriptions, copied details, or unverified workshop habit.
-- **Safe grounded facts:** A controlled fabrication package can need governing documents and revision, function, dimensions/datums, material and joint identity, loads/interfaces, tolerances, fabrication sequence, weld/fastener/coating requirements, inspection and hold points, acceptance basis, handling, installation, and approved deviations.
-- **Limits:** The BSN page does not reveal clauses, tolerances, combinations, connection design, execution rules, or acceptance values. Obtain the licensed governing standards and issued-for-work project documents.
-
-### KR-14
-
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.252 — welding, cutting, and brazing](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Help readers compare controlled shop fabrication with field work where the environment, interfaces, access, occupants, combustibles, weather, and permits can change the method and risk.
-- **Safe grounded facts:** Moving work on site can change fit-up control, position, access, lifting, weather, electrical supply, fume dispersion, fire exposure, nearby operations, traffic/public interface, coating conditions, inspection access, and restoration. A field weld is not justified merely because transport is inconvenient.
-- **Limits:** Do not import US distances, permits, or prescriptions. The responsible Indonesian site/K3 authority must approve the current task-specific controls.
-
-### KR-16
-
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 12 Tahun 2015 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Provide a systems view of workshop K3 instead of reducing safety to personal protective equipment.
-- **Safe grounded facts:** A controlled task starts with elimination/substitution and engineering/administrative controls, then suitable PPE; product identity and current safety data matter for chemicals. Emergency planning must reflect the actual energy, fire, exposure, first-aid, evacuation, communication, and rescue scenario.
-- **Limits:** This file supplies no exposure limit, PPE selection, ventilation rate, electrical protection setting, cylinder separation, fire-watch duration, or emergency procedure. Resolve them from current Indonesian rules, site conditions, exact products, and competent K3 review.
-
-### KR-20
-
-- **Original sources:** [PP No. 22 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Connect source reduction, controlled use, segregation, reuse/recycling, worker exposure, and legal waste disposition without assuming every metal offcut is harmless or recyclable.
-- **Safe grounded facts:** Waste identity, contamination, generator/site context, storage, labeling, transport, receiver authorization, records, and current local rules determine the route. Reuse and repair may avoid new material but do not automatically reduce total environmental or safety impact.
-- **Limits:** Do not classify a waste, recommend mixing, state a storage limit, name a legal carrier/receiver, or claim a quantified environmental benefit without current Indonesian/local requirements, characterization, mass/energy data, and authorized-party evidence.
-
-### KR-15
-
-- **Original sources:** [ISO 5817:2023 — official ISO abstract](https://www.iso.org/standard/80209.html), [ISO 17635:2025 — official ISO abstract](https://www.iso.org/standard/85705.html), [ISO 9712:2021 — official ISO abstract](https://www.iso.org/standard/75614.html).
-- **Purpose for this article:** Keep QA articles from confusing workmanship levels, NDT technique, indication evaluation, personnel certification, equipment status, and engineering acceptance.
-- **Safe grounded facts:** A quality plan needs the governing acceptance basis, joint and examination identification, method/technique and extent, written procedure where required, personnel scope, equipment identity and current calibration/verification, surface/test conditions, report traceability, result, nonconformance, disposition authority, repair cycle, and closeout.
-- **Limits:** Do not publish imperfection limits, acceptance tables, technique settings, calibration intervals, or certification equivalence from abstracts. Obtain full current standards and project procedures.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-- **GATE-09:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
-- **GATE-11:** Resolve the gate from current project evidence and competent review.
-- **GATE-12:** Resolve the gate from current project evidence and competent review.
-- **GATE-13:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — fallback home route; use only when it is genuinely useful.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUT-10-01` → `/artikel/checklist-pemeriksaan-sampel-cutting.html` — Checklist Pemeriksaan Sampel Hasil CNC Cutting
-- `CUT-10-02` → `/artikel/mengukur-part-hasil-cutting.html` — Cara Mengukur Part Cutting dengan Jangka Sorong dan Alat Sederhana
-- `CUT-10-04` → `/artikel/first-article-inspection-komponen-custom.html` — First Article Inspection untuk Pesanan Komponen Custom
-- `CUT-10-05` → `/artikel/sampling-inspection-pesanan-cutting.html` — Sampling Inspection untuk Pesanan Cutting dalam Jumlah Banyak
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Menilai Kualitas Tepi Laser Cutting, Router, dan Milling”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-004. Placement: setelah pembuka.
+**Exact Markdown to insert:** `![Ilustrasi memilih jasa bengkel las](/wp-content/uploads/2020/02/memilih-jasa-bengkel-las.jpg)`
+Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+Selection basis: filename/source metadata only; do not infer unseen pixels, ownership, location, people, brands, condition, performance, or outcome.
+END MANAGED IMAGE PLAN -->
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Menilai Kualitas Tepi Laser Cutting, Router, dan Milling”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Yang dinilai adalah hasil potong atau frais sebagai benda yang akan dipakai: geometri terhadap gambar, tepi pada jalur potong, permukaan yang menjadi bidang kontak atau dicat, dan kelengkapan seperti lubang, slot, chamfer, atau tanda identifikasi. Laser biasanya meninggalkan zona terpengaruh panas; router memakai pahat berputar; milling mengendalikan material dengan pahat dan lintasan yang berbeda. Perbedaan proses itu membantu Anda memilih indikator, tetapi tidak otomatis menetapkan batas lulus.
+
+Artikel ini berhenti pada inspeksi visual dan fungsional awal. Ia tidak mendiagnosis penyebab cacat, menetapkan parameter mesin, atau menggantikan persetujuan engineer, inspector, dan dokumen proyek. Jika gambar kerja tidak menyebut toleransi, kekasaran, atau kondisi tepi, tandai kekosongan itu sebelum menerima hasil: **[NEEDS PROJECT ACCEPTANCE BASIS]**.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Menilai Kualitas Tepi Laser Cutting, Router, dan Milling”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dari dokumen terkendali: nomor gambar dan revisi, material, kuantitas, serta fitur yang menentukan fungsi. Pilih datum yang sama untuk semua sampel. Ukur panjang, lebar, jarak lubang, diameter, dan sudut yang memang dipakai saat dirakit; catat alat dan identitas part agar hasil bisa ditelusuri. Jangan mengubah pembacaan menjadi “akurat” tanpa mengetahui status verifikasi alat dan toleransi yang berlaku.
+
+Berikut urutan inspeksi yang dapat dipakai di meja penerimaan:
+
+1. **Identitas dan kelengkapan.** Cocokkan label, material, jumlah, revisi gambar, dan semua fitur. Satu slot yang hilang adalah ketidaksesuaian meskipun tepinya indah.
+2. **Ukuran dan bentuk.** Tempatkan part pada datum; ukur fitur kritis dan cek distorsi dengan referensi yang disepakati. Pisahkan ukuran aktual dari penilaian “terlihat presisi”.
+3. **Tepi.** Telusuri kontur dengan penerangan cukup. Cari burr, dross/terak yang menempel, sudut tajam tak diminta, takik, retak, delaminasi, serat tertarik, atau bekas getaran. Sentuhan tangan hanya pemeriksaan tambahan—gunakan cara aman dan alat yang sesuai.
+4. **Permukaan dan antarmuka.** Periksa area yang akan bersentuhan, dilas, dibaut, dilem, atau dilapisi. Perubahan warna, goresan, atau sisa cairan menjadi isu bila mengganggu fungsi atau persiapan berikutnya; jangan menganggapnya gagal tanpa kriteria.
+5. **Konsistensi.** Bandingkan seluruh sampel memakai urutan dan pencahayaan yang sama. Foto dan catatan lokasi indikasi membantu, tetapi tidak menggantikan ukuran atau keputusan berwenang.
+
+Rencana mutu yang baik memisahkan identifikasi sambungan/fitur, metode dan cakupan pemeriksaan, prosedur tertulis bila diperlukan, personel, status alat, kondisi permukaan, laporan, nonkonformitas, disposisi, perbaikan, dan penutupan. Ringkasan [ISO 5817:2023](https://www.iso.org/standard/80209.html) dan ISO 17635 mendukung pemisahan antara tingkat mutu, teknik pemeriksaan, evaluasi indikasi, dan penerimaan engineering; abstrak tersebut tidak memberikan tabel batas untuk part Anda.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Menilai Kualitas Tepi Laser Cutting, Router, dan Milling”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Proses dan material.** Ketebalan, jenis material, arah serat, panas, kekakuan, dan strategi lintasan dapat mengubah tampilan tepi. Karena itu, bandingkan part dengan material dan revisi proses yang sama. Jangan menjadikan contoh dari material lain sebagai standar visual.
+
+**Fungsi dan antarmuka.** Tepi luar yang tidak disentuh pengguna mungkin cukup dengan pembersihan aman, sedangkan tepi yang masuk ke bearing, seal, jig, atau sambungan perlu verifikasi ukuran dan kebersihan lebih ketat. Tanyakan: “Apa yang terjadi bila burr tersisa satu siklus?” Jawabannya menentukan fitur mana yang harus ditahan untuk pemeriksaan lanjutan.
+
+**Lingkungan inspeksi.** Pencahayaan, kebersihan, temperatur, akses ke sisi belakang, dan posisi part memengaruhi apa yang terlihat. Kondisi permukaan harus dicatat agar hasil antar-pemeriksa dapat dibandingkan. Jika inspeksi tidak mencakup seluruh kontur, nyatakan cakupannya—jangan menyebut part “lulus total”.
+
+**Dokumen dan keterlacakan.** Material, batch consumable, revisi gambar, serta laporan pemeriksaan perlu terhubung ketika risiko atau persyaratan proyek memintanya. ISO 3834-6:2024 menempatkan informasi terdokumentasi sebagai bagian dari pengelolaan mutu, namun abstraknya tidak menetapkan format atau jumlah catatan untuk pekerjaan Anda: [ISO 3834-6:2024](https://www.iso.org/standard/83335.html). Bila substitusi material atau proses terjadi, minta persetujuan tertulis sebelum keputusan penerimaan.
+
+Teman Bengkel-las.co.id, jangan biarkan istilah “finishing halus” menutup pertanyaan fungsi. Minta definisi yang dapat diamati: ukuran mana yang kritis, tepi mana yang harus bebas burr, permukaan mana yang akan dilapisi, dan siapa yang berwenang menyetujui penyimpangan.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Menilai Kualitas Tepi Laser Cutting, Router, dan Milling”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan tabel ringkas ini sebagai alur, bukan sebagai nilai toleransi universal.
+
+| Temuan saat inspeksi | Pertanyaan berikutnya | Keputusan sementara |
+|---|---|---|
+| Ukuran fitur di luar toleransi pada gambar | Apakah datum, alat, dan metode ukur benar? | Tahan part; verifikasi ulang dan minta disposisi berwenang. |
+| Burr kecil pada tepi non-fungsional | Apakah pembersihan itu diizinkan dan tidak mengubah ukuran? | Boleh lanjut hanya setelah kriteria pembersihan disetujui dan dicatat. |
+| Perubahan warna atau dross pada area sambungan | Apakah persiapan permukaan mensyaratkan kondisi tertentu? | Tahan area tersebut untuk pemeriksaan/pembersihan sesuai prosedur proyek. |
+| Satu sampel baik, sampel lain berbeda | Apakah lot, material, dan revisi proses sama? | Perluas pemeriksaan sesuai rencana sampling; jangan menggeneralisasi satu sampel. |
+
+Contoh bersyarat: bila slot harus menerima komponen pasangan, ukur slot dan komponen pasangan terhadap datum yang sama. Jika keduanya belum memiliki dasar penerimaan tertulis, hasil “masuk” pada satu percobaan belum cukup untuk menyatakan interchangeability (dapat saling menggantikan).
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Menilai Kualitas Tepi Laser Cutting, Router, dan Milling”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah memakai kuku atau sarung tangan sebagai alat ukur burr. Ganti dengan inspeksi visual terarah dan alat ukur yang sesuai, lalu catat kriteria tepi. Kedua, hanya memeriksa sisi yang mudah dijangkau. Balik part, tandai jalur kontur, dan nyatakan area yang tidak terlihat. Ketiga, menyamakan hasil milling, router, dan laser hanya karena gambar akhirnya serupa; proses, material, dan fungsi bisa berbeda.
 
-## Objection or shortcut to address
+Keempat, menerima berdasarkan foto. Foto berguna untuk lokasi dan komunikasi, bukan bukti ukuran, kekasaran, atau kecocokan. Kelima, mencampur diagnosis dengan penerimaan: garis potong bergelombang mungkin memerlukan analisis penyebab, tetapi petugas penerimaan cukup mencatat lokasi, dampak fungsi, dan permintaan pemeriksaan lanjutan. Untuk keputusan keselamatan, beban, atau sambungan kritis, hentikan penerimaan dan minta review kompeten; jangan menyalin angka dari standar yang belum dibaca lengkap.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Jalan pintas yang tampak praktis
 
-## Required conclusion
+Shortcut yang sering dipilih adalah “ambil satu part paling bagus sebagai wakil seluruh pesanan”. Cara ini gagal ketika variasi lot, keausan alat, atau perubahan setup membuat tepi dan ukuran bergeser. Alternatif yang lebih andal: tetapkan identitas lot, pilih sampel sesuai rencana tertulis, ukur fitur kritis pada setiap sampel yang diwajibkan, dan eskalasi bila tren berubah. Bila rencana sampling belum ada, tandai **[NEEDS SAMPLING PLAN]** daripada mengarang persentase pemeriksaan.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Kesimpulan
 
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Bengkel-las.co.id!` and uses friendly `Bengkel-las.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Menilai kualitas tepi berarti menggabungkan ukuran terhadap datum, pemeriksaan seluruh kontur, kondisi permukaan dan antarmuka, kelengkapan fitur, serta konsistensi antar-sampel. Tidak ada tampilan “paling halus” yang otomatis lulus untuk laser cutting, router, maupun milling. Sebelum menerima, kumpulkan gambar revisi, dasar toleransi/tepi, catatan alat dan kondisi inspeksi, lalu minta disposisi tertulis untuk setiap penyimpangan. Untuk menyiapkan pemeriksaan berikutnya, simpan catatan bersama dokumen kerja di [beranda Bengkel-las.co.id](/). Kawan Bengkel-las.co.id, aturan operasinya sederhana: **jangan terima karena tampak rapi; terima hanya ketika bukti dan fungsi cocok dengan persyaratan proyek yang telah disetujui.**
