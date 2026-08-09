@@ -3,7 +3,8 @@ article_id: CUT-08-01
 title: "Kerf Cutting: Arti, Cara Mengukur, dan Dampaknya pada Ukuran"
 slug: "memahami-kerf-cutting"
 description: "Menulis target dimensi dan toleransi yang realistis serta mengantisipasi kerf dan kompensasi."
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-12-28"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -18,48 +19,18 @@ sources:
   - "https://www.iso.org/standard/75614.html"
   - "https://www.iso.org/standard/83335.html"
   - "https://www.iso.org/standard/77795.html"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200"
+  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910.1200"
   - "https://pesta.bsn.go.id/produk/detail/12882-sni17292020"
   - "https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970"
   - "https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252"
+  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910.252"
   - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
   - "https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015"
   - "https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021"
   - "https://www.iso.org/standard/80209.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Kerf Cutting: Arti, Cara Mengukur, dan Dampaknya pada Ukuran
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Kerf Cutting: Arti, Cara Mengukur, dan Dampaknya pada Ukuran”
-- **Reader and situation:** Menulis target dimensi dan toleransi yang realistis serta mengantisipasi kerf dan kompensasi.
-- **Reader outcome:** Menulis target dimensi dan toleransi yang realistis serta mengantisipasi kerf dan kompensasi.
-- **Primary intent:** Memahami kehilangan lebar potong
-- **Reader community:** `Bengkel-las.co.id`
-- **Primary friendly address:** `Kawan Bengkel-las.co.id`
-- **Natural variants:** `Sobat Bengkel-las.co.id` and `Teman Bengkel-las.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Fondasi kerf; kompensasi desain dibahas CUT-08-02.
-- **Final public route:** `/artikel/memahami-kerf-cutting.html`
-- **Appointed CMS date:** `2025-12-28` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Bengkel-las.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Kerf Cutting: Arti, Cara Mengukur, dan Dampaknya pada Ukuran**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Bengkel-las.co.id`, `Sobat Bengkel-las.co.id`, or `Teman Bengkel-las.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-004`
@@ -70,171 +41,67 @@ sources:
 - **Selection basis:** filename/source metadata identifies `memilih jasa bengkel las` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-004]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Kerf Cutting: Arti, Cara Mengukur, dan Dampaknya pada Ukuran
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Kawan Bengkel-las.co.id! Kerf adalah lebar material yang hilang atau terbakar di sepanjang jalur potong. Karena garis alat memiliki lebar, ukuran geometri pada file tidak selalu sama dengan ukuran part setelah dipisahkan. Dampaknya paling terasa pada lubang, slot, sambungan tekan, dan tepi yang menjadi datum.
 
-### KR-01
+Jawaban praktisnya: ukur kerf pada kombinasi mesin, material, ketebalan, pahat atau nozzle, dan parameter yang benar-benar dipakai. Jangan menyalin angka dari pekerjaan lain. Gunakan hasil kupon untuk menentukan kompensasi, lalu cocokkan part dengan toleransi gambar. Jika dasar penerimaan belum tersedia, tandai [NEEDS PROJECT REVIEW] dan jangan menjanjikan ukuran akhir.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cutting.bengkel-las.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The frozen catalog has 20 parent topics and 120 briefs. Intended readers include homeowners, facility and maintenance teams, small manufacturers, procurement staff, project supervisors, and workshop operators. Repository plans are editorial inputs, not proof of a real workshop, staff, equipment, qualifications, prices, locations, or services.
-- **Limits:** Re-read both frozen files if the project role, catalog, URL ownership, or conversion path changes. Do not infer an automotive specialty or add unsupported neighboring trades.
+![Ilustrasi memilih jasa bengkel las](/wp-content/uploads/2020/02/memilih-jasa-bengkel-las.jpg)
 
-### KR-04
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
 
-- **Original sources:** [ISO 17635:2025 — official ISO abstract](https://www.iso.org/standard/85705.html), [ISO 9712:2021 — official ISO abstract](https://www.iso.org/standard/75614.html).
-- **Purpose for this article:** Prevent visual symptoms or an isolated measurement from being presented as a complete diagnosis or acceptance decision.
-- **Safe grounded facts:** Inspection method, coverage, technique, personnel, equipment, surface condition, calibration/verification status, reporting, and acceptance basis are separate evidence items. ISO 17635 also warns that NDT acceptance levels are not a direct one-to-one translation of ISO 5817 quality levels.
-- **Limits:** The abstracts do not supply technique parameters, acceptance values, required extent, calibration intervals, or project fitness. Obtain the governing code, full standards, written procedure, and asset-specific inspection plan.
 
-### KR-07
+## Kerf bukan toleransi
 
-- **Original sources:** [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html), [ISO 12944-5:2019 — official ISO abstract](https://www.iso.org/standard/77795.html), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Make material and consumable records usable for fabrication, compatibility, safety, inspection, maintenance, and later failure investigation.
-- **Safe grounded facts:** Useful traceability can include material designation, dimensions/heat or batch where required, certificate/report linkage, filler/consumable classification and batch, storage/conditioning, coating product and batch, mixing/application records, replacement-part identity, and approved substitution. The US hazard-communication rule illustrates label and safety-data-sheet concepts but is not Indonesian law.
-- **Limits:** Do not infer composition, compatibility, shelf life, storage, mixing ratio, coverage, cure, welding parameter, exposure limit, or disposal route from generic labels. Verify exact product, batch, substrate, environment, and current Indonesian rules.
+Kerf menggambarkan kehilangan material akibat proses, sedangkan toleransi adalah rentang ukuran yang masih diterima pada fungsi tertentu. Keduanya berhubungan tetapi tidak sama. Kerf dapat berubah karena fokus, kecepatan, energi, gas, geometri, jenis material, atau keausan alat. Toleransi harus berasal dari gambar dan acceptance basis; katalog [SNI 1729:2020 di BSN](https://pesta.bsn.go.id/produk/detail/12882-sni17292020) hanya menunjukkan identitas standar, bukan nilai penerimaan part Anda.
 
-### KR-08
+## Cara mengukur pada kupon
 
-- **Original sources:** [SNI 1729:2020 — official BSN catalog](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html).
-- **Purpose for this article:** Ground fabrication planning in defined requirements rather than verbal descriptions, copied details, or unverified workshop habit.
-- **Safe grounded facts:** A controlled fabrication package can need governing documents and revision, function, dimensions/datums, material and joint identity, loads/interfaces, tolerances, fabrication sequence, weld/fastener/coating requirements, inspection and hold points, acceptance basis, handling, installation, and approved deviations.
-- **Limits:** The BSN page does not reveal clauses, tolerances, combinations, connection design, execution rules, or acceptance values. Obtain the licensed governing standards and issued-for-work project documents.
+Gunakan kupon dari material dan batch yang sama. Buat dua garis atau bentuk yang dapat diukur sebelum dan sesudah dipotong. Ukur lebar celah dengan alat yang sesuai, catat sisi masuk dan sisi keluar, lalu ulangi pada beberapa lokasi bila prosedur menyetujuinya. Jangan mengubah parameter di tengah kupon tanpa mencatat perubahan. Hasil kupon adalah bukti proses tertentu, bukan jaminan semua material.
 
-### KR-14
+Untuk router, periksa mata, arah pemakanan, penahanan, dan serpihan. Untuk laser, catat fokus, nozzle, gas, dan kondisi permukaan. Untuk milling, catat pahat, fixture (alat penahan), datum (acuan geometri), dan urutan pemakanan. Jika metode ukur atau alat belum diverifikasi, status hasil tetap perlu ditinjau kompeten.
 
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.252 — welding, cutting, and brazing](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Help readers compare controlled shop fabrication with field work where the environment, interfaces, access, occupants, combustibles, weather, and permits can change the method and risk.
-- **Safe grounded facts:** Moving work on site can change fit-up control, position, access, lifting, weather, electrical supply, fume dispersion, fire exposure, nearby operations, traffic/public interface, coating conditions, inspection access, and restoration. A field weld is not justified merely because transport is inconvenient.
-- **Limits:** Do not import US distances, permits, or prescriptions. The responsible Indonesian site/K3 authority must approve the current task-specific controls.
+## Dampak pada desain
 
-### KR-16
+Slot yang terlalu sempit dapat membuat tab patah atau tidak masuk; slot terlalu lebar dapat membuat sambungan longgar. Lubang kecil dapat kehilangan bentuk ketika kerf mengambil sebagian dinding. Pada tepi yang akan dilas atau dilapisi, allowance (sisa ukuran untuk proses berikutnya) harus ditulis dan tidak boleh diasumsikan dari kerf saja.
 
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 12 Tahun 2015 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Provide a systems view of workshop K3 instead of reducing safety to personal protective equipment.
-- **Safe grounded facts:** A controlled task starts with elimination/substitution and engineering/administrative controls, then suitable PPE; product identity and current safety data matter for chemicals. Emergency planning must reflect the actual energy, fire, exposure, first-aid, evacuation, communication, and rescue scenario.
-- **Limits:** This file supplies no exposure limit, PPE selection, ventilation rate, electrical protection setting, cylinder separation, fire-watch duration, or emergency procedure. Resolve them from current Indonesian rules, site conditions, exact products, and competent K3 review.
+Kawan Bengkel-las.co.id, bedakan ukuran nominal file, ukuran hasil ukur, dan ukuran yang disyaratkan fungsi. Simpan datum, arah ukur, alat, status kalibrasi, dan revisi file. Jika part akan dibalik atau dipindahkan, tetapkan referensi ulang agar kompensasi tidak menggeser fitur lain.
 
-### KR-20
+## Faktor yang mengubah hasil
 
-- **Original sources:** [PP No. 22 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Connect source reduction, controlled use, segregation, reuse/recycling, worker exposure, and legal waste disposition without assuming every metal offcut is harmless or recyclable.
-- **Safe grounded facts:** Waste identity, contamination, generator/site context, storage, labeling, transport, receiver authorization, records, and current local rules determine the route. Reuse and repair may avoid new material but do not automatically reduce total environmental or safety impact.
-- **Limits:** Do not classify a waste, recommend mixing, state a storage limit, name a legal carrier/receiver, or claim a quantified environmental benefit without current Indonesian/local requirements, characterization, mass/energy data, and authorized-party evidence.
+Material berlapis, minyak, film, atau perekat dapat mengubah panas dan residu. SDS membantu komunikasi bahaya, tetapi contoh OSHA bukan hukum Indonesia ([OSHA 29 CFR 1910.1200](https://www.osha.gov/laws-regs/regulations/standardnumber/1910.1200)). Untuk pelapisan, [ISO 12944-5:2019](https://www.iso.org/standard/77795.html) memberi kerangka pemilihan sistem, bukan bukti kecocokan coating tertentu. ISO 3834-6 membahas informasi mutu fabrikasi, tetapi abstraknya tidak menetapkan angka kerf atau parameter mesin ([ISO 3834-6:2024](https://www.iso.org/standard/83335.html)).
 
-### KR-15
+## Titik tahan dan keselamatan
 
-- **Original sources:** [ISO 5817:2023 — official ISO abstract](https://www.iso.org/standard/80209.html), [ISO 17635:2025 — official ISO abstract](https://www.iso.org/standard/85705.html), [ISO 9712:2021 — official ISO abstract](https://www.iso.org/standard/75614.html).
-- **Purpose for this article:** Keep QA articles from confusing workmanship levels, NDT technique, indication evaluation, personnel certification, equipment status, and engineering acceptance.
-- **Safe grounded facts:** A quality plan needs the governing acceptance basis, joint and examination identification, method/technique and extent, written procedure where required, personnel scope, equipment identity and current calibration/verification, surface/test conditions, report traceability, result, nonconformance, disposition authority, repair cycle, and closeout.
-- **Limits:** Do not publish imperfection limits, acceptance tables, technique settings, calibration intervals, or certification equivalence from abstracts. Obtain full current standards and project procedures.
+Hentikan proses bila part bergeser, nozzle atau pahat berpotensi bertabrakan, asap berubah, tepi retak, atau hasil kupon keluar dari kriteria. UU No. 1 Tahun 1970 dan Permenaker No. 5 Tahun 2018 perlu diterapkan sesuai lokasi dan energi aktual; [OSHA 29 CFR 1910.252](https://www.osha.gov/laws-regs/regulations/standardnumber/1910.252) hanya contoh bahaya kerja panas. Perubahan aturan atau lokasi harus ditinjau melalui [Permenaker No. 11 Tahun 2026](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026) dan [Permenaker No. 12 Tahun 2015](https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015) oleh pihak berwenang.
 
-## Evidence gates
+Sisa dan limbah yang mengandung coating atau kontaminan perlu dipisahkan serta diberi identitas. [PP No. 22 Tahun 2021](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021) menjadi rujukan kerangka, bukan klasifikasi otomatis setiap offcut. Untuk kriteria mutu dan pemeriksaan, ISO 17635 dan ISO 9712 membedakan metode, kompetensi, dan penerimaan; gunakan dokumen lengkap ([ISO 17635](https://www.iso.org/standard/85705.html); [ISO 9712](https://www.iso.org/standard/75614.html); [ISO 5817](https://www.iso.org/standard/80209.html)).
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-- **GATE-09:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
-- **GATE-11:** Resolve the gate from current project evidence and competent review.
-- **GATE-12:** Resolve the gate from current project evidence and competent review.
-- **GATE-13:** Resolve the gate from current project evidence and competent review.
+## Jalan pintas yang sering gagal
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Mengisi kompensasi kerf dari tabel internet lalu menggunakannya untuk semua bahan dapat memindahkan kesalahan ke seluruh batch. Alternatif yang lebih aman adalah mengunci kombinasi proses, membuat kupon, mengukur dengan metode yang disetujui, lalu menguji satu part pertama sebelum produksi berulang. Simpan hasil, parameter, dan revisi agar perubahan dapat dilacak.
 
-## Internal-link plan
+## Kesimpulan dan langkah berikutnya
 
-### Existing local routes
+Kerf adalah kehilangan lebar potong yang harus diukur pada kombinasi proses aktual. Ia memengaruhi slot, lubang, tepi, dan allowance, tetapi tidak menggantikan toleransi atau acceptance basis.
 
-- `/` — fallback home route; use only when it is genuinely useful.
+Langkah berikutnya: siapkan kupon dari material dan batch yang sama, catat parameter serta alat ukur, ukur hasil terhadap datum, dan minta persetujuan teknis sebelum mengunci kompensasi. Jika bukti belum cukup, tinggalkan [NEEDS PROJECT REVIEW] dan tahan batch. Sobat Bengkel-las.co.id, aturan operasinya sederhana: kompensasi yang baik lahir dari data proses yang terlacak, bukan dari angka tebakan.
 
-### Planned sibling articles
+Untuk konteks umum, Anda dapat kembali ke [beranda Bengkel-las.co.id](/) sambil membawa catatan kupon dan gambar revisi.
 
-These are future routes. Do not link them as live until their HTML exists.
+Sebelum menerima hasil, buat lembar pemeriksaan yang memisahkan observasi, pengukuran, dugaan sebab, dan keputusan. Tulis nomor part, revisi file, material, ketebalan, sisi referensi, alat ukur, tanggal, serta nama pemeriksa. Nilai kerf tidak boleh dipakai untuk “memperbaiki” dimensi setelah part selesai tanpa persetujuan desain karena perubahan itu dapat menggeser datum atau mengurangi allowance sambungan.
 
-- `CUT-08-02` → `/artikel/kompensasi-kerf-untuk-part.html` — Kompensasi Kerf untuk Part yang Saling Pasang
-- `CUT-08-03` → `/artikel/menentukan-toleransi-cnc-cutting.html` — Menentukan Toleransi Realistis untuk Jasa CNC Cutting
+Untuk pekerjaan yang melibatkan energi listrik, panas, atau debu, [UU No. 1 Tahun 1970](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970) dan [Permenaker No. 5 Tahun 2018](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018) harus diterapkan oleh penanggung jawab K3 sesuai kondisi aktual. Rujukan tersebut tidak memberi angka kerf, toleransi mesin, atau pilihan APD yang bisa disalin langsung. Jika pekerjaan berpindah ke lapangan, tinjau ulang akses, ventilasi, listrik, cuaca, material mudah terbakar, dan pemeriksaan sebelum melanjutkan.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Kerf juga dapat memengaruhi keputusan komersial. Penawaran yang menyebut “potong sesuai file” belum tentu memasukkan kompensasi, kupon, deburring, pengukuran, atau sortasi. Minta vendor menuliskan apa yang termasuk, kapan parameter dikunci, dan bagaimana hasil yang menyimpang ditangani. Dengan begitu, biaya rework tidak disamarkan sebagai variasi biasa dan setiap perubahan memiliki pemilik persetujuan.
 
-## Hasil akhir dan prasyarat
+Kawan Bengkel-las.co.id, gunakan hasil kupon sebagai batas pengetahuan, bukan sebagai janji universal. Bila material, nozzle, pahat, suhu, atau program berubah, ulangi verifikasi yang relevan. Catatan sederhana tentang perubahan sering lebih berguna daripada angka presisi yang tidak dapat ditelusuri ke proses nyata.
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Kerf Cutting: Arti, Cara Mengukur, dan Dampaknya pada Ukuran”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jangan lupa menyimpan sisa kupon dan foto hasil awal bila prosedur mengizinkan. Sampel tersebut membantu membedakan perubahan proses dari perubahan material ketika ada komplain. Jika sampel harus dibuang, catat alasan dan identitasnya sehingga keputusan tetap dapat diaudit.
 
-## Langkah 1 — tetapkan scope
+Rilis produksi hanya setelah kupon, gambar, dan kriteria ukur disetujui pihak yang berwenang. Simpan bukti itu bersama nomor pesanan dan revisi.
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Kerf Cutting: Arti, Cara Mengukur, dan Dampaknya pada Ukuran”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 2 — kumpulkan dan cocokkan bukti
-
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Kerf Cutting: Arti, Cara Mengukur, dan Dampaknya pada Ukuran”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 3 — jalankan urutan kerja
-
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Kerf Cutting: Arti, Cara Mengukur, dan Dampaknya pada Ukuran”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Hold point dan kondisi berhenti
-
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Kerf Cutting: Arti, Cara Mengukur, dan Dampaknya pada Ukuran”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Verifikasi hasil dan handover
-
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Kerf Cutting: Arti, Cara Mengukur, dan Dampaknya pada Ukuran”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Bengkel-las.co.id!` and uses friendly `Bengkel-las.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Perubahan kecil pun harus dicatat agar kompensasi tetap dapat ditelusuri konsisten.

@@ -2,8 +2,9 @@
 article_id: CUT-15-02
 title: "CNC Router untuk Panel Dinding dan Sekat Ruangan"
 slug: "cnc-router-panel-dinding-sekat"
-description: "Menerjemahkan kebutuhan signage, interior, panel, furnitur, enclosure, dan komponen menjadi brief cutting."
-status: outline
+description: "Menerjemahkan kebutuhan signage, interior, panel, furnitur, enclosure, dan komponen menjadi rencana pemotongan."
+writing_contract_version: "native-id-v2"
+status: draft
 publication_date: "2026-06-14"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -18,48 +19,10 @@ sources:
   - "https://www.iso.org/standard/83335.html"
   - "https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970"
   - "https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252"
-  - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
-  - "https://www.iso.org/standard/77795.html"
   - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015"
   - "https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021"
-  - "https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.212"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# CNC Router untuk Panel Dinding dan Sekat Ruangan
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “CNC Router untuk Panel Dinding dan Sekat Ruangan”
-- **Reader and situation:** Menerjemahkan kebutuhan signage, interior, panel, furnitur, enclosure, dan komponen menjadi brief cutting.
-- **Reader outcome:** Menerjemahkan kebutuhan signage, interior, panel, furnitur, enclosure, dan komponen menjadi brief cutting.
-- **Primary intent:** Merancang panel interior berbasis routing
-- **Reader community:** `Bengkel-las.co.id`
-- **Primary friendly address:** `Teman Bengkel-las.co.id`
-- **Natural variants:** `Sobat Bengkel-las.co.id` and `Kawan Bengkel-las.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Khusus aplikasi panel; teknik router umum dimiliki CUT-05.
-- **Final public route:** `/artikel/cnc-router-panel-dinding-sekat.html`
-- **Appointed CMS date:** `2026-06-14` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Bengkel-las.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **CNC Router untuk Panel Dinding dan Sekat Ruangan**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Bengkel-las.co.id`, `Sobat Bengkel-las.co.id`, or `Kawan Bengkel-las.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-021`
@@ -70,172 +33,74 @@ sources:
 - **Selection basis:** filename/source metadata identifies `CNC Router 5` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-021]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# CNC Router untuk Panel Dinding dan Sekat Ruangan
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Teman Bengkel-las.co.id! CNC router cocok untuk panel dinding dan sekat ruangan bila pola, ukuran, material, serta cara panel dipasang sudah diterjemahkan menjadi gambar kerja yang terukur. Mesin hanya mengikuti geometri yang diberikan; ia tidak memutuskan apakah panel harus menahan beban, meredam suara, memenuhi kelas api, atau aman disentuh penghuni. Jadi, keputusan pertama bukan memilih mata potong, melainkan menetapkan fungsi panel dan antarmukanya.
 
-### KR-01
+Untuk panel dekoratif atau pembatas ringan, brief cutting yang baik memuat ukuran bersih, tebal dan jenis lembaran, pola bukaan, radius sudut, sisi tampak, tanda orientasi, serta toleransi yang disepakati. Jika panel menjadi bagian dari sistem struktural, pelindung mesin, jalur evakuasi, atau area dengan tuntutan kebakaran dan akustik, [NEEDS PROJECT REVIEW: fungsi, beban, kelas api, dan persyaratan akustik harus ditetapkan oleh perancang berwenang]. Paket fabrikasi terkontrol memang perlu mengaitkan fungsi, dimensi, material, antarmuka, toleransi, urutan, inspeksi, dan penerimaan; katalog [SNI 1729:2020](https://pesta.bsn.go.id/produk/detail/12882-sni17292020) dan abstrak [ISO 3834-6:2024](https://www.iso.org/standard/83335.html) membantu mengingat jenis informasi itu, tetapi tidak menggantikan standar berlisensi atau dokumen proyek terbitan.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cutting.bengkel-las.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The frozen catalog has 20 parent topics and 120 briefs. Intended readers include homeowners, facility and maintenance teams, small manufacturers, procurement staff, project supervisors, and workshop operators. Repository plans are editorial inputs, not proof of a real workshop, staff, equipment, qualifications, prices, locations, or services.
-- **Limits:** Re-read both frozen files if the project role, catalog, URL ownership, or conversion path changes. Do not infer an automotive specialty or add unsupported neighboring trades.
+![Ilustrasi CNC Router 5](/wp-content/uploads/2019/11/CNC-Router-5.jpg)
 
-### KR-08
-
-- **Original sources:** [SNI 1729:2020 — official BSN catalog](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html).
-- **Purpose for this article:** Ground fabrication planning in defined requirements rather than verbal descriptions, copied details, or unverified workshop habit.
-- **Safe grounded facts:** A controlled fabrication package can need governing documents and revision, function, dimensions/datums, material and joint identity, loads/interfaces, tolerances, fabrication sequence, weld/fastener/coating requirements, inspection and hold points, acceptance basis, handling, installation, and approved deviations.
-- **Limits:** The BSN page does not reveal clauses, tolerances, combinations, connection design, execution rules, or acceptance values. Obtain the licensed governing standards and issued-for-work project documents.
-
-### KR-14
-
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.252 — welding, cutting, and brazing](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Help readers compare controlled shop fabrication with field work where the environment, interfaces, access, occupants, combustibles, weather, and permits can change the method and risk.
-- **Safe grounded facts:** Moving work on site can change fit-up control, position, access, lifting, weather, electrical supply, fume dispersion, fire exposure, nearby operations, traffic/public interface, coating conditions, inspection access, and restoration. A field weld is not justified merely because transport is inconvenient.
-- **Limits:** Do not import US distances, permits, or prescriptions. The responsible Indonesian site/K3 authority must approve the current task-specific controls.
-
-### KR-07
-
-- **Original sources:** [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html), [ISO 12944-5:2019 — official ISO abstract](https://www.iso.org/standard/77795.html), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Make material and consumable records usable for fabrication, compatibility, safety, inspection, maintenance, and later failure investigation.
-- **Safe grounded facts:** Useful traceability can include material designation, dimensions/heat or batch where required, certificate/report linkage, filler/consumable classification and batch, storage/conditioning, coating product and batch, mixing/application records, replacement-part identity, and approved substitution. The US hazard-communication rule illustrates label and safety-data-sheet concepts but is not Indonesian law.
-- **Limits:** Do not infer composition, compatibility, shelf life, storage, mixing ratio, coverage, cure, welding parameter, exposure limit, or disposal route from generic labels. Verify exact product, batch, substrate, environment, and current Indonesian rules.
-
-### KR-16
-
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 12 Tahun 2015 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Provide a systems view of workshop K3 instead of reducing safety to personal protective equipment.
-- **Safe grounded facts:** A controlled task starts with elimination/substitution and engineering/administrative controls, then suitable PPE; product identity and current safety data matter for chemicals. Emergency planning must reflect the actual energy, fire, exposure, first-aid, evacuation, communication, and rescue scenario.
-- **Limits:** This file supplies no exposure limit, PPE selection, ventilation rate, electrical protection setting, cylinder separation, fire-watch duration, or emergency procedure. Resolve them from current Indonesian rules, site conditions, exact products, and competent K3 review.
-
-### KR-20
-
-- **Original sources:** [PP No. 22 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Connect source reduction, controlled use, segregation, reuse/recycling, worker exposure, and legal waste disposition without assuming every metal offcut is harmless or recyclable.
-- **Safe grounded facts:** Waste identity, contamination, generator/site context, storage, labeling, transport, receiver authorization, records, and current local rules determine the route. Reuse and repair may avoid new material but do not automatically reduce total environmental or safety impact.
-- **Limits:** Do not classify a waste, recommend mixing, state a storage limit, name a legal carrier/receiver, or claim a quantified environmental benefit without current Indonesian/local requirements, characterization, mass/energy data, and authorized-party evidence.
-
-### KR-10
-
-- **Original sources:** [Permenaker No. 38 Tahun 2016 — BPK](https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026), [OSHA 29 CFR 1910.147 — control of hazardous energy](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147), [OSHA 29 CFR 1910.212 — general machine guarding](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.212).
-- **Purpose for this article:** Ensure a component-repair article considers the complete machine, energy sources, operating envelope, safeguarding, commissioning, and records.
-- **Safe grounded facts:** A repaired shaft, frame, coupling, guard, base, or attachment can alter alignment, balance, clearance, strength, vibration, containment, access, interlocks, or operating hazards. Safe servicing and safe production are related but distinct states.
-- **Limits:** Do not publish an isolation sequence, guard dimension, balance tolerance, restart authorization, or fitness claim generically. Verify current Indonesian provisions and exact OEM/site requirements.
-
-### KR-17
-
-- **Original sources:** [Permenaker No. 38 Tahun 2016 — BPK](https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016), [OSHA 29 CFR 1910.147 — control of hazardous energy](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Make maintenance content evidence-based without inventing universal schedules or promising uptime.
-- **Safe grounded facts:** Calendar-based, runtime-based, condition-based, corrective, and statutory work answer different needs. Work order history, failure coding, inspection readings, parts identity, deferred defects, tests, and release authority support trend review and planning.
-- **Limits:** Do not provide a universal interval, alarm threshold, remaining-life estimate, spares quantity, uptime saving, or restart decision. Obtain current OEM manuals, asset history, operating context, statutory requirements, and responsible-person approval.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-- **GATE-09:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
-- **GATE-11:** Resolve the gate from current project evidence and competent review.
-- **GATE-12:** Resolve the gate from current project evidence and competent review.
-- **GATE-13:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — fallback home route; use only when it is genuinely useful.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUT-15-01` → `/artikel/desain-signage-untuk-cutting.html` — Merancang Signage untuk Laser Cutting dan CNC Router
-- `CUT-15-03` → `/artikel/desain-flat-pack-slot-dan-tab.html` — Desain Flat-Pack dengan Slot dan Tab untuk Hasil Cutting
-- `CUT-15-04` → `/artikel/laser-cutting-enclosure-panel-kontrol.html` — Laser Cutting untuk Enclosure dan Panel Kontrol
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “CNC Router untuk Panel Dinding dan Sekat Ruangan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Aset lokal proyek, bukan dokumentasi proyek tertentu.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “CNC Router untuk Panel Dinding dan Sekat Ruangan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Di artikel ini, “panel” berarti lembaran atau komponen bidang yang dipotong, diberi alur, lubang, atau relief dengan CNC router untuk membentuk muka dinding, kisi, sekat, pintu panel, atau bagian interior. Fokusnya adalah menerjemahkan kebutuhan ruang menjadi brief cutting dan paket pemeriksaan. Teknik dasar pengoperasian router, pemilihan pahat secara umum, dan pemrograman mesin bukan bahasan utama.
+
+Bedakan tiga lapisan keputusan. Pertama, lapisan visual: pola, garis bayangan, perforasi, dan arah serat. Kedua, lapisan konstruksi: rangka, sambungan, pengaku, celah muai, akses kabel, serta urutan bongkar-pasang. Ketiga, lapisan penggunaan: beban yang mungkin menempel, benturan, kelembapan, pembersihan, api, dan akses penghuni. Mengubah salah satu lapisan dapat mengubah detail lainnya. Panel dengan pola sama tidak otomatis memiliki kekuatan atau umur pakai sama ketika substrat dan rangkanya berbeda.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “CNC Router untuk Panel Dinding dan Sekat Ruangan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dari lembar brief satu halaman. Tulis fungsi ruang, lokasi panel, ukuran bidang, modul pengulangan, sisi depan, dan siapa yang akan memasang. Lampirkan denah atau elevasi dengan datum yang jelas. Setiap lubang untuk baut, klip, stopkontak, kisi udara, atau engsel diberi koordinat dan ukuran nominal. Tandai mana ukuran teoritis dan mana ukuran hasil ukur lapangan.
+
+Berikut urutan yang mudah diaudit:
+
+1. **Tetapkan material dan arah lembaran.** Sebutkan jenis papan atau logam, tebal nominal, lapisan permukaan, serta batas cacat yang diterima. Jangan menyimpulkan kompatibilitas perekat atau lapisan dari nama dagang saja; catat produk dan batch pada dokumen material. Konsep label dan lembar data keselamatan dapat dibandingkan melalui [OSHA 1910.1200](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200), namun itu bukan hukum Indonesia.
+2. **Kunci geometri.** Pisahkan garis potong tembus, alur parsial, lubang, dan area yang harus utuh. Beri nomor part, orientasi, dan garis referensi. Sediakan versi gambar yang menunjukkan toleransi, bukan hanya file CAD tanpa satuan.
+3. **Rancang rangka dan antarmuka.** Tentukan titik tumpu, klip, sekrup, sambungan antar-modul, dan ruang untuk alat. [NEEDS PROJECT REVIEW: kapasitas pengikat, jarak tumpuan, lendutan, dan sambungan harus dihitung untuk material serta beban aktual].
+4. **Uji satu modul.** Potong sampel dengan kontur terburuk dan sambungan paling rapat. Periksa ukuran aktual, tepi, serpihan, kecocokan dengan rangka, dan akses pemasangan sebelum mengulang banyak modul.
+5. **Rilis produksi dan instalasi.** Simpan revisi gambar, daftar material, hasil ukur sampel, serta catatan penyimpangan yang disetujui. Paket terkontrol seperti ini memudahkan inspeksi dan serah-terima, tetapi nilai penerimaan spesifik tetap harus berasal dari dokumen proyek.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “CNC Router untuk Panel Dinding dan Sekat Ruangan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Material dan arah serat.** MDF, plywood, akrilik, aluminium, dan komposit bereaksi berbeda terhadap panas, getaran, dan tepi hasil potong. Lapisan dekoratif dapat pecah bila sisi keluar-masuk pahat tidak direncanakan. Untuk lembaran berlapis, tetapkan sisi tampak dan perlindungan permukaan sebelum proses.
+
+**Pola dan jarak tepi.** Perforasi yang terlalu rapat menyisakan jembatan tipis; modul dapat melendut atau patah saat dipindahkan. [NEEDS PROJECT REVIEW: batas minimum web, radius, dan ketebalan efektif ditentukan oleh material, ukuran modul, serta beban penggunaan—bukan aturan universal].
+
+**Rangka, lantai, dan dinding.** Dinding lama mungkin tidak siku; lantai bisa memiliki elevasi berbeda. Sediakan datum lapangan dan detail shim atau penyetel. Jangan memaksa panel mengikuti deviasi tanpa menyepakati garis akhir, karena pola antarmodul dapat bergeser.
+
+**Lingkungan ruang.** Kelembapan, panas, bahan pembersih, dan paparan sinar dapat mengubah dimensi atau warna. Untuk area publik, periksa ujung tajam, titik jepit, akses pembersihan, dan kemungkinan panel dijadikan pegangan. Tuntutan kebakaran, asap, atau akustik membutuhkan spesifikasi sistem dan bukti uji yang berlaku; [NEEDS PROJECT REVIEW: jangan mengklaim rating hanya dari bahan lembaran].
+
+**Tempat pengerjaan.** Memindahkan panel sebagai modul jadi biasanya memberi kontrol fit-up, akses inspeksi, dan kebersihan yang lebih baik. Namun pengangkutan, ukuran pintu, lift, serta risiko kerusakan dapat mengubah modulasi. Pekerjaan panas atau pemotongan tambahan di lokasi mengubah paparan terhadap penghuni, bahan mudah terbakar, ventilasi, dan akses; kewajiban keselamatan harus mengikuti [UU No. 1 Tahun 1970](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 5 Tahun 2018](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), dan penilaian K3 Indonesia yang relevan.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “CNC Router untuk Panel Dinding dan Sekat Ruangan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan matriks berikut saat menyusun brief. Ini alat penyaring awal, bukan persetujuan desain.
+
+| Situasi | Arah keputusan awal | Bukti yang harus diminta |
+|---|---|---|
+| Sekat dekoratif, beban ringan, modul kecil | Potong panel terpisah dengan pengikat tersembunyi yang dapat diakses | Gambar elevasi, ukuran rangka, uji satu modul |
+| Pola berulang pada bidang panjang | Pecah menjadi modul bernomor dengan datum sambungan | Tabel modul, toleransi celah, rencana pengangkutan |
+| Panel menutup kabel atau peralatan | Tambahkan pintu akses dan tanda orientasi | Denah utilitas, izin akses, uji buka-tutup |
+| Area lembap atau sering dibersihkan | Verifikasi substrat, tepi, lapisan, dan cara penyegelan | Data produk, kondisi lingkungan, persetujuan material |
+| Panel diduga menahan beban atau berperan sebagai pelindung | Hentikan rilis CNC sampai desain dan verifikasi kompeten tersedia | Perhitungan, spesifikasi, detail sambungan, kriteria penerimaan |
+
+Teman Bengkel-las.co.id, perhatikan baris terakhir: router dapat menghasilkan bentuk yang presisi, tetapi presisi bentuk bukan bukti kecukupan struktur atau keselamatan. Jika fungsi belum jelas, kirim pertanyaan tertulis kepada perancang: “Beban apa yang harus ditahan, pada titik mana, dan bagaimana hasilnya diperiksa?”
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “CNC Router untuk Panel Dinding dan Sekat Ruangan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah mengirim file CAD tanpa satuan, datum, atau sisi tampak. Minta lembar gambar berisi satuan, revisi, nomor part, toleransi, dan arah pemasangan. Kedua, menyamakan ukuran nominal lembaran dengan ukuran aktual. Ukur sampel dan catat deviasi sebelum produksi berulang. Ketiga, mengabaikan urutan instalasi: panel yang pas di meja bisa tidak dapat diputar melewati pintu. Simulasikan rute dan titik angkat.
 
-## Objection or shortcut to address
+Kesalahan keempat ialah menutup semua sambungan sehingga perawatan memerlukan pembongkaran besar. Tandai panel servis, alat yang diperlukan, serta siapa yang berwenang membukanya. Kelima, menukar material atau lapisan karena stok tanpa persetujuan. Catat identitas material, batch, dan substitusi; jangan mengandalkan label generik untuk menentukan cara aplikasi atau keselamatan.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Periksa juga housekeeping dan limbah. Potongan, debu, kemasan lapisan, atau kain terkontaminasi perlu diidentifikasi sesuai konteks lokasi, disimpan dan diserahkan mengikuti aturan yang berlaku. [PP No. 22 Tahun 2021](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021) menegaskan pentingnya pengelolaan berdasarkan identitas dan konteks limbah; [NEEDS PROJECT REVIEW: klasifikasi, penyimpanan, pengangkut, dan penerima harus diverifikasi oleh pihak berwenang setempat].
 
-## Required conclusion
+## Jalan pintas yang tampak murah
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Jalan pintas yang sering dipilih adalah memotong semua modul sekaligus sebelum menguji satu sambungan. Bila datum lapangan meleset atau pola menyisakan jembatan tipis, kesalahan berulang menjadi tumpukan panel yang harus dipangkas ulang. Alternatif yang lebih andal: kunci satu modul referensi, lakukan dry-fit dengan rangka, dokumentasikan hasil ukur, lalu rilis batch berikutnya. Biaya sampel kecil membeli informasi yang tidak bisa diperoleh dari layar CAD.
 
-## Draft completion checklist
+## Kesimpulan
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Bengkel-las.co.id!` and uses friendly `Bengkel-las.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+CNC router layak untuk panel dinding dan sekat ruangan ketika fungsi, material, geometri, rangka, dan cara instalasi sudah diterjemahkan menjadi brief cutting yang dapat diperiksa. Langkah berikutnya adalah menyiapkan satu paket berisi gambar berevisi, tabel material dan batch, detail pengikat, ukuran lapangan, serta kriteria uji sampel; minta peninjauan perancang dan penanggung jawab K3 untuk fungsi, beban, kebakaran, dan kondisi lokasi yang relevan. Untuk pola sambungan yang dapat dibongkar, gunakan rujukan yang sudah diverifikasi ketika tersedia. Informasi umum proyek tersedia di [beranda Bengkel-las.co.id](/). Sobat Bengkel-las.co.id, pegang aturan ini: jangan merilis produksi massal sebelum satu modul terbukti pas secara geometri dan aman dalam sistem penggunaannya.

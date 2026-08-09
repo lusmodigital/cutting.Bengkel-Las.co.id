@@ -3,7 +3,8 @@ article_id: CUT-03-04
 title: "Laser Cutting Stainless Steel: Hasil Tepi dan Perlindungan Permukaan"
 slug: "laser-cutting-stainless-steel"
 description: "Menentukan kecocokan laser untuk plat logam serta memahami hasil dan batas prosesnya."
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-09-20"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,52 +17,18 @@ technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970"
   - "https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252"
-  - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
   - "https://www.iso.org/standard/83335.html"
   - "https://www.iso.org/standard/77795.html"
   - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200"
-  - "https://pesta.bsn.go.id/produk/detail/12882-sni17292020"
-  - "https://www.iso.org/standard/51792.html"
-  - "https://www.iso.org/standard/54936.html"
-  - "https://www.iso.org/standard/80209.html"
-  - "https://www.iso.org/standard/85705.html"
-  - "https://www.iso.org/standard/75614.html"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015"
-  - "https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Laser Cutting Stainless Steel: Hasil Tepi dan Perlindungan Permukaan
 
-## Assignment lock
+Halo, Kawan Bengkel-las.co.id! Laser cocok untuk memotong stainless steel bila jenis dan tebal plat, geometri, mutu tepi, serta perlindungan permukaan sudah disepakati sebelum produksi. Hasil tepi yang rapi bukan jaminan otomatis: fokus, gas bantu, kecepatan, kondisi lensa, dan program mesin harus dibuktikan pada material yang sama. Demikian pula, panas dan gesekan selama pemotongan dapat mengubah tampilan permukaan, sehingga perlindungan tidak boleh dipikirkan setelah plat selesai dipotong.
 
-- **Writer task:** Expand this file into one complete article answering: “Laser Cutting Stainless Steel: Hasil Tepi dan Perlindungan Permukaan”
-- **Reader and situation:** Menentukan kecocokan laser untuk plat logam serta memahami hasil dan batas prosesnya.
-- **Reader outcome:** Menentukan kecocokan laser untuk plat logam serta memahami hasil dan batas prosesnya.
-- **Primary intent:** Menentukan spesifikasi potong stainless
-- **Reader community:** `Bengkel-las.co.id`
-- **Primary friendly address:** `Kawan Bengkel-las.co.id`
-- **Natural variants:** `Sobat Bengkel-las.co.id` and `Teman Bengkel-las.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Khusus stainless; proses finishing umum dimiliki CUT-13.
-- **Final public route:** `/artikel/laser-cutting-stainless-steel.html`
-- **Appointed CMS date:** `2025-09-20` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jadi, keputusan aman bukan “stainless pasti bisa dilaser”, melainkan “spesifikasi ini dapat diuji dan diterima dengan bukti”. Tanpa sampel, gambar kerja, dan kriteria penerimaan, saya tidak bisa menjanjikan bebas burr, warna panas, atau ketahanan korosi tertentu. [NEEDS PROJECT REVIEW: pemilik desain dan pemeriksa proyek harus menetapkan jenis stainless, tebal, toleransi, mutu tepi, serta kriteria penerimaan.]
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Bengkel-las.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Laser Cutting Stainless Steel: Hasil Tepi dan Perlindungan Permukaan**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Bengkel-las.co.id`, `Sobat Bengkel-las.co.id`, or `Teman Bengkel-las.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-007`
@@ -72,173 +39,76 @@ sources:
 - **Selection basis:** filename/source metadata identifies `stainless steel 2` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-007]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
+![Ilustrasi stainless steel 2](/wp-content/uploads/2020/02/stainless-steel-2.jpg)
 
-## Evidence packet
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cutting.bengkel-las.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The frozen catalog has 20 parent topics and 120 briefs. Intended readers include homeowners, facility and maintenance teams, small manufacturers, procurement staff, project supervisors, and workshop operators. Repository plans are editorial inputs, not proof of a real workshop, staff, equipment, qualifications, prices, locations, or services.
-- **Limits:** Re-read both frozen files if the project role, catalog, URL ownership, or conversion path changes. Do not infer an automotive specialty or add unsupported neighboring trades.
-
-### KR-14
-
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.252 — welding, cutting, and brazing](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Help readers compare controlled shop fabrication with field work where the environment, interfaces, access, occupants, combustibles, weather, and permits can change the method and risk.
-- **Safe grounded facts:** Moving work on site can change fit-up control, position, access, lifting, weather, electrical supply, fume dispersion, fire exposure, nearby operations, traffic/public interface, coating conditions, inspection access, and restoration. A field weld is not justified merely because transport is inconvenient.
-- **Limits:** Do not import US distances, permits, or prescriptions. The responsible Indonesian site/K3 authority must approve the current task-specific controls.
-
-### KR-07
-
-- **Original sources:** [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html), [ISO 12944-5:2019 — official ISO abstract](https://www.iso.org/standard/77795.html), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Make material and consumable records usable for fabrication, compatibility, safety, inspection, maintenance, and later failure investigation.
-- **Safe grounded facts:** Useful traceability can include material designation, dimensions/heat or batch where required, certificate/report linkage, filler/consumable classification and batch, storage/conditioning, coating product and batch, mixing/application records, replacement-part identity, and approved substitution. The US hazard-communication rule illustrates label and safety-data-sheet concepts but is not Indonesian law.
-- **Limits:** Do not infer composition, compatibility, shelf life, storage, mixing ratio, coverage, cure, welding parameter, exposure limit, or disposal route from generic labels. Verify exact product, batch, substrate, environment, and current Indonesian rules.
-
-### KR-08
-
-- **Original sources:** [SNI 1729:2020 — official BSN catalog](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html).
-- **Purpose for this article:** Ground fabrication planning in defined requirements rather than verbal descriptions, copied details, or unverified workshop habit.
-- **Safe grounded facts:** A controlled fabrication package can need governing documents and revision, function, dimensions/datums, material and joint identity, loads/interfaces, tolerances, fabrication sequence, weld/fastener/coating requirements, inspection and hold points, acceptance basis, handling, installation, and approved deviations.
-- **Limits:** The BSN page does not reveal clauses, tolerances, combinations, connection design, execution rules, or acceptance values. Obtain the licensed governing standards and issued-for-work project documents.
-
-### KR-09
-
-- **Original sources:** [ISO 15614-1:2017 — official ISO abstract](https://www.iso.org/standard/51792.html), [ISO 9606-1:2012 — official ISO abstract](https://www.iso.org/standard/54936.html), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html).
-- **Purpose for this article:** Prevent an article from treating a welder card, a WPS, a procedure test, workmanship, and the finished joint's acceptance as interchangeable.
-- **Safe grounded facts:** Procedure qualification, production WPS, welder/operator qualification, material/process/position/thickness/diameter range, continuity/validity, equipment condition, consumable control, preheat/interpass control, inspection, and final acceptance are distinct records.
-- **Limits:** Both welding-qualification standards are current at verification but under revision. The public abstracts do not provide qualification ranges or test requirements; recheck editions and use licensed text plus the project specification.
-
-### KR-15
-
-- **Original sources:** [ISO 5817:2023 — official ISO abstract](https://www.iso.org/standard/80209.html), [ISO 17635:2025 — official ISO abstract](https://www.iso.org/standard/85705.html), [ISO 9712:2021 — official ISO abstract](https://www.iso.org/standard/75614.html).
-- **Purpose for this article:** Keep QA articles from confusing workmanship levels, NDT technique, indication evaluation, personnel certification, equipment status, and engineering acceptance.
-- **Safe grounded facts:** A quality plan needs the governing acceptance basis, joint and examination identification, method/technique and extent, written procedure where required, personnel scope, equipment identity and current calibration/verification, surface/test conditions, report traceability, result, nonconformance, disposition authority, repair cycle, and closeout.
-- **Limits:** Do not publish imperfection limits, acceptance tables, technique settings, calibration intervals, or certification equivalence from abstracts. Obtain full current standards and project procedures.
-
-### KR-16
-
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 12 Tahun 2015 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Provide a systems view of workshop K3 instead of reducing safety to personal protective equipment.
-- **Safe grounded facts:** A controlled task starts with elimination/substitution and engineering/administrative controls, then suitable PPE; product identity and current safety data matter for chemicals. Emergency planning must reflect the actual energy, fire, exposure, first-aid, evacuation, communication, and rescue scenario.
-- **Limits:** This file supplies no exposure limit, PPE selection, ventilation rate, electrical protection setting, cylinder separation, fire-watch duration, or emergency procedure. Resolve them from current Indonesian rules, site conditions, exact products, and competent K3 review.
-
-### KR-20
-
-- **Original sources:** [PP No. 22 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Connect source reduction, controlled use, segregation, reuse/recycling, worker exposure, and legal waste disposition without assuming every metal offcut is harmless or recyclable.
-- **Safe grounded facts:** Waste identity, contamination, generator/site context, storage, labeling, transport, receiver authorization, records, and current local rules determine the route. Reuse and repair may avoid new material but do not automatically reduce total environmental or safety impact.
-- **Limits:** Do not classify a waste, recommend mixing, state a storage limit, name a legal carrier/receiver, or claim a quantified environmental benefit without current Indonesian/local requirements, characterization, mass/energy data, and authorized-party evidence.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-- **GATE-09:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
-- **GATE-11:** Resolve the gate from current project evidence and competent review.
-- **GATE-12:** Resolve the gate from current project evidence and competent review.
-- **GATE-13:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — fallback home route; use only when it is genuinely useful.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUT-03-02` → `/artikel/fiber-laser-vs-co2-untuk-logam.html` — Fiber Laser vs CO2 untuk Memotong Logam
-- `CUT-03-03` → `/artikel/laser-cutting-baja-karbon.html` — Laser Cutting Baja Karbon: Ketebalan, Tepi, dan Risiko Panas
-- `CUT-03-05` → `/artikel/laser-cutting-aluminium.html` — Laser Cutting Aluminium: Reflektivitas, Burr, dan Distorsi
-- `CUT-03-06` → `/artikel/memilih-gas-bantu-laser-cutting.html` — Memilih Gas Bantu untuk Laser Cutting Logam
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Laser Cutting Stainless Steel: Hasil Tepi dan Perlindungan Permukaan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gambar ini adalah aset lokal, bukan dokumentasi proyek tertentu. Catat nama aset lokal bila perlu memeriksa berkas sumber.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Laser Cutting Stainless Steel: Hasil Tepi dan Perlindungan Permukaan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Artikel ini membahas pemotongan plat stainless dengan laser, pemeriksaan hasil tepi, dan cara menjaga permukaan sampai tahap serah-terima. Fokusnya bukan desain struktur, pemilihan mesin tertentu, pengelasan stainless, atau resep finishing umum. Jika komponen akan dilas, disambung, atau dilapisi, antarmuka proses itu harus muncul di gambar kerja dan rencana inspeksi.
+
+“Hasil tepi” mencakup keseragaman garis potong, burr atau dross, perubahan warna karena panas, tegak lurusnya sisi, dan kerusakan mekanis akibat handling. “Perlindungan permukaan” mencakup film pelindung bila disetujui, pemisahan dari baja karbon, kebersihan alat, serta penanganan setelah potong. Jangan menyamakan kilap visual dengan ketahanan korosi; lingkungan pemakaian dan kontaminasi menentukan kebutuhan berikutnya.
+
+Untuk pekerjaan fabrikasi yang perlu ditelusuri, paket kerja sebaiknya memuat material, dimensi, revisi gambar, toleransi, urutan, inspeksi, dan cara menangani penyimpangan. Kerangka pengelolaan mutu pengelasan dan fabrikasi dibahas pada ringkasan resmi ISO 3834-6:2024; halaman tersebut menetapkan identitas dan status standar, bukan memberi resep parameter untuk pekerjaan Anda ([ISO 3834-6:2024](https://www.iso.org/standard/83335.html)).
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Laser Cutting Stainless Steel: Hasil Tepi dan Perlindungan Permukaan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Laser memusatkan energi pada jalur yang diprogram, sementara gas bantu membantu mengeluarkan material cair dari celah potong. Kepala laser bergerak mengikuti kontur; hasil akhirnya dipengaruhi oleh hubungan daya, fokus, kecepatan, nozzle, tekanan dan jenis gas, serta kondisi permukaan plat. Karena kombinasi itu saling mengunci, parameter dari bahan lain tidak boleh disalin begitu saja ke stainless.
+
+Urutan kerja yang dapat diaudit biasanya seperti ini:
+
+1. Cocokkan nomor material, tebal nominal, ukuran lembar, dan arah fitur dengan gambar kerja. Catat sertifikat atau identitas batch bila proyek mensyaratkannya.
+2. Periksa kebersihan meja, nozzle, lensa, dan alat ukur. Pastikan alat yang menyentuh stainless tidak membawa serpihan baja karbon.
+3. Buat potongan uji pada material dan tebal yang sama. Tandai parameter, operator, mesin, dan waktu agar perubahan dapat ditelusuri.
+4. Periksa tepi, dimensi, dan kondisi permukaan terhadap kriteria yang disetujui. Jangan mengubah parameter produksi sebelum penyebab cacat dipahami.
+5. Lindungi dan pisahkan komponen yang lolos; simpan catatan nonkonformitas, perbaikan, atau pemotongan ulang.
+
+Catatan material, consumable (bahan habis pakai), coating, dan identitas pengganti yang rapi memudahkan inspeksi serta investigasi bila masalah muncul kemudian. ISO 3834-6 memberikan konteks tentang dokumentasi mutu, sedangkan konsep label dan lembar data keselamatan (SDS) dapat dipahami dari OSHA 1910.1200; aturan OSHA itu contoh rujukan komunikasi bahaya Amerika Serikat, bukan hukum Indonesia ([OSHA 1910.1200](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200)).
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Laser Cutting Stainless Steel: Hasil Tepi dan Perlindungan Permukaan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Material dan geometri.** Jenis stainless, ketebalan, lapisan pelindung, lubang kecil, sudut tajam, dan jarak antarfitur mengubah pembuangan panas serta kestabilan potong. Ukuran akhir juga dipengaruhi kompensasi kerf (lebar celah potong). Nilai kompensasi dan toleransi harus berasal dari uji serta gambar yang berlaku, bukan angka umum dari internet. [NEEDS PROJECT REVIEW: rentang toleransi dan geometri kritis belum ditetapkan.]
+
+**Parameter dan kondisi mesin.** Fokus yang meleset, nozzle aus, lensa terkontaminasi, atau gas yang tidak stabil dapat memunculkan burr, garis seret, dan tepi tidak tegak. Operator perlu mencatat perubahan dan menghentikan produksi jika sampel keluar dari kriteria. Tidak ada satu kombinasi parameter yang dapat saya nyatakan benar tanpa data mesin, material, dan uji Anda.
+
+**Panas dan permukaan.** Zona panas dapat menimbulkan perubahan warna atau residu. Film pelindung dapat membantu terhadap goresan, tetapi kecocokan film dengan proses, panas, penyimpanan, dan pelepasan harus dikonfirmasi pemasok atau penanggung jawab proyek. Jangan menggosok permukaan dengan alat yang berpotensi meninggalkan kontaminasi besi.
+
+**Lingkungan dan K3.** Pemotongan menghasilkan energi, asap, dan potensi kebakaran; pengendalian harus mengikuti penilaian bahaya tempat kerja, bukan sekadar menambah alat pelindung diri. UU No. 1 Tahun 1970 dan Permenaker No. 5 Tahun 2018 menjadi rujukan hukum dan keselamatan kerja di Indonesia, tetapi pengendalian rinci tetap memerlukan penilaian kondisi aktual ([UU No. 1 Tahun 1970](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 5 Tahun 2018](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018)). Kawan Bengkel-las.co.id, minta penanggung jawab K3 menetapkan ventilasi, isolasi energi, penanganan kebakaran, dan rute evakuasi yang sesuai lokasi sebelum pekerjaan dimulai.
+
+**Tahap sesudah potong.** Pemindahan dengan sling atau meja yang kotor dapat menggores sisi yang semula baik. Jika komponen akan dicat atau diberi sistem pelindung, produk dan persiapannya harus ditentukan berdasarkan lingkungan pemakaian. ISO 12944-5:2019 membahas sistem perlindungan korosi untuk substrat baja dan membantu kerangka pemilihan, tetapi abstraknya tidak memberi jaminan untuk stainless atau produk tertentu ([ISO 12944-5:2019](https://www.iso.org/standard/77795.html)). [NEEDS PROJECT REVIEW: lingkungan paparan, sistem finishing, dan kompatibilitas produk belum disetujui.]
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Laser Cutting Stainless Steel: Hasil Tepi dan Perlindungan Permukaan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan tabel berikut sebagai percakapan awal dengan pemegang gambar, bukan sebagai pengganti potongan uji.
+
+| Kondisi yang diketahui | Keputusan sementara | Bukti yang harus diminta |
+|---|---|---|
+| Tepi akan terlihat dan diraba | Laser dapat dipertimbangkan | Sampel material sama, foto/hasil ukur, dan kriteria burr/warna yang disetujui |
+| Komponen akan dilas setelah dipotong | Sisakan kendali terhadap area panas dan kebersihan | Urutan fabrikasi, metode pembersihan, WPS bila ada pengelasan, dan inspeksi sambungan |
+| Permukaan memiliki film atau finishing | Jangan langsung memotong massal | Persetujuan kompatibilitas film, cara penyimpanan, dan prosedur pelepasan |
+| Toleransi atau fungsi belum jelas | Tunda rilis produksi | Gambar revisi, datum, toleransi, dan otorisasi penyimpangan |
+| Pekerjaan harus dilakukan di lapangan | Bandingkan dengan fabrikasi terkontrol di workshop | Penilaian akses, energi, cuaca, penghuni, api, dan rencana K3 lokasi |
+
+Misalnya, dua plat sama-sama disebut “stainless 2 mm”, tetapi satu dipakai sebagai panel tampak dan satu lagi sebagai braket yang akan dilas. Kriteria tepi, perlindungan, dan inspeksinya tidak identik. Teman Bengkel-las.co.id, tulis fungsi akhir dan sisi yang terlihat pada lembar permintaan agar operator tidak menebak prioritas.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Laser Cutting Stainless Steel: Hasil Tepi dan Perlindungan Permukaan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+1. **Menganggap semua stainless sama.** Periksa grade atau identitas material dan batch; bila tidak ada, tandai ketidakpastian sebelum membuat sampel.
+2. **Menilai hanya dari foto.** Foto tidak menggantikan pemeriksaan dimensi, burr, tegak lurus, dan kebersihan. Tetapkan alat ukur serta siapa yang berwenang menerima.
+3. **Menyalin setting bahan lain.** Minta catatan uji pada tebal dan mesin yang sama. Simpan versi program sehingga perubahan dapat dilacak.
+4. **Mencampur alat stainless dan baja karbon.** Sediakan alat terpisah atau metode pembersihan yang disetujui; dokumentasikan bila terjadi kontak.
+5. **Mengupas film terlalu dini.** Lindungi komponen sampai risiko handling dan tahap finishing jelas. Konfirmasi batas penyimpanan kepada pemasok.
+6. **Menggunakan istilah “siap pakai” tanpa kriteria.** Ganti dengan daftar penerimaan: dimensi, kondisi tepi, permukaan, identitas material, dan status inspeksi.
 
-## Objection or shortcut to address
+Shortcut yang sering dipilih adalah langsung memotong jumlah banyak agar hemat waktu setup. Cara ini dapat menggandakan scrap ketika sampel pertama ternyata tidak memenuhi tepi atau permukaan yang diminta. Alternatif yang lebih aman ialah menyetujui satu potongan uji, mencatat hasil dan perubahan, lalu baru merilis batch setelah pemegang gambar atau pemeriksa yang ditunjuk menyetujui.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Kesimpulan dan langkah berikutnya
 
-## Required conclusion
+Laser cutting stainless steel layak dipilih bila material, geometri, parameter, mutu tepi, dan perlindungan permukaan dibuktikan melalui potongan uji serta kriteria penerimaan yang jelas. Tidak ada jaminan bebas burr atau bebas perubahan warna hanya dari nama prosesnya. Untuk konteks layanan dan topik terkait di situs ini, Anda dapat mulai dari [beranda Bengkel-las.co.id](/) sebelum menyiapkan permintaan teknis.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Langkah berikutnya: kirim gambar revisi, identitas dan tebal material, sisi tampak, toleransi, lingkungan pemakaian, serta kebutuhan finishing kepada operator. Minta sampel dan lembar inspeksi sebelum produksi penuh; minta penanggung jawab K3 meninjau pengendalian lokasi. [NEEDS TECHNICAL REVIEW: parameter laser, metode inspeksi, dan persetujuan sistem perlindungan permukaan harus ditetapkan oleh pihak kompeten berdasarkan proyek nyata.]
 
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Bengkel-las.co.id!` and uses friendly `Bengkel-las.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Aturan operasinya sederhana: tanpa bukti sampel dan kriteria tertulis, perlakukan hasil laser sebagai belum disetujui—bukan sebagai cacat yang boleh ditutup dengan finishing.

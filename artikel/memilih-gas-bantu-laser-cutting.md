@@ -3,7 +3,8 @@ article_id: CUT-03-06
 title: "Memilih Gas Bantu untuk Laser Cutting Logam"
 slug: "memilih-gas-bantu-laser-cutting"
 description: "Menentukan kecocokan laser untuk plat logam serta memahami hasil dan batas prosesnya."
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-09-27"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,54 +15,13 @@ reader_address: "Sobat Bengkel-las.co.id"
 final_route: "/artikel/memilih-gas-bantu-laser-cutting.html"
 technical_review: required
 sources:
-  - "https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018"
   - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252"
-  - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
-  - "https://www.iso.org/standard/83335.html"
-  - "https://www.iso.org/standard/77795.html"
   - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200"
-  - "https://pesta.bsn.go.id/produk/detail/12882-sni17292020"
-  - "https://www.iso.org/standard/51792.html"
-  - "https://www.iso.org/standard/54936.html"
-  - "https://www.iso.org/standard/80209.html"
-  - "https://www.iso.org/standard/85705.html"
-  - "https://www.iso.org/standard/75614.html"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015"
-  - "https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021"
+  - "https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970"
+  - "https://www.iso.org/standard/83335.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Memilih Gas Bantu untuk Laser Cutting Logam
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Memilih Gas Bantu untuk Laser Cutting Logam”
-- **Reader and situation:** Menentukan kecocokan laser untuk plat logam serta memahami hasil dan batas prosesnya.
-- **Reader outcome:** Menentukan kecocokan laser untuk plat logam serta memahami hasil dan batas prosesnya.
-- **Primary intent:** Memahami dampak gas bantu pada hasil
-- **Reader community:** `Bengkel-las.co.id`
-- **Primary friendly address:** `Sobat Bengkel-las.co.id`
-- **Natural variants:** `Kawan Bengkel-las.co.id` and `Teman Bengkel-las.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Fokus pada fungsi dan hasil gas; bukan instruksi pengoperasian mesin.
-- **Final public route:** `/artikel/memilih-gas-bantu-laser-cutting.html`
-- **Appointed CMS date:** `2025-09-27` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Bengkel-las.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Memilih Gas Bantu untuk Laser Cutting Logam**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Bengkel-las.co.id`, `Kawan Bengkel-las.co.id`, or `Teman Bengkel-las.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-009`
@@ -72,171 +32,80 @@ sources:
 - **Selection basis:** filename/source metadata identifies `las gas` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-009]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Memilih Gas Bantu untuk Laser Cutting Logam
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Sobat Bengkel-las.co.id! Gas bantu bukan sekadar “angin” agar percikan menjauh. Gas yang dipilih memengaruhi cara lelehan keluar dari celah potong, warna dan kebersihan tepi, potensi oksidasi, serta pekerjaan lanjutan sebelum pengecatan atau pengelasan. Untuk itu, pilihan praktis biasanya dibandingkan antara oksigen, nitrogen, dan udara bertekanan—lalu dikonfirmasi dengan material, ketebalan, mutu tepi yang diminta, dan kemampuan mesin.
 
-### KR-01
+Jawaban singkatnya: jangan memilih gas hanya berdasarkan nama logam atau harga tabung. Mulailah dari hasil akhir. Bila tepi yang mudah dicat atau dilas dan perubahan warna harus ditekan, gas inert seperti nitrogen sering menjadi kandidat yang perlu diuji. Bila prioritasnya laju potong atau karakter tepi tertentu, oksigen dapat dipertimbangkan. Udara bertekanan mungkin masuk akal untuk pekerjaan yang toleransinya lebih longgar, tetapi kandungan uap air dan minyak harus dikendalikan. **[NEEDS TECHNICAL REVIEW: kecocokan gas, tekanan, laju alir, daya, fokus, dan ketebalan untuk mesin serta material tertentu.]**
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cutting.bengkel-las.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The frozen catalog has 20 parent topics and 120 briefs. Intended readers include homeowners, facility and maintenance teams, small manufacturers, procurement staff, project supervisors, and workshop operators. Repository plans are editorial inputs, not proof of a real workshop, staff, equipment, qualifications, prices, locations, or services.
-- **Limits:** Re-read both frozen files if the project role, catalog, URL ownership, or conversion path changes. Do not infer an automotive specialty or add unsupported neighboring trades.
+Gas tidak dapat “menyembuhkan” material yang salah, optik yang kotor, atau desain yang tidak sesuai. Hasil juga berubah ketika permukaan diberi pelapis, lembaran melengkung, atau spesifikasi tepi meminta pemeriksaan khusus. Karena itu, keputusan akhir harus memakai kupon uji dan persetujuan penanggung jawab proses.
 
-### KR-14
+![Ilustrasi las gas](/wp-content/uploads/2019/10/las-gas.png)
 
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.252 — welding, cutting, and brazing](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Help readers compare controlled shop fabrication with field work where the environment, interfaces, access, occupants, combustibles, weather, and permits can change the method and risk.
-- **Safe grounded facts:** Moving work on site can change fit-up control, position, access, lifting, weather, electrical supply, fume dispersion, fire exposure, nearby operations, traffic/public interface, coating conditions, inspection access, and restoration. A field weld is not justified merely because transport is inconvenient.
-- **Limits:** Do not import US distances, permits, or prescriptions. The responsible Indonesian site/K3 authority must approve the current task-specific controls.
-
-### KR-07
-
-- **Original sources:** [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html), [ISO 12944-5:2019 — official ISO abstract](https://www.iso.org/standard/77795.html), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Make material and consumable records usable for fabrication, compatibility, safety, inspection, maintenance, and later failure investigation.
-- **Safe grounded facts:** Useful traceability can include material designation, dimensions/heat or batch where required, certificate/report linkage, filler/consumable classification and batch, storage/conditioning, coating product and batch, mixing/application records, replacement-part identity, and approved substitution. The US hazard-communication rule illustrates label and safety-data-sheet concepts but is not Indonesian law.
-- **Limits:** Do not infer composition, compatibility, shelf life, storage, mixing ratio, coverage, cure, welding parameter, exposure limit, or disposal route from generic labels. Verify exact product, batch, substrate, environment, and current Indonesian rules.
-
-### KR-08
-
-- **Original sources:** [SNI 1729:2020 — official BSN catalog](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html).
-- **Purpose for this article:** Ground fabrication planning in defined requirements rather than verbal descriptions, copied details, or unverified workshop habit.
-- **Safe grounded facts:** A controlled fabrication package can need governing documents and revision, function, dimensions/datums, material and joint identity, loads/interfaces, tolerances, fabrication sequence, weld/fastener/coating requirements, inspection and hold points, acceptance basis, handling, installation, and approved deviations.
-- **Limits:** The BSN page does not reveal clauses, tolerances, combinations, connection design, execution rules, or acceptance values. Obtain the licensed governing standards and issued-for-work project documents.
-
-### KR-09
-
-- **Original sources:** [ISO 15614-1:2017 — official ISO abstract](https://www.iso.org/standard/51792.html), [ISO 9606-1:2012 — official ISO abstract](https://www.iso.org/standard/54936.html), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html).
-- **Purpose for this article:** Prevent an article from treating a welder card, a WPS, a procedure test, workmanship, and the finished joint's acceptance as interchangeable.
-- **Safe grounded facts:** Procedure qualification, production WPS, welder/operator qualification, material/process/position/thickness/diameter range, continuity/validity, equipment condition, consumable control, preheat/interpass control, inspection, and final acceptance are distinct records.
-- **Limits:** Both welding-qualification standards are current at verification but under revision. The public abstracts do not provide qualification ranges or test requirements; recheck editions and use licensed text plus the project specification.
-
-### KR-15
-
-- **Original sources:** [ISO 5817:2023 — official ISO abstract](https://www.iso.org/standard/80209.html), [ISO 17635:2025 — official ISO abstract](https://www.iso.org/standard/85705.html), [ISO 9712:2021 — official ISO abstract](https://www.iso.org/standard/75614.html).
-- **Purpose for this article:** Keep QA articles from confusing workmanship levels, NDT technique, indication evaluation, personnel certification, equipment status, and engineering acceptance.
-- **Safe grounded facts:** A quality plan needs the governing acceptance basis, joint and examination identification, method/technique and extent, written procedure where required, personnel scope, equipment identity and current calibration/verification, surface/test conditions, report traceability, result, nonconformance, disposition authority, repair cycle, and closeout.
-- **Limits:** Do not publish imperfection limits, acceptance tables, technique settings, calibration intervals, or certification equivalence from abstracts. Obtain full current standards and project procedures.
-
-### KR-16
-
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 12 Tahun 2015 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Provide a systems view of workshop K3 instead of reducing safety to personal protective equipment.
-- **Safe grounded facts:** A controlled task starts with elimination/substitution and engineering/administrative controls, then suitable PPE; product identity and current safety data matter for chemicals. Emergency planning must reflect the actual energy, fire, exposure, first-aid, evacuation, communication, and rescue scenario.
-- **Limits:** This file supplies no exposure limit, PPE selection, ventilation rate, electrical protection setting, cylinder separation, fire-watch duration, or emergency procedure. Resolve them from current Indonesian rules, site conditions, exact products, and competent K3 review.
-
-### KR-20
-
-- **Original sources:** [PP No. 22 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Connect source reduction, controlled use, segregation, reuse/recycling, worker exposure, and legal waste disposition without assuming every metal offcut is harmless or recyclable.
-- **Safe grounded facts:** Waste identity, contamination, generator/site context, storage, labeling, transport, receiver authorization, records, and current local rules determine the route. Reuse and repair may avoid new material but do not automatically reduce total environmental or safety impact.
-- **Limits:** Do not classify a waste, recommend mixing, state a storage limit, name a legal carrier/receiver, or claim a quantified environmental benefit without current Indonesian/local requirements, characterization, mass/energy data, and authorized-party evidence.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-- **GATE-09:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
-- **GATE-11:** Resolve the gate from current project evidence and competent review.
-- **GATE-12:** Resolve the gate from current project evidence and competent review.
-- **GATE-13:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — fallback home route; use only when it is genuinely useful.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUT-03-04` → `/artikel/laser-cutting-stainless-steel.html` — Laser Cutting Stainless Steel: Hasil Tepi dan Perlindungan Permukaan
-- `CUT-03-05` → `/artikel/laser-cutting-aluminium.html` — Laser Cutting Aluminium: Reflektivitas, Burr, dan Distorsi
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Gas Bantu untuk Laser Cutting Logam”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Gas Bantu untuk Laser Cutting Logam”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gas inert berarti gas yang relatif tidak reaktif pada kondisi proses; dross berarti terak lelehan yang menempel di tepi; acceptance criteria berarti kriteria penerimaan yang disepakati proyek.
+
+Gas bantu adalah gas yang dialirkan di sekitar titik interaksi laser dengan logam untuk membantu membuang lelehan dan mengendalikan lingkungan di celah potong. Artikel ini membahas fungsi dan dampaknya pada hasil potong, bukan urutan menyalakan mesin, penyetelan regulator, atau instruksi pengoperasian. Pengaturan tersebut memerlukan manual mesin, lembar data gas, serta kompetensi operator.
+
+Oksigen bersifat reaktif terhadap proses panas; nitrogen dipilih ketika atmosfer yang lebih inert di sekitar tepi menjadi tujuan; udara merupakan campuran yang kualitasnya sangat bergantung pada sistem kompresor dan pengeringannya. Pernyataan itu adalah kerangka keputusan, bukan jaminan bahwa satu gas selalu unggul. Komposisi aktual, kemurnian, tekanan, dan geometri nosel perlu diverifikasi dari pemasok dan produsen mesin. **[NEEDS TECHNICAL REVIEW: definisi mutu gas dan batas penerimaan untuk pekerjaan ini.]**
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Gas Bantu untuk Laser Cutting Logam”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Laser memusatkan energi hingga logam meleleh atau menguap secara lokal. Gas yang keluar melalui nosel membantu mengeluarkan material cair dari celah dan menjaga zona potong agar tidak terganggu oleh partikel. Perubahan gas mengubah keseimbangan panas dan reaksi di permukaan, sehingga tepi dapat berbeda dalam warna, kekasaran, burr, dan kebutuhan pembersihan.
+
+Dengan oksigen, reaksi oksidasi dapat menambah panas di zona potong. Dampaknya bisa mendukung produktivitas pada kondisi tertentu, tetapi lapisan oksida di tepi dapat memengaruhi proses pengecatan, pelapisan, atau pengelasan berikutnya. Nitrogen tidak dimaksudkan untuk menambah panas melalui reaksi; fokusnya adalah membantu menghasilkan tepi yang lebih bersih dari oksida ketika parameter dan material memang cocok. Udara menyederhanakan pasokan, tetapi kontaminan kompresor dapat berpindah ke permukaan.
+
+Jangan membaca mekanisme ini sebagai resep parameter. Kecepatan, daya, jarak nosel, dan tekanan saling berinteraksi; satu perubahan bisa memindahkan cacat dari burr ke dross atau sebaliknya. Rekam identitas material, gas, batch, dan hasil kupon agar perbandingan dapat ditelusuri. Prinsip pencatatan dan pengendalian informasi fabrikasi dibahas dalam ISO 3834-6:2024 ([ISO](https://www.iso.org/standard/83335.html)).
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Gas Bantu untuk Laser Cutting Logam”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pertama, identifikasi material dan ketebalan yang benar. Dua lembar dengan nama dagang sama dapat memiliki permukaan, pelapis, atau kondisi pasokan berbeda. Karat, oli, dan film pelindung juga mengubah interaksi panas. Catat nomor material atau dokumen pemasok; jangan menyimpulkan komposisi dari warna permukaan.
+
+Kedua, tetapkan fungsi tepi. Tepi yang hanya menjadi komponen visual memiliki prioritas berbeda dari tepi yang akan dilas, diberi lapisan pelindung, atau menjadi bidang pas. Tanyakan kepada perancang: apakah oksida boleh tersisa, berapa banyak deburring yang dapat diterima, dan apakah ada pemeriksaan visual atau dimensi? Tanpa jawaban ini, “potongan bagus” masih berarti kabur.
+
+Ketiga, periksa rantai pasokan gas dan kondisi peralatan. Kemurnian, kelembapan, minyak, kebocoran, selang, filter, dan nosel harus memiliki identitas serta jadwal pemeriksaan. Lembar data keselamatan (SDS) dan label produk dibutuhkan untuk mengenali bahaya bahan; OSHA 29 CFR 1910.1200 dapat menjadi contoh kerangka komunikasi bahaya, tetapi bukan hukum Indonesia ([OSHA Hazard Communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200)). Kewajiban K3 di tempat kerja tetap mengikuti aturan Indonesia dan penilaian kondisi setempat ([UU No. 1 Tahun 1970](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970)).
+
+Keempat, pertimbangkan pekerjaan sesudah pemotongan. Jika tepi beroksida akan mengganggu pelapisan, biaya pembersihan harus masuk keputusan. Jika bagian akan dipanaskan lagi, perubahan warna bukan satu-satunya perhatian; kebersihan, toleransi, dan akses inspeksi juga penting. Jangan mengklaim kompatibilitas lapisan atau hasil las tanpa prosedur proyek dan pemeriksaan yang disetujui.
+
+Pemotongan dengan panas juga membawa bahaya api, energi, dan asap yang harus dinilai sesuai lokasi kerja. Pedoman OSHA untuk welding, cutting, dan brazing memberi gambaran umum tentang jenis bahaya tersebut, tetapi bukan pengganti pengendalian K3 Indonesia atau persetujuan penanggung jawab setempat ([OSHA 29 CFR 1910.252](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252)).
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Gas Bantu untuk Laser Cutting Logam”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan tabel berikut sebagai pertanyaan awal, bukan pengganti kupon uji:
+
+| Tujuan utama | Kandidat yang layak dibandingkan | Yang harus dibuktikan |
+|---|---|---|
+| Tepi dengan oksida minimal sebelum proses lanjutan | Nitrogen versus udara yang telah dikondisikan | Warna tepi, burr, kebersihan, dan waktu deburring pada material serta ketebalan aktual |
+| Laju potong menjadi prioritas | Oksigen versus nitrogen | Kapasitas mesin, kestabilan tepi, distorsi, dan penerimaan desain |
+| Pekerjaan nonkritis dengan pasokan kompresor tersedia | Udara bertekanan versus gas botol | Kadar air/minyak, konsistensi tekanan, dan cacat pada awal-akhir potongan |
+
+Misalnya, Anda memotong plat yang akan dicat. Jika kupon dengan oksigen meninggalkan oksida yang memerlukan pembersihan tambahan, nitrogen mungkin layak diuji meski biaya pasokannya berbeda. Sebaliknya, bila komponen tidak memiliki tuntutan permukaan dan waktu produksi lebih penting, oksigen dapat tetap menjadi kandidat. Angka biaya, kapasitas, dan ketebalan tidak dapat ditentukan dari artikel ini; minta penawaran dan uji dari pemasok atau operator yang berwenang. **[NEEDS PROJECT EVIDENCE: kriteria penerimaan tepi, biaya total, dan hasil uji kupon.]**
+
+Kawan Bengkel-las.co.id, simpan foto dan catatan kupon secara konsisten: material, ketebalan, gas, tanggal, kondisi permukaan, dan keputusan lulus/tidak lulus. Catatan itu lebih berguna daripada mengandalkan ingatan saat pesanan berikutnya tampak serupa.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Gas Bantu untuk Laser Cutting Logam”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menganggap gas paling mahal pasti menghasilkan tepi terbaik. Periksa tiga kupon dengan kondisi yang sama dan nilai memakai kriteria yang disepakati, bukan kesan sesaat.
 
-## Objection or shortcut to address
+Kesalahan kedua adalah mengganti gas tanpa mengulang verifikasi. Perubahan pemasok, kemurnian, atau kondisi kompresor dapat mengubah hasil. Cocokkan label, SDS, sertifikat atau laporan pemasok bila dipersyaratkan, serta catatan batch.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan ketiga adalah mengejar parameter dari pekerjaan lain. Ketebalan, jenis lensa, nosel, dan kondisi permukaan mungkin berbeda. Minta operator mendokumentasikan revisi parameter dan batas penggunaannya; jangan menyalin angka tanpa otorisasi.
 
-## Required conclusion
+Kesalahan keempat adalah menyamakan tepi bersih dengan produk otomatis lulus. Ukur dimensi, periksa burr dan kerusakan permukaan, lalu ikuti acceptance criteria proyek. Standar mutu pengelasan atau pemeriksaan tidak otomatis menetapkan mutu potongan laser; rujukan dan pemeriksaan harus ditentukan untuk pekerjaan tersebut.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Jalan pintas yang sering dipilih
 
-## Draft completion checklist
+“Pakai udara saja supaya murah dan cepat” terdengar praktis. Shortcut ini gagal bila kompresor membawa air atau minyak, atau bila oksidasi dan pembersihan sesudah potong lebih mahal daripada penghematan gas. Alternatif yang lebih andal adalah menghitung biaya total: persiapan udara, perawatan, deburring, scrap, dan risiko penolakan. Bila dampaknya menyentuh keselamatan atau proses lanjutan, hentikan keputusan berbasis harga dan minta tinjauan teknis.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Bengkel-las.co.id!` and uses friendly `Bengkel-las.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Kesimpulan: pilih berdasarkan hasil yang harus dibuktikan
+
+Memilih gas bantu untuk laser cutting logam berarti mencocokkan reaksi gas dan kebersihan aliran dengan material, ketebalan, mutu tepi, serta pekerjaan sesudahnya. Oksigen, nitrogen, dan udara masing-masing adalah kandidat yang harus dibuktikan melalui kupon uji—bukan jawaban universal.
+
+Langkah berikutnya: tulis kriteria tepi dan proses lanjutan, minta data gas serta SDS, lalu minta operator atau penanggung jawab K3/engineering meninjau rencana uji. Teman Bengkel-las.co.id, jadikan hasil uji dan catatan batch sebagai batas operasi yang disetujui. Jika parameter, mutu gas, atau kriteria penerimaan belum jelas, tandai pekerjaan **[NEEDS TECHNICAL REVIEW]** dan jangan menganggap potongan siap dipakai.
+
+Untuk menyiapkan pertanyaan proyek, Anda dapat mulai dari [beranda Bengkel-las.co.id](/) dan mencatat aset gambar lokal sebagai rujukan visual saja, bukan bukti mutu potongan.

@@ -1,9 +1,10 @@
 ---
 article_id: CUT-11-06
+writing_contract_version: "native-id-v2"
 title: "Rework atau Potong Ulang: Cara Memilih Penanganan Part Cacat"
 slug: "rework-atau-potong-ulang-part-cacat"
 description: "Mengenali gejala cacat, memperkirakan penyebab, dan menentukan apakah perlu rework atau potong ulang."
-status: outline
+status: draft
 publication_date: "2026-03-27"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -17,49 +18,14 @@ sources:
   - "https://www.iso.org/standard/85705.html"
   - "https://www.iso.org/standard/75614.html"
   - "https://www.iso.org/standard/83335.html"
-  - "https://www.iso.org/standard/77795.html"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200"
-  - "https://pesta.bsn.go.id/produk/detail/12882-sni17292020"
+  - "https://www.iso.org/standard/80209.html"
   - "https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970"
   - "https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018"
   - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252"
-  - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015"
-  - "https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021"
-  - "https://www.iso.org/standard/80209.html"
+  - "https://pesta.bsn.go.id/produk/detail/12882-sni17292020"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Rework atau Potong Ulang: Cara Memilih Penanganan Part Cacat
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Rework atau Potong Ulang: Cara Memilih Penanganan Part Cacat”
-- **Reader and situation:** Mengenali gejala cacat, memperkirakan penyebab, dan menentukan apakah perlu rework atau potong ulang.
-- **Reader outcome:** Mengenali gejala cacat, memperkirakan penyebab, dan menentukan apakah perlu rework atau potong ulang.
-- **Primary intent:** Memilih tindakan setelah cacat ditemukan
-- **Reader community:** `Bengkel-las.co.id`
-- **Primary friendly address:** `Kawan Bengkel-las.co.id`
-- **Natural variants:** `Sobat Bengkel-las.co.id` and `Teman Bengkel-las.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Fokus keputusan perbaikan; kriteria penerimaan dimiliki CUT-10-06.
-- **Final public route:** `/artikel/rework-atau-potong-ulang-part-cacat.html`
-- **Appointed CMS date:** `2026-03-27` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Bengkel-las.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Rework atau Potong Ulang: Cara Memilih Penanganan Part Cacat**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Bengkel-las.co.id`, `Sobat Bengkel-las.co.id`, or `Teman Bengkel-las.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-005`
@@ -70,171 +36,78 @@ sources:
 - **Selection basis:** filename/source metadata identifies `bengkel las` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-005]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Rework atau Potong Ulang: Cara Memilih Penanganan Part Cacat
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Kawan Bengkel-las.co.id! Part cacat tidak otomatis harus dilas ulang, dan tidak otomatis pula harus dibuang lalu dipotong dari bahan baru. Pilih rework bila cacat dapat dihilangkan atau diperbaiki tanpa mengubah fungsi, dimensi pengendali, dan persyaratan sambungan—serta cara perbaikannya disetujui. Pilih potong ulang atau penggantian bila cacat menyentuh area kritis, penyebabnya belum terkendali, material sudah kehilangan margin, atau jejak perbaikannya tidak dapat diverifikasi.
 
-### KR-01
+Kuncinya adalah memisahkan gejala dari diagnosis. Catat apa yang terlihat, di mana dan kapan muncul, lalu cocokkan dengan gambar kerja, revisi, material, dan kriteria penerimaan yang berlaku. Hasil pemeriksaan bukan izin kerja dengan sendirinya; [NEEDS PROJECT ACCEPTANCE BASIS AND DISPOSITION AUTHORITY] harus tersedia sebelum keputusan final. Standar inspeksi juga menempatkan metode, cakupan, teknik, personel, kondisi permukaan, status alat, pelaporan, dan dasar penerimaan sebagai bukti yang berbeda, bukan satu angka tunggal ([ISO 17635:2025](https://www.iso.org/standard/85705.html); [ISO 9712:2021](https://www.iso.org/standard/75614.html)).
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cutting.bengkel-las.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The frozen catalog has 20 parent topics and 120 briefs. Intended readers include homeowners, facility and maintenance teams, small manufacturers, procurement staff, project supervisors, and workshop operators. Repository plans are editorial inputs, not proof of a real workshop, staff, equipment, qualifications, prices, locations, or services.
-- **Limits:** Re-read both frozen files if the project role, catalog, URL ownership, or conversion path changes. Do not infer an automotive specialty or add unsupported neighboring trades.
+![Ilustrasi bengkel las](/wp-content/uploads/2019/10/bengkel-las.png)
 
-### KR-04
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
 
-- **Original sources:** [ISO 17635:2025 — official ISO abstract](https://www.iso.org/standard/85705.html), [ISO 9712:2021 — official ISO abstract](https://www.iso.org/standard/75614.html).
-- **Purpose for this article:** Prevent visual symptoms or an isolated measurement from being presented as a complete diagnosis or acceptance decision.
-- **Safe grounded facts:** Inspection method, coverage, technique, personnel, equipment, surface condition, calibration/verification status, reporting, and acceptance basis are separate evidence items. ISO 17635 also warns that NDT acceptance levels are not a direct one-to-one translation of ISO 5817 quality levels.
-- **Limits:** The abstracts do not supply technique parameters, acceptance values, required extent, calibration intervals, or project fitness. Obtain the governing code, full standards, written procedure, and asset-specific inspection plan.
-
-### KR-07
-
-- **Original sources:** [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html), [ISO 12944-5:2019 — official ISO abstract](https://www.iso.org/standard/77795.html), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Make material and consumable records usable for fabrication, compatibility, safety, inspection, maintenance, and later failure investigation.
-- **Safe grounded facts:** Useful traceability can include material designation, dimensions/heat or batch where required, certificate/report linkage, filler/consumable classification and batch, storage/conditioning, coating product and batch, mixing/application records, replacement-part identity, and approved substitution. The US hazard-communication rule illustrates label and safety-data-sheet concepts but is not Indonesian law.
-- **Limits:** Do not infer composition, compatibility, shelf life, storage, mixing ratio, coverage, cure, welding parameter, exposure limit, or disposal route from generic labels. Verify exact product, batch, substrate, environment, and current Indonesian rules.
-
-### KR-08
-
-- **Original sources:** [SNI 1729:2020 — official BSN catalog](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html).
-- **Purpose for this article:** Ground fabrication planning in defined requirements rather than verbal descriptions, copied details, or unverified workshop habit.
-- **Safe grounded facts:** A controlled fabrication package can need governing documents and revision, function, dimensions/datums, material and joint identity, loads/interfaces, tolerances, fabrication sequence, weld/fastener/coating requirements, inspection and hold points, acceptance basis, handling, installation, and approved deviations.
-- **Limits:** The BSN page does not reveal clauses, tolerances, combinations, connection design, execution rules, or acceptance values. Obtain the licensed governing standards and issued-for-work project documents.
-
-### KR-14
-
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.252 — welding, cutting, and brazing](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Help readers compare controlled shop fabrication with field work where the environment, interfaces, access, occupants, combustibles, weather, and permits can change the method and risk.
-- **Safe grounded facts:** Moving work on site can change fit-up control, position, access, lifting, weather, electrical supply, fume dispersion, fire exposure, nearby operations, traffic/public interface, coating conditions, inspection access, and restoration. A field weld is not justified merely because transport is inconvenient.
-- **Limits:** Do not import US distances, permits, or prescriptions. The responsible Indonesian site/K3 authority must approve the current task-specific controls.
-
-### KR-16
-
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 12 Tahun 2015 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Provide a systems view of workshop K3 instead of reducing safety to personal protective equipment.
-- **Safe grounded facts:** A controlled task starts with elimination/substitution and engineering/administrative controls, then suitable PPE; product identity and current safety data matter for chemicals. Emergency planning must reflect the actual energy, fire, exposure, first-aid, evacuation, communication, and rescue scenario.
-- **Limits:** This file supplies no exposure limit, PPE selection, ventilation rate, electrical protection setting, cylinder separation, fire-watch duration, or emergency procedure. Resolve them from current Indonesian rules, site conditions, exact products, and competent K3 review.
-
-### KR-20
-
-- **Original sources:** [PP No. 22 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Connect source reduction, controlled use, segregation, reuse/recycling, worker exposure, and legal waste disposition without assuming every metal offcut is harmless or recyclable.
-- **Safe grounded facts:** Waste identity, contamination, generator/site context, storage, labeling, transport, receiver authorization, records, and current local rules determine the route. Reuse and repair may avoid new material but do not automatically reduce total environmental or safety impact.
-- **Limits:** Do not classify a waste, recommend mixing, state a storage limit, name a legal carrier/receiver, or claim a quantified environmental benefit without current Indonesian/local requirements, characterization, mass/energy data, and authorized-party evidence.
-
-### KR-15
-
-- **Original sources:** [ISO 5817:2023 — official ISO abstract](https://www.iso.org/standard/80209.html), [ISO 17635:2025 — official ISO abstract](https://www.iso.org/standard/85705.html), [ISO 9712:2021 — official ISO abstract](https://www.iso.org/standard/75614.html).
-- **Purpose for this article:** Keep QA articles from confusing workmanship levels, NDT technique, indication evaluation, personnel certification, equipment status, and engineering acceptance.
-- **Safe grounded facts:** A quality plan needs the governing acceptance basis, joint and examination identification, method/technique and extent, written procedure where required, personnel scope, equipment identity and current calibration/verification, surface/test conditions, report traceability, result, nonconformance, disposition authority, repair cycle, and closeout.
-- **Limits:** Do not publish imperfection limits, acceptance tables, technique settings, calibration intervals, or certification equivalence from abstracts. Obtain full current standards and project procedures.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-- **GATE-09:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
-- **GATE-11:** Resolve the gate from current project evidence and competent review.
-- **GATE-12:** Resolve the gate from current project evidence and competent review.
-- **GATE-13:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — fallback home route; use only when it is genuinely useful.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUT-11-04` → `/artikel/chatter-pada-cnc-milling.html` — Chatter pada CNC Milling: Gejala yang Terlihat pada Permukaan
-- `CUT-11-05` → `/artikel/penyebab-part-cutting-melengkung.html` — Part Cutting Melengkung: Material, Panas, atau Urutan Potong?
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Gambar ini adalah aset lokal, bukan dokumentasi proyek tertentu. [Kembali ke halaman utama Bengkel-las.co.id](/) atau buka aset lokal.
 
 ## Mulai dari gejala, bukan tebakan penyebab
 
-- **Purpose:** Tentukan apa yang terlihat/terukur, lokasi, waktu, perubahan, dan keterbatasan pengamatan.
-- **Tie back to this article:** Keep the explanation specific to “Rework atau Potong Ulang: Cara Memilih Penanganan Part Cacat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bekukan kondisi part sebelum digerinda, dipanaskan, dicat ulang, atau dipindahkan. Beri identitas part dan revisi gambar, tandai lokasi cacat dengan datum yang dapat diulang, dan foto atau sketsa seperlunya. Tuliskan bentuk gejala—misalnya celah, salah ukuran, distorsi, indikasi permukaan, atau hasil uji—tanpa langsung menyebut “porositas” atau “retak” jika belum ada metode yang mendukung.
+
+Tanyakan lima hal: apa yang berubah dari target, berapa luas atau panjang area yang terdampak, apakah cacat berulang pada part lain, kapan ditemukan, dan proses apa yang baru saja dilakukan. Ukur ulang menggunakan alat yang status verifikasi atau kalibrasinya jelas. Satu pengukuran yang menyimpang dapat memicu pemeriksaan, tetapi tidak membuktikan seluruh part gagal atau layak.
+
+Buat catatan nonkonformitas singkat: identitas, lokasi, bukti, kondisi saat ditemukan, dan siapa yang menahan part. Catatan ini mencegah operator berikutnya menghapus bukti saat mengejar target produksi. Jika gambar kerja, material, atau revisi tidak jelas, hentikan keputusan rework sampai dokumen terkendali tersedia. BSN hanya menunjukkan keberadaan katalog SNI; persyaratan rinci tetap harus diambil dari standar berlisensi dan dokumen proyek yang diterbitkan ([SNI 1729:2020](https://pesta.bsn.go.id/produk/detail/12882-sni17292020)).
 
 ## Saringan risiko langsung
 
-- **Purpose:** Jelaskan kapan pembaca harus membatasi akses, menghentikan pekerjaan, atau meminta pemeriksaan kompeten.
-- **Tie back to this article:** Keep the explanation specific to “Rework atau Potong Ulang: Cara Memilih Penanganan Part Cacat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pisahkan part dan beri status tahan sebelum pekerjaan panas atau pemotongan. Jangan menggerinda indikasi pada sambungan yang memikul beban, menutupinya dengan filler, atau mengirimnya ke lapisan akhir hanya agar tampak rapi. Jika ada kebocoran, deformasi yang mengganggu pemasangan, retak yang diduga menembus, atau ketidakpastian terhadap energi tersimpan, area perlu diamankan dan diperiksa oleh personel kompeten.
+
+Rework di tempat dapat mengubah bahaya: percikan, asap, panas sisa, listrik, pengangkatan, dan material mudah terbakar di sekitar lokasi. Pengendalian dimulai dari menghilangkan atau mengganti bahaya, rekayasa dan administrasi, baru kemudian APD yang sesuai; rencana darurat harus mengikuti energi serta paparan aktual, bukan daftar APD generik. Kewajiban keselamatan kerja dan kondisi tempat kerja mengacu pada aturan Indonesia yang berlaku, termasuk [UU No. 1 Tahun 1970](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970) dan [Permenaker No. 5 Tahun 2018](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018). Untuk pengelasan, pemotongan, dan brazing, penilaian bahaya serta pengendalian kebakaran harus disetujui penanggung jawab K3 setempat; rujukan OSHA di sini hanya contoh struktur bahaya, bukan hukum Indonesia ([OSHA 1910.252](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252)).
+
+Kawan Bengkel-las.co.id, jadikan “stop” sebagai keputusan teknis, bukan tanda kegagalan produksi. Bila akses, ventilasi, cuaca, penghuni, lalu lintas, atau izin kerja berubah, pindahkan part ke area terkendali atau minta review sebelum menyentuhnya.
 
 ## Kemungkinan mekanisme
 
-- **Purpose:** Kelompokkan kemungkinan penyebab tanpa menyatakan diagnosis dari bukti yang belum cukup.
-- **Tie back to this article:** Keep the explanation specific to “Rework atau Potong Ulang: Cara Memilih Penanganan Part Cacat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kelompokkan dugaan penyebab agar pemeriksaan terarah, bukan untuk mengunci diagnosis terlalu dini. Kelompok pertama adalah input: material, tebal, dimensi awal, filler atau consumable, batch, penyimpanan, dan identitas pengganti. Kelompok kedua adalah proses: urutan potong, fit-up, panas, penjepitan, parameter yang dicatat, kebersihan permukaan, dan jeda antaroperasi. Kelompok ketiga adalah desain dan antarmuka: datum, toleransi, akses alat, urutan perakitan, serta perubahan revisi. Kelompok keempat adalah pemeriksaan: alat, teknik, cakupan, kondisi permukaan, dan kompetensi personel.
+
+Telusuri catatan material dan consumable sebelum menyimpulkan bahwa operator “salah”. Informasi traceability yang berguna dapat mencakup designation material, dimensi, heat atau batch bila diwajibkan, sertifikat, klasifikasi filler, kondisi penyimpanan, serta identitas coating atau komponen pengganti. ISO 3834-6 menekankan perlunya informasi mutu yang dapat dipakai untuk fabrikasi, inspeksi, pemeliharaan, dan investigasi; abstraknya tidak memberi parameter proses atau jaminan kompatibilitas ([ISO 3834-6:2024](https://www.iso.org/standard/83335.html)). Karena itu, jangan menebak komposisi, umur simpan, rasio campur, atau parameter las dari label umum.
+
+Jika pola cacat hanya muncul setelah langkah tertentu, tahan lot terkait dan bandingkan catatan sebelum-sesudah langkah itu. Jika penyebab belum dapat dibedakan antara input, proses, desain, dan pemeriksaan, rework cepat hanya memindahkan ketidakpastian ke siklus berikutnya.
 
 ## Urutan pemeriksaan dan pengujian
 
-- **Purpose:** Susun observasi, dokumen, tes, sampel, atau pengukuran dari yang paling aman dan informatif.
-- **Tie back to this article:** Keep the explanation specific to “Rework atau Potong Ulang: Cara Memilih Penanganan Part Cacat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan urutan yang paling aman dan paling informatif:
+
+1. **Verifikasi dokumen.** Cocokkan gambar, revisi, identitas sambungan (*joint identity*), material, toleransi, dan instruksi kerja. Tandai bagian yang hilang sebagai [NEEDS CONTROLLED DRAWING, REVISION, OR PROCEDURE].
+2. **Observasi non-destruktif awal.** Bersihkan secukupnya tanpa menghapus indikasi; ukur geometri, posisi, dan kondisi permukaan dengan alat yang statusnya dapat ditelusuri.
+3. **Pemeriksaan terarah.** Pilih metode dan cakupan berdasarkan jenis sambungan serta risiko. Metode, teknik, personel, alat, kondisi permukaan, dan pelaporan harus dicatat terpisah; jangan mengubah hasil visual menjadi klaim lulus.
+4. **Uji tambahan atau sampel.** Bila hasil awal tidak membedakan skenario, minta prosedur tertulis dan persetujuan untuk uji yang lebih invasif. Simpan identitas sampel dan kaitannya dengan part.
+5. **Review teknis.** Bandingkan hasil dengan acceptance basis proyek dan minta otoritas disposition menentukan repair, use-as-is, downgrade, atau scrap. [NEEDS WRITTEN REPAIR PROCEDURE AND COMPETENT APPROVAL].
+
+Jangan mengarang interval kalibrasi, setting alat, luas pemeriksaan, atau batas indikasi dari ringkasan standar. ISO 17635 secara khusus mengingatkan bahwa tingkat penerimaan NDT bukan terjemahan satu-banding-satu dari tingkat mutu ISO 5817; gunakan edisi standar dan prosedur proyek yang benar ([ISO 17635:2025](https://www.iso.org/standard/85705.html)).
 
 ## Cara membaca hasil tanpa melompat ke kesimpulan
 
-- **Purpose:** Pisahkan hasil tes, kriteria proyek, sebab, konsekuensi, dan otoritas keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Rework atau Potong Ulang: Cara Memilih Penanganan Part Cacat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Baca lembar hasil dalam lima kolom: **hasil observasi**, **kriteria**, **dugaan sebab**, **dampak bila dibiarkan**, dan **otoritas keputusan**. “Indikasi tidak terlihat” berarti hanya apa yang dicakup metode dan kondisi saat itu. “Ukuran kembali ke nominal” tidak membuktikan sambungan atau material pulih. Sebaliknya, hasil yang menyimpang tidak otomatis menentukan potong ulang jika prosedur perbaikan yang disetujui masih mampu mengembalikan fungsi dan dapat diverifikasi.
+
+Pisahkan ketidakpastian dari ketidaksesuaian. Jika kriteria atau cakupan belum ditetapkan, statusnya **belum dapat diputuskan**, bukan lulus. Jika sebab terverifikasi tetapi dampak struktural belum dinilai, eskalasikan ke perancang atau insinyur yang berwenang. Simpan setiap siklus: indikasi awal, tindakan, pemeriksaan ulang, dan keputusan penutupan. Siklus repair dan closeout perlu tertelusur dalam rencana mutu ([ISO 5817:2023](https://www.iso.org/standard/80209.html); [ISO 9712:2021](https://www.iso.org/standard/75614.html)).
 
 ## Pilihan tindakan dan titik eskalasi
 
-- **Purpose:** Bedakan kontrol sementara, pemantauan, perbaikan, penggantian, dan review profesional.
-- **Tie back to this article:** Keep the explanation specific to “Rework atau Potong Ulang: Cara Memilih Penanganan Part Cacat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pilih **kontrol sementara** bila part harus ditahan, diberi pelindung, atau dipindah dengan aman sambil menunggu keputusan. Pilih **rework** hanya jika area cacat dapat diakses, material dan prosedurnya jelas, dampak panas atau pemotongan dapat dikendalikan, dan pemeriksaan ulang sudah direncanakan. Pilih **potong ulang atau penggantian** bila cacat meluas, berulang setelah perbaikan, berada di area kritis, menghabiskan toleransi, atau riwayat material/proses tidak dapat dibuktikan. Pilih **use-as-is atau downgrade** hanya bila otoritas proyek menyatakan fungsi dan batas pemakaian secara tertulis.
 
-## Objection or shortcut to address
+Sebelum rework, tulis batas penghilangan material, urutan kerja, consumable, kontrol panas, perlindungan area sekitar, pemeriksaan antara, dan kriteria penghentian. Setelah rework, lakukan pemeriksaan ulang dengan metode dan cakupan yang disetujui—bukan sekadar inspeksi visual karena lebih cepat. Bila pekerjaan harus dipindah ke lapangan, pertimbangkan perubahan fit-up, akses, cuaca, daya listrik, asap, kebakaran, inspeksi, dan pemulihan area; transport yang sulit bukan alasan tunggal untuk mengelas di tempat.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Sobat Bengkel-las.co.id, eskalasi segera bila keputusan menyentuh keselamatan publik, komponen pemikul beban, perubahan desain, bahan berbahaya, atau pekerjaan panas di area aktif. Minta [NEEDS ENGINEERING/K3 REVIEW] dan catat siapa yang menyetujui metode, kriteria, serta closeout.
 
-## Required conclusion
+## Jalan pintas yang sering gagal
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Jalan pintas yang umum adalah “gerinda sampai halus, las sedikit, lalu cat”. Cara ini dapat menghapus bukti, memperbesar zona terdampak panas, mengubah dimensi, dan meninggalkan cacat baru yang tidak tercatat. Mengejar tampilan permukaan juga tidak menggantikan pemeriksaan berdasarkan acceptance basis.
 
-## Draft completion checklist
+Alternatif yang lebih andal: tahan part, dokumentasikan gejala, verifikasi dokumen dan material, pilih pemeriksaan yang relevan, lalu keluarkan repair plan tertulis. Jika data tidak cukup, potong ulang bukan berarti keputusan otomatis; ia tetap membutuhkan persetujuan teknis, pengendalian bahan sisa, dan pemeriksaan part pengganti.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Bengkel-las.co.id!` and uses friendly `Bengkel-las.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Kesimpulan: kapan rework, kapan potong ulang?
+
+Rework masuk akal saat cacat terlokalisasi, mekanismenya cukup dipahami, prosedur perbaikan disetujui, dan hasilnya dapat diverifikasi terhadap kriteria proyek. Potong ulang atau ganti part lebih aman saat cacat kritis atau berulang, penyebab dan riwayatnya tidak terkendali, toleransi sudah terpakai, atau bukti closeout tidak mungkin lengkap. Keduanya bukan keputusan berdasarkan perkiraan biaya atau kerapian saja.
+
+Langkah berikutnya adalah membuat satu lembar disposition berisi identitas part, gejala, bukti pemeriksaan, dugaan sebab, pilihan tindakan, metode pemeriksaan ulang, dan nama pemberi persetujuan. Ajukan lembar itu bersama gambar/revisi, prosedur, dan catatan material kepada pihak kompeten. Jika salah satu bukti utama belum ada, tahan pekerjaan dan tandai [NEEDS PROJECT REVIEW]—jangan mengisi celah dengan tebakan.

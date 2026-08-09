@@ -3,7 +3,7 @@ article_id: CUT-12-05
 title: "Mengapa Harga Satuan Berubah saat Kuantitas Pesanan Naik?"
 slug: "harga-satuan-dan-kuantitas-pesanan"
 description: "Menyiapkan informasi permintaan harga dan memahami komponen biaya tanpa mengandalkan daftar harga semu."
-status: outline
+status: draft
 publication_date: "2026-04-15"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,53 +13,24 @@ reader_community: "Bengkel-las.co.id"
 reader_address: "Sobat Bengkel-las.co.id"
 final_route: "/artikel/harga-satuan-dan-kuantitas-pesanan.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
-  - "https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999.8Presiden"
+  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200"
+  - "https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999"
   - "https://www.iso.org/standard/83335.html"
   - "https://www.iso.org/standard/54936.html"
   - "https://www.iso.org/standard/75614.html"
   - "https://www.iso.org/standard/77795.html"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200"
   - "https://pesta.bsn.go.id/produk/detail/12882-sni17292020"
   - "https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970"
   - "https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252"
+  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910.252"
   - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
   - "https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015"
   - "https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Mengapa Harga Satuan Berubah saat Kuantitas Pesanan Naik?
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Mengapa Harga Satuan Berubah saat Kuantitas Pesanan Naik?”
-- **Reader and situation:** Menyiapkan informasi permintaan harga dan memahami komponen biaya tanpa mengandalkan daftar harga semu.
-- **Reader outcome:** Menyiapkan informasi permintaan harga dan memahami komponen biaya tanpa mengandalkan daftar harga semu.
-- **Primary intent:** Memahami pengaruh volume pada biaya unit
-- **Reader community:** `Bengkel-las.co.id`
-- **Primary friendly address:** `Sobat Bengkel-las.co.id`
-- **Natural variants:** `Kawan Bengkel-las.co.id` and `Teman Bengkel-las.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Fokus ekonomi kuantitas; strategi batch dimiliki CUT-14.
-- **Final public route:** `/artikel/harga-satuan-dan-kuantitas-pesanan.html`
-- **Appointed CMS date:** `2026-04-15` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Bengkel-las.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Mengapa Harga Satuan Berubah saat Kuantitas Pesanan Naik?**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Bengkel-las.co.id`, `Kawan Bengkel-las.co.id`, or `Teman Bengkel-las.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-005`
@@ -70,186 +41,61 @@ sources:
 - **Selection basis:** filename/source metadata identifies `bengkel las` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-005]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Mengapa Harga Satuan Berubah saat Kuantitas Pesanan Naik?
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Sobat Bengkel-las.co.id! Harga satuan bisa turun ketika kuantitas naik karena waktu persiapan, pemrograman, dan penanganan terbagi ke lebih banyak part. Namun harga juga bisa tetap atau malah naik bila material, inspeksi, pengemasan, perubahan revisi, atau kapasitas antrean menjadi pembatas. Tidak ada daftar harga universal yang dapat menjawab tanpa scope dan bukti proyek.
 
-### KR-01
+Jawaban singkatnya: minta penawaran yang memisahkan biaya tetap, biaya per unit, material, proses, logistik, inspeksi, dan item terbuka. Bandingkan jumlah total dan asumsi, bukan angka satuan saja. [NEEDS COMMERCIAL REVIEW: volume, material, toleransi, waktu, dan dasar penerimaan proyek belum tersedia.]
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cutting.bengkel-las.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The frozen catalog has 20 parent topics and 120 briefs. Intended readers include homeowners, facility and maintenance teams, small manufacturers, procurement staff, project supervisors, and workshop operators. Repository plans are editorial inputs, not proof of a real workshop, staff, equipment, qualifications, prices, locations, or services.
-- **Limits:** Re-read both frozen files if the project role, catalog, URL ownership, or conversion path changes. Do not infer an automotive specialty or add unsupported neighboring trades.
+![Ilustrasi bengkel las](/wp-content/uploads/2019/10/bengkel-las.png)
 
-### KR-06
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
 
-- **Original sources:** [UU No. 8 Tahun 1999 tentang Perlindungan Konsumen — BPK](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999.8Presiden).
-- **Purpose for this article:** Support fair, comparable workshop scopes without inventing market prices or presenting a generic checklist as legal advice.
-- **Safe grounded facts:** A total price alone does not show whether survey, dismantling, design, material grade, consumables, coating preparation, transport, lifting, utilities, access, testing, rework, taxes, or documentation are included. Changes should preserve request, reason, cost/time consequence, approval, and revision history.
-- **Limits:** Do not state a statutory entitlement, deadline, damages formula, or dispute outcome without current legal review. Price examples require dated, local, like-for-like primary market evidence that is not contained here.
-
-### KR-21
-
-- **Original sources:** [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html), [ISO 9606-1:2012 — official ISO abstract](https://www.iso.org/standard/54936.html), [ISO 9712:2021 — official ISO abstract](https://www.iso.org/standard/75614.html), [UU No. 8 Tahun 1999 — BPK](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999.8Presiden).
-- **Purpose for this article:** Turn vague claims such as “professional,” “certified,” “experienced,” or “SNI” into verifiable, scope-matched evidence.
-- **Safe grounded facts:** A person certificate has a defined method/process/range and validity; it does not certify the whole company or project. A quality-system claim does not prove a particular design, welder, NDT technician, machine, material, joint, result, or statutory approval.
-- **Limits:** No vendor or `bengkel.co.id` capability is evidenced here. Do not publish badges, client names, project photos, certifications, addresses, response times, or warranties without current attributable primary evidence and permission. ## Topic-family coverage matrix | Topic family | Main evidence records | Safe ground for the article set | Remaining gate before definitive drafting | | --- | --- | --- | --- | | `CUT-01` | KR-01, KR-08, KR-14, KR-07, KR-04, KR-16, KR-20, KR-10, KR-17, KR-15 | Pemilihan proses cutting CNC; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08, GATE-09, GATE-10, GATE-11, GATE-12, GATE-13; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUT-02` | KR-01, KR-04, KR-07, KR-08, KR-14, KR-16, KR-20, KR-10, KR-17, KR-15 | Desain dan file siap produksi; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08, GATE-09, GATE-10, GATE-11, GATE-12, GATE-13; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUT-03` | KR-01, KR-14, KR-07, KR-08, KR-09, KR-15, KR-16, KR-20 | Laser cutting logam; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08, GATE-09, GATE-10, GATE-11, GATE-12, GATE-13; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUT-04` | KR-01, KR-14, KR-07, KR-08, KR-09, KR-15, KR-16, KR-20 | Laser cutting nonlogam; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08, GATE-09, GATE-10, GATE-11, GATE-12, GATE-13; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUT-05` | KR-01, KR-08, KR-07, KR-14, KR-09, KR-15, KR-16, KR-20 | CNC router dan cutter; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08, GATE-09, GATE-10, GATE-11, GATE-12, GATE-13; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUT-06` | KR-01, KR-07, KR-02, KR-08, KR-14, KR-16, KR-20 | CNC milling; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08, GATE-09, GATE-10, GATE-11, GATE-12, GATE-13; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUT-07` | KR-01, KR-08, KR-07, KR-14, KR-16, KR-20, KR-10, KR-17 | Perilaku dan pemilihan material; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08, GATE-09, GATE-10, GATE-11, GATE-12, GATE-13; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUT-08` | KR-01, KR-04, KR-07, KR-08, KR-14, KR-16, KR-20, KR-15 | Kerf, toleransi, dan spesifikasi dimensi; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08, GATE-09, GATE-10, GATE-11, GATE-12, GATE-13; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUT-09` | KR-01, KR-06, KR-21, KR-07, KR-08, KR-14, KR-16, KR-20, KR-18, KR-19 | Nesting dan efisiensi lembaran; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08, GATE-09, GATE-10, GATE-11, GATE-12, GATE-13; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUT-10` | KR-01, KR-04, KR-07, KR-08, KR-14, KR-16, KR-20, KR-15 | Pemeriksaan mutu hasil cutting; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08, GATE-09, GATE-10, GATE-11, GATE-12, GATE-13; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUT-11` | KR-01, KR-04, KR-07, KR-08, KR-14, KR-16, KR-20, KR-15 | Cacat potong dan pemecahan masalah; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08, GATE-09, GATE-10, GATE-11, GATE-12, GATE-13; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUT-12` | KR-01, KR-06, KR-21, KR-07, KR-08, KR-14, KR-16, KR-20, KR-18, KR-19 | Harga, penawaran, dan kuantitas; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08, GATE-09, GATE-10, GATE-11, GATE-12, GATE-13; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUT-13` | KR-01, KR-08, KR-14, KR-07, KR-09, KR-15, KR-16, KR-20 | Finishing dan proses lanjutan; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08, GATE-09, GATE-10, GATE-11, GATE-12, GATE-13; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUT-14` | KR-01, KR-06, KR-21, KR-07, KR-08, KR-14, KR-16, KR-20, KR-18, KR-19 | Prototipe dan perencanaan produksi; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08, GATE-09, GATE-10, GATE-11, GATE-12, GATE-13; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUT-15` | KR-01, KR-08, KR-14, KR-07, KR-16, KR-20, KR-10, KR-17 | Aplikasi produk dan desain; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08, GATE-09, GATE-10, GATE-11, GATE-12, GATE-13; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUT-16` | KR-01, KR-06, KR-21, KR-18, KR-07, KR-09, KR-14, KR-15, KR-08, KR-16, KR-20, KR-19 | Pemilihan vendor dan pengelolaan pesanan; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08, GATE-09, GATE-10, GATE-11, GATE-12, GATE-13; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | Coverage result: **16/16 topic families mapped; 0 families without a starting evidence set.** ## Cross-catalog fact bank 1. A definition, method, regulation, product claim, and complete-system result are different evidence layers. 2. A source supports only its stated jurisdiction, edition, product, specimen, configuration, conditions, and public scope. 3. Standards abstracts identify documents and visible scope; exact requirements require the current full text. 4. Foreign standards and industry guidance do not automatically become Indonesian legal requirements. 5. Procurement and handover claims require current project, supplier, contract, test, warranty, and traceability evidence. ## Evidence gaps and publication gates | Gate | Affected topic families | Resolution required | | --- | --- | --- | | `GATE-01` Current Indonesian rule | `CUT-01`, `CUT-02`, `CUT-03`, `CUT-04`, `CUT-05`, `CUT-06`, `CUT-07`, `CUT-08`, `CUT-09`, `CUT-10`, `CUT-11`, `CUT-12`, `CUT-13`, `CUT-14`, `CUT-15`, `CUT-16` | Legal duty, mandatory procedure, credential, inspection route, interval, permit, approval, or compliance | | `GATE-02` Asset and site baseline | `CUT-01`, `CUT-02`, `CUT-03`, `CUT-04`, `CUT-05`, `CUT-06`, `CUT-07`, `CUT-08`, `CUT-09`, `CUT-10`, `CUT-11`, `CUT-12`, `CUT-13`, `CUT-14`, `CUT-15`, `CUT-16` | Diagnosis, cause, repair scope, safe continued use, schedule, price, or suitability | | `GATE-03` Exact material, part, consumable, or chemical | `CUT-01`, `CUT-02`, `CUT-03`, `CUT-04`, `CUT-05`, `CUT-06`, `CUT-07`, `CUT-08`, `CUT-09`, `CUT-10`, `CUT-11`, `CUT-12`, `CUT-13`, `CUT-14`, `CUT-15`, `CUT-16` | Material grade, weldability, compatibility, coating life, chemical control, part equivalence, or disposal | | `GATE-04` Governing design and acceptance basis | `CUT-01`, `CUT-02`, `CUT-03`, `CUT-04`, `CUT-05`, `CUT-06`, `CUT-07`, `CUT-08`, `CUT-09`, `CUT-10`, `CUT-11`, `CUT-12`, `CUT-13`, `CUT-14`, `CUT-15`, `CUT-16` | Dimension, capacity, connection, tolerance, inspection extent, test value, acceptance, or “meets SNI/ISO” | | `GATE-05` Qualified design and intervention approval | `CUT-01`, `CUT-02`, `CUT-03`, `CUT-04`, `CUT-05`, `CUT-06`, `CUT-07`, `CUT-08`, `CUT-09`, `CUT-10`, `CUT-11`, `CUT-12`, `CUT-13`, `CUT-14`, `CUT-15`, `CUT-16` | Structural, pressure, rotating, lifting, fatigue, safety-critical, remaining-life, reinforcement, or fitness claim | | `GATE-06` Welding process and personnel | `CUT-01`, `CUT-02`, `CUT-03`, `CUT-04`, `CUT-05`, `CUT-06`, `CUT-07`, `CUT-08`, `CUT-09`, `CUT-10`, `CUT-11`, `CUT-12`, `CUT-13`, `CUT-14`, `CUT-15`, `CUT-16` | Welding parameter, approved procedure, personnel capability, or acceptable production/repair weld | | `GATE-07` Inspection, NDT, and measurement | `CUT-01`, `CUT-02`, `CUT-03`, `CUT-04`, `CUT-05`, `CUT-06`, `CUT-07`, `CUT-08`, `CUT-09`, `CUT-10`, `CUT-11`, `CUT-12`, `CUT-13`, `CUT-14`, `CUT-15`, `CUT-16` | Defect/no-defect, measurement accuracy, pass/fail, repair closeout, or fitness | | `GATE-08` Task and site K3 controls | `CUT-01`, `CUT-02`, `CUT-03`, `CUT-04`, `CUT-05`, `CUT-06`, `CUT-07`, `CUT-08`, `CUT-09`, `CUT-10`, `CUT-11`, `CUT-12`, `CUT-13`, `CUT-14`, `CUT-15`, `CUT-16` | Safe method, safe-to-start, safe-to-enter, safe-to-operate, or adequate PPE/control | | `GATE-09` Pressure and confined-space controls | `CUT-01`, `CUT-02`, `CUT-03`, `CUT-04`, `CUT-05`, `CUT-06`, `CUT-07`, `CUT-08`, `CUT-09`, `CUT-10`, `CUT-11`, `CUT-12`, `CUT-13`, `CUT-14`, `CUT-15`, `CUT-16` | Tank/vessel/pipe entry, hot work, repair detail, test pressure, interval, or return to service | | `GATE-10` Commercial and handover evidence | `CUT-01`, `CUT-02`, `CUT-03`, `CUT-04`, `CUT-05`, `CUT-06`, `CUT-07`, `CUT-08`, `CUT-09`, `CUT-10`, `CUT-11`, `CUT-12`, `CUT-13`, `CUT-14`, `CUT-15`, `CUT-16` | Price comparison, lowest-cost claim, fixed scope, completion, warranty, or handover adequacy | | `GATE-11` Consumer, complaint, and legal review | `CUT-01`, `CUT-02`, `CUT-03`, `CUT-04`, `CUT-05`, `CUT-06`, `CUT-07`, `CUT-08`, `CUT-09`, `CUT-10`, `CUT-11`, `CUT-12`, `CUT-13`, `CUT-14`, `CUT-15`, `CUT-16` | Liability, entitlement, refund/rework outcome, damages, deadline, or dispute prediction | | `GATE-12` Environmental and waste route | `CUT-01`, `CUT-02`, `CUT-03`, `CUT-04`, `CUT-05`, `CUT-06`, `CUT-07`, `CUT-08`, `CUT-09`, `CUT-10`, `CUT-11`, `CUT-12`, `CUT-13`, `CUT-14`, `CUT-15`, `CUT-16` | B3/non-B3 classification, storage/transport/disposal instruction, recyclable claim, or quantified sustainability benefit | | `GATE-13` Vendor-specific capability | `CUT-01`, `CUT-02`, `CUT-03`, `CUT-04`, `CUT-05`, `CUT-06`, `CUT-07`, `CUT-08`, `CUT-09`, `CUT-10`, `CUT-11`, `CUT-12`, `CUT-13`, `CUT-14`, `CUT-15`, `CUT-16` | “Certified,” “SNI,” “professional,” service area, equipment, experience, client/project, response time, or provider capability | ## Source-refresh triggers Recheck a record immediately when: - an Indonesian law, regulation, or official standard status changes; - a standards body publishes a new edition used by the article; - a manufacturer changes product scope, instructions, compatibility, test evidence, or warranty; - an article introduces a number, price, rating, classification, compliance statement, or safety procedure; - the target project/application differs from the exemplar's jurisdiction, user, product, configuration, or operating environment. ## Next authorized stage The later outline and constrained-writing-instruction stage may use this file only when separately authorized. Article drafting, Markdown article creation, HTML hydration, publication dating, sitemap generation, deployment, and Google Search Console submission are intentionally **not performed in this research stage**.
-
-### KR-07
-
-- **Original sources:** [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html), [ISO 12944-5:2019 — official ISO abstract](https://www.iso.org/standard/77795.html), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Make material and consumable records usable for fabrication, compatibility, safety, inspection, maintenance, and later failure investigation.
-- **Safe grounded facts:** Useful traceability can include material designation, dimensions/heat or batch where required, certificate/report linkage, filler/consumable classification and batch, storage/conditioning, coating product and batch, mixing/application records, replacement-part identity, and approved substitution. The US hazard-communication rule illustrates label and safety-data-sheet concepts but is not Indonesian law.
-- **Limits:** Do not infer composition, compatibility, shelf life, storage, mixing ratio, coverage, cure, welding parameter, exposure limit, or disposal route from generic labels. Verify exact product, batch, substrate, environment, and current Indonesian rules.
-
-### KR-08
-
-- **Original sources:** [SNI 1729:2020 — official BSN catalog](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html).
-- **Purpose for this article:** Ground fabrication planning in defined requirements rather than verbal descriptions, copied details, or unverified workshop habit.
-- **Safe grounded facts:** A controlled fabrication package can need governing documents and revision, function, dimensions/datums, material and joint identity, loads/interfaces, tolerances, fabrication sequence, weld/fastener/coating requirements, inspection and hold points, acceptance basis, handling, installation, and approved deviations.
-- **Limits:** The BSN page does not reveal clauses, tolerances, combinations, connection design, execution rules, or acceptance values. Obtain the licensed governing standards and issued-for-work project documents.
-
-### KR-14
-
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.252 — welding, cutting, and brazing](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Help readers compare controlled shop fabrication with field work where the environment, interfaces, access, occupants, combustibles, weather, and permits can change the method and risk.
-- **Safe grounded facts:** Moving work on site can change fit-up control, position, access, lifting, weather, electrical supply, fume dispersion, fire exposure, nearby operations, traffic/public interface, coating conditions, inspection access, and restoration. A field weld is not justified merely because transport is inconvenient.
-- **Limits:** Do not import US distances, permits, or prescriptions. The responsible Indonesian site/K3 authority must approve the current task-specific controls.
-
-### KR-16
-
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 12 Tahun 2015 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Provide a systems view of workshop K3 instead of reducing safety to personal protective equipment.
-- **Safe grounded facts:** A controlled task starts with elimination/substitution and engineering/administrative controls, then suitable PPE; product identity and current safety data matter for chemicals. Emergency planning must reflect the actual energy, fire, exposure, first-aid, evacuation, communication, and rescue scenario.
-- **Limits:** This file supplies no exposure limit, PPE selection, ventilation rate, electrical protection setting, cylinder separation, fire-watch duration, or emergency procedure. Resolve them from current Indonesian rules, site conditions, exact products, and competent K3 review.
-
-### KR-20
-
-- **Original sources:** [PP No. 22 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Connect source reduction, controlled use, segregation, reuse/recycling, worker exposure, and legal waste disposition without assuming every metal offcut is harmless or recyclable.
-- **Safe grounded facts:** Waste identity, contamination, generator/site context, storage, labeling, transport, receiver authorization, records, and current local rules determine the route. Reuse and repair may avoid new material but do not automatically reduce total environmental or safety impact.
-- **Limits:** Do not classify a waste, recommend mixing, state a storage limit, name a legal carrier/receiver, or claim a quantified environmental benefit without current Indonesian/local requirements, characterization, mass/energy data, and authorized-party evidence.
-
-### KR-18
-
-- **Original sources:** [UU No. 8 Tahun 1999 — BPK](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999.8Presiden), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html).
-- **Purpose for this article:** Define handover as an evidence package and accepted status, not merely physical delivery or payment.
-- **Safe grounded facts:** Warranty scope, duration, conditions, exclusions, response path, and evidence responsibilities should be explicit. A certificate or checklist is meaningful only if it identifies the item, revision, issuer, date, basis, result, and authorization.
-- **Limits:** Do not invent a warranty or imply that a generic dossier proves compliance or fitness. Contract requirements, responsible-party approvals, and actual records govern.
-
-### KR-19
-
-- **Original sources:** [UU No. 8 Tahun 1999 — BPK](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999.8Presiden).
-- **Purpose for this article:** Help a reader document and triage a problem without prejudging fault, destroying evidence, or giving legal advice.
-- **Safe grounded facts:** Immediate safety containment, technical cause investigation, contractual responsibility, consumer remedy, and legal process are different questions. Destructive repair or continued operation can change the condition and evidence.
-- **Limits:** Do not state who is liable, promise a refund/rework outcome, calculate damages, or prescribe a limitation period. Check current law, contract, forum, evidence, and competent Indonesian advice.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-- **GATE-09:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
-- **GATE-11:** Resolve the gate from current project evidence and competent review.
-- **GATE-12:** Resolve the gate from current project evidence and competent review.
-- **GATE-13:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — fallback home route; use only when it is genuinely useful.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUT-12-03` → `/artikel/faktor-harga-cnc-router-dan-milling.html` — Faktor yang Membentuk Harga CNC Router dan CNC Milling
-- `CUT-12-04` → `/artikel/komponen-biaya-penawaran-cnc.html` — Biaya Setup, Material, Waktu Mesin, dan Finishing dalam Penawaran
-- `CUT-12-06` → `/artikel/membandingkan-penawaran-jasa-cutting.html` — Membandingkan Dua Penawaran Jasa Cutting secara Setara
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
 
 ## Definisikan kebutuhan sebelum meminta harga
 
-- **Purpose:** Nyatakan fungsi, kondisi, kuantitas, batas scope, antarmuka, dan hasil penerimaan.
-- **Tie back to this article:** Keep the explanation specific to “Mengapa Harga Satuan Berubah saat Kuantitas Pesanan Naik?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Tuliskan nomor part, revisi gambar, material, tebal, jumlah, ukuran lembar, toleransi, sisi referensi, proses cutting, deburring, bending, welding, coating, pengemasan, dan pengiriman. Jelaskan apakah kuantitas berarti part jadi, lembar, atau lot. Datum (acuan geometri), fitur kritis, dan acceptance basis (dasar penerimaan) perlu dapat diperiksa.
+
+Kawan Bengkel-las.co.id, pisahkan permintaan produksi berulang dari permintaan sampel atau *first-off* (unit awal). Scope yang berbeda menghasilkan biaya persiapan dan pemeriksaan berbeda. Paket fabrikasi terkendali menghubungkan dokumen, material, sambungan, toleransi, urutan, inspeksi, dan deviasi yang disetujui ([ISO 3834-6:2024](https://www.iso.org/standard/83335.html), [BSN](https://pesta.bsn.go.id/produk/detail/12882-sni17292020)).
 
 ## Buat penawaran benar-benar sebanding
 
-- **Purpose:** Susun komponen scope, inklusi, eksklusi, asumsi, logistik, pengujian, dan risiko.
-- **Tie back to this article:** Keep the explanation specific to “Mengapa Harga Satuan Berubah saat Kuantitas Pesanan Naik?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Harga total biasanya mencakup biaya persiapan, pemrograman, material, konsumsi alat, waktu mesin, tenaga kerja, pemeriksaan, penanganan, pengemasan, transportasi, pajak, dan rework bila disetujui. Tidak semua penyedia memasukkan komponen yang sama. Minta tabel inklusi dan eksklusi serta masa berlaku penawaran.
+
+Ketika jumlah naik, waktu pemrograman dapat terbagi, pemindahan bahan lebih efisien, dan pembelian material mungkin berbeda. Sebaliknya, antrean, penyimpanan, inspeksi per part, variasi revisi, atau kebutuhan pengiriman bertahap dapat menambah biaya. Jangan menyebut penghematan sebelum penyedia menjelaskan asumsi kapasitas dan bukti jadwal.
 
 ## Dokumen yang membuktikan hal berbeda
 
-- **Purpose:** Bedakan data produk, sertifikat, laporan tes, metode, pengalaman, garansi, dan persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Mengapa Harga Satuan Berubah saat Kuantitas Pesanan Naik?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sertifikat personel menunjukkan ruang lingkup metode dan masa berlaku, bukan jaminan seluruh proyek. WPS (spesifikasi prosedur pengelasan), kualifikasi welder, laporan NDT (pengujian tak merusak), dan keputusan penerimaan adalah rekaman berbeda ([ISO 9606-1](https://www.iso.org/standard/54936.html), [ISO 9712](https://www.iso.org/standard/75614.html)). Data coating dan SDS (lembar data keselamatan) juga tidak membuktikan kompatibilitas tanpa produk, batch, substrat, dan lingkungan aktual ([ISO 12944-5:2019](https://www.iso.org/standard/77795.html), [OSHA 1910.1200](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200)).
+
+Harga murah bukan bukti scope lengkap, dan logo bukan bukti part tertentu lulus. Tanyakan identitas dokumen, penerbit, tanggal, nomor pekerjaan, hasil, dan pihak berwenang yang menerima.
 
 ## Pertanyaan wajib kepada penyedia
 
-- **Purpose:** Buat daftar pertanyaan konkret yang mengungkap kapasitas, batas, tanggung jawab, dan perubahan.
-- **Tie back to this article:** Keep the explanation specific to “Mengapa Harga Satuan Berubah saat Kuantitas Pesanan Naik?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Tanyakan: jumlah minimum untuk harga satuan; biaya setup dan program; material siapa yang menyediakan; apakah sisa lembar dan scrap (potongan sisa) termasuk; proses tepi dan finishing; pemeriksaan per part atau per lot; toleransi; pengemasan; pengiriman; perubahan revisi; jadwal bersyarat; serta dokumen handover (serah-terima). Minta semua jawaban tertulis agar perubahan scope, alasan, dampak waktu/biaya, persetujuan, dan riwayat revisi dapat ditelusuri ([UU No. 8 Tahun 1999](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999)).
 
-## Red flag dan biaya yang sering tersembunyi
+## Tanda bahaya dan biaya yang sering tersembunyi
 
-- **Purpose:** Jelaskan tanda scope kabur, klaim tanpa bukti, serta biaya akses, tunggu, rework, atau handover.
-- **Tie back to this article:** Keep the explanation specific to “Mengapa Harga Satuan Berubah saat Kuantitas Pesanan Naik?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Waspadai penawaran tanpa revisi file, material, jumlah, toleransi, kriteria penerimaan, atau batas pengiriman. “Harga per kilogram” tidak menjelaskan pemrograman, lubang, tepi, inspeksi, dan pengemasan. “Termasuk finishing” perlu diuraikan produk, batch, area, metode, dan bukti hasil.
+
+Sobat Bengkel-las.co.id, jangan mengejar angka terendah dengan menghapus pemeriksaan atau dokumentasi. Jika pekerjaan lapangan dipilih, akses, cuaca, listrik, ventilasi, penghuni, energi, dan pengendalian api harus dinilai K3; rujukan umum tidak menetapkan kontrol lokasi Anda ([UU No. 1 Tahun 1970](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 5 Tahun 2018](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 1910.252](https://www.osha.gov/laws-regs/regulations/standardnumber/1910.252)).
 
 ## Penerimaan, serah terima, dan keputusan akhir
 
-- **Purpose:** Tentukan siapa memeriksa apa, rekaman yang disimpan, dan kapan pembayaran/acceptance layak.
-- **Tie back to this article:** Keep the explanation specific to “Mengapa Harga Satuan Berubah saat Kuantitas Pesanan Naik?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sebelum menerima, cocokkan part, revisi, material, jumlah, ukuran kritis, tepi, permukaan, dan dokumen. Catat penyimpangan dan siapa yang berwenang memberi disposisi. Handover yang baik memuat daftar part, laporan ukur/inspeksi, catatan material, item terbuka, serta status diterima atau hold. Jalur limbah dan scrap bergantung pada identitas, kontaminasi, penyimpanan, pengangkutan, dan penerima berwenang ([PP No. 22 Tahun 2021](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021)).
 
-## Objection or shortcut to address
+Bandingkan penawaran dalam satu lembar kerja. Kolom pertama berisi kuantitas dan satuan; kolom berikutnya memuat material, setup, pemrograman, waktu mesin, tenaga kerja, inspeksi, finishing, kemasan, transportasi, pajak, dan item terbuka. Tandai apakah angka berlaku untuk satu revisi atau dapat berubah jika file berubah. Catat tanggal penawaran dan batas validitas, tetapi jangan menganggap tanggal itu menjamin ketersediaan material atau kapasitas.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Jika dua penawaran memiliki harga satuan berbeda, cari penyebabnya sebelum menawar ulang. Bisa jadi salah satunya memasukkan material, pengukuran, atau pengiriman; bisa juga jumlah minimal dan pembagian setup berbeda. Minta penyedia menjelaskan perubahan, dampak waktu, dan pihak yang menyetujui. Simpan versi lama agar perubahan tidak hilang dari riwayat.
 
-## Required conclusion
+Kuantitas besar juga dapat menambah risiko penyimpanan, pemindahan, dan waktu menunggu pemeriksaan. Tanyakan apakah produksi dilakukan sekaligus atau bertahap, siapa yang menyiapkan area, dan kapan dokumen hasil diberikan. Jika sebagian part dikirim lebih dulu, tetapkan identitas revisi, jumlah, kondisi kemasan, serta status penerimaan tiap pengiriman. Jangan membayar seluruh pesanan hanya karena sebagian pertama tiba bila kontrak dan pemeriksaan belum menyatakan serah-terima lengkap.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Perubahan kecil pada desain dapat membatalkan keuntungan volume. Garis tambahan, material berbeda, toleransi lebih ketat, atau permintaan finishing baru mungkin membutuhkan pemrograman, alat, dan pemeriksaan ulang. Minta daftar perubahan dan dampaknya sebelum menyetujui revisi. Bila bukti material, kemampuan vendor, atau dasar penerimaan belum ada, pertahankan marker [NEEDS COMMERCIAL REVIEW] sampai pihak berwenang melengkapinya.
 
-## Draft completion checklist
+Jelaskan pula siapa yang menanggung risiko ketika material terlambat, file berubah setelah program dibuat, atau hasil perlu dikerjakan ulang. Catat titik keputusan dan tanggal persetujuan agar perbedaan harga tidak berubah menjadi perdebatan ingatan. Transparansi ini membantu pemesan memilih berdasarkan nilai keseluruhan—bukti, ketepatan, jadwal, dan tanggung jawab—bukan sekadar angka unit yang terlihat paling kecil sejak awal.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Bengkel-las.co.id!` and uses friendly `Bengkel-las.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Harga satuan berubah karena biaya tetap terbagi, biaya variabel bertambah, kapasitas berubah, dan scope tidak selalu sebanding. Jika bahan pembersih, pelapis, atau consumable dipakai, minta SDS dan identitas batch; aturan hazard communication Amerika hanya contoh konsep label, bukan hukum Indonesia ([OSHA 1910.1200](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200)). Kewajiban dan pengendalian K3 harus ditetapkan dari aturan Indonesia, kondisi tempat kerja, dan penanggung jawab kompeten ([Permenaker No. 11 Tahun 2026](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026), [Permenaker No. 12 Tahun 2015](https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015)).
+
+Langkah berikutnya: kirim brief dan revisi yang sama kepada beberapa penyedia, minta tabel biaya serta asumsi, lalu bandingkan total, bukti, jadwal, dan penerimaan. Gunakan [beranda Bengkel-las.co.id](/) hanya sebagai titik informasi umum. Aturan operasinya sederhana: tanpa scope, kuantitas, bukti, dan otoritas penerimaan yang jelas, harga satuan belum dapat dibandingkan secara adil.

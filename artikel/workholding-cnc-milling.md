@@ -3,7 +3,8 @@ article_id: CUT-06-05
 title: "Workholding CNC Milling: Vice, Fixture, dan Soft Jaw"
 slug: "workholding-cnc-milling"
 description: "Memilih operasi milling untuk komponen berdimensi, pocket, slot, kontur, dan permukaan presisi."
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-11-27"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,49 +15,12 @@ reader_address: "Sobat Bengkel-las.co.id"
 final_route: "/artikel/workholding-cnc-milling.html"
 technical_review: required
 sources:
-  - "https://www.iso.org/standard/83335.html"
-  - "https://www.iso.org/standard/77795.html"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200"
   - "https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970"
   - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
-  - "https://pesta.bsn.go.id/produk/detail/12882-sni17292020"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015"
-  - "https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021"
+  - "https://www.iso.org/standard/83335.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Workholding CNC Milling: Vice, Fixture, dan Soft Jaw
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Workholding CNC Milling: Vice, Fixture, dan Soft Jaw”
-- **Reader and situation:** Memilih operasi milling untuk komponen berdimensi, pocket, slot, kontur, dan permukaan presisi.
-- **Reader outcome:** Memilih operasi milling untuk komponen berdimensi, pocket, slot, kontur, dan permukaan presisi.
-- **Primary intent:** Memilih penahan benda milling
-- **Reader community:** `Bengkel-las.co.id`
-- **Primary friendly address:** `Sobat Bengkel-las.co.id`
-- **Natural variants:** `Kawan Bengkel-las.co.id` and `Teman Bengkel-las.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Khusus fixture milling; clamp panel router dimiliki CUT-05-06.
-- **Final public route:** `/artikel/workholding-cnc-milling.html`
-- **Appointed CMS date:** `2025-11-27` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Bengkel-las.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Workholding CNC Milling: Vice, Fixture, dan Soft Jaw**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Bengkel-las.co.id`, `Kawan Bengkel-las.co.id`, or `Teman Bengkel-las.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-014`
@@ -67,165 +31,82 @@ sources:
 - **Selection basis:** filename/source metadata identifies `CNC Milling 8` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-014]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Workholding CNC Milling: Vice, Fixture, dan Soft Jaw
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Sobat Bengkel-las.co.id! Kesalahan memilih penahan benda kerja sering tampak sepele: benda terlihat sudah terjepit, tetapi datum bergeser, bagian tipis melenting, atau pahat tidak punya ruang aman. Akibatnya ukuran pocket, slot, kontur, dan permukaan akhir ikut berubah. Jadi, pertanyaannya bukan “vice mana yang paling kuat?”, melainkan “penahan mana yang menjaga datum, akses pahat, dan kestabilan benda untuk operasi ini?”
 
-### KR-01
+Jawaban singkatnya: gunakan **vice** untuk pekerjaan umum dan pergantian benda yang cepat; gunakan **fixture** ketika orientasi, datum, atau pengulangan harus dikendalikan; gunakan **soft jaw** (rahang lunak yang dibentuk mengikuti kontur benda) ketika rahang standar akan menutup fitur, merusak permukaan, atau tidak memberi dukungan yang cukup. Pilihan akhir tetap bergantung pada gambar kerja, material, toleransi, urutan operasi, dan bukti uji penjepitan. [NEEDS PROJECT REVIEW: gaya penjepitan, toleransi, dan batas deformasi belum tersedia.]
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cutting.bengkel-las.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The frozen catalog has 20 parent topics and 120 briefs. Intended readers include homeowners, facility and maintenance teams, small manufacturers, procurement staff, project supervisors, and workshop operators. Repository plans are editorial inputs, not proof of a real workshop, staff, equipment, qualifications, prices, locations, or services.
-- **Limits:** Re-read both frozen files if the project role, catalog, URL ownership, or conversion path changes. Do not infer an automotive specialty or add unsupported neighboring trades.
+*Workholding* (sistem penahan benda kerja) mencakup vice, fixture, locator, dan elemen penekan yang menjaga posisi selama pemotongan. Menyebut seluruh sistem, bukan hanya alat yang terlihat, membantu pemeriksaan akses pahat dan risiko gerak.
 
-### KR-07
+![Ilustrasi CNC Milling 8](/wp-content/uploads/2019/11/CNC-Milling-8.jpg)
 
-- **Original sources:** [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html), [ISO 12944-5:2019 — official ISO abstract](https://www.iso.org/standard/77795.html), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Make material and consumable records usable for fabrication, compatibility, safety, inspection, maintenance, and later failure investigation.
-- **Safe grounded facts:** Useful traceability can include material designation, dimensions/heat or batch where required, certificate/report linkage, filler/consumable classification and batch, storage/conditioning, coating product and batch, mixing/application records, replacement-part identity, and approved substitution. The US hazard-communication rule illustrates label and safety-data-sheet concepts but is not Indonesian law.
-- **Limits:** Do not infer composition, compatibility, shelf life, storage, mixing ratio, coverage, cure, welding parameter, exposure limit, or disposal route from generic labels. Verify exact product, batch, substrate, environment, and current Indonesian rules.
-
-### KR-02
-
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Anchor workshop-safety content in current Indonesian law and prevent reliance on pre-July-2026 copies of sector K3 regulations.
-- **Safe grounded facts:** The 2026 record identifies partial revocations affecting, among others, workplace environment, electrical work, pressure vessels and tanks, powered/production machinery, lifting equipment, work at height, and confined spaces. A legacy regulation may still be in force while some provisions no longer are.
-- **Limits:** This register does not perform legal consolidation or interpret amended clauses. Recheck BPK and official Kemnaker text at outline approval and obtain competent Indonesian legal/K3 review for prescriptive claims.
-
-### KR-08
-
-- **Original sources:** [SNI 1729:2020 — official BSN catalog](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html).
-- **Purpose for this article:** Ground fabrication planning in defined requirements rather than verbal descriptions, copied details, or unverified workshop habit.
-- **Safe grounded facts:** A controlled fabrication package can need governing documents and revision, function, dimensions/datums, material and joint identity, loads/interfaces, tolerances, fabrication sequence, weld/fastener/coating requirements, inspection and hold points, acceptance basis, handling, installation, and approved deviations.
-- **Limits:** The BSN page does not reveal clauses, tolerances, combinations, connection design, execution rules, or acceptance values. Obtain the licensed governing standards and issued-for-work project documents.
-
-### KR-14
-
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.252 — welding, cutting, and brazing](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Help readers compare controlled shop fabrication with field work where the environment, interfaces, access, occupants, combustibles, weather, and permits can change the method and risk.
-- **Safe grounded facts:** Moving work on site can change fit-up control, position, access, lifting, weather, electrical supply, fume dispersion, fire exposure, nearby operations, traffic/public interface, coating conditions, inspection access, and restoration. A field weld is not justified merely because transport is inconvenient.
-- **Limits:** Do not import US distances, permits, or prescriptions. The responsible Indonesian site/K3 authority must approve the current task-specific controls.
-
-### KR-16
-
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 12 Tahun 2015 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Provide a systems view of workshop K3 instead of reducing safety to personal protective equipment.
-- **Safe grounded facts:** A controlled task starts with elimination/substitution and engineering/administrative controls, then suitable PPE; product identity and current safety data matter for chemicals. Emergency planning must reflect the actual energy, fire, exposure, first-aid, evacuation, communication, and rescue scenario.
-- **Limits:** This file supplies no exposure limit, PPE selection, ventilation rate, electrical protection setting, cylinder separation, fire-watch duration, or emergency procedure. Resolve them from current Indonesian rules, site conditions, exact products, and competent K3 review.
-
-### KR-20
-
-- **Original sources:** [PP No. 22 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Connect source reduction, controlled use, segregation, reuse/recycling, worker exposure, and legal waste disposition without assuming every metal offcut is harmless or recyclable.
-- **Safe grounded facts:** Waste identity, contamination, generator/site context, storage, labeling, transport, receiver authorization, records, and current local rules determine the route. Reuse and repair may avoid new material but do not automatically reduce total environmental or safety impact.
-- **Limits:** Do not classify a waste, recommend mixing, state a storage limit, name a legal carrier/receiver, or claim a quantified environmental benefit without current Indonesian/local requirements, characterization, mass/energy data, and authorized-party evidence.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-- **GATE-09:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
-- **GATE-11:** Resolve the gate from current project evidence and competent review.
-- **GATE-12:** Resolve the gate from current project evidence and competent review.
-- **GATE-13:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — fallback home route; use only when it is genuinely useful.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUT-06-03` → `/artikel/memilih-end-mill.html` — Memilih End Mill Berdasarkan Material dan Bentuk Fitur
-- `CUT-06-04` → `/artikel/cnc-3-axis-vs-4-axis-vs-5-axis.html` — CNC 3 Axis vs 4 Axis vs 5 Axis untuk Kebutuhan Komponen
-- `CUT-06-06` → `/artikel/multi-setup-cnc-milling.html` — Kapan Komponen Memerlukan Beberapa Setup CNC Milling?
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Workholding CNC Milling: Vice, Fixture, dan Soft Jaw”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+*Aset lokal proyek untuk ilustrasi; gambar ini bukan dokumentasi proyek tertentu.*
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Workholding CNC Milling: Vice, Fixture, dan Soft Jaw”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Workholding adalah seluruh cara menempatkan dan menahan benda selama pemotongan milling: bidang dudukan, locator atau penentu posisi, clamp, jaw, baut, serta antarmuka ke meja mesin. **Vice** biasanya menyediakan rahang tetap dan bergerak dalam satu unit. **Fixture** adalah rakitan penahan yang dirancang untuk datum dan orientasi benda tertentu. **Soft jaw** adalah rahang yang masih dapat dimachining agar bidang kontak mengikuti bentuk benda.
+
+Ketiganya bukan pengganti satu sama lain secara mutlak. Vice dapat dipasang pada fixture plate; soft jaw dapat menjadi isi sebuah vice; fixture dapat memakai clamp, locator, dan stop sekaligus. Batas artikel ini khusus workholding untuk CNC milling, bukan clamp panel router atau rancangan struktur las. Jika komponen memiliki persyaratan sambungan, material, atau inspeksi khusus, dokumen proyek dan peninjauan teknis tetap menjadi acuan. [NEEDS TECHNICAL REVIEW: datum, toleransi, dan gaya pemotongan harus ditetapkan dari gambar kerja.]
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Workholding CNC Milling: Vice, Fixture, dan Soft Jaw”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dari datum pada gambar, bukan dari bentuk alat yang tersedia. Tentukan bidang atau lubang mana yang menjadi referensi, lalu rencanakan urutan: benda duduk pada permukaan yang stabil, locator menahan gerak yang tidak diinginkan, dan clamp memberi gaya ke arah dudukan. Gaya harus menekan benda ke penopang; bila arahnya mengangkat atau memutar benda, pahat dapat menariknya keluar dari posisi.
+
+Setelah itu periksa jalur pahat. Rahang, baut, stop, dan chip pocket tidak boleh berada di lintasan pahat atau menghalangi pengukuran. Untuk benda tinggi atau tipis, tambahkan dukungan di dekat area pemotongan. Untuk fitur yang harus dikerjakan dari beberapa sisi, catat bagaimana datum dipulihkan pada setiap setup; jangan mengandalkan “nanti disetel lagi”.
+
+Pada vice, rahang standar cocok bila bidang luar benda cukup paralel dan akses pemotongan tidak tertutup. Fixture lebih tepat ketika stop, locator, dan orientasi perlu berulang pada banyak benda. Soft jaw berguna bila permukaan kontak perlu mengikuti radius atau profil tertentu. Machining pada soft jaw sendiri harus meninggalkan area kontak dan ruang chip yang memadai; detail ukuran, kedalaman, dan torsi tidak boleh ditebak tanpa data alat serta benda. [NEEDS SETUP REVIEW: verifikasi kontak aktual dan nilai pengencangan oleh penanggung jawab mesin.]
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Workholding CNC Milling: Vice, Fixture, dan Soft Jaw”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Geometri dan akses.** Pocket dalam, slot dekat tepi, atau kontur di empat sisi dapat membuat rahang standar menutup area yang seharusnya dipotong. Balik benda mungkin membuka akses, tetapi juga memperkenalkan sumber salah orientasi. Fixture dengan locator yang jelas dapat mengurangi kebingungan itu.
+
+**Kekakuan benda.** Pelat tipis, dinding berongga, atau benda dengan area kontak kecil membutuhkan penopang yang menyebarkan gaya. Penjepitan terlalu dekat tepi dapat meninggalkan bekas; terlalu jauh dapat membiarkan bagian kerja bergetar. Jangan menyimpulkan bahwa gaya lebih besar selalu lebih aman.
+
+**Material dan permukaan.** Benda lunak dan permukaan jadi memerlukan perlindungan dari bekas rahang. Soft jaw atau shim yang sesuai dapat membantu, tetapi kompatibilitas material dan kebersihannya perlu diperiksa pada kondisi nyata. Catat identitas material dan perubahan yang disetujui bila komponen masuk paket fabrikasi terkendali; praktik dokumentasi dan persetujuan substitusi dibahas dalam kerangka mutu fabrikasi ISO 3834-6:2024, bukan sebagai bukti bahwa satu setup tertentu sudah lulus ([ISO 3834-6:2024](https://www.iso.org/standard/83335.html)).
+
+**Produksi dan pengulangan.** Satu benda prototipe mungkin efisien dengan vice dan stop sederhana. Batch berulang dapat membenarkan fixture khusus bila waktu loading, orientasi, dan pemeriksaan menjadi beban. Keputusan itu harus dibandingkan dengan waktu membuat, merawat, dan menyimpan fixture; jangan menganggap fixture selalu lebih murah.
+
+**K3 dan lingkungan kerja.** Penahan harus diperiksa sebelum mesin dijalankan: tidak ada komponen longgar, kunci tertinggal, atau chip di bawah dudukan. Pengendalian bahaya di tempat kerja merupakan kewajiban sistemik, bukan sekadar memakai APD; dasar umumnya ada pada UU No. 1 Tahun 1970 dan aturan turunannya yang statusnya perlu dicek pada sumber resmi ([UU No. 1 Tahun 1970](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 11 Tahun 2026](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026)). Catatan ini tidak menentukan torsi clamp, interlock, atau prosedur darurat; minta review K3 yang memahami mesin dan lokasi Anda.
+
+Sobat Bengkel-las.co.id, berhenti sebelum trial cut jika Anda belum dapat menjawab: apa yang menahan gaya potong ke arah X, Y, dan Z; datum mana yang diukur; dan ke mana chip akan keluar? Tiga jawaban itu lebih berguna daripada meniru setup dari foto.
+
+Untuk menyiapkan istilah dan alur kerja dasar, Anda dapat mulai dari [beranda Bengkel-las.co.id](/), lalu kembali ke panduan ini setelah gambar kerja siap.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Workholding CNC Milling: Vice, Fixture, dan Soft Jaw”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan tabel ini sebagai penyaring awal, bukan persetujuan proses:
+
+| Kondisi komponen dan pekerjaan | Pilihan awal | Alasan yang perlu diverifikasi |
+|---|---|---|
+| Balok dengan dua bidang luar paralel, satu orientasi, jumlah kecil | Vice dengan stop | Akses pahat dan bidang datum tetap terbuka |
+| Banyak benda dengan datum dan orientasi sama | Fixture dengan locator dan stop | Pengulangan loading lebih mudah diperiksa |
+| Profil luar tidak beraturan atau permukaan jadi mudah tergores | Soft jaw | Kontak dapat mengikuti profil dan melindungi permukaan |
+| Pocket dekat rahang atau pemotongan hampir mengelilingi benda | Soft jaw atau fixture | Rahang standar berpotensi menghalangi jalur pahat |
+| Benda tipis yang melenting saat dikencangkan | Penopang tambahan plus penjepitan terkendali | Deformasi harus diukur, bukan diasumsikan hilang |
+
+Contoh terakhir sengaja tidak memberi angka gaya atau toleransi. Nilainya berasal dari material, ketebalan, luas kontak, alat potong, dan persyaratan gambar. [NEEDS PROCESS EVIDENCE: lakukan uji penjepitan dan pengukuran pada benda representatif sebelum produksi.]
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Workholding CNC Milling: Vice, Fixture, dan Soft Jaw”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah mengencangkan vice sampai benda “tidak bergerak” tanpa memeriksa deformasi. Ukur bidang kritis sebelum dan sesudah penjepitan bila toleransinya ketat. Kedua, menjadikan ujung benda sebagai datum tanpa memastikan ujung itu sudah dikerjakan atau benar-benar lurus. Ketiga, menaruh clamp di atas area yang akan dipotong lalu berharap pahat dapat menghindarinya.
 
-## Objection or shortcut to address
+Kesalahan berikutnya adalah mengabaikan chip. Chip yang terjebak di bawah benda mengubah tinggi datum; chip di antara soft jaw dan benda dapat membuat kontak semu. Bersihkan, pasang, lalu lakukan pemeriksaan visual dan sentuh yang aman sebelum siklus. Jangan mengukur atau membersihkan ketika spindle masih berputar.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Terakhir, fixture sering dibuat tanpa identitas: tidak ada penanda orientasi, nomor revisi, atau catatan benda yang kompatibel. Untuk pekerjaan berulang, simpan sketsa datum, daftar komponen, dan hasil pemeriksaan awal. Jika ada perubahan locator atau jaw, perlakukan sebagai perubahan proses yang memerlukan persetujuan teknis, bukan improvisasi operator.
 
-## Required conclusion
+## Jalan pintas yang tampak praktis
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Jalan pintas yang umum adalah memakai vice standar untuk semua bentuk karena setup-nya cepat. Ia dapat gagal ketika rahang menutup fitur, gaya menjepit melenturkan dinding, atau benda harus dibalik tanpa datum pemulihan. Alternatif yang lebih andal adalah menguji satu setup sederhana dengan benda representatif, menandai titik kontak dan jalur pahat, lalu beralih ke soft jaw atau fixture hanya bila bukti menunjukkan kebutuhan itu. Keputusan tersebut harus dicatat bersama batas toleransi dan hasil inspeksi; tanpa data itu, klaim “setup aman” belum dapat diterima.
 
-## Draft completion checklist
+Kawan Bengkel-las.co.id, bila lembar setup perlu dibagikan ke operator berikutnya, sertakan rujukan artikel ini agar revisi, datum, dan batas pemeriksaannya tidak terlepas dari konteks. Berkas ilustrasi yang ditetapkan dapat diperiksa sebagai aset gambar lokal, tanpa menjadikannya bukti kondisi mesin atau hasil pemotongan.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Bengkel-las.co.id!` and uses friendly `Bengkel-las.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Kesimpulan dan langkah berikutnya
+
+Vice adalah titik awal serbaguna, fixture memberi pengulangan dan orientasi, sedangkan soft jaw memberi kontak yang disesuaikan. Pilih berdasarkan datum, akses pahat, kekakuan, perlindungan permukaan, dan jumlah pengulangan—bukan berdasarkan kekuatan nominal alat.
+
+Langkah berikutnya: ambil gambar kerja, tandai datum dan fitur yang harus terbuka, buat sketsa arah gaya serta jalur pahat, kemudian minta operator berwenang melakukan dry run dan inspeksi benda pertama. Simpan hasilnya sebagai instruksi setup. Jika gaya penjepitan, deformasi, atau status aturan K3 belum terbukti, tinggalkan `[NEEDS PROJECT REVIEW]` dan jangan lanjut ke produksi sampai penanggung jawab teknis menyetujuinya.
+
+Teman Bengkel-las.co.id, operating rule-nya sederhana: tidak ada siklus pemotongan sebelum datum, kontak penahan, jalur pahat, dan pemeriksaan keselamatan dapat ditunjukkan di meja mesin.

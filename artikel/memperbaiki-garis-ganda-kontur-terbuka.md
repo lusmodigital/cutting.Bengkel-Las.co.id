@@ -3,7 +3,7 @@ article_id: CUT-02-03
 title: "Cara Membersihkan Garis Ganda dan Kontur Terbuka pada File Cutting"
 slug: "memperbaiki-garis-ganda-kontur-terbuka"
 description: "Menyiapkan gambar yang dapat diperiksa dan diproses tanpa revisi berulang."
-status: outline
+status: draft
 publication_date: "2025-08-22"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,56 +13,26 @@ reader_community: "Bengkel-las.co.id"
 reader_address: "Teman Bengkel-las.co.id"
 final_route: "/artikel/memperbaiki-garis-ganda-kontur-terbuka.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
   - "https://www.iso.org/standard/85705.html"
   - "https://www.iso.org/standard/75614.html"
-  - "https://www.iso.org/standard/83335.html"
-  - "https://www.iso.org/standard/77795.html"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200"
-  - "https://pesta.bsn.go.id/produk/detail/12882-sni17292020"
-  - "https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252"
-  - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015"
-  - "https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021"
-  - "https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.212"
-  - "https://www.iso.org/standard/80209.html"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Cara Membersihkan Garis Ganda dan Kontur Terbuka pada File Cutting
 
-## Assignment lock
+Halo, Teman Bengkel-las.co.id! Garis ganda dan kontur terbuka bukan sekadar tampilan yang kurang rapi. Keduanya membuat mesin membaca jalur lebih dari sekali, berhenti sebelum bentuk selesai, atau menolak file saat pemeriksaan awal. Jawaban singkatnya: bersihkan geometri dengan menghapus duplikat, menyatukan simpul yang benar-benar berimpit, lalu menutup kontur hanya jika ujungnya memang dimaksudkan bertemu. Setelah itu, periksa ulang jalur pada mode tampilan garis dan lakukan uji pembacaan di perangkat lunak pengirim sebelum file diteruskan.
 
-- **Writer task:** Expand this file into one complete article answering: “Cara Membersihkan Garis Ganda dan Kontur Terbuka pada File Cutting”
-- **Reader and situation:** Menyiapkan gambar yang dapat diperiksa dan diproses tanpa revisi berulang.
-- **Reader outcome:** Menyiapkan gambar yang dapat diperiksa dan diproses tanpa revisi berulang.
-- **Primary intent:** Memperbaiki geometri yang gagal diproses
-- **Reader community:** `Bengkel-las.co.id`
-- **Primary friendly address:** `Teman Bengkel-las.co.id`
-- **Natural variants:** `Sobat Bengkel-las.co.id` and `Kawan Bengkel-las.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Khusus integritas jalur vektor; ukuran dan toleransi berada di CUT-08.
-- **Final public route:** `/artikel/memperbaiki-garis-ganda-kontur-terbuka.html`
-- **Appointed CMS date:** `2025-08-22` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jangan mengandalkan perubahan warna, ketebalan garis, atau hasil tampilan layar sebagai bukti file sudah benar. Status “bersih” harus terlihat dari struktur jalur: satu garis untuk satu sisi, setiap bentuk tertutup memiliki titik awal-akhir yang sama, dan tidak ada objek tersembunyi yang masih ikut diproses. Pemeriksaan visual juga bukan keputusan penerimaan pekerjaan; metode, cakupan, personel, alat, dan dasar penerimaan merupakan bukti yang terpisah, sebagaimana dijelaskan dalam [ringkasan ISO 17635:2025](https://www.iso.org/standard/85705.html) dan [ringkasan ISO 9712:2021](https://www.iso.org/standard/75614.html).
 
-## Opening instructions
+Istilah *self-intersection* (jalur yang memotong dirinya sendiri) berarti geometri belum tentu dapat dibaca sebagai kontur yang sah. Tandai peringatan ini untuk diperiksa, bukan langsung ditutup dengan perintah otomatis.
 
-- Open with the exact short salutation: **“Halo, Teman Bengkel-las.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Cara Membersihkan Garis Ganda dan Kontur Terbuka pada File Cutting**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Bengkel-las.co.id`, `Sobat Bengkel-las.co.id`, or `Kawan Bengkel-las.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+![Ilustrasi memilih jasa bengkel las](/wp-content/uploads/2020/02/memilih-jasa-bengkel-las.jpg)
+
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
 
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-004`
@@ -73,187 +43,88 @@ sources:
 - **Selection basis:** filename/source metadata identifies `memilih jasa bengkel las` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-004]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cutting.bengkel-las.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The frozen catalog has 20 parent topics and 120 briefs. Intended readers include homeowners, facility and maintenance teams, small manufacturers, procurement staff, project supervisors, and workshop operators. Repository plans are editorial inputs, not proof of a real workshop, staff, equipment, qualifications, prices, locations, or services.
-- **Limits:** Re-read both frozen files if the project role, catalog, URL ownership, or conversion path changes. Do not infer an automotive specialty or add unsupported neighboring trades.
-
-### KR-04
-
-- **Original sources:** [ISO 17635:2025 — official ISO abstract](https://www.iso.org/standard/85705.html), [ISO 9712:2021 — official ISO abstract](https://www.iso.org/standard/75614.html).
-- **Purpose for this article:** Prevent visual symptoms or an isolated measurement from being presented as a complete diagnosis or acceptance decision.
-- **Safe grounded facts:** Inspection method, coverage, technique, personnel, equipment, surface condition, calibration/verification status, reporting, and acceptance basis are separate evidence items. ISO 17635 also warns that NDT acceptance levels are not a direct one-to-one translation of ISO 5817 quality levels.
-- **Limits:** The abstracts do not supply technique parameters, acceptance values, required extent, calibration intervals, or project fitness. Obtain the governing code, full standards, written procedure, and asset-specific inspection plan.
-
-### KR-07
-
-- **Original sources:** [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html), [ISO 12944-5:2019 — official ISO abstract](https://www.iso.org/standard/77795.html), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Make material and consumable records usable for fabrication, compatibility, safety, inspection, maintenance, and later failure investigation.
-- **Safe grounded facts:** Useful traceability can include material designation, dimensions/heat or batch where required, certificate/report linkage, filler/consumable classification and batch, storage/conditioning, coating product and batch, mixing/application records, replacement-part identity, and approved substitution. The US hazard-communication rule illustrates label and safety-data-sheet concepts but is not Indonesian law.
-- **Limits:** Do not infer composition, compatibility, shelf life, storage, mixing ratio, coverage, cure, welding parameter, exposure limit, or disposal route from generic labels. Verify exact product, batch, substrate, environment, and current Indonesian rules.
-
-### KR-08
-
-- **Original sources:** [SNI 1729:2020 — official BSN catalog](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html).
-- **Purpose for this article:** Ground fabrication planning in defined requirements rather than verbal descriptions, copied details, or unverified workshop habit.
-- **Safe grounded facts:** A controlled fabrication package can need governing documents and revision, function, dimensions/datums, material and joint identity, loads/interfaces, tolerances, fabrication sequence, weld/fastener/coating requirements, inspection and hold points, acceptance basis, handling, installation, and approved deviations.
-- **Limits:** The BSN page does not reveal clauses, tolerances, combinations, connection design, execution rules, or acceptance values. Obtain the licensed governing standards and issued-for-work project documents.
-
-### KR-14
-
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.252 — welding, cutting, and brazing](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Help readers compare controlled shop fabrication with field work where the environment, interfaces, access, occupants, combustibles, weather, and permits can change the method and risk.
-- **Safe grounded facts:** Moving work on site can change fit-up control, position, access, lifting, weather, electrical supply, fume dispersion, fire exposure, nearby operations, traffic/public interface, coating conditions, inspection access, and restoration. A field weld is not justified merely because transport is inconvenient.
-- **Limits:** Do not import US distances, permits, or prescriptions. The responsible Indonesian site/K3 authority must approve the current task-specific controls.
-
-### KR-16
-
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 12 Tahun 2015 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Provide a systems view of workshop K3 instead of reducing safety to personal protective equipment.
-- **Safe grounded facts:** A controlled task starts with elimination/substitution and engineering/administrative controls, then suitable PPE; product identity and current safety data matter for chemicals. Emergency planning must reflect the actual energy, fire, exposure, first-aid, evacuation, communication, and rescue scenario.
-- **Limits:** This file supplies no exposure limit, PPE selection, ventilation rate, electrical protection setting, cylinder separation, fire-watch duration, or emergency procedure. Resolve them from current Indonesian rules, site conditions, exact products, and competent K3 review.
-
-### KR-20
-
-- **Original sources:** [PP No. 22 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Connect source reduction, controlled use, segregation, reuse/recycling, worker exposure, and legal waste disposition without assuming every metal offcut is harmless or recyclable.
-- **Safe grounded facts:** Waste identity, contamination, generator/site context, storage, labeling, transport, receiver authorization, records, and current local rules determine the route. Reuse and repair may avoid new material but do not automatically reduce total environmental or safety impact.
-- **Limits:** Do not classify a waste, recommend mixing, state a storage limit, name a legal carrier/receiver, or claim a quantified environmental benefit without current Indonesian/local requirements, characterization, mass/energy data, and authorized-party evidence.
-
-### KR-10
-
-- **Original sources:** [Permenaker No. 38 Tahun 2016 — BPK](https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026), [OSHA 29 CFR 1910.147 — control of hazardous energy](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147), [OSHA 29 CFR 1910.212 — general machine guarding](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.212).
-- **Purpose for this article:** Ensure a component-repair article considers the complete machine, energy sources, operating envelope, safeguarding, commissioning, and records.
-- **Safe grounded facts:** A repaired shaft, frame, coupling, guard, base, or attachment can alter alignment, balance, clearance, strength, vibration, containment, access, interlocks, or operating hazards. Safe servicing and safe production are related but distinct states.
-- **Limits:** Do not publish an isolation sequence, guard dimension, balance tolerance, restart authorization, or fitness claim generically. Verify current Indonesian provisions and exact OEM/site requirements.
-
-### KR-17
-
-- **Original sources:** [Permenaker No. 38 Tahun 2016 — BPK](https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016), [OSHA 29 CFR 1910.147 — control of hazardous energy](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Make maintenance content evidence-based without inventing universal schedules or promising uptime.
-- **Safe grounded facts:** Calendar-based, runtime-based, condition-based, corrective, and statutory work answer different needs. Work order history, failure coding, inspection readings, parts identity, deferred defects, tests, and release authority support trend review and planning.
-- **Limits:** Do not provide a universal interval, alarm threshold, remaining-life estimate, spares quantity, uptime saving, or restart decision. Obtain current OEM manuals, asset history, operating context, statutory requirements, and responsible-person approval.
-
-### KR-15
-
-- **Original sources:** [ISO 5817:2023 — official ISO abstract](https://www.iso.org/standard/80209.html), [ISO 17635:2025 — official ISO abstract](https://www.iso.org/standard/85705.html), [ISO 9712:2021 — official ISO abstract](https://www.iso.org/standard/75614.html).
-- **Purpose for this article:** Keep QA articles from confusing workmanship levels, NDT technique, indication evaluation, personnel certification, equipment status, and engineering acceptance.
-- **Safe grounded facts:** A quality plan needs the governing acceptance basis, joint and examination identification, method/technique and extent, written procedure where required, personnel scope, equipment identity and current calibration/verification, surface/test conditions, report traceability, result, nonconformance, disposition authority, repair cycle, and closeout.
-- **Limits:** Do not publish imperfection limits, acceptance tables, technique settings, calibration intervals, or certification equivalence from abstracts. Obtain full current standards and project procedures.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-- **GATE-09:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
-- **GATE-11:** Resolve the gate from current project evidence and competent review.
-- **GATE-12:** Resolve the gate from current project evidence and competent review.
-- **GATE-13:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — fallback home route; use only when it is genuinely useful.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUT-02-01` → `/artikel/checklist-file-desain-untuk-cutting.html` — Checklist File Desain Sebelum Dikirim ke Jasa Cutting
-- `CUT-02-02` → `/artikel/format-file-laser-cutting-cnc-router-cnc-milling.html` — Format File untuk Laser Cutting, CNC Router, dan CNC Milling
-- `CUT-02-04` → `/artikel/mengatur-layer-file-cnc.html` — Mengatur Layer untuk Potong, Ukir, Pocket, dan Marking
-- `CUT-02-05` → `/artikel/ukuran-skala-satuan-gambar-cutting.html` — Cara Memberi Ukuran, Skala, dan Satuan pada Gambar Cutting
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+END MANAGED IMAGE PLAN -->
 
 ## Hasil akhir dan prasyarat
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membersihkan Garis Ganda dan Kontur Terbuka pada File Cutting”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hasil yang dicari adalah file vektor yang dapat ditelusuri dan diperiksa: tiap kontur memiliki fungsi jelas, tidak ada jalur rangkap, dan kontur yang seharusnya menjadi bidang benar-benar tertutup. Pekerjaan ini cocok untuk operator desain atau drafter yang memegang file sumber dan tahu bentuk mana yang harus dipotong, diukir, atau hanya menjadi garis bantu. Ia tidak menggantikan persetujuan pemilik desain, pemeriksaan programmer mesin, atau review teknis proyek.
 
-## Langkah 1 — tetapkan scope
+Siapkan file asli, salinan kerja dengan nama versi baru, dan perangkat lunak yang dapat menampilkan node atau titik simpul. Pastikan satuan, skala, dan toleransi tidak diubah di sini; hal itu berada di luar ruang lingkup artikel ini. Jika tujuan suatu garis tidak jelas—misalnya apakah ia garis bantu atau bagian produk—hentikan penghapusan dan minta konfirmasi tertulis.
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membersihkan Garis Ganda dan Kontur Terbuka pada File Cutting”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Langkah 1 — tetapkan batas pekerjaan
+
+Mulailah dengan mendefinisikan objek yang akan dibersihkan. Pilih hanya layer atau kelompok yang memang dikirim untuk cutting. Kunci atau sembunyikan teks, gambar raster, garis konstruksi, dan catatan yang tidak boleh menjadi jalur mesin. Catat juga antarmuka penting: lubang, slot, takikan, dan kontur luar harus tetap dapat dikenali setelah pembersihan.
+
+Buat daftar singkat sebelum menyentuh node:
+
+- format dan versi file sumber;
+- layer yang berisi jalur produksi;
+- objek yang sengaja terbuka, bila ada;
+- bentuk yang harus menjadi kontur tertutup;
+- nama pemeriksa yang berwenang menyetujui perubahan.
+
+Dengan batas ini, Anda tidak “merapikan semua yang terlihat”. Anda memperbaiki integritas jalur yang akan dibaca mesin. Teman Bengkel-las.co.id, keputusan menghapus satu garis harus selalu dapat dijelaskan: duplikat, garis bantu, atau memang fitur desain yang disetujui.
+
+Jika Anda perlu mengembalikan konteks pekerjaan, simpan salinan sumber dan catatan versi di [beranda Bengkel-las.co.id](/). Sebelum mengirim file, cocokkan juga dengan checklist file desain sebelum dikirim bila halaman tersebut telah tersedia di situs.
 
 ## Langkah 2 — kumpulkan dan cocokkan bukti
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membersihkan Garis Ganda dan Kontur Terbuka pada File Cutting”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Periksa file pada dua tingkat. Pertama, gunakan tampilan garis (wireframe atau outline) agar jalur yang bertumpuk terlihat meskipun warna dan isi objek sama. Kedua, buka informasi objek atau node untuk memastikan jumlah jalur, arah, dan status tertutupnya. Tandai lokasi yang meragukan, lalu cocokkan dengan gambar acuan atau revisi yang disetujui.
+
+Garis ganda biasanya muncul setelah menyalin objek, melakukan offset, mengimpor PDF, atau menggabungkan beberapa layer. Kontur terbuka sering berasal dari ujung yang hampir bertemu tetapi masih menyisakan celah, simpul yang tidak tersambung, atau segmen yang terpotong saat pemangkasan. “Hampir bertemu” bukan sama dengan bertemu; jangan menutupnya dengan toleransi otomatis sebelum tahu maksud desain.
+
+Simpan bukti perubahan: versi sebelum dan sesudah, daftar objek yang dihapus atau digabung, serta tangkapan atau laporan pemeriksaan dari perangkat lunak. Bila file akan dipakai untuk pekerjaan yang memerlukan inspeksi lebih luas, bedakan catatan pembersihan geometri dari keputusan penerimaan hasil akhir. Satu pemeriksaan visual tidak membuktikan seluruh metode dan cakupan pemeriksaan telah terpenuhi ([ISO 17635:2025](https://www.iso.org/standard/85705.html)).
 
 ## Langkah 3 — jalankan urutan kerja
 
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membersihkan Garis Ganda dan Kontur Terbuka pada File Cutting”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kerjakan dari yang paling aman dan mudah dibalik.
 
-## Hold point dan kondisi berhenti
+1. **Duplikasi file kerja.** Jangan mengedit satu-satunya file sumber. Beri nama versi dan catat tanggal kerja.
+2. **Tampilkan semua jalur produksi.** Matikan pengisian dan efek tampilan. Periksa objek tersembunyi atau terkunci yang masih mungkin diekspor.
+3. **Cari duplikat yang berimpit.** Pilih pasangan yang memiliki bentuk, posisi, dan panjang sama. Hapus satu hanya setelah memastikan keduanya bukan dua operasi yang sengaja dibedakan. Jika perangkat lunak memiliki fungsi “find duplicates”, tinjau hasilnya satu per satu.
+4. **Gabungkan simpul seperlunya.** Pada ujung yang memang bertemu, gunakan perintah join atau merge. Hindari menggabungkan simpul lintas fitur karena dapat mengubah sudut, lubang, atau kontur tetangga.
+5. **Tutup kontur yang dimaksudkan tertutup.** Sambungkan ujung yang sama secara logis, bukan ujung terdekat secara otomatis. Jika celah besar atau bentuknya berubah setelah penutupan, kembalikan dan minta konfirmasi desain.
+6. **Rapikan arah dan segmen.** Hapus segmen nol panjang, node berlebih, dan lintasan yang berbalik tanpa fungsi. Jangan mengubah ukuran atau radius hanya demi menghilangkan tanda peringatan.
+7. **Periksa kembali dalam tampilan garis.** Pastikan satu sisi tidak memiliki dua lintasan, dan setiap kontur tertutup menampilkan sambungan yang konsisten.
+8. **Ekspor salinan pemeriksaan.** Gunakan format dan pengaturan yang telah disepakati oleh programmer mesin. Buka kembali hasil ekspor; jangan menganggap file ekspor identik dengan file kerja.
 
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membersihkan Garis Ganda dan Kontur Terbuka pada File Cutting”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Urutan perintah berbeda antarperangkat lunak. Karena itu, nama tombol atau nilai toleransi tidak saya tetapkan secara universal. Ikuti manual versi yang digunakan dan prosedur internal yang telah disetujui.
 
-## Verifikasi hasil dan handover
+## Titik henti dan kondisi berhenti
 
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membersihkan Garis Ganda dan Kontur Terbuka pada File Cutting”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Berhenti sebelum menyimpan final jika salah satu kondisi berikut muncul:
 
-## Objection or shortcut to address
+- Anda tidak dapat menentukan apakah garis merupakan duplikat atau fitur desain.
+- Menutup kontur mengubah bentuk, luas bukaan, atau hubungan antarobjek.
+- Ada jalur yang sengaja terbuka untuk penandaan, jalur tengah, atau operasi lain, tetapi layer dan instruksinya tidak jelas.
+- Perangkat lunak memberi peringatan self-intersection, objek rusak, atau perubahan geometri saat ekspor.
+- File harus memenuhi persyaratan proyek, standar, atau inspeksi yang belum diberikan kepada operator.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Pada titik ini, beri penanda `[NEEDS DESIGN OWNER REVIEW: tujuan jalur dan kontur yang ambigu]`. Jangan mengisi celah dengan asumsi. Kawan Bengkel-las.co.id, lebih baik mengembalikan satu pertanyaan yang spesifik daripada mengirim file yang tampak rapi tetapi memotong fitur yang salah.
 
-## Required conclusion
+## Verifikasi hasil dan serah-terima
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Sebelum serah-terima, gunakan checklist berikut pada file hasil ekspor, bukan hanya file kerja:
 
-## Draft completion checklist
+| Pemeriksaan | Bukti yang disimpan |
+| --- | --- |
+| Tidak ada garis berimpit tanpa alasan | daftar duplikat yang dihapus atau dibiarkan |
+| Kontur yang wajib tertutup benar-benar tertutup | laporan pemeriksaan atau tampilan node |
+| Jalur bantu tidak ikut diekspor | daftar layer dan pratinjau ekspor |
+| Tidak ada segmen nol panjang atau self-intersection | hasil alat pemeriksa geometri |
+| Perubahan dapat dilacak | nama versi, tanggal, dan pemeriksa |
+| Bentuk tetap sesuai acuan | file referensi dan persetujuan pemilik desain |
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Bengkel-las.co.id!` and uses friendly `Bengkel-las.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Serahkan file sumber yang telah dibersihkan, file ekspor, dan catatan perubahan. Minta programmer mesin mengonfirmasi bahwa format, urutan operasi, dan interpretasi jalur sesuai prosesnya. Konfirmasi itu bukan bukti bahwa hasil fisik pasti memenuhi fungsi; penerimaan akhir tetap mengikuti prosedur dan kompetensi yang berlaku, bukan sekadar tampilan file ([ISO 9712:2021](https://www.iso.org/standard/75614.html)).
+
+## Jalan pintas yang sering gagal
+
+Jalan pintas yang populer adalah memilih seluruh gambar lalu menjalankan “join”, “weld”, atau “close path” secara massal. Cara ini memang dapat menghilangkan sebagian peringatan, tetapi juga bisa menyatukan dua fitur yang seharusnya terpisah, menutup celah yang sengaja dibuat, atau mengubah arah operasi. Hasilnya tampak bersih di layar namun berbeda dari maksud desain.
+
+Alternatif yang lebih dapat dipertanggungjawabkan adalah pemeriksaan bertahap: deduplikasi, penyambungan titik yang sudah dikonfirmasi, penutupan kontur yang memiliki dasar desain, lalu pemeriksaan ekspor. Simpan versi antara sehingga setiap keputusan dapat dibatalkan dan ditinjau.
+
+## Kesimpulan
+
+Membersihkan garis ganda dan kontur terbuka berarti memastikan struktur jalur sesuai maksud desain: hapus duplikat yang terbukti, sambungkan ujung yang memang bertemu, dan biarkan jalur yang sengaja terbuka tetap terbuka dengan penandaan yang jelas. Setelah pemeriksaan wireframe, node, dan file ekspor, serahkan paket perubahan kepada pemilik desain serta programmer mesin.
+
+Langkah berikutnya: minta konfirmasi tertulis untuk setiap jalur ambigu dan lampirkan daftar perubahan pada versi file yang akan diproses. Jika keputusan menyentuh ukuran, toleransi, kelayakan produk, atau keselamatan operasi, hentikan pekerjaan geometri dan minta review teknis yang berwenang.

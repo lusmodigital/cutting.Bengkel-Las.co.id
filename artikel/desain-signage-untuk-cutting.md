@@ -2,8 +2,8 @@
 article_id: CUT-15-01
 title: "Merancang Signage untuk Laser Cutting dan CNC Router"
 slug: "desain-signage-untuk-cutting"
-description: "Menerjemahkan kebutuhan signage, interior, panel, furnitur, enclosure, dan komponen menjadi brief cutting."
-status: outline
+description: "Menerjemahkan kebutuhan signage, interior, panel, furnitur, enclosure, dan komponen menjadi rencana cutting."
+status: draft
 publication_date: "2026-06-10"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,6 +13,7 @@ reader_community: "Bengkel-las.co.id"
 reader_address: "Teman Bengkel-las.co.id"
 final_route: "/artikel/desain-signage-untuk-cutting.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
   - "https://pesta.bsn.go.id/produk/detail/12882-sni17292020"
   - "https://www.iso.org/standard/83335.html"
@@ -29,37 +30,7 @@ sources:
   - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.212"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Merancang Signage untuk Laser Cutting dan CNC Router
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Merancang Signage untuk Laser Cutting dan CNC Router”
-- **Reader and situation:** Menerjemahkan kebutuhan signage, interior, panel, furnitur, enclosure, dan komponen menjadi brief cutting.
-- **Reader outcome:** Menerjemahkan kebutuhan signage, interior, panel, furnitur, enclosure, dan komponen menjadi brief cutting.
-- **Primary intent:** Menyiapkan brief signage yang dapat diproduksi
-- **Reader community:** `Bengkel-las.co.id`
-- **Primary friendly address:** `Teman Bengkel-las.co.id`
-- **Natural variants:** `Sobat Bengkel-las.co.id` and `Kawan Bengkel-las.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Khusus aplikasi signage; pengolahan font dimiliki CUT-02-06.
-- **Final public route:** `/artikel/desain-signage-untuk-cutting.html`
-- **Appointed CMS date:** `2026-06-10` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Bengkel-las.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Merancang Signage untuk Laser Cutting dan CNC Router**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Bengkel-las.co.id`, `Sobat Bengkel-las.co.id`, or `Kawan Bengkel-las.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-020`
@@ -70,171 +41,63 @@ sources:
 - **Selection basis:** filename/source metadata identifies `CNC Cutting laser 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-020]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Merancang Signage untuk Laser Cutting dan CNC Router
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Teman Bengkel-las.co.id! Signage yang mudah diproduksi dimulai dari brief yang menjelaskan pesan, ukuran, bahan, cara pasang, dan kondisi lokasi. File gambar saja belum cukup. Laser cutting cocok untuk kontur lembaran dan detail dua dimensi; CNC router dapat membuat alur, kedalaman, atau dudukan. Metode baru boleh dipilih setelah fungsi dan bukti materialnya jelas.
 
-### KR-01
+Jawaban singkatnya: tulis kebutuhan pemakai, batas area, ukuran akhir, material dan ketebalan, jenis tepi, lubang atau slot, sistem pemasangan, revisi file, serta kriteria pemeriksaan. Lampirkan foto atau ukuran lokasi yang benar-benar terverifikasi, bukan asumsi. Bila signage berada di ruang publik, dekat sumber panas, atau harus menahan beban, minta tinjauan teknis dan K3 sebelum membuat janji hasil.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cutting.bengkel-las.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The frozen catalog has 20 parent topics and 120 briefs. Intended readers include homeowners, facility and maintenance teams, small manufacturers, procurement staff, project supervisors, and workshop operators. Repository plans are editorial inputs, not proof of a real workshop, staff, equipment, qualifications, prices, locations, or services.
-- **Limits:** Re-read both frozen files if the project role, catalog, URL ownership, or conversion path changes. Do not infer an automotive specialty or add unsupported neighboring trades.
+![Ilustrasi CNC Cutting laser 1](/wp-content/uploads/2019/11/CNC-Cutting-laser-1.jpg)
 
-### KR-08
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
 
-- **Original sources:** [SNI 1729:2020 — official BSN catalog](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html).
-- **Purpose for this article:** Ground fabrication planning in defined requirements rather than verbal descriptions, copied details, or unverified workshop habit.
-- **Safe grounded facts:** A controlled fabrication package can need governing documents and revision, function, dimensions/datums, material and joint identity, loads/interfaces, tolerances, fabrication sequence, weld/fastener/coating requirements, inspection and hold points, acceptance basis, handling, installation, and approved deviations.
-- **Limits:** The BSN page does not reveal clauses, tolerances, combinations, connection design, execution rules, or acceptance values. Obtain the licensed governing standards and issued-for-work project documents.
-
-### KR-14
-
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.252 — welding, cutting, and brazing](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Help readers compare controlled shop fabrication with field work where the environment, interfaces, access, occupants, combustibles, weather, and permits can change the method and risk.
-- **Safe grounded facts:** Moving work on site can change fit-up control, position, access, lifting, weather, electrical supply, fume dispersion, fire exposure, nearby operations, traffic/public interface, coating conditions, inspection access, and restoration. A field weld is not justified merely because transport is inconvenient.
-- **Limits:** Do not import US distances, permits, or prescriptions. The responsible Indonesian site/K3 authority must approve the current task-specific controls.
-
-### KR-07
-
-- **Original sources:** [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html), [ISO 12944-5:2019 — official ISO abstract](https://www.iso.org/standard/77795.html), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Make material and consumable records usable for fabrication, compatibility, safety, inspection, maintenance, and later failure investigation.
-- **Safe grounded facts:** Useful traceability can include material designation, dimensions/heat or batch where required, certificate/report linkage, filler/consumable classification and batch, storage/conditioning, coating product and batch, mixing/application records, replacement-part identity, and approved substitution. The US hazard-communication rule illustrates label and safety-data-sheet concepts but is not Indonesian law.
-- **Limits:** Do not infer composition, compatibility, shelf life, storage, mixing ratio, coverage, cure, welding parameter, exposure limit, or disposal route from generic labels. Verify exact product, batch, substrate, environment, and current Indonesian rules.
-
-### KR-16
-
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 12 Tahun 2015 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Provide a systems view of workshop K3 instead of reducing safety to personal protective equipment.
-- **Safe grounded facts:** A controlled task starts with elimination/substitution and engineering/administrative controls, then suitable PPE; product identity and current safety data matter for chemicals. Emergency planning must reflect the actual energy, fire, exposure, first-aid, evacuation, communication, and rescue scenario.
-- **Limits:** This file supplies no exposure limit, PPE selection, ventilation rate, electrical protection setting, cylinder separation, fire-watch duration, or emergency procedure. Resolve them from current Indonesian rules, site conditions, exact products, and competent K3 review.
-
-### KR-20
-
-- **Original sources:** [PP No. 22 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Connect source reduction, controlled use, segregation, reuse/recycling, worker exposure, and legal waste disposition without assuming every metal offcut is harmless or recyclable.
-- **Safe grounded facts:** Waste identity, contamination, generator/site context, storage, labeling, transport, receiver authorization, records, and current local rules determine the route. Reuse and repair may avoid new material but do not automatically reduce total environmental or safety impact.
-- **Limits:** Do not classify a waste, recommend mixing, state a storage limit, name a legal carrier/receiver, or claim a quantified environmental benefit without current Indonesian/local requirements, characterization, mass/energy data, and authorized-party evidence.
-
-### KR-10
-
-- **Original sources:** [Permenaker No. 38 Tahun 2016 — BPK](https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026), [OSHA 29 CFR 1910.147 — control of hazardous energy](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147), [OSHA 29 CFR 1910.212 — general machine guarding](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.212).
-- **Purpose for this article:** Ensure a component-repair article considers the complete machine, energy sources, operating envelope, safeguarding, commissioning, and records.
-- **Safe grounded facts:** A repaired shaft, frame, coupling, guard, base, or attachment can alter alignment, balance, clearance, strength, vibration, containment, access, interlocks, or operating hazards. Safe servicing and safe production are related but distinct states.
-- **Limits:** Do not publish an isolation sequence, guard dimension, balance tolerance, restart authorization, or fitness claim generically. Verify current Indonesian provisions and exact OEM/site requirements.
-
-### KR-17
-
-- **Original sources:** [Permenaker No. 38 Tahun 2016 — BPK](https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016), [OSHA 29 CFR 1910.147 — control of hazardous energy](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Make maintenance content evidence-based without inventing universal schedules or promising uptime.
-- **Safe grounded facts:** Calendar-based, runtime-based, condition-based, corrective, and statutory work answer different needs. Work order history, failure coding, inspection readings, parts identity, deferred defects, tests, and release authority support trend review and planning.
-- **Limits:** Do not provide a universal interval, alarm threshold, remaining-life estimate, spares quantity, uptime saving, or restart decision. Obtain current OEM manuals, asset history, operating context, statutory requirements, and responsible-person approval.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-- **GATE-09:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
-- **GATE-11:** Resolve the gate from current project evidence and competent review.
-- **GATE-12:** Resolve the gate from current project evidence and competent review.
-- **GATE-13:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — fallback home route; use only when it is genuinely useful.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUT-15-02` → `/artikel/cnc-router-panel-dinding-sekat.html` — CNC Router untuk Panel Dinding dan Sekat Ruangan
-- `CUT-15-03` → `/artikel/desain-flat-pack-slot-dan-tab.html` — Desain Flat-Pack dengan Slot dan Tab untuk Hasil Cutting
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
 
 ## Hasil akhir dan prasyarat
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Merancang Signage untuk Laser Cutting dan CNC Router”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hasil akhir bukan sekadar panel terpotong, melainkan elemen yang terbaca, pas di lokasi, aman ditangani, dan dapat dirawat. Tetapkan apakah signage hanya dekoratif atau juga menjadi penunjuk arah, identitas area, penutup, atau bagian interior. Tulis siapa yang menyetujui isi, ukuran, warna, dan pemasangan. Jangan menganggap gambar dari pelanggan sebagai gambar kerja tanpa pemeriksaan skala.
 
-## Langkah 1 — tetapkan scope
+Kumpulkan nama material, ketebalan, finishing, warna, batch bila relevan, serta cara sambung. Dokumen fabrikasi terkendali dapat membutuhkan revisi, datum (acuan geometri), toleransi, urutan, titik inspeksi, dan persetujuan penyimpangan. [SNI 1729:2020](https://pesta.bsn.go.id/produk/detail/12882-sni17292020) dan [ISO 3834-6:2024](https://www.iso.org/standard/83335.html) hanya menjadi rujukan identitas serta kerangka pada ruang lingkupnya; keduanya bukan bukti bahwa desain signage tertentu telah disetujui.
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Merancang Signage untuk Laser Cutting dan CNC Router”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Langkah 1 — tetapkan ruang lingkup
+
+Tuliskan apa yang termasuk: panel muka, huruf, lubang baut, rangka, spacer, kaki, pola, dan pekerjaan finishing. Tuliskan pula yang tidak termasuk, misalnya desain font, perhitungan struktur bangunan, instalasi listrik, atau izin lokasi. Batas ini mencegah permintaan tambahan muncul setelah file masuk mesin.
+
+Sertakan ukuran area pandang dan jarak baca yang telah disepakati, tanpa mengarang nilai jika lokasi belum diukur. Jelaskan apakah panel dipasang permanen atau dapat dilepas untuk perawatan. Tandai permukaan yang harus menghadap luar, sisi yang akan dicat, dan bagian yang tidak boleh tergores. Untuk signage luar ruang, catat paparan hujan, matahari, angin, serta akses pembersihan sebagai pertanyaan yang harus dijawab pemilik lokasi. Data ini membantu memilih bahan dan metode, tetapi bukan pengganti perhitungan struktur atau izin bangunan.
+
+Tentukan ukuran maksimum dan akses mesin. Radius sudut, lebar jembatan huruf, jarak lubang, serta arah serat atau pola material harus tertulis. Untuk lembar tipis, jelaskan apakah pelindung dilepas sebelum atau sesudah cutting. Untuk router, sebutkan kedalaman alur secara konseptual dan sisakan ruang untuk penjepitan; jangan mengarang angka toleransi tanpa data mesin.
 
 ## Langkah 2 — kumpulkan dan cocokkan bukti
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Merancang Signage untuk Laser Cutting dan CNC Router”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Minta file vektor ber-revisi, daftar material, datasheet (lembar data teknis), SDS (lembar data keselamatan) bila ada pelapis atau perekat, serta ukuran lokasi. Cocokkan nama file, satuan, skala, dan orientasi. Catat kondisi yang belum terukur sebagai `[NEEDS PROJECT REVIEW: ...]`, bukan diisi dari perkiraan.
+
+SDS membantu komunikasi bahaya, tetapi [OSHA 1910.1200](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200) adalah contoh aturan Amerika, bukan hukum Indonesia. Pengendalian pekerjaan panas dan area juga tidak boleh disalin dari [OSHA 1910.252](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252). Terapkan [UU No. 1 Tahun 1970](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 5 Tahun 2018](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [Permenaker No. 11 Tahun 2026](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026), dan [Permenaker No. 12 Tahun 2015](https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015) bersama penilaian K3 setempat.
 
 ## Langkah 3 — jalankan urutan kerja
 
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Merancang Signage untuk Laser Cutting dan CNC Router”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Urutan aman dimulai dari pemeriksaan file, konfirmasi bahan, dan kupon kecil yang memuat fitur kritis. Setelah kupon disetujui, bekukan revisi, siapkan lembar, dan pastikan area serta penghisap bekerja. Operator menjalankan proses sesuai prosedur mesin, memeriksa hasil awal, lalu memberi status pada part. Perubahan parameter atau bahan memerlukan kupon ulang.
 
-## Hold point dan kondisi berhenti
+Laser memberi kontur dengan zona panas; router memberi gaya potong dan jejak alat. Pilih laser untuk detail datar bila bahan cocok, dan router bila dibutuhkan alur atau kedalaman. Jangan menutup celah dengan menambah lem atau cat sebelum ukuran dasar diperiksa. Setiap tahapan perlu nomor revisi agar part dan file tetap berpasangan.
 
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Merancang Signage untuk Laser Cutting dan CNC Router”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Titik tahan dan kondisi berhenti
 
-## Verifikasi hasil dan handover
+Hentikan pekerjaan bila material tidak cocok, lapisan tidak diketahui, file berbeda dari gambar yang disetujui, api atau asap tidak terkendali, penjepitan bergerak, atau ukuran kupon gagal. Jangan mengubah desain di meja mesin tanpa persetujuan. [Permenaker No. 38 Tahun 2016](https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016) menjadi rujukan Indonesia pada ruang lingkup keselamatan pesawat tenaga dan produksi; [OSHA 1910.147](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147) dan [OSHA 1910.212](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.212) hanya panduan asing tentang energi berbahaya dan pelindung mesin. Jangan menyalin ukuran atau urutan isolasi tanpa tinjauan kompeten.
 
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Merancang Signage untuk Laser Cutting dan CNC Router”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kawan Bengkel-las.co.id, buat satu orang berwenang menjawab pertanyaan “boleh lanjut atau tidak”. Jika lokasi pemasangan berubah, akses, cuaca, sumber listrik, lalu lintas, dan risiko publik ikut berubah. [OSHA 1910.252](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252) tidak membuktikan jarak aman atau izin untuk lokasi Indonesia.
 
-## Objection or shortcut to address
+## Verifikasi hasil dan serah-terima
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Periksa dimensi luar, lubang, slot, sudut, label revisi, kerataan, tepi, dan kecocokan dengan rangka. Pastikan finishing tidak menutup fitur atau membuat tepi berbahaya. Simpan foto atau catatan ukur sesuai prosedur proyek, bukan sebagai klaim bahwa gambar aset adalah bukti hasil. Untuk sistem coating, [ISO 12944-5:2019](https://www.iso.org/standard/77795.html) hanya berkaitan dengan ruang lingkup perlindungan korosi dan tidak menjamin kompatibilitas pelapis signage.
 
-## Required conclusion
+Jika signage terdiri dari beberapa lapis, cocokkan urutan pemasangan dan tanda orientasi sebelum pengemasan. Ukur diagonal panel untuk melihat kemungkinan kemiringan, lalu cocokkan posisi lubang dengan pola rangka. Catat kondisi tepi yang perlu diamplas atau dilindungi, serta bagian yang sengaja dibiarkan sebagai allowance (ruang cadangan) untuk penyesuaian di lokasi. Pemeriksaan ini tidak mengesahkan kekuatan bangunan; ia hanya memastikan keluaran cutting sesuai data yang telah disetujui.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Buat lembar serah-terima berisi daftar part, revisi, bahan, jumlah, item terbuka, status diterima atau ditahan, dan penerima. Sisa material dipisahkan berdasarkan identitas dan kontaminasi. [PP No. 22 Tahun 2021](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021) adalah rujukan umum pengelolaan lingkungan; jangan menyatakan scrap otomatis aman dicampur atau dibuang.
 
-## Draft completion checklist
+Sobat Bengkel-las.co.id, minta penerima menandatangani daftar yang sama dengan yang dipakai operator. Jika teks, warna, atau ukuran berubah, naikkan revisi dan ulangi pemeriksaan yang terdampak. Jangan mengandalkan nama “final” pada file.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Bengkel-las.co.id!` and uses friendly `Bengkel-las.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Penutup dan langkah berikutnya
+
+Brief signage yang baik menerjemahkan pesan dan kondisi lokasi menjadi ukuran, bahan, proses, pemasangan, pemeriksaan, dan keputusan. Laser atau CNC router hanyalah pilihan proses setelah kebutuhan tersebut jelas. Langkah berikutnya: isi satu lembar brief, lampirkan file ber-revisi dan datasheet/SDS, buat kupon, lalu minta persetujuan desain serta K3 sebelum produksi.
+
+Teman Bengkel-las.co.id, tahan pekerjaan bila data lokasi, material, atau otoritas perubahan belum jelas. Aturan operasinya: tidak ada file masuk mesin sebelum identitas bahan, revisi, metode, dan kriteria penerimaan menunjuk pada keputusan yang sama. Gunakan [beranda Bengkel-las.co.id](/) untuk informasi umum; rute saudara yang masih direncanakan belum menjadi tautan publik.

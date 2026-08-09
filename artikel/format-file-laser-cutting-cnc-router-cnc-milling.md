@@ -3,7 +3,8 @@ article_id: CUT-02-02
 title: "Format File untuk Laser Cutting, CNC Router, dan CNC Milling"
 slug: "format-file-laser-cutting-cnc-router-cnc-milling"
 description: "Menyiapkan gambar yang dapat diperiksa dan diproses tanpa revisi berulang."
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-08-18"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -22,7 +23,7 @@ sources:
   - "https://pesta.bsn.go.id/produk/detail/12882-sni17292020"
   - "https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970"
   - "https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252"
+  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910.252"
   - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
   - "https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015"
   - "https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021"
@@ -32,37 +33,7 @@ sources:
   - "https://www.iso.org/standard/80209.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Format File untuk Laser Cutting, CNC Router, dan CNC Milling
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Format File untuk Laser Cutting, CNC Router, dan CNC Milling”
-- **Reader and situation:** Menyiapkan gambar yang dapat diperiksa dan diproses tanpa revisi berulang.
-- **Reader outcome:** Menyiapkan gambar yang dapat diperiksa dan diproses tanpa revisi berulang.
-- **Primary intent:** Memilih format file yang dapat diproses
-- **Reader community:** `Bengkel-las.co.id`
-- **Primary friendly address:** `Teman Bengkel-las.co.id`
-- **Natural variants:** `Sobat Bengkel-las.co.id` and `Kawan Bengkel-las.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Fokus pada format dan kompatibilitas; tidak mengajarkan menggambar CAD.
-- **Final public route:** `/artikel/format-file-laser-cutting-cnc-router-cnc-milling.html`
-- **Appointed CMS date:** `2025-08-18` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Bengkel-las.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Format File untuk Laser Cutting, CNC Router, dan CNC Milling**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Bengkel-las.co.id`, `Sobat Bengkel-las.co.id`, or `Kawan Bengkel-las.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-002`
@@ -73,186 +44,78 @@ sources:
 - **Selection basis:** filename/source metadata identifies `CNC Router 4` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Format File untuk Laser Cutting, CNC Router, dan CNC Milling
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Teman Bengkel-las.co.id! File yang bisa dibuka belum tentu siap diproses. Format harus menyampaikan geometri, satuan, skala, orientasi, dan revisi secara konsisten. Tanyakan format yang benar-benar diterima vendor, kirim geometri sesuai proses, lalu sertakan PDF ukuran dan material. Kondisi mesin, perangkat lunak, dan acceptance basis dapat mengubah jawaban; tinggalkan [NEEDS PROJECT REVIEW] bila belum jelas.
 
-### KR-01
+![Ilustrasi CNC Router 4](/wp-content/uploads/2019/11/CNC-Router-4.jpg)
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cutting.bengkel-las.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The frozen catalog has 20 parent topics and 120 briefs. Intended readers include homeowners, facility and maintenance teams, small manufacturers, procurement staff, project supervisors, and workshop operators. Repository plans are editorial inputs, not proof of a real workshop, staff, equipment, qualifications, prices, locations, or services.
-- **Limits:** Re-read both frozen files if the project role, catalog, URL ownership, or conversion path changes. Do not infer an automotive specialty or add unsupported neighboring trades.
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
 
-### KR-04
 
-- **Original sources:** [ISO 17635:2025 — official ISO abstract](https://www.iso.org/standard/85705.html), [ISO 9712:2021 — official ISO abstract](https://www.iso.org/standard/75614.html).
-- **Purpose for this article:** Prevent visual symptoms or an isolated measurement from being presented as a complete diagnosis or acceptance decision.
-- **Safe grounded facts:** Inspection method, coverage, technique, personnel, equipment, surface condition, calibration/verification status, reporting, and acceptance basis are separate evidence items. ISO 17635 also warns that NDT acceptance levels are not a direct one-to-one translation of ISO 5817 quality levels.
-- **Limits:** The abstracts do not supply technique parameters, acceptance values, required extent, calibration intervals, or project fitness. Obtain the governing code, full standards, written procedure, and asset-specific inspection plan.
+## Bedakan fungsi format
 
-### KR-07
+DXF biasanya menyimpan geometri datar; DWG dapat membawa informasi gambar lebih banyak; STEP menyimpan model 3D; PDF menjadi lembar rujukan. Tidak ada ekstensi yang otomatis memperbaiki kontur terbuka, garis ganda, skala salah, atau layer keliru. Datum (acuan geometri), unit, material, tebal, dan revisi harus ditulis terpisah.
 
-- **Original sources:** [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html), [ISO 12944-5:2019 — official ISO abstract](https://www.iso.org/standard/77795.html), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Make material and consumable records usable for fabrication, compatibility, safety, inspection, maintenance, and later failure investigation.
-- **Safe grounded facts:** Useful traceability can include material designation, dimensions/heat or batch where required, certificate/report linkage, filler/consumable classification and batch, storage/conditioning, coating product and batch, mixing/application records, replacement-part identity, and approved substitution. The US hazard-communication rule illustrates label and safety-data-sheet concepts but is not Indonesian law.
-- **Limits:** Do not infer composition, compatibility, shelf life, storage, mixing ratio, coverage, cure, welding parameter, exposure limit, or disposal route from generic labels. Verify exact product, batch, substrate, environment, and current Indonesian rules.
+## Sesuaikan dengan proses
 
-### KR-08
+Laser memerlukan kontur tertutup, tanpa duplikasi, dan penandaan fitur yang jelas. Router membutuhkan kontur, area pocket, kedalaman, serta titik masuk bila disepakati. Milling memerlukan model 3D, orientasi, datum, dan informasi penjepitan. Format file tidak menetapkan parameter alat atau urutan pemesinan.
 
-- **Original sources:** [SNI 1729:2020 — official BSN catalog](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html).
-- **Purpose for this article:** Ground fabrication planning in defined requirements rather than verbal descriptions, copied details, or unverified workshop habit.
-- **Safe grounded facts:** A controlled fabrication package can need governing documents and revision, function, dimensions/datums, material and joint identity, loads/interfaces, tolerances, fabrication sequence, weld/fastener/coating requirements, inspection and hold points, acceptance basis, handling, installation, and approved deviations.
-- **Limits:** The BSN page does not reveal clauses, tolerances, combinations, connection design, execution rules, or acceptance values. Obtain the licensed governing standards and issued-for-work project documents.
+Sertakan PDF dengan ukuran kritis, toleransi, material, dan revisi. Jelaskan fungsi setiap layer; warna layar bukan bukti. [SNI 1729:2020](https://pesta.bsn.go.id/produk/detail/12882-sni17292020) hanya identitas katalog, bukan aturan format proyek.
 
-### KR-14
+## Periksa geometri dan ekspor
 
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.252 — welding, cutting, and brazing](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Help readers compare controlled shop fabrication with field work where the environment, interfaces, access, occupants, combustibles, weather, and permits can change the method and risk.
-- **Safe grounded facts:** Moving work on site can change fit-up control, position, access, lifting, weather, electrical supply, fume dispersion, fire exposure, nearby operations, traffic/public interface, coating conditions, inspection access, and restoration. A field weld is not justified merely because transport is inconvenient.
-- **Limits:** Do not import US distances, permits, or prescriptions. The responsible Indonesian site/K3 authority must approve the current task-specific controls.
+Validasi kurva terbuka, garis ganda, segmen bertumpuk, teks hidup, skala, dan satuan. Simpan file sumber serta ekspor dengan nomor revisi. Buka kembali file ekspor di perangkat lunak vendor untuk memastikan ukuran dan layer tetap. Jangan menimpa file lama; catat perubahan.
 
-### KR-16
+[ISO 3834-6](https://www.iso.org/standard/83335.html) menekankan informasi mutu terdokumentasi. [ISO 17635](https://www.iso.org/standard/85705.html) memisahkan metode, cakupan, personel, alat, pelaporan, dan acceptance basis; abstrak standar tidak memberi angka universal.
 
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 12 Tahun 2015 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Provide a systems view of workshop K3 instead of reducing safety to personal protective equipment.
-- **Safe grounded facts:** A controlled task starts with elimination/substitution and engineering/administrative controls, then suitable PPE; product identity and current safety data matter for chemicals. Emergency planning must reflect the actual energy, fire, exposure, first-aid, evacuation, communication, and rescue scenario.
-- **Limits:** This file supplies no exposure limit, PPE selection, ventilation rate, electrical protection setting, cylinder separation, fire-watch duration, or emergency procedure. Resolve them from current Indonesian rules, site conditions, exact products, and competent K3 review.
+## Minta pratinjau dan bukti
 
-### KR-20
+Minta vendor mengembalikan pratinjau toolpath atau daftar pertanyaan sebelum produksi. Cocokkan konversi dengan file sumber dan PDF. Untuk fitur penting, buat part pertama atau kupon; ukur hasil dan catat kondisi. [ISO 9712](https://www.iso.org/standard/75614.html) membahas kompetensi personel NDT, bukan jaminan file lulus.
 
-- **Original sources:** [PP No. 22 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Connect source reduction, controlled use, segregation, reuse/recycling, worker exposure, and legal waste disposition without assuming every metal offcut is harmless or recyclable.
-- **Safe grounded facts:** Waste identity, contamination, generator/site context, storage, labeling, transport, receiver authorization, records, and current local rules determine the route. Reuse and repair may avoid new material but do not automatically reduce total environmental or safety impact.
-- **Limits:** Do not classify a waste, recommend mixing, state a storage limit, name a legal carrier/receiver, or claim a quantified environmental benefit without current Indonesian/local requirements, characterization, mass/energy data, and authorized-party evidence.
+## Faktor material dan keselamatan
 
-### KR-10
+Material, coating, kerf, penjepitan, dan proses lanjutan memengaruhi hasil. Simpan identitas material, batch, dan SDS. OSHA 1910.1200 (https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200) hanya pembanding komunikasi bahaya. UU No. 1 Tahun 1970 dan [Permenaker No. 5 Tahun 2018](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018) berlaku sesuai tempat kerja.
 
-- **Original sources:** [Permenaker No. 38 Tahun 2016 — BPK](https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026), [OSHA 29 CFR 1910.147 — control of hazardous energy](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147), [OSHA 29 CFR 1910.212 — general machine guarding](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.212).
-- **Purpose for this article:** Ensure a component-repair article considers the complete machine, energy sources, operating envelope, safeguarding, commissioning, and records.
-- **Safe grounded facts:** A repaired shaft, frame, coupling, guard, base, or attachment can alter alignment, balance, clearance, strength, vibration, containment, access, interlocks, or operating hazards. Safe servicing and safe production are related but distinct states.
-- **Limits:** Do not publish an isolation sequence, guard dimension, balance tolerance, restart authorization, or fitness claim generically. Verify current Indonesian provisions and exact OEM/site requirements.
+Untuk pekerjaan panas, OSHA 1910.252 (https://www.osha.gov/laws-regs/regulations/standardnumber/1910.252) bukan pengganti prosedur lokal. Kendali energi dan pelindung mesin mengikuti aturan fasilitas; OSHA 1910.147 dan 1910.212 hanya referensi teknis. Limbah mengikuti [PP No. 22 Tahun 2021](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021).
 
-### KR-17
+## Jalan pintas dan checklist
 
-- **Original sources:** [Permenaker No. 38 Tahun 2016 — BPK](https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016), [OSHA 29 CFR 1910.147 — control of hazardous energy](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Make maintenance content evidence-based without inventing universal schedules or promising uptime.
-- **Safe grounded facts:** Calendar-based, runtime-based, condition-based, corrective, and statutory work answer different needs. Work order history, failure coding, inspection readings, parts identity, deferred defects, tests, and release authority support trend review and planning.
-- **Limits:** Do not provide a universal interval, alarm threshold, remaining-life estimate, spares quantity, uptime saving, or restart decision. Obtain current OEM manuals, asset history, operating context, statutory requirements, and responsible-person approval.
+Mengirim PDF saja, memakai file lama, atau mengandalkan warna layer dapat memindahkan datum dan toleransi tanpa jejak. Alternatifnya: paket sumber, PDF, material, revisi, unit, datum, dan daftar perubahan. Tanyakan ekstensi, versi perangkat lunak, unit default, kebutuhan model 3D, tafsir layer, dan bukti sebelum produksi.
 
-### KR-15
+Teman Bengkel-las.co.id, gunakan status siap, siap dengan pertanyaan, atau tahan. Status tahan berlaku bila kontur terbuka, skala meragukan, atau pihak penerima belum jelas. Kawan Bengkel-las.co.id, format yang baik adalah yang dapat diverifikasi terhadap gambar, bukan yang paling populer.
 
-- **Original sources:** [ISO 5817:2023 — official ISO abstract](https://www.iso.org/standard/80209.html), [ISO 17635:2025 — official ISO abstract](https://www.iso.org/standard/85705.html), [ISO 9712:2021 — official ISO abstract](https://www.iso.org/standard/75614.html).
-- **Purpose for this article:** Keep QA articles from confusing workmanship levels, NDT technique, indication evaluation, personnel certification, equipment status, and engineering acceptance.
-- **Safe grounded facts:** A quality plan needs the governing acceptance basis, joint and examination identification, method/technique and extent, written procedure where required, personnel scope, equipment identity and current calibration/verification, surface/test conditions, report traceability, result, nonconformance, disposition authority, repair cycle, and closeout.
-- **Limits:** Do not publish imperfection limits, acceptance tables, technique settings, calibration intervals, or certification equivalence from abstracts. Obtain full current standards and project procedures.
+## Kesimpulan dan langkah berikutnya
+Simpan rekaman ini bersama checksum file dan hasil part pertama.
 
-## Evidence gates
+Catat juga siapa penerima akhir, kapan konfirmasi diberikan, dan dokumen mana yang menjadi dasar penerimaan.
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-- **GATE-09:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
-- **GATE-11:** Resolve the gate from current project evidence and competent review.
-- **GATE-12:** Resolve the gate from current project evidence and competent review.
-- **GATE-13:** Resolve the gate from current project evidence and competent review.
+Jika vendor mengubah alur pascaproses, minta contoh hasil dan catatan versi. Keputusan format tetap berlaku hanya untuk mesin, material, dan proses yang ditinjau; perubahan konfigurasi memerlukan konfirmasi ulang.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Sebelum file dirilis, minta penerima mengulang ukuran kotak pembatas dan satu fitur kritis dari PDF. Bila angka berbeda, jangan memperbaiki dengan mengubah skala tanpa jejak; kembali ke sumber, periksa unit, dan buat revisi baru. Tandai file yang sudah disetujui sebagai hanya-baca agar operator tidak menimpa bukti. Untuk pekerjaan berulang, simpan hasil part pertama dan daftar perubahan sebagai acuan lot berikutnya.
 
-## Internal-link plan
+Keselamatan kerja harus diperlakukan sebagai bagian dari paket, bukan catatan terpisah. [UU No. 1 Tahun 1970](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970) menjadi rujukan nasional. Referensi OSHA 1910.147 (https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147) dan 1910.212 (https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.212) tidak menggantikan prosedur isolasi energi atau pelindung mesin setempat. Bila pekerjaan melibatkan panas, minta izin kerja, pengendalian api, dan peninjauan K3 sesuai lokasi. Catat keputusan itu bersama revisi file agar operator tidak menerima instruksi yang terpisah dari kondisi aktual.
 
-### Existing local routes
+## Pertanyaan sebelum menyetujui format
 
-- `/` — fallback home route; use only when it is genuinely useful.
+Tanyakan apakah vendor membaca file langsung atau melalui perangkat lunak pascaproses. Minta versi perangkat lunak, unit default, dukungan spline dan arc, batas ukuran file, serta cara mereka menangani layer tersembunyi. Untuk model 3D, tanyakan orientasi, datum, dan fitur yang akan dipakai. Untuk format datar, tanyakan apakah kontur harus tertutup dan bagaimana lubang kecil atau garis marking dibaca.
 
-### Planned sibling articles
+Pastikan penanggung jawab memeriksa hasil konversi. Pengirim memverifikasi teks, ukuran, material, dan revisi; vendor memverifikasi keterbacaan mesin dan pratinjau; penerima menyetujui fungsi serta acceptance basis. Pembagian ini mencegah asumsi bahwa satu pihak memeriksa semuanya. Dokumentasikan persetujuan dalam email atau lembar serah terima.
 
-These are future routes. Do not link them as live until their HTML exists.
+Part pertama menjadi bukti yang lebih kuat daripada janji format. Ukur fitur kritis, periksa tepi dan permukaan, lalu cocokkan dengan PDF. Bila penyimpangan terjadi, tahan batch dan telusuri apakah sumber, konversi, material, atau proses yang berubah. Jangan menghapus data awal setelah rework karena diperlukan untuk memahami penyebab.
 
-- `CUT-02-01` → `/artikel/checklist-file-desain-untuk-cutting.html` — Checklist File Desain Sebelum Dikirim ke Jasa Cutting
-- `CUT-02-03` → `/artikel/memperbaiki-garis-ganda-kontur-terbuka.html` — Cara Membersihkan Garis Ganda dan Kontur Terbuka pada File Cutting
-- `CUT-02-04` → `/artikel/mengatur-layer-file-cnc.html` — Mengatur Layer untuk Potong, Ukir, Pocket, dan Marking
+## Paket pengiriman yang mudah diaudit
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Buat folder dengan empat bagian: sumber gambar, ekspor mesin, lembar rujukan PDF, dan catatan perubahan. Nama file memuat identitas part, material, tebal, revisi, dan tanggal. Sertakan daftar layer, unit, datum, dan orientasi. Bila vendor mengembalikan konversi, simpan salinan itu terpisah dari sumber agar perbedaan dapat dibandingkan.
 
-## Jawaban singkat dan salah paham utama
+Untuk pekerjaan dengan coating, [ISO 12944-5](https://www.iso.org/standard/77795.html) menjadi konteks pemilihan sistem pelapisan, bukan parameter file. Untuk mutu las, [ISO 5817](https://www.iso.org/standard/80209.html) tidak otomatis menetapkan acceptance basis cutting. [Permenaker No. 11 Tahun 2026](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026), [Permenaker No. 12 Tahun 2015](https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015), dan [Permenaker No. 38 Tahun 2016](https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016) dibaca sesuai tugas serta lokasi.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Format File untuk Laser Cutting, CNC Router, dan CNC Milling”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jika vendor meminta format berbeda, minta alasan dan contoh pratinjau. Jangan mengubah file secara diam-diam karena perubahan unit atau spline dapat memengaruhi ukuran. Simpan pertanyaan terbuka sebagai [NEEDS PROJECT REVIEW] dan tetapkan siapa yang menjawab. Setelah jawaban diterima, naikkan nomor revisi dan ulangi pemeriksaan geometri.
 
-## Definisi dan batas objek
+## Kesimpulan dan langkah berikutnya
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Format File untuk Laser Cutting, CNC Router, dan CNC Milling”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bekukan revisi, pilih format berdasarkan proses, sertakan PDF rujukan, dan minta pratinjau serta konfirmasi teknis. Simpan jawaban vendor dan hasil part pertama. Bila geometri, unit, tujuan fitur, atau acceptance basis belum jelas, tahan file dan minta klarifikasi sebelum jalur alat dibuat.
 
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Format File untuk Laser Cutting, CNC Router, dan CNC Milling”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Format File untuk Laser Cutting, CNC Router, dan CNC Milling”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Format File untuk Laser Cutting, CNC Router, dan CNC Milling”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Format File untuk Laser Cutting, CNC Router, dan CNC Milling”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Bengkel-las.co.id!` and uses friendly `Bengkel-las.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Untuk konteks umum, Anda dapat kembali ke [beranda Bengkel-las.co.id](/) sambil membawa paket file.

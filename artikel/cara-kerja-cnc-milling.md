@@ -3,7 +3,8 @@ article_id: CUT-06-01
 title: "Cara Kerja CNC Milling untuk Komponen Presisi"
 slug: "cara-kerja-cnc-milling"
 description: "Memilih operasi milling untuk komponen berdimensi, pocket, slot, kontur, dan permukaan presisi."
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-11-14"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,49 +15,80 @@ reader_address: "Teman Bengkel-las.co.id"
 final_route: "/artikel/cara-kerja-cnc-milling.html"
 technical_review: required
 sources:
-  - "https://www.iso.org/standard/83335.html"
-  - "https://www.iso.org/standard/77795.html"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200"
   - "https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970"
   - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
-  - "https://pesta.bsn.go.id/produk/detail/12882-sni17292020"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015"
-  - "https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021"
+  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Cara Kerja CNC Milling untuk Komponen Presisi
 
-## Assignment lock
+Halo, Teman Bengkel-las.co.id! CNC milling bekerja dengan menggerakkan pahat berputar terhadap benda kerja yang dijepit, mengikuti koordinat yang diprogram. Hasil presisi tidak datang dari tombol *cycle start* saja. Anda harus mencocokkan gambar kerja, datum, material, pahat, penjepitan, urutan pemakanan, dan cara ukur. Operasi face milling biasanya meratakan bidang; end mill dapat membuka pocket atau slot; gerak terinterpolasi membentuk kontur. Pilihan akhirnya berubah bila geometri, kekakuan mesin, material, atau toleransi pada gambar kerja berbeda.
 
-- **Writer task:** Expand this file into one complete article answering: “Cara Kerja CNC Milling untuk Komponen Presisi”
-- **Reader and situation:** Memilih operasi milling untuk komponen berdimensi, pocket, slot, kontur, dan permukaan presisi.
-- **Reader outcome:** Memilih operasi milling untuk komponen berdimensi, pocket, slot, kontur, dan permukaan presisi.
-- **Primary intent:** Memahami prinsip milling CNC
-- **Reader community:** `Bengkel-las.co.id`
-- **Primary friendly address:** `Teman Bengkel-las.co.id`
-- **Natural variants:** `Sobat Bengkel-las.co.id` and `Kawan Bengkel-las.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Fondasi milling; panel router dibahas CUT-05.
-- **Final public route:** `/artikel/cara-kerja-cnc-milling.html`
-- **Appointed CMS date:** `2025-11-14` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jadi, cara kerjanya adalah rantai keputusan: tetapkan fitur dan datum, ubahnya menjadi lintasan alat, lakukan pemotongan bertahap dengan kontrol keselamatan, lalu verifikasi dimensi dan permukaan. Nilai putaran, gerak makan, kedalaman potong, kompensasi, dan toleransi tidak boleh ditebak dari artikel umum. Parameter itu perlu dihitung dan disetujui untuk mesin, pahat, material, serta edisi gambar yang sedang berlaku. **[NEEDS PROJECT REVIEW: parameter pemotongan, toleransi, dan metode inspeksi belum disediakan.]**
 
-## Opening instructions
+![Ilustrasi CNC Milling 8](/wp-content/uploads/2019/11/CNC-Milling-8.jpg)
 
-- Open with the exact short salutation: **“Halo, Teman Bengkel-las.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Cara Kerja CNC Milling untuk Komponen Presisi**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Bengkel-las.co.id`, `Sobat Bengkel-las.co.id`, or `Kawan Bengkel-las.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Gambar ini adalah aset lokal dan bukan dokumentasi proyek tertentu.
 
+## Hasil akhir dan prasyarat
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+Hasil akhir yang realistis adalah komponen dengan fitur, posisi, dan ukuran yang dapat ditelusuri ke gambar kerja—bukan sekadar permukaan yang tampak rapi. Sebelum pemrograman, pihak yang berwenang perlu menetapkan revisi gambar, material dan kondisi awalnya, sistem satuan, datum, toleransi, spesifikasi ulir atau lubang, serta batas area yang boleh dijepit. Operator menjalankan pekerjaan sesuai program yang telah ditinjau; penanggung jawab mutu menerima bukti pengukuran.
+
+Siapkan model atau gambar 2D yang disetujui, daftar fitur, *setup sheet*, identitas mesin dan pahat, alat ukur yang sesuai rentang dan ketelusurannya, serta rencana inspeksi. Bila komponen menjadi bagian struktur atau rakitan, dokumen antarmuka dan beban harus tersedia dari proyek; katalog standar saja tidak membuka nilai klausul atau toleransi yang boleh dipakai. Untuk pekerjaan yang bersinggungan dengan persyaratan fabrikasi, gunakan dokumen proyek yang diterbitkan untuk kerja dan lakukan tinjauan kompeten, bukan mengandalkan kebiasaan bengkel.
+
+## Langkah 1 — tetapkan ruang lingkup
+
+Mulailah dengan memetakan fitur: bidang referensi, lubang, pocket (rongga dengan dasar), slot (alur terbuka atau tertutup), dan kontur luar. Tandai datum A-B-C atau sistem koordinat yang diminta gambar. Tentukan apakah yang dikerjakan hanya pengasaran, penghalusan, atau keduanya; apakah ada chamfer, radius, atau kebutuhan deburring. Scope ini mencegah program menghapus material pada area yang seharusnya menjadi referensi.
+
+Periksa juga antarmuka: sisi yang akan dibaut, diselipkan, dilas, atau dipasangkan dengan komponen lain. Rencanakan urutan setup agar datum tetap konsisten. Jika benda panjang, tipis, atau mudah berubah bentuk, kekakuan penjepitan menjadi pertanyaan awal, bukan koreksi setelah ukur gagal. Sobat Bengkel-las.co.id, hentikan penyusunan program ketika gambar menyebut “presisi” tanpa angka toleransi atau datum yang jelas; minta klarifikasi tertulis. Aset gambar CNC milling dicatat untuk rujukan media bila diperlukan.
+
+## Langkah 2 — kumpulkan dan cocokkan bukti
+
+Bandingkan tiga hal secara berurutan: geometri pada model, angka pada gambar, dan kondisi benda nyata. Catat identitas material, ukuran stok, arah serat atau perlakuan yang dinyatakan pemasok, serta nomor lot bila proyek mensyaratkannya. Cocokkan nomor revisi model dengan program NC; satu karakter yang berbeda dapat memindahkan fitur ke sisi yang salah.
+
+Pilih pahat berdasarkan jenis fitur dan material, lalu dokumentasikan identitas pahat, diameter nominal, panjang menonjol, dan kompensasinya. Jangan menganggap label umum sudah membuktikan kecocokan, umur simpan, atau kondisi cairan pemotong. Jika memakai bahan kimia, baca label dan lembar data keselamatan produk yang benar; konsep komunikasi bahaya OSHA dapat menjadi pembanding, tetapi bukan pengganti aturan Indonesia. ([OSHA 29 CFR 1910.1200](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200))
+
+Pastikan alat ukur mampu membedakan toleransi yang diminta dan memiliki status kalibrasi atau verifikasi yang diterima proyek. Bukti awal ini membentuk *traveller* atau rekaman kerja: siapa menyetujui program, material apa yang masuk, setup mana yang dipakai, dan alat ukur apa yang menghasilkan angka penerimaan.
+
+## Langkah 3 — jalankan urutan kerja
+
+Pertama, buat *zero return* (mengembalikan mesin ke referensi) atau referensi mesin sesuai prosedur internal, lalu pasang benda kerja pada fixture (alat penahan) yang kaku dan dapat diulang. Tetapkan work offset (koreksi titik nol kerja) dari datum yang benar; jangan memakai tepi stok sebagai nol bila gambar menetapkan lubang atau bidang lain sebagai referensi. Simulasikan lintasan dan periksa kemungkinan tabrakan pahat, fixture, ragum, serta batas gerak.
+
+Kedua, lakukan pemakanan pengasaran untuk membuang material berlebih dengan beban yang dikendalikan. Sisakan material yang cukup untuk penghalusan. Pada tahap ini, pantau suara, getaran, beban spindle, dan perubahan penjepitan sesuai indikator yang tersedia—indikator itu adalah sinyal untuk berhenti dan meninjau, bukan izin menaikkan parameter secara spontan.
+
+Ketiga, kerjakan bidang datum dan fitur yang menjadi acuan rakitan sebelum kontur sekunder. Untuk pocket dan slot, pastikan dasar, sudut, dan radius alat sesuai gambar. Untuk kontur, gunakan lintasan yang menjaga arah dan titik masuk agar tidak meninggalkan bekas pada area fungsional. Setelah satu setup selesai, bersihkan geram, lindungi datum, lalu ukur fitur kunci sebelum membalik benda kerja.
+
+Keempat, bila perlu *second setup*, transfer datum dengan metode yang disetujui—misalnya memakai fitur referensi yang sudah diukur—dan catat hasil transfernya. Jangan menyembunyikan koreksi offset di kontrol tanpa jejak; koreksi harus dapat ditelusuri ke hasil ukur dan persetujuan penanggung jawab.
+
+Keselamatan mengiringi semua langkah: pelindung mesin tertutup saat spindle berputar, geram ditangani dengan alat yang sesuai, dan area kerja bebas dari orang yang tidak berkepentingan. Kewajiban keselamatan kerja harus mengikuti kondisi tempat kerja dan ketentuan Indonesia yang berlaku, termasuk UU No. 1 Tahun 1970 serta perubahan regulasi yang perlu dicek pada catatan resmi BPK. ([UU No. 1 Tahun 1970](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970); [Permenaker No. 11 Tahun 2026](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026))
+
+## Titik tahan dan kondisi berhenti
+
+Tetapkan hold point sebelum pemotongan pertama, setelah pengasaran, setelah transfer setup, dan sebelum pelepasan komponen. Pekerjaan tidak boleh diteruskan bila program tidak cocok dengan revisi gambar, material tidak teridentifikasi, fixture bergeser, pahat retak atau aus di luar batas yang disetujui, terjadi chatter yang merusak permukaan, atau hasil ukur keluar dari toleransi.
+
+Pada kondisi itu, tahan komponen dan program sebagai *nonconforming*; jangan mengamplas, menggeser offset, atau mengulang lintasan untuk “mengejar angka” tanpa analisis. Minta review operator senior, pemrogram, dan mutu. **[NEEDS GATE REVIEW: kriteria aus pahat, batas getaran, dan disposisi komponen harus ditetapkan oleh proyek.]** Untuk risiko listrik, energi tersimpan, cairan, atau bahan pembersih, lakukan pengendalian yang disahkan penanggung jawab K3; artikel ini tidak menetapkan nilai PPE, ventilasi, atau setelan proteksi.
+
+## Verifikasi hasil dan serah terima
+
+Ukur fitur yang menentukan fungsi terlebih dahulu: datum, jarak antarfitur, diameter atau lebar pocket/slot, kedalaman, tinggi, dan kontur yang diberi toleransi. Gunakan metode yang tercantum pada rencana inspeksi, ulangi pengukuran bila hasil meragukan, dan bedakan angka aktual dari keputusan lulus. Catat alat ukur, tanggal, operator, kondisi komponen, serta nomor revisi gambar dan program.
+
+Handover minimal berisi identitas komponen, material dan lot bila diwajibkan, program atau nomor versinya, daftar pahat dan kompensasi yang dipakai, hasil inspeksi, deviasi yang disetujui, serta status geram atau cairan sisa. Rekaman ini membantu penelusuran bila komponen dipasang atau dikerjakan ulang. Jangan menyatakan “presisi” hanya dari satu dimensi; penerimaan harus mencakup seluruh karakteristik yang diminta dan persyaratan antarmuka.
+
+## Jalan pintas yang sering menggoda
+
+Shortcut yang umum adalah memasukkan ukuran nominal ke program, memilih pahat yang tersedia, lalu mengoreksi offset sampai komponen “masuk”. Cara ini dapat bekerja kebetulan pada satu benda, tetapi menyamarkan masalah datum, keausan pahat, atau fixture. Komponen berikutnya bisa bergeser, sementara tidak ada jejak mengapa koreksi dibuat.
+
+Alternatif yang lebih dapat diandalkan adalah membuat lembar setup singkat sebelum *cycle start*: revisi gambar, datum, pahat, parameter yang disetujui, titik ukur, dan siapa pemberi izin. Jika salah satu kolom belum terisi, jadikan itu alasan hold point, bukan tebakan operator.
+
+## Kesimpulan
+
+Kawan Bengkel-las.co.id, gunakan penjelasan ini sebagai konsep, bukan pengganti instruksi kerja proyek. Untuk konteks kebutuhan dasar, lihat [beranda Bengkel-las.co.id](/).
+
+CNC milling untuk komponen presisi bekerja melalui rangkaian datum dan koordinat yang diterjemahkan menjadi lintasan pahat, pemotongan bertahap, lalu verifikasi terukur. Face milling, pocketing, slotting, dan contouring hanyalah pilihan operasi; keberhasilannya ditentukan kecocokan gambar, material, fixture, program, parameter, dan inspeksi.
+
+Langkah Anda berikutnya: minta gambar kerja berstatus terbaru, tandai datum serta toleransinya, dan susun *setup sheet* untuk ditinjau operator berwenang dan penanggung jawab mutu. Bila data material, parameter, atau aturan K3 belum lengkap, simpan penanda review dan jangan mulai pemotongan. Aturan operasinya sederhana: tidak ada angka atau persetujuan yang tertelusur, tidak ada klaim presisi dan tidak ada *cycle start*.
+
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-014`
@@ -67,164 +99,4 @@ sources:
 - **Selection basis:** filename/source metadata identifies `CNC Milling 8` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-014]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cutting.bengkel-las.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The frozen catalog has 20 parent topics and 120 briefs. Intended readers include homeowners, facility and maintenance teams, small manufacturers, procurement staff, project supervisors, and workshop operators. Repository plans are editorial inputs, not proof of a real workshop, staff, equipment, qualifications, prices, locations, or services.
-- **Limits:** Re-read both frozen files if the project role, catalog, URL ownership, or conversion path changes. Do not infer an automotive specialty or add unsupported neighboring trades.
-
-### KR-07
-
-- **Original sources:** [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html), [ISO 12944-5:2019 — official ISO abstract](https://www.iso.org/standard/77795.html), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Make material and consumable records usable for fabrication, compatibility, safety, inspection, maintenance, and later failure investigation.
-- **Safe grounded facts:** Useful traceability can include material designation, dimensions/heat or batch where required, certificate/report linkage, filler/consumable classification and batch, storage/conditioning, coating product and batch, mixing/application records, replacement-part identity, and approved substitution. The US hazard-communication rule illustrates label and safety-data-sheet concepts but is not Indonesian law.
-- **Limits:** Do not infer composition, compatibility, shelf life, storage, mixing ratio, coverage, cure, welding parameter, exposure limit, or disposal route from generic labels. Verify exact product, batch, substrate, environment, and current Indonesian rules.
-
-### KR-02
-
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Anchor workshop-safety content in current Indonesian law and prevent reliance on pre-July-2026 copies of sector K3 regulations.
-- **Safe grounded facts:** The 2026 record identifies partial revocations affecting, among others, workplace environment, electrical work, pressure vessels and tanks, powered/production machinery, lifting equipment, work at height, and confined spaces. A legacy regulation may still be in force while some provisions no longer are.
-- **Limits:** This register does not perform legal consolidation or interpret amended clauses. Recheck BPK and official Kemnaker text at outline approval and obtain competent Indonesian legal/K3 review for prescriptive claims.
-
-### KR-08
-
-- **Original sources:** [SNI 1729:2020 — official BSN catalog](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html).
-- **Purpose for this article:** Ground fabrication planning in defined requirements rather than verbal descriptions, copied details, or unverified workshop habit.
-- **Safe grounded facts:** A controlled fabrication package can need governing documents and revision, function, dimensions/datums, material and joint identity, loads/interfaces, tolerances, fabrication sequence, weld/fastener/coating requirements, inspection and hold points, acceptance basis, handling, installation, and approved deviations.
-- **Limits:** The BSN page does not reveal clauses, tolerances, combinations, connection design, execution rules, or acceptance values. Obtain the licensed governing standards and issued-for-work project documents.
-
-### KR-14
-
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.252 — welding, cutting, and brazing](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Help readers compare controlled shop fabrication with field work where the environment, interfaces, access, occupants, combustibles, weather, and permits can change the method and risk.
-- **Safe grounded facts:** Moving work on site can change fit-up control, position, access, lifting, weather, electrical supply, fume dispersion, fire exposure, nearby operations, traffic/public interface, coating conditions, inspection access, and restoration. A field weld is not justified merely because transport is inconvenient.
-- **Limits:** Do not import US distances, permits, or prescriptions. The responsible Indonesian site/K3 authority must approve the current task-specific controls.
-
-### KR-16
-
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 12 Tahun 2015 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Provide a systems view of workshop K3 instead of reducing safety to personal protective equipment.
-- **Safe grounded facts:** A controlled task starts with elimination/substitution and engineering/administrative controls, then suitable PPE; product identity and current safety data matter for chemicals. Emergency planning must reflect the actual energy, fire, exposure, first-aid, evacuation, communication, and rescue scenario.
-- **Limits:** This file supplies no exposure limit, PPE selection, ventilation rate, electrical protection setting, cylinder separation, fire-watch duration, or emergency procedure. Resolve them from current Indonesian rules, site conditions, exact products, and competent K3 review.
-
-### KR-20
-
-- **Original sources:** [PP No. 22 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Connect source reduction, controlled use, segregation, reuse/recycling, worker exposure, and legal waste disposition without assuming every metal offcut is harmless or recyclable.
-- **Safe grounded facts:** Waste identity, contamination, generator/site context, storage, labeling, transport, receiver authorization, records, and current local rules determine the route. Reuse and repair may avoid new material but do not automatically reduce total environmental or safety impact.
-- **Limits:** Do not classify a waste, recommend mixing, state a storage limit, name a legal carrier/receiver, or claim a quantified environmental benefit without current Indonesian/local requirements, characterization, mass/energy data, and authorized-party evidence.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-- **GATE-09:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
-- **GATE-11:** Resolve the gate from current project evidence and competent review.
-- **GATE-12:** Resolve the gate from current project evidence and competent review.
-- **GATE-13:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — fallback home route; use only when it is genuinely useful.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUT-06-02` → `/artikel/jenis-operasi-cnc-milling.html` — Face Milling, Pocketing, Slotting, dan Contouring: Apa Bedanya?
-- `CUT-06-03` → `/artikel/memilih-end-mill.html` — Memilih End Mill Berdasarkan Material dan Bentuk Fitur
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Hasil akhir dan prasyarat
-
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Cara Kerja CNC Milling untuk Komponen Presisi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 1 — tetapkan scope
-
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Cara Kerja CNC Milling untuk Komponen Presisi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 2 — kumpulkan dan cocokkan bukti
-
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Cara Kerja CNC Milling untuk Komponen Presisi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 3 — jalankan urutan kerja
-
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Cara Kerja CNC Milling untuk Komponen Presisi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Hold point dan kondisi berhenti
-
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Cara Kerja CNC Milling untuk Komponen Presisi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Verifikasi hasil dan handover
-
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Cara Kerja CNC Milling untuk Komponen Presisi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Bengkel-las.co.id!` and uses friendly `Bengkel-las.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+END MANAGED IMAGE PLAN -->

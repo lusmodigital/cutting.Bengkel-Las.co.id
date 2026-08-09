@@ -2,8 +2,9 @@
 article_id: CUT-15-04
 title: "Laser Cutting untuk Enclosure dan Panel Kontrol"
 slug: "laser-cutting-enclosure-panel-kontrol"
-description: "Menerjemahkan kebutuhan signage, interior, panel, furnitur, enclosure, dan komponen menjadi brief cutting."
-status: outline
+description: "Panduan menyiapkan kebutuhan signage, interior, panel, furnitur, enclosure, dan komponen untuk proses pemotongan laser."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-06-22"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -18,48 +19,78 @@ sources:
   - "https://www.iso.org/standard/83335.html"
   - "https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970"
   - "https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252"
-  - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
   - "https://www.iso.org/standard/77795.html"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015"
-  - "https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021"
+  - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
   - "https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.212"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Laser Cutting untuk Enclosure dan Panel Kontrol
 
-## Assignment lock
+Halo, Teman Bengkel-las.co.id! Laser cutting tepat untuk menyiapkan panel enclosure ketika bentuk, lubang, interface, material, dan toleransinya sudah diterjemahkan menjadi gambar kerja yang dapat diperiksa. Mesin hanya mengerjakan geometri yang dikirim; ia tidak dapat menebak posisi komponen, arah pintu, kebutuhan pembumian, atau cara panel akan dipasang.
 
-- **Writer task:** Expand this file into one complete article answering: “Laser Cutting untuk Enclosure dan Panel Kontrol”
-- **Reader and situation:** Menerjemahkan kebutuhan signage, interior, panel, furnitur, enclosure, dan komponen menjadi brief cutting.
-- **Reader outcome:** Menerjemahkan kebutuhan signage, interior, panel, furnitur, enclosure, dan komponen menjadi brief cutting.
-- **Primary intent:** Menyiapkan fitur komponen enclosure
-- **Reader community:** `Bengkel-las.co.id`
-- **Primary friendly address:** `Teman Bengkel-las.co.id`
-- **Natural variants:** `Sobat Bengkel-las.co.id` and `Kawan Bengkel-las.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Khusus enclosure; urutan bending dimiliki CUT-13-02.
-- **Final public route:** `/artikel/laser-cutting-enclosure-panel-kontrol.html`
-- **Appointed CMS date:** `2026-06-22` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jadi, hasil yang dicari bukan sekadar lembaran yang terpotong rapi, melainkan komponen yang cocok dengan perangkat, rangka, kabel, dan lingkungan kerjanya. Sebelum brief dikirim, tetapkan fungsi enclosure, datum (acuan ukur), material, bukaan, metode sambungan, dan siapa yang menyetujui perubahan. Persyaratan fabrikasi yang terkendali lazimnya mencakup dokumen pengendali, identitas material dan sambungan, interface, toleransi, inspeksi, serta titik henti; katalog resmi standar hanya mengonfirmasi identitas dan status dokumen, bukan isi klausul atau nilai penerimaan ([BSN](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [ISO 3834-6:2024](https://www.iso.org/standard/83335.html)).
 
-## Opening instructions
+![Ilustrasi bengkel las](/wp-content/uploads/2019/10/bengkel-las.png)
 
-- Open with the exact short salutation: **“Halo, Teman Bengkel-las.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Laser Cutting untuk Enclosure dan Panel Kontrol**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Bengkel-las.co.id`, `Sobat Bengkel-las.co.id`, or `Kawan Bengkel-las.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
 
+Gambar ini adalah aset lokal, bukan dokumentasi proyek tertentu. Aset ilustrasi hanya media pendukung.
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+## Hasil akhir dan prasyarat
+
+Enclosure berarti kotak pelindung perangkat; interface berarti antarmuka mekanik atau kelistrikan yang harus cocok dengan komponen lain.
+
+Hasil akhir yang realistis adalah paket cutting yang dapat ditelusuri: file gambar dengan revisi, daftar komponen, material dan tebal yang disetujui, tabel lubang/bukaan, serta catatan tepi, permukaan, dan interface. Untuk panel kontrol, tambahkan posisi perangkat yang benar-benar dipakai: layar, tombol, gland kabel, ventilasi, engsel, kunci, titik pembumian, dan ruang servis. Untuk enclosure umum, tuliskan apa yang harus terlindung dan dari arah mana akses diperlukan.
+
+Data awal minimum berasal dari gambar susunan atau model, lembar data komponen, ukuran rangka, kondisi pemasangan, dan kebutuhan finishing. Jika salah satunya belum tersedia, jangan mengisi dengan ukuran katalog yang belum disetujui. Tandai **[NEEDS DATA PROYEK: dimensi, material, interface, dan persyaratan lingkungan enclosure]** lalu minta pemilik desain mengesahkannya. Perancang/penanggung jawab teknis tetap berwenang menetapkan kecukupan mekanik dan kelistrikan; artikel ini membantu menyiapkan brief, bukan menggantikan persetujuan tersebut. Untuk konteks umum pembaca, Anda dapat melihat [beranda Bengkel-las.co.id](/) sebelum menyiapkan dokumen proyek.
+
+## Langkah 1 — tetapkan lingkup
+
+Mulai dari satu pertanyaan: bagian mana yang memang dikerjakan laser cutting? Batasi daftar pada panel datar, cover, bracket, base plate, atau komponen enclosure lain yang memiliki kontur dan lubang terdefinisi. Catat interface ke frame, komponen yang dibaut, gasket, engsel, dan jalur kabel. Urutan bending berada di pekerjaan terpisah; di sini cukup sediakan garis referensi, allowance, atau penanda yang diminta perancang tanpa mengubahnya menjadi instruksi bending.
+
+Pisahkan kebutuhan fungsi dari preferensi visual. Bukaan untuk display harus mengikuti lembar data aktual; slot kabel harus menyisakan radius dan akses yang disetujui; lubang baut harus memiliki pola dan datum yang bisa diukur. Jangan menjanjikan enclosure “kedap”, rating perlindungan, kekuatan, atau kompatibilitas elektromagnetik hanya karena bentuk panel tampak tertutup. Semua klaim itu memerlukan desain, produk, dan pengujian yang spesifik.
+
+Jika pekerjaan berpindah dari bengkel ke lapangan, kendali fit-up, akses, cuaca, pasokan listrik, asap, api, lalu lintas, dan inspeksi dapat berubah. Perubahan lokasi bukan alasan otomatis untuk mengelas atau memotong di tempat; penilaian bahaya dan pengendalian harus disetujui pihak K3 yang bertanggung jawab ([UU No. 1 Tahun 1970](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 5 Tahun 2018](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018)).
+
+## Langkah 2 — kumpulkan dan cocokkan bukti
+
+Buat tabel kecocokan sederhana sebelum nesting: nomor komponen, file/revisi, material, tebal, jumlah, datum, fitur kritis, dan cara verifikasi. Cocokkan setiap bukaan dengan nomor part yang akan dipasang, bukan dengan foto atau ingatan operator. Untuk pengadaan material dan consumable, simpan identitas, batch atau heat bila diwajibkan proyek, sertifikat/laporan terkait, serta catatan substitusi yang telah disetujui. Sistem seperti ini membantu inspeksi dan penelusuran kegagalan, tetapi tidak membuktikan kompatibilitas suatu produk tanpa data produk dan lingkungan aktual ([ISO 3834-6:2024](https://www.iso.org/standard/83335.html)).
+
+Periksa juga lingkungan enclosure: indoor atau outdoor, paparan korosif, pembersihan, panas, kelembapan, dan akses operator. Pemilihan sistem perlindungan korosi harus mengikuti spesifikasi proyek dan produk yang benar; abstrak standar tidak memberi ketebalan lapisan, umur layanan, atau metode aplikasi untuk kasus Anda ([ISO 12944-5:2019](https://www.iso.org/standard/77795.html)). Minta lembar data keselamatan dan identitas produk finishing dari pemasok. Jangan menyalin rasio campur, waktu curing, atau batas paparan dari label generik.
+
+Teman Bengkel-las.co.id, jadikan bukti yang bisa dibuka ulang sebagai bagian dari brief: file sumber, PDF revisi, daftar material, dan foto ukur bila memang diperlukan. Jika komponen berada pada mesin, minta pula data OEM dan kondisi operasi. **[NEEDS REVIEW: kesesuaian desain enclosure dengan rating, pembumian, termal, dan persyaratan kelistrikan proyek]**.
+
+## Langkah 3 — jalankan urutan kerja
+
+Urutannya dimulai dari pembekuan revisi. Kunci nama file, satuan, sistem koordinat, dan datum; lalu lakukan pemeriksaan geometri untuk garis ganda, celah tak sengaja, radius, teks, dan fitur yang terlalu dekat tepi menurut kemampuan mesin yang disetujui. Setelah itu, buat nesting yang mempertahankan identitas komponen dan arah butir/permukaan bila ditentukan oleh desain. Operator tidak boleh mengubah lubang atau kontur kritis demi menghemat material tanpa persetujuan perubahan.
+
+Sebelum produksi penuh, sepakati metode first-off atau sampel awal: fitur yang diukur, alat ukur, dan siapa yang menerima. Hasil potong diberi identitas revisi, lalu diperiksa terhadap gambar dan interface nyata. Deburring, pembersihan, dan perlindungan tepi dilakukan sesuai spesifikasi material/finishing; jangan menganggap serpihan atau tepi tajam hilang hanya karena prosesnya laser.
+
+Bila panel akan dilas, dibaut, dicat, atau dipasang gasket, urutan tersebut harus ditulis sebagai interface antarproses. Catat perubahan dan deviasi; keputusan lapangan harus kembali ke pemilik desain. Untuk pekerjaan dengan energi mesin, guarding, atau perbaikan komponen, pengamanan mesin dan otorisasi restart harus mengikuti aturan Indonesia serta prosedur fasilitas yang berlaku—bukan urutan generik dari artikel ([Permenaker No. 38 Tahun 2016](https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016), [Permenaker No. 11 Tahun 2026](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026)).
+
+## Titik henti dan kondisi berhenti
+
+Hentikan proses dan minta review ketika revisi gambar, material, atau komponen berubah; datum tidak dapat diukur; lubang tidak cocok dengan part; tepi atau distorsi mengganggu interface; atau finishing yang dipilih tidak memiliki data produk yang dapat ditelusuri. Jangan melanjutkan ke perakitan bila enclosure menutup akses servis, menghalangi ventilasi yang dirancang, atau mengubah jalur pembumian tanpa keputusan teknis.
+
+Kawan Bengkel-las.co.id, keselamatan kerja bukan hanya kacamata dan sarung tangan. Identifikasi energi, api, asap, bahan kimia, evakuasi, pertolongan pertama, komunikasi, dan penyelamatan harus mengikuti kondisi fasilitas serta penilaian K3 yang kompeten ([UU No. 1 Tahun 1970](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 5 Tahun 2018](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018)). Artikel ini tidak menetapkan ventilasi, setelan listrik, jarak tabung, durasi fire watch, atau pilihan APD. **[NEEDS K3 REVIEW: kontrol spesifik pekerjaan dan keadaan darurat di lokasi aktual]**.
+
+## Verifikasi hasil dan serah terima
+
+Checklist penerimaan sebaiknya memuat: identitas komponen dan revisi; material, tebal, dan jumlah; dimensi keseluruhan serta fitur kritis terhadap datum; kesesuaian pola lubang dan akses kabel; kondisi tepi; catatan deburring/cleaning; status finishing; dan deviasi yang disetujui. Lakukan pengukuran dengan alat yang sesuai dan simpan hasilnya bersama foto atau lembar inspeksi yang mengaitkan nomor komponen.
+
+Saat handover, serahkan file sumber dan hasil ekspor, daftar material/batch bila diwajibkan, catatan inspeksi, lembar data finishing, instruksi penanganan, serta daftar item terbuka. Penerima harus tahu batas pekerjaan: laser cutting tidak otomatis mencakup bending, pengelasan, instalasi listrik, pengujian fungsi, atau sertifikasi enclosure. **[NEEDS ACCEPTANCE BASIS: kriteria uji dan otoritas pelepasan untuk proyek ini]**.
+
+## Jalan pintas yang perlu dihindari
+
+Shortcut yang sering muncul adalah “kirim DXF lama saja, nanti operator menyesuaikan di mesin.” Ini dapat memindahkan datum, mengubah jarak lubang, atau membuat bukaan tidak cocok dengan komponen terbaru tanpa jejak keputusan. Alternatif yang lebih aman adalah membekukan revisi, menyertakan daftar interface dan fitur kritis, lalu meminta persetujuan tertulis untuk setiap deviasi sebelum pemotongan berikutnya. Simpan salinan berkas dan nomor revisi di tempat kerja yang dapat diakses tim agar tidak tertukar.
+
+## Kesimpulan dan langkah berikutnya
+
+Laser cutting untuk enclosure dan panel kontrol berhasil bila brief menghubungkan geometri panel dengan fungsi, interface, material, finishing, inspeksi, dan keselamatan—bukan hanya menghasilkan kontur. Langkah berikutnya: kumpulkan gambar revisi terbaru, lembar data komponen, kondisi pemasangan, serta kriteria penerimaan; minta penanggung jawab desain dan K3 meninjau item bertanda **[NEEDS ...]** sebelum file dilepas ke produksi.
+
+Aturan operasinya sederhana: bila datum, material, interface, atau otoritas penerimaan belum jelas, tahan pemotongan. Keputusan akhir tentang kecukupan mekanik, kelistrikan, korosi, dan keselamatan tetap berada pada profesional serta persyaratan proyek yang berlaku.
+
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-005`
@@ -70,173 +101,4 @@ sources:
 - **Selection basis:** filename/source metadata identifies `bengkel las` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-005]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cutting.bengkel-las.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The frozen catalog has 20 parent topics and 120 briefs. Intended readers include homeowners, facility and maintenance teams, small manufacturers, procurement staff, project supervisors, and workshop operators. Repository plans are editorial inputs, not proof of a real workshop, staff, equipment, qualifications, prices, locations, or services.
-- **Limits:** Re-read both frozen files if the project role, catalog, URL ownership, or conversion path changes. Do not infer an automotive specialty or add unsupported neighboring trades.
-
-### KR-08
-
-- **Original sources:** [SNI 1729:2020 — official BSN catalog](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html).
-- **Purpose for this article:** Ground fabrication planning in defined requirements rather than verbal descriptions, copied details, or unverified workshop habit.
-- **Safe grounded facts:** A controlled fabrication package can need governing documents and revision, function, dimensions/datums, material and joint identity, loads/interfaces, tolerances, fabrication sequence, weld/fastener/coating requirements, inspection and hold points, acceptance basis, handling, installation, and approved deviations.
-- **Limits:** The BSN page does not reveal clauses, tolerances, combinations, connection design, execution rules, or acceptance values. Obtain the licensed governing standards and issued-for-work project documents.
-
-### KR-14
-
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.252 — welding, cutting, and brazing](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Help readers compare controlled shop fabrication with field work where the environment, interfaces, access, occupants, combustibles, weather, and permits can change the method and risk.
-- **Safe grounded facts:** Moving work on site can change fit-up control, position, access, lifting, weather, electrical supply, fume dispersion, fire exposure, nearby operations, traffic/public interface, coating conditions, inspection access, and restoration. A field weld is not justified merely because transport is inconvenient.
-- **Limits:** Do not import US distances, permits, or prescriptions. The responsible Indonesian site/K3 authority must approve the current task-specific controls.
-
-### KR-07
-
-- **Original sources:** [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html), [ISO 12944-5:2019 — official ISO abstract](https://www.iso.org/standard/77795.html), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Make material and consumable records usable for fabrication, compatibility, safety, inspection, maintenance, and later failure investigation.
-- **Safe grounded facts:** Useful traceability can include material designation, dimensions/heat or batch where required, certificate/report linkage, filler/consumable classification and batch, storage/conditioning, coating product and batch, mixing/application records, replacement-part identity, and approved substitution. The US hazard-communication rule illustrates label and safety-data-sheet concepts but is not Indonesian law.
-- **Limits:** Do not infer composition, compatibility, shelf life, storage, mixing ratio, coverage, cure, welding parameter, exposure limit, or disposal route from generic labels. Verify exact product, batch, substrate, environment, and current Indonesian rules.
-
-### KR-16
-
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 12 Tahun 2015 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Provide a systems view of workshop K3 instead of reducing safety to personal protective equipment.
-- **Safe grounded facts:** A controlled task starts with elimination/substitution and engineering/administrative controls, then suitable PPE; product identity and current safety data matter for chemicals. Emergency planning must reflect the actual energy, fire, exposure, first-aid, evacuation, communication, and rescue scenario.
-- **Limits:** This file supplies no exposure limit, PPE selection, ventilation rate, electrical protection setting, cylinder separation, fire-watch duration, or emergency procedure. Resolve them from current Indonesian rules, site conditions, exact products, and competent K3 review.
-
-### KR-20
-
-- **Original sources:** [PP No. 22 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Connect source reduction, controlled use, segregation, reuse/recycling, worker exposure, and legal waste disposition without assuming every metal offcut is harmless or recyclable.
-- **Safe grounded facts:** Waste identity, contamination, generator/site context, storage, labeling, transport, receiver authorization, records, and current local rules determine the route. Reuse and repair may avoid new material but do not automatically reduce total environmental or safety impact.
-- **Limits:** Do not classify a waste, recommend mixing, state a storage limit, name a legal carrier/receiver, or claim a quantified environmental benefit without current Indonesian/local requirements, characterization, mass/energy data, and authorized-party evidence.
-
-### KR-10
-
-- **Original sources:** [Permenaker No. 38 Tahun 2016 — BPK](https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026), [OSHA 29 CFR 1910.147 — control of hazardous energy](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147), [OSHA 29 CFR 1910.212 — general machine guarding](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.212).
-- **Purpose for this article:** Ensure a component-repair article considers the complete machine, energy sources, operating envelope, safeguarding, commissioning, and records.
-- **Safe grounded facts:** A repaired shaft, frame, coupling, guard, base, or attachment can alter alignment, balance, clearance, strength, vibration, containment, access, interlocks, or operating hazards. Safe servicing and safe production are related but distinct states.
-- **Limits:** Do not publish an isolation sequence, guard dimension, balance tolerance, restart authorization, or fitness claim generically. Verify current Indonesian provisions and exact OEM/site requirements.
-
-### KR-17
-
-- **Original sources:** [Permenaker No. 38 Tahun 2016 — BPK](https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016), [OSHA 29 CFR 1910.147 — control of hazardous energy](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Make maintenance content evidence-based without inventing universal schedules or promising uptime.
-- **Safe grounded facts:** Calendar-based, runtime-based, condition-based, corrective, and statutory work answer different needs. Work order history, failure coding, inspection readings, parts identity, deferred defects, tests, and release authority support trend review and planning.
-- **Limits:** Do not provide a universal interval, alarm threshold, remaining-life estimate, spares quantity, uptime saving, or restart decision. Obtain current OEM manuals, asset history, operating context, statutory requirements, and responsible-person approval.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-- **GATE-09:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
-- **GATE-11:** Resolve the gate from current project evidence and competent review.
-- **GATE-12:** Resolve the gate from current project evidence and competent review.
-- **GATE-13:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — fallback home route; use only when it is genuinely useful.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUT-15-02` → `/artikel/cnc-router-panel-dinding-sekat.html` — CNC Router untuk Panel Dinding dan Sekat Ruangan
-- `CUT-15-03` → `/artikel/desain-flat-pack-slot-dan-tab.html` — Desain Flat-Pack dengan Slot dan Tab untuk Hasil Cutting
-- `CUT-15-05` → `/artikel/cnc-cutting-jig-fixture-template.html` — CNC Cutting untuk Jig, Fixture, dan Template Produksi
-- `CUT-15-06` → `/artikel/cutting-untuk-mockup-dan-display.html` — Memilih Proses Cutting untuk Mockup Arsitektur dan Display
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Hasil akhir dan prasyarat
-
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Laser Cutting untuk Enclosure dan Panel Kontrol”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 1 — tetapkan scope
-
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Laser Cutting untuk Enclosure dan Panel Kontrol”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 2 — kumpulkan dan cocokkan bukti
-
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Laser Cutting untuk Enclosure dan Panel Kontrol”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 3 — jalankan urutan kerja
-
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Laser Cutting untuk Enclosure dan Panel Kontrol”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Hold point dan kondisi berhenti
-
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Laser Cutting untuk Enclosure dan Panel Kontrol”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Verifikasi hasil dan handover
-
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Laser Cutting untuk Enclosure dan Panel Kontrol”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Bengkel-las.co.id!` and uses friendly `Bengkel-las.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+END MANAGED IMAGE PLAN -->

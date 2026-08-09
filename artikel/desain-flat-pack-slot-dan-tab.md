@@ -2,8 +2,9 @@
 article_id: CUT-15-03
 title: "Desain Flat-Pack dengan Slot dan Tab untuk Hasil Cutting"
 slug: "desain-flat-pack-slot-dan-tab"
-description: "Menerjemahkan kebutuhan signage, interior, panel, furnitur, enclosure, dan komponen menjadi brief cutting."
-status: outline
+description: "Panduan menyusun sambungan slot dan tab untuk komponen datar yang mudah dirakit dan diperiksa."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-06-19"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -18,48 +19,15 @@ sources:
   - "https://www.iso.org/standard/83335.html"
   - "https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970"
   - "https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252"
-  - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
-  - "https://www.iso.org/standard/77795.html"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015"
-  - "https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021"
-  - "https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.212"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Desain Flat-Pack dengan Slot dan Tab untuk Hasil Cutting
 
-## Assignment lock
+Halo, Kawan Bengkel-las.co.id! Slot dan tab dapat membuat panel flat-pack saling mengunci saat dirakit, sehingga kebutuhan jig dan fixture berkurang. Namun, bentuk lubang saja bukan desain sambungan. Hasil cutting baru siap diproduksi jika fungsi, arah beban, urutan rakit, material, dan akses alat sudah diterjemahkan ke gambar kerja.
 
-- **Writer task:** Expand this file into one complete article answering: “Desain Flat-Pack dengan Slot dan Tab untuk Hasil Cutting”
-- **Reader and situation:** Menerjemahkan kebutuhan signage, interior, panel, furnitur, enclosure, dan komponen menjadi brief cutting.
-- **Reader outcome:** Menerjemahkan kebutuhan signage, interior, panel, furnitur, enclosure, dan komponen menjadi brief cutting.
-- **Primary intent:** Membuat komponen rakit tanpa banyak fixture
-- **Reader community:** `Bengkel-las.co.id`
-- **Primary friendly address:** `Kawan Bengkel-las.co.id`
-- **Natural variants:** `Sobat Bengkel-las.co.id` and `Teman Bengkel-las.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Fokus sistem sambungan; kompensasi fit dimiliki CUT-08-02.
-- **Final public route:** `/artikel/desain-flat-pack-slot-dan-tab.html`
-- **Appointed CMS date:** `2026-06-19` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: mulai dari “bagian mana menahan apa”, bukan dari ukuran slot yang terlihat nyaman di layar. Tetapkan datum, identitas material, pasangan tab-slot, penahan putar, serta cara mengunci sambungan. Ukuran akhir slot dan kompensasi fit harus ditinjau dari proses cutting dan dokumen proyek—[NEEDS PROJECT REVIEW: ketebalan aktual, toleransi proses, beban, dan urutan perakitan].
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Bengkel-las.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Desain Flat-Pack dengan Slot dan Tab untuk Hasil Cutting**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Bengkel-las.co.id`, `Sobat Bengkel-las.co.id`, or `Teman Bengkel-las.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-022`
@@ -70,173 +38,67 @@ sources:
 - **Selection basis:** filename/source metadata identifies `sistem sambungan konstruksi baja` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-022]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
+![Ilustrasi sistem sambungan konstruksi baja](/wp-content/uploads/2019/11/sistem-sambungan-konstruksi-baja.jpg)
 
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cutting.bengkel-las.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The frozen catalog has 20 parent topics and 120 briefs. Intended readers include homeowners, facility and maintenance teams, small manufacturers, procurement staff, project supervisors, and workshop operators. Repository plans are editorial inputs, not proof of a real workshop, staff, equipment, qualifications, prices, locations, or services.
-- **Limits:** Re-read both frozen files if the project role, catalog, URL ownership, or conversion path changes. Do not infer an automotive specialty or add unsupported neighboring trades.
-
-### KR-08
-
-- **Original sources:** [SNI 1729:2020 — official BSN catalog](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html).
-- **Purpose for this article:** Ground fabrication planning in defined requirements rather than verbal descriptions, copied details, or unverified workshop habit.
-- **Safe grounded facts:** A controlled fabrication package can need governing documents and revision, function, dimensions/datums, material and joint identity, loads/interfaces, tolerances, fabrication sequence, weld/fastener/coating requirements, inspection and hold points, acceptance basis, handling, installation, and approved deviations.
-- **Limits:** The BSN page does not reveal clauses, tolerances, combinations, connection design, execution rules, or acceptance values. Obtain the licensed governing standards and issued-for-work project documents.
-
-### KR-14
-
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.252 — welding, cutting, and brazing](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Help readers compare controlled shop fabrication with field work where the environment, interfaces, access, occupants, combustibles, weather, and permits can change the method and risk.
-- **Safe grounded facts:** Moving work on site can change fit-up control, position, access, lifting, weather, electrical supply, fume dispersion, fire exposure, nearby operations, traffic/public interface, coating conditions, inspection access, and restoration. A field weld is not justified merely because transport is inconvenient.
-- **Limits:** Do not import US distances, permits, or prescriptions. The responsible Indonesian site/K3 authority must approve the current task-specific controls.
-
-### KR-07
-
-- **Original sources:** [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html), [ISO 12944-5:2019 — official ISO abstract](https://www.iso.org/standard/77795.html), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Make material and consumable records usable for fabrication, compatibility, safety, inspection, maintenance, and later failure investigation.
-- **Safe grounded facts:** Useful traceability can include material designation, dimensions/heat or batch where required, certificate/report linkage, filler/consumable classification and batch, storage/conditioning, coating product and batch, mixing/application records, replacement-part identity, and approved substitution. The US hazard-communication rule illustrates label and safety-data-sheet concepts but is not Indonesian law.
-- **Limits:** Do not infer composition, compatibility, shelf life, storage, mixing ratio, coverage, cure, welding parameter, exposure limit, or disposal route from generic labels. Verify exact product, batch, substrate, environment, and current Indonesian rules.
-
-### KR-16
-
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 12 Tahun 2015 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Provide a systems view of workshop K3 instead of reducing safety to personal protective equipment.
-- **Safe grounded facts:** A controlled task starts with elimination/substitution and engineering/administrative controls, then suitable PPE; product identity and current safety data matter for chemicals. Emergency planning must reflect the actual energy, fire, exposure, first-aid, evacuation, communication, and rescue scenario.
-- **Limits:** This file supplies no exposure limit, PPE selection, ventilation rate, electrical protection setting, cylinder separation, fire-watch duration, or emergency procedure. Resolve them from current Indonesian rules, site conditions, exact products, and competent K3 review.
-
-### KR-20
-
-- **Original sources:** [PP No. 22 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Connect source reduction, controlled use, segregation, reuse/recycling, worker exposure, and legal waste disposition without assuming every metal offcut is harmless or recyclable.
-- **Safe grounded facts:** Waste identity, contamination, generator/site context, storage, labeling, transport, receiver authorization, records, and current local rules determine the route. Reuse and repair may avoid new material but do not automatically reduce total environmental or safety impact.
-- **Limits:** Do not classify a waste, recommend mixing, state a storage limit, name a legal carrier/receiver, or claim a quantified environmental benefit without current Indonesian/local requirements, characterization, mass/energy data, and authorized-party evidence.
-
-### KR-10
-
-- **Original sources:** [Permenaker No. 38 Tahun 2016 — BPK](https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026), [OSHA 29 CFR 1910.147 — control of hazardous energy](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147), [OSHA 29 CFR 1910.212 — general machine guarding](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.212).
-- **Purpose for this article:** Ensure a component-repair article considers the complete machine, energy sources, operating envelope, safeguarding, commissioning, and records.
-- **Safe grounded facts:** A repaired shaft, frame, coupling, guard, base, or attachment can alter alignment, balance, clearance, strength, vibration, containment, access, interlocks, or operating hazards. Safe servicing and safe production are related but distinct states.
-- **Limits:** Do not publish an isolation sequence, guard dimension, balance tolerance, restart authorization, or fitness claim generically. Verify current Indonesian provisions and exact OEM/site requirements.
-
-### KR-17
-
-- **Original sources:** [Permenaker No. 38 Tahun 2016 — BPK](https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016), [OSHA 29 CFR 1910.147 — control of hazardous energy](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Make maintenance content evidence-based without inventing universal schedules or promising uptime.
-- **Safe grounded facts:** Calendar-based, runtime-based, condition-based, corrective, and statutory work answer different needs. Work order history, failure coding, inspection readings, parts identity, deferred defects, tests, and release authority support trend review and planning.
-- **Limits:** Do not provide a universal interval, alarm threshold, remaining-life estimate, spares quantity, uptime saving, or restart decision. Obtain current OEM manuals, asset history, operating context, statutory requirements, and responsible-person approval.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-- **GATE-09:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
-- **GATE-11:** Resolve the gate from current project evidence and competent review.
-- **GATE-12:** Resolve the gate from current project evidence and competent review.
-- **GATE-13:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — fallback home route; use only when it is genuinely useful.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUT-15-01` → `/artikel/desain-signage-untuk-cutting.html` — Merancang Signage untuk Laser Cutting dan CNC Router
-- `CUT-15-02` → `/artikel/cnc-router-panel-dinding-sekat.html` — CNC Router untuk Panel Dinding dan Sekat Ruangan
-- `CUT-15-04` → `/artikel/laser-cutting-enclosure-panel-kontrol.html` — Laser Cutting untuk Enclosure dan Panel Kontrol
-- `CUT-15-05` → `/artikel/cnc-cutting-jig-fixture-template.html` — CNC Cutting untuk Jig, Fixture, dan Template Produksi
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Desain Flat-Pack dengan Slot dan Tab untuk Hasil Cutting”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Desain Flat-Pack dengan Slot dan Tab untuk Hasil Cutting”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Flat-pack adalah komponen yang dikirim atau disimpan dalam keadaan relatif datar lalu dirakit di tujuan. Dalam artikel ini, slot berarti bukaan pada satu bagian dan tab berarti lidah pada bagian pasangan. Keduanya dapat menjadi sambungan geser, penentu posisi, atau dasar untuk pengunci tambahan. Fokusnya adalah sistem sambungan pada brief cutting untuk signage, panel interior, furnitur, enclosure, dan komponen sejenis.
+
+Yang tidak dibahas adalah penentuan kapasitas struktur, desain fondasi, atau angka kompensasi kerf dan fit universal. Nilai tersebut bergantung pada material, mesin, orientasi potong, finishing, dan fungsi. Karena itu, jangan menyalin ukuran dari contoh lain lalu menganggapnya cocok. Untuk pekerjaan baja yang memerlukan paket fabrikasi terkendali, identitas material, fungsi, dimensi, antarmuka, urutan fabrikasi, inspeksi, dan dasar penerimaan perlu tercantum dalam dokumen yang disetujui; katalog resmi BSN dan ringkasan ISO 3834-6 dapat menjadi titik rujuk awal, bukan pengganti standar berlisensi ([BSN](https://pesta.bsn.go.id/produk/detail/12882-sni17292020); [ISO 3834-6](https://www.iso.org/standard/83335.html)).
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Desain Flat-Pack dengan Slot dan Tab untuk Hasil Cutting”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Rancang sambungan sebagai rangkaian keputusan berikut.
+
+1. **Tetapkan fungsi dan arah gaya.** Tulis apakah panel hanya menjadi kulit/enclosure, menahan beban rak, menerima dorongan samping, atau harus dibongkar berkala. Tandai gaya tekan, tarik, geser, dan momen yang mungkin diterima tiap tab.
+2. **Pilih datum dan orientasi.** Tentukan satu sudut atau garis referensi untuk semua ukuran. Beri kode bagian dan pasangan, misalnya P-01 dengan S-01. Datum yang sama mencegah tab berpindah posisi ketika file dipisah menjadi beberapa lembar.
+3. **Buat pasangan slot-tab yang dapat dibaca.** Lebar tab, panjang masuk, radius sudut, dan kedalaman slot ditulis sebagai parameter desain, bukan hanya gambar tanpa catatan. Tambahkan penahan putar atau bahu bila satu tab saja mudah membuat panel berpilin.
+4. **Tentukan urutan rakit.** Simulasikan bagian mana masuk lebih dahulu, kapan panel bertabrakan, dan alat apa yang masih dapat menjangkau pengunci. Jika rakitan membutuhkan tab dimasukkan dari arah yang kemudian tertutup, desain itu tidak flat-pack dalam praktik.
+5. **Pilih pengunci sekunder bila perlu.** Tekanan, baut, sekrup, rivet, las titik, atau perekat memiliki konsekuensi berbeda pada pembongkaran, inspeksi, dan finishing. Tandai pengunci sebagai komponen terpisah agar tidak hilang dari daftar material.
+6. **Kunci dokumen produksi.** Brief harus memuat format file, satuan, skala, material dan tebal nominal, jumlah, sisi yang menjadi muka, tanda engraving, toleransi yang disetujui, serta titik inspeksi. Paket fabrikasi yang terkendali memang memerlukan dokumen pengarah, revisi, dan kriteria penerimaan yang jelas ([ISO 3834-6](https://www.iso.org/standard/83335.html)).
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Desain Flat-Pack dengan Slot dan Tab untuk Hasil Cutting”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Material dan tebal.** Tab pada lembar tipis dapat melentur, sedangkan tab panjang pada lembar tebal dapat mengunci sebelum bahu bertemu. Lapisan cat, galvanis, atau pelindung tepi juga mengubah ruang rakit. Minta konfirmasi material dan kondisi permukaan sebelum file dikunci.
+
+**Arah dan posisi beban.** Sambungan yang aman untuk menahan panel tetap tegak belum tentu aman untuk rak yang menerima beban berulang. Letakkan tab di jalur gaya yang masuk akal dan sediakan dukungan sepanjang tepi, bukan hanya satu titik kontak.
+
+**Akses dan pembongkaran.** Tentukan apakah produk dirakit sekali, dipindah, atau harus diservis. Pengunci permanen dapat menghemat langkah awal tetapi menyulitkan inspeksi. Sisakan ruang untuk tangan, kunci, atau alat yang benar-benar tersedia di lokasi.
+
+**Proses cutting dan finishing.** Kompensasi fit bukan angka yang boleh ditebak dari ketebalan material. Gunakan data proses yang disetujui untuk mesin dan material tertentu, lalu uji pada kupon bila keputusan tersebut memengaruhi fungsi. Scope artikel ini berhenti pada sistem sambungan; detail kompensasi fit perlu ditangani pada proses terkait dan disahkan pada proyek.
+
+**Perakitan di lapangan.** Memindahkan pekerjaan dari bengkel ke lokasi dapat mengubah akses, cuaca, lifting, paparan penghuni, fume, dan inspeksi. UU Keselamatan Kerja serta Permenaker tentang K3 lingkungan kerja mengharuskan pengendalian sesuai kondisi aktual; keduanya tidak memberi izin untuk mengarang prosedur proyek ([UU No. 1 Tahun 1970](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970); [Permenaker No. 5 Tahun 2018](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018)).
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Desain Flat-Pack dengan Slot dan Tab untuk Hasil Cutting”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan tiga kebutuhan berbeda berikut. Ini skenario bersyarat, bukan klaim hasil proyek.
+
+| Kebutuhan | Pilihan sambungan awal | Pemeriksaan sebelum cutting |
+| --- | --- | --- |
+| Panel dekoratif yang sering dipindah | Tab-slot dengan pengunci yang dapat dilepas | Pastikan arah bongkar dan titik angkat tidak membebani tab tunggal |
+| Enclosure yang harus kaku | Tab-slot berbahu ditambah baut atau pengunci terencana | Cek akses alat, jalur kabel, radius tekuk, dan urutan penutupan |
+| Rakitan yang menerima beban | Sambungan berulang dengan dukungan tepi dan elemen penguat | Minta verifikasi kapasitas dan lendutan dari perancang berwenang |
+
+Sobat Bengkel-las.co.id, bila pengguna hanya berkata “buatkan slot supaya gampang dirakit”, balas dengan pertanyaan: mudah dirakit oleh siapa, memakai alat apa, berapa kali dibongkar, dan gaya apa yang bekerja? Jawaban itu menentukan apakah slot menjadi penentu posisi atau bagian penahan beban. Jika informasi belum ada, hentikan penguncian dimensi dan minta gambar antarmuka serta beban yang disetujui.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Desain Flat-Pack dengan Slot dan Tab untuk Hasil Cutting”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+- **Menganggap semua tab sama.** Beri ID pasangan dan arah masuk; lakukan pengecekan silang jumlah tab dengan jumlah slot.
+- **Tidak memberi muka dan orientasi.** Tandai sisi luar, sisi finishing, serta panah orientasi pada setiap part.
+- **Memaksa rakit dengan palu.** Gaya paksa dapat merusak tepi atau mengubah geometri. Tanyakan apakah rakitan memang dirancang untuk interference fit atau perlu ruang kerja tertentu.
+- **Mengabaikan urutan.** Buat urutan bernomor dan uji secara digital atau pada kupon. Pastikan bagian terakhir masih bisa masuk tanpa membongkar bagian lain.
+- **Mencampur revisi.** Cantumkan nomor revisi di DXF/DWG, gambar, daftar material, dan label kemasan.
+- **Menyebut material tanpa bukti.** Minta spesifikasi, tebal, dan dokumen penerimaan; jangan menyimpulkan komposisi atau kecocokan dari nama dagang.
 
-## Objection or shortcut to address
+Checklist serah-terima singkat: fungsi tiap sambungan tertulis; datum dan kode pasangan konsisten; material, tebal, jumlah, dan muka tercantum; urutan rakit dapat dilakukan dengan akses nyata; pengunci serta alatnya terdaftar; titik inspeksi dan kriteria penerimaan disepakati; serta [NEEDS PROJECT REVIEW: fit akhir, beban, dan kelayakan pengiriman/rakit] belum ditutup tanpa persetujuan kompeten.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Jalan pintas yang berisiko
 
-## Required conclusion
+Shortcut yang sering dipilih adalah membuat slot “sedikit lebih sempit” agar sambungan terasa kokoh, tanpa kupon atau data proses. Cara ini dapat membuat tepi terkelupas, panel melengkung, atau bagian tidak dapat dibongkar. Alternatif yang lebih dapat dipertanggungjawabkan: tetapkan fungsi sambungan, gunakan parameter proses yang telah diverifikasi untuk kombinasi mesin-material, buat kupon, lalu dokumentasikan hasil dan revisinya. Bila sambungan menahan beban atau menyangkut keselamatan, minta pemeriksaan perancang dan penanggung jawab K3 sebelum produksi.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Kesimpulan
 
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Bengkel-las.co.id!` and uses friendly `Bengkel-las.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Desain flat-pack dengan slot dan tab berhasil ketika setiap pasangan punya fungsi, datum, arah rakit, pengunci, dan bukti kecocokan yang jelas. Langkah berikutnya adalah mengirim brief ber-revisi, daftar material, urutan perakitan, serta pertanyaan beban dan lingkungan kepada tim cutting dan peninjau proyek. Untuk konteks layanan dan topik terkait, Anda dapat mulai dari [beranda Bengkel-las.co.id](/) dan mencatat aset sambungan yang dirujuk hanya sebagai bahan orientasi, bukan bukti performa. Kawan Bengkel-las.co.id, jangan mengunci ukuran fit atau mengklaim kapasitas sebelum data proses dan persetujuan kompeten tersedia; slot dan tab adalah sistem sambungan, bukan jaminan performa tanpa batas.

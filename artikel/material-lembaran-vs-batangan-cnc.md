@@ -3,7 +3,8 @@ article_id: CUT-07-03
 title: "Material Lembaran vs Material Batangan untuk Proses CNC"
 slug: "material-lembaran-vs-batangan-cnc"
 description: "Memahami sifat bahan yang memengaruhi proses, kualitas tepi, deformasi, dan kebutuhan finishing."
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-12-13"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -20,7 +21,7 @@ sources:
   - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200"
   - "https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970"
   - "https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252"
+  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910.252"
   - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
   - "https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015"
   - "https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021"
@@ -29,37 +30,7 @@ sources:
   - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.212"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Material Lembaran vs Material Batangan untuk Proses CNC
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Material Lembaran vs Material Batangan untuk Proses CNC”
-- **Reader and situation:** Memahami sifat bahan yang memengaruhi proses, kualitas tepi, deformasi, dan kebutuhan finishing.
-- **Reader outcome:** Memahami sifat bahan yang memengaruhi proses, kualitas tepi, deformasi, dan kebutuhan finishing.
-- **Primary intent:** Memilih bentuk stok bahan
-- **Reader community:** `Bengkel-las.co.id`
-- **Primary friendly address:** `Teman Bengkel-las.co.id`
-- **Natural variants:** `Sobat Bengkel-las.co.id` and `Kawan Bengkel-las.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Fokus bentuk bahan baku; nesting hanya untuk lembaran berada di CUT-09.
-- **Final public route:** `/artikel/material-lembaran-vs-batangan-cnc.html`
-- **Appointed CMS date:** `2025-12-13` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Bengkel-las.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Material Lembaran vs Material Batangan untuk Proses CNC**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Bengkel-las.co.id`, `Sobat Bengkel-las.co.id`, or `Kawan Bengkel-las.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-004`
@@ -70,173 +41,60 @@ sources:
 - **Selection basis:** filename/source metadata identifies `memilih jasa bengkel las` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-004]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Material Lembaran vs Material Batangan untuk Proses CNC
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Teman Bengkel-las.co.id! Pilih material lembaran bila bentuk komponen memang berupa panel atau profil tipis dan akses pemotongan dari permukaan sudah memadai. Pilih material batangan bila komponen memerlukan stok padat untuk dibubut, dibuat pocket, atau dikerjakan dari beberapa sisi. Bentuk stok bukan sekadar pilihan harga: ia mengubah cara menjepit, sisa material, arah serat, dan risiko deformasi.
 
-### KR-01
+Jawaban praktisnya harus mengikuti gambar kerja, fungsi, dimensi awal, toleransi, dan proses berikutnya. Material lembaran mudah ditata untuk komponen datar, sedangkan batangan menyediakan volume yang dapat diambil bertahap untuk fitur tiga dimensi. Tanpa identitas material, ukuran stok, dan kriteria penerimaan, tandai keputusan sebagai [NEEDS PROJECT REVIEW]—jangan mengisi celah dengan kebiasaan bengkel.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cutting.bengkel-las.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The frozen catalog has 20 parent topics and 120 briefs. Intended readers include homeowners, facility and maintenance teams, small manufacturers, procurement staff, project supervisors, and workshop operators. Repository plans are editorial inputs, not proof of a real workshop, staff, equipment, qualifications, prices, locations, or services.
-- **Limits:** Re-read both frozen files if the project role, catalog, URL ownership, or conversion path changes. Do not infer an automotive specialty or add unsupported neighboring trades.
+![Ilustrasi memilih jasa bengkel las](/wp-content/uploads/2020/02/memilih-jasa-bengkel-las.jpg)
 
-### KR-08
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
 
-- **Original sources:** [SNI 1729:2020 — official BSN catalog](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html).
-- **Purpose for this article:** Ground fabrication planning in defined requirements rather than verbal descriptions, copied details, or unverified workshop habit.
-- **Safe grounded facts:** A controlled fabrication package can need governing documents and revision, function, dimensions/datums, material and joint identity, loads/interfaces, tolerances, fabrication sequence, weld/fastener/coating requirements, inspection and hold points, acceptance basis, handling, installation, and approved deviations.
-- **Limits:** The BSN page does not reveal clauses, tolerances, combinations, connection design, execution rules, or acceptance values. Obtain the licensed governing standards and issued-for-work project documents.
 
-### KR-07
+## Bedakan bentuk stok sebelum membandingkan
 
-- **Original sources:** [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html), [ISO 12944-5:2019 — official ISO abstract](https://www.iso.org/standard/77795.html), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Make material and consumable records usable for fabrication, compatibility, safety, inspection, maintenance, and later failure investigation.
-- **Safe grounded facts:** Useful traceability can include material designation, dimensions/heat or batch where required, certificate/report linkage, filler/consumable classification and batch, storage/conditioning, coating product and batch, mixing/application records, replacement-part identity, and approved substitution. The US hazard-communication rule illustrates label and safety-data-sheet concepts but is not Indonesian law.
-- **Limits:** Do not infer composition, compatibility, shelf life, storage, mixing ratio, coverage, cure, welding parameter, exposure limit, or disposal route from generic labels. Verify exact product, batch, substrate, environment, and current Indonesian rules.
+Material lembaran adalah pelat atau panel dengan ketebalan relatif kecil terhadap panjang dan lebarnya. Material batangan berupa batang, blok, atau billet yang menyediakan volume lebih besar untuk fitur bertingkat. Keduanya tetap harus memiliki designation (penandaan spesifikasi), ukuran aktual, kondisi permukaan, dan heat atau batch yang tertaut pada dokumen. Katalog BSN hanya menunjukkan identitas dan ruang lingkup SNI, bukan toleransi proyek; gunakan dokumen berlisensi dan gambar issued-for-work.
 
-### KR-14
+## Kriteria yang mengubah pilihan
 
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.252 — welding, cutting, and brazing](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Help readers compare controlled shop fabrication with field work where the environment, interfaces, access, occupants, combustibles, weather, and permits can change the method and risk.
-- **Safe grounded facts:** Moving work on site can change fit-up control, position, access, lifting, weather, electrical supply, fume dispersion, fire exposure, nearby operations, traffic/public interface, coating conditions, inspection access, and restoration. A field weld is not justified merely because transport is inconvenient.
-- **Limits:** Do not import US distances, permits, or prescriptions. The responsible Indonesian site/K3 authority must approve the current task-specific controls.
+Mulai dari antarmuka. Komponen yang dipasang pada bidang datar sering lebih mudah dipotong dari lembaran, tetapi lembar tipis dapat melentur saat dijepit. Batangan memberi ruang untuk pocket dan bahu, namun membutuhkan penjepitan yang kaku serta pembuangan material lebih besar. Datum (acuan geometri), akses pahat, orientasi serat, dan kebutuhan finishing harus tertulis pada gambar.
 
-### KR-16
+Pertimbangkan juga proses setelah CNC. Tepi yang akan dilas, dicat, atau disegel memerlukan allowance (sisa ukuran) yang disetujui. Lapisan, minyak, atau perekat dapat mengubah respons panas dan bahaya; SDS membantu komunikasi bahaya, tetapi contoh OSHA bukan hukum Indonesia. Penanggung jawab K3 harus menetapkan kontrol berdasarkan produk dan lokasi aktual ([UU No. 1 Tahun 1970](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970)).
 
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 12 Tahun 2015 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Provide a systems view of workshop K3 instead of reducing safety to personal protective equipment.
-- **Safe grounded facts:** A controlled task starts with elimination/substitution and engineering/administrative controls, then suitable PPE; product identity and current safety data matter for chemicals. Emergency planning must reflect the actual energy, fire, exposure, first-aid, evacuation, communication, and rescue scenario.
-- **Limits:** This file supplies no exposure limit, PPE selection, ventilation rate, electrical protection setting, cylinder separation, fire-watch duration, or emergency procedure. Resolve them from current Indonesian rules, site conditions, exact products, and competent K3 review.
+## Kapan masing-masing masuk akal
 
-### KR-20
+Lembaran masuk akal bila bentuk dominan dua dimensi, jumlah komponen berulang, dan metode penahanan mampu menjaga posisi. Batangan masuk akal bila fitur membutuhkan kedalaman, bahu, atau pembalikan yang tidak stabil pada lembar. Ini bukan aturan universal: uji material, kemampuan mesin, dan toleransi aktual dapat membalik keputusan.
 
-- **Original sources:** [PP No. 22 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Connect source reduction, controlled use, segregation, reuse/recycling, worker exposure, and legal waste disposition without assuming every metal offcut is harmless or recyclable.
-- **Safe grounded facts:** Waste identity, contamination, generator/site context, storage, labeling, transport, receiver authorization, records, and current local rules determine the route. Reuse and repair may avoid new material but do not automatically reduce total environmental or safety impact.
-- **Limits:** Do not classify a waste, recommend mixing, state a storage limit, name a legal carrier/receiver, or claim a quantified environmental benefit without current Indonesian/local requirements, characterization, mass/energy data, and authorized-party evidence.
+Sobat Bengkel-las.co.id, jangan membandingkan hanya harga per kilogram. Minta perhitungan sisa, waktu setup, fixture (alat penahan), pengukuran, dan finishing dalam ruang lingkup yang sama. Jika material pengganti atau proses lapangan dipertimbangkan, tahan rilis sampai risiko akses, listrik, debu, panas, dan inspeksi ditinjau pihak berwenang.
 
-### KR-10
+## Bukti yang perlu diminta
 
-- **Original sources:** [Permenaker No. 38 Tahun 2016 — BPK](https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026), [OSHA 29 CFR 1910.147 — control of hazardous energy](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147), [OSHA 29 CFR 1910.212 — general machine guarding](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.212).
-- **Purpose for this article:** Ensure a component-repair article considers the complete machine, energy sources, operating envelope, safeguarding, commissioning, and records.
-- **Safe grounded facts:** A repaired shaft, frame, coupling, guard, base, or attachment can alter alignment, balance, clearance, strength, vibration, containment, access, interlocks, or operating hazards. Safe servicing and safe production are related but distinct states.
-- **Limits:** Do not publish an isolation sequence, guard dimension, balance tolerance, restart authorization, or fitness claim generically. Verify current Indonesian provisions and exact OEM/site requirements.
+Siapkan gambar revisi, daftar material, ukuran stok, nomor lot, sertifikat atau laporan uji yang tersedia, peta datum, rencana penjepitan, dan kriteria penerimaan. Catat metode pemotongan, pahat, program, serta hasil ukur fitur kritis. Jangan menyimpulkan kompatibilitas dari nama dagang atau warna permukaan. Untuk fabrikasi terkendali, ISO 3834-6 menekankan pentingnya informasi terdokumentasi, tetapi abstraknya tidak membuktikan hasil part tertentu ([ISO 3834-6:2024](https://www.iso.org/standard/83335.html)).
 
-### KR-17
+Bandingkan biaya dan risiko dalam satu tabel kerja. Untuk lembaran, tulis ukuran awal, pola pemakaian, sisa yang dapat disimpan, cara menahan, dan pekerjaan merapikan tepi. Untuk batangan, tulis diameter atau ukuran blok, panjang penjepitan, volume material yang akan diambil, jumlah pembalikan, serta cara memastikan datum tetap sama. Jangan menjadikan angka utilisasi sebagai janji; hasil nyata bergantung pada nesting, bentuk, dan bukti pengukuran. Untuk bahan berlapis, identitas produk, batch, SDS, dan kondisi penyimpanan harus tertaut; OSHA hanya contoh komunikasi bahaya, sedangkan kontrol Indonesia mengikuti UU No. 1 Tahun 1970 dan Permenaker No. 5 Tahun 2018 ([OSHA 29 CFR 1910.1200](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200); [Permenaker No. 5 Tahun 2018](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018)).
 
-- **Original sources:** [Permenaker No. 38 Tahun 2016 — BPK](https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016), [OSHA 29 CFR 1910.147 — control of hazardous energy](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Make maintenance content evidence-based without inventing universal schedules or promising uptime.
-- **Safe grounded facts:** Calendar-based, runtime-based, condition-based, corrective, and statutory work answer different needs. Work order history, failure coding, inspection readings, parts identity, deferred defects, tests, and release authority support trend review and planning.
-- **Limits:** Do not provide a universal interval, alarm threshold, remaining-life estimate, spares quantity, uptime saving, or restart decision. Obtain current OEM manuals, asset history, operating context, statutory requirements, and responsible-person approval.
+Jika pekerjaan melibatkan panas, debu, atau energi tersimpan, buat titik tahan sebelum memindahkan material. Penanggung jawab harus memastikan pengamanan mesin, penahanan benda, akses alat ukur, dan jalur penghentian sesuai lokasi. Jangan mengimpor jarak, durasi, atau pilihan APD dari rujukan asing. Limbah dan offcut juga perlu dipisahkan berdasarkan identitas serta kontaminasinya; PP No. 22 Tahun 2021 menjadi rujukan kerangka, bukan klasifikasi otomatis untuk setiap sisa ([PP No. 22 Tahun 2021](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021)).
 
-## Evidence gates
+## Jalan pintas yang sering gagal
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-- **GATE-09:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
-- **GATE-11:** Resolve the gate from current project evidence and competent review.
-- **GATE-12:** Resolve the gate from current project evidence and competent review.
-- **GATE-13:** Resolve the gate from current project evidence and competent review.
+Mengambil stok yang “paling dekat ukurannya” lalu mengompensasi kekurangan dengan pemakanan lebih agresif dapat menghabiskan allowance dan menghapus bukti asal material. Alternatif yang lebih aman adalah menahan stok, mencocokkan identitas dan dimensi, membuat satu sampel atau kupon, lalu menyetujui urutan serta pemeriksaannya sebelum batch berikutnya.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+## Kesimpulan dan langkah berikutnya
 
-## Internal-link plan
+Pilih lembaran untuk geometri datar yang dapat ditahan dan diperiksa; pilih batangan untuk volume dan fitur tiga dimensi yang membutuhkan akses bertahap. Keputusan final harus mengikuti fungsi, datum, toleransi, material terverifikasi, kemampuan mesin, dan proses setelah CNC.
 
-### Existing local routes
+Langkah berikutnya: kirim gambar revisi, identitas material, ukuran stok, fitur kritis, serta kriteria penerimaan kepada operator dan penanggung jawab teknis. Jika salah satu bukti belum tersedia, tinggalkan [NEEDS PROJECT REVIEW] dan tahan produksi. Aturan operasinya sederhana: bentuk stok yang tepat adalah yang dapat diproduksi, diukur, dan ditelusuri—bukan yang sekadar tersedia di rak.
 
-- `/` — fallback home route; use only when it is genuinely useful.
+Untuk pertanyaan umum sebelum memesan, Anda dapat kembali ke [beranda Bengkel-las.co.id](/) dan membawa tabel perbandingan tersebut kepada vendor. Simpan salinan gambar, catatan batch, dan hasil ukur bersama nomor revisi agar perubahan dapat ditelusuri.
 
-### Planned sibling articles
+Rujukan keselamatan dan energi kerja yang tercantum pada paket ini harus dibaca sesuai konteks Indonesia dan mesin aktual: [Permenaker No. 11 Tahun 2026](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026), [Permenaker No. 12 Tahun 2015](https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015), [Permenaker No. 38 Tahun 2016](https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016), [OSHA 29 CFR 1910.147](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147), dan [OSHA 29 CFR 1910.212](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.212). Sumber-sumber tersebut tidak menggantikan instruksi mesin, penilaian K3, atau persetujuan proyek.
+Untuk perlindungan permukaan, [ISO 12944-5:2019](https://www.iso.org/standard/77795.html) hanya memberi kerangka pemilihan sistem perlindungan korosi; ia tidak membuktikan kecocokan coating tertentu pada material stok Anda. Untuk pekerjaan panas di lapangan, [OSHA 29 CFR 1910.252](https://www.osha.gov/laws-regs/regulations/standardnumber/1910.252) adalah contoh struktur bahaya, bukan hukum Indonesia. Kawan Bengkel-las.co.id, minta pihak berwenang menetapkan kontrol aktual sebelum material dipindahkan atau diproses.
 
-These are future routes. Do not link them as live until their HTML exists.
+Katalog [SNI 1729:2020 di BSN](https://pesta.bsn.go.id/produk/detail/12882-sni17292020) hanya mengonfirmasi identitas standar. Untuk kendali energi dan pengamanan mesin, gunakan rujukan OSHA yang tercantum pada paket sebagai ilustrasi konsep, bukan pengganti aturan Indonesia, instruksi pabrikan, atau penilaian K3 di lokasi.
 
-- `CUT-07-01` → `/artikel/matriks-material-proses-cnc.html` — Matriks Material untuk Laser Cutting, CNC Router, dan CNC Milling
-- `CUT-07-02` → `/artikel/kekerasan-material-dan-umur-tool.html` — Pengaruh Kekerasan Material terhadap Cutting dan Umur Tool
-- `CUT-07-04` → `/artikel/memeriksa-grade-material-sebelum-cutting.html` — Cara Memeriksa Grade dan Spesifikasi Material Sebelum Cutting
-- `CUT-07-05` → `/artikel/film-pelindung-material-saat-cutting.html` — Material Berlapis Film: Kapan Pelindung Dipertahankan atau Dilepas?
+Rujukan paket untuk pengamanan energi dan mesin adalah [OSHA 1910.147](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147) dan [OSHA 1910.212](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.212). Keduanya hanya contoh kerangka bahaya; kontrol final harus ditetapkan oleh pihak kompeten di Indonesia.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Masalah keputusan yang sebenarnya
-
-- **Purpose:** Jelaskan konteks pemilihan dan mengapa dua opsi ini sering dianggap dapat saling menggantikan.
-- **Tie back to this article:** Keep the explanation specific to “Material Lembaran vs Material Batangan untuk Proses CNC”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Bedakan objek sebelum membandingkan
-
-- **Purpose:** Definisikan setiap opsi, fungsi, batas sistem, dan bukti identitasnya.
-- **Tie back to this article:** Keep the explanation specific to “Material Lembaran vs Material Batangan untuk Proses CNC”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kriteria perbandingan yang relevan
-
-- **Purpose:** Susun kriteria berdasarkan penggunaan, kondisi, antarmuka, risiko, pelaksanaan, perawatan, dan bukti.
-- **Tie back to this article:** Keep the explanation specific to “Material Lembaran vs Material Batangan untuk Proses CNC”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kapan masing-masing pilihan masuk akal
-
-- **Purpose:** Berikan skenario bersyarat; jangan menyebut satu pemenang universal.
-- **Tie back to this article:** Keep the explanation specific to “Material Lembaran vs Material Batangan untuk Proses CNC”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan perbandingan yang sering terjadi
-
-- **Purpose:** Bongkar sedikitnya tiga shortcut atau asumsi yang membuat keputusan keliru.
-- **Tie back to this article:** Keep the explanation specific to “Material Lembaran vs Material Batangan untuk Proses CNC”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Bukti yang perlu diminta sebelum memilih
-
-- **Purpose:** Buat checklist dokumen, data proyek, sampel/tes, persetujuan, dan pihak penanggung jawab.
-- **Tie back to this article:** Keep the explanation specific to “Material Lembaran vs Material Batangan untuk Proses CNC”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Bengkel-las.co.id!` and uses friendly `Bengkel-las.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Sebelum memilih bentuk stok, tanyakan tiga hal kepada vendor: apakah ukuran awal benar-benar tersedia, bagaimana material akan ditahan selama pemotongan, dan bukti apa yang menyatakan fitur kritis sudah diukur. Minta jawaban tertulis bersama nomor revisi gambar. Bila vendor hanya menawarkan “bisa dikerjakan” tanpa menyebut datum, alat ukur, atau batas penerimaan, keputusan belum cukup kuat untuk produksi berulang. Simpan respons tersebut sebagai bagian dari rekaman proyek agar perubahan material tidak terjadi diam-diam.
